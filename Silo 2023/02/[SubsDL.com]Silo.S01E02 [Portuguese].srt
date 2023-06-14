@@ -1,0 +1,2228 @@
+﻿1
+00:00:13,680 --> 00:00:16,808
+Qualquer pedido verbal
+para abandonar o Silo é concedido,
+
+2
+00:00:18,352 --> 00:00:19,811
+mas é irrevogável.
+
+3
+00:00:22,648 --> 00:00:24,106
+Foi-lhe pedido que limpe
+
+4
+00:00:24,107 --> 00:00:26,693
+e foram-lhe fornecidos
+os materiais para o fazer.
+
+5
+00:00:28,362 --> 00:00:30,572
+Mas não o podemos forçar a limpar.
+
+6
+00:00:31,532 --> 00:00:33,325
+Uma vez fora da câmara de vácuo,
+
+7
+00:00:34,159 --> 00:00:35,786
+estará fora do alcance da lei.
+
+8
+00:00:39,206 --> 00:00:40,666
+Tem algumas últimas palavras?
+
+9
+00:00:43,043 --> 00:00:44,711
+Desculpem o espalhafato.
+
+10
+00:01:21,331 --> 00:01:23,625
+<i>Não sabemos porque estamos aqui.</i>
+
+11
+00:01:26,503 --> 00:01:28,630
+<i>Não sabemos quem construiu o Silo.</i>
+
+12
+00:01:31,049 --> 00:01:35,012
+<i>Não sabemos porque é que, fora do Silo,
+tudo está como está.</i>
+
+13
+00:01:40,184 --> 00:01:43,353
+<i>Não sabemos quando será seguro ir lá fora.</i>
+
+14
+00:01:48,233 --> 00:01:50,027
+<i>Só sabemos que esse dia...</i>
+
+15
+00:01:53,280 --> 00:01:54,531
+<i>...não é hoje.</i>
+
+16
+00:03:47,186 --> 00:03:49,313
+{\an8}BASEADO NA SÉRIE DE LIVROS <i>O SILO</i>,
+DE HUGH HOWEY
+
+17
+00:03:52,149 --> 00:03:55,027
+O SILO
+
+18
+00:04:32,898 --> 00:04:34,149
+Porque o diria?
+
+19
+00:04:39,530 --> 00:04:41,906
+Nem acredito
+que vão mandar o xerife limpar.
+
+20
+00:04:41,907 --> 00:04:44,784
+Sabes, depois de ele o dizer,
+não tinham escolha.
+
+21
+00:04:44,785 --> 00:04:46,870
+Mas porque haveria ele de querer sair?
+
+22
+00:04:50,791 --> 00:04:52,167
+É agora.
+
+23
+00:04:53,502 --> 00:04:55,212
+Merda! Lá vem ele.
+
+24
+00:05:13,146 --> 00:05:14,273
+Não.
+
+25
+00:05:19,695 --> 00:05:20,696
+Vá lá.
+
+26
+00:05:24,616 --> 00:05:25,909
+Raios, Allison.
+
+27
+00:05:28,620 --> 00:05:29,788
+Tinhas razão.
+
+28
+00:05:46,805 --> 00:05:48,056
+Eles têm de ver.
+
+29
+00:06:29,723 --> 00:06:31,433
+- Quantos?
+- Dez.
+
+30
+00:06:31,934 --> 00:06:36,062
+Apostaste dez créditos
+em como ele não limparia? Limpam sempre.
+
+31
+00:06:36,063 --> 00:06:39,566
+Será que aguenta três minutos antes
+de sucumbir ao veneno? Essa é a aposta.
+
+32
+00:07:03,423 --> 00:07:04,967
+Vá lá, xerife!
+
+33
+00:07:25,904 --> 00:07:27,239
+Que está a fazer?
+
+34
+00:07:29,783 --> 00:07:31,910
+Alguém já tinha tirado o capacete?
+
+35
+00:07:39,668 --> 00:07:40,878
+Levanta-te!
+
+36
+00:07:43,046 --> 00:07:44,006
+Onde é que ele vai?
+
+37
+00:07:45,507 --> 00:07:46,884
+Vai ter com a mulher dele.
+
+38
+00:08:13,994 --> 00:08:16,371
+O xerife morreu. E agora?
+
+39
+00:08:17,915 --> 00:08:21,418
+Mentiroso da merda.
+É um mentiroso da merda!
+
+40
+00:08:26,507 --> 00:08:30,302
+Então? Parem!
+
+41
+00:08:31,261 --> 00:08:33,721
+Parem! Vá lá.
+
+42
+00:08:33,722 --> 00:08:37,433
+Ouçam! Acalmem-se todos! Ouçam!
+
+43
+00:08:41,730 --> 00:08:44,608
+Aquilo é marado, não há dúvida.
+
+44
+00:08:45,442 --> 00:08:48,361
+Mas não é desculpa
+para perdermos a cabeça.
+
+45
+00:08:48,362 --> 00:08:51,405
+<i>Se alguém quer lutar
+por terem mandado um xerife ir limpar,</i>
+
+46
+00:08:51,406 --> 00:08:53,700
+<i>que lutem lá em cima ou nos níveis médios.</i>
+
+47
+00:08:54,326 --> 00:08:58,746
+Aqui no fundo, não é da nossa conta.
+
+48
+00:08:58,747 --> 00:09:01,959
+A nossa função é manter as luzes acesas.
+
+49
+00:09:02,543 --> 00:09:03,544
+<i>Sim!</i>
+
+50
+00:09:04,044 --> 00:09:05,753
+<i>Manter o gerador a funcionar.</i>
+
+51
+00:09:05,754 --> 00:09:07,505
+<i>Sim!</i>
+
+52
+00:09:07,506 --> 00:09:09,966
+<i>Manter o Silo vivo!</i>
+
+53
+00:09:09,967 --> 00:09:12,010
+<i>Sim!</i>
+
+54
+00:09:13,136 --> 00:09:14,888
+<i>Aqui no fundo,</i>
+
+55
+00:09:15,973 --> 00:09:19,225
+temos é de tratar das merdas. Certo?
+
+56
+00:09:19,226 --> 00:09:20,477
+Sim!
+
+57
+00:09:21,019 --> 00:09:21,919
+Certo?
+
+58
+00:09:24,731 --> 00:09:26,984
+Certo?
+
+59
+00:09:49,089 --> 00:09:51,175
+DEPARTAMENTO DO XERIFE
+XERIFE BECKER
+
+60
+00:10:01,852 --> 00:10:03,769
+Tem uma mensagem do Karins.
+
+61
+00:10:03,770 --> 00:10:07,356
+Temos recebido mais alertas sobre pessoas
+que fazem fila na Reciclagem,
+
+62
+00:10:07,357 --> 00:10:09,775
+a tentar arranjar tubos, martelos...
+
+63
+00:10:09,776 --> 00:10:11,485
+Sim. As pessoas são estúpidas.
+
+64
+00:10:11,486 --> 00:10:12,695
+Bem, estão assustadas.
+
+65
+00:10:12,696 --> 00:10:16,616
+Sim, vou falar com toda a gente,
+pelo rádio.
+
+66
+00:10:16,617 --> 00:10:18,576
+Quer algo da cantina?
+
+67
+00:10:18,577 --> 00:10:20,120
+Devias ir para casa, Sandy.
+
+68
+00:10:23,707 --> 00:10:25,209
+Ele amava-a mesmo.
+
+69
+00:10:26,460 --> 00:10:27,753
+Caso não perceba porquê.
+
+70
+00:10:30,255 --> 00:10:31,256
+Pois.
+
+71
+00:10:37,763 --> 00:10:40,483
+{\an8}No meu ato final como xerife,
+nomeio Juliette Nichols como sucessora.
+
+72
+00:11:43,453 --> 00:11:45,080
+Visto o M, para que saiba.
+
+73
+00:11:46,123 --> 00:11:48,041
+Talvez há 20 anos.
+
+74
+00:11:50,669 --> 00:11:52,837
+O bebé dos Jensen
+deve nascer na próxima semana.
+
+75
+00:11:52,838 --> 00:11:57,592
+Costumava conseguir fazer 25 por ano,
+um para cada décima criança.
+
+76
+00:11:57,593 --> 00:11:59,553
+Agora, é uma sorte se fizer cinco.
+
+77
+00:12:01,346 --> 00:12:03,348
+- Um copo?
+- Sim.
+
+78
+00:12:05,142 --> 00:12:07,644
+Num dia como hoje,
+acho que merecemos do bom.
+
+79
+00:12:12,524 --> 00:12:14,359
+É de antes da rebelião.
+
+80
+00:12:15,277 --> 00:12:16,862
+Talvez antes de tudo.
+
+81
+00:12:20,324 --> 00:12:21,532
+Obrigado.
+
+82
+00:12:21,533 --> 00:12:22,826
+Ao Holston Becker.
+
+83
+00:12:29,958 --> 00:12:32,169
+Já escolheu o novo xerife?
+
+84
+00:12:33,462 --> 00:12:34,754
+Não estou a olhar para ele?
+
+85
+00:12:34,755 --> 00:12:38,634
+Ajudarei o próximo a ambientar-se,
+mas vou reformar-me.
+
+86
+00:12:40,886 --> 00:12:42,512
+Quando o Jamal se reformou,
+
+87
+00:12:42,513 --> 00:12:45,640
+escolheu o Holston para ser o novo xerife.
+Foi fácil.
+
+88
+00:12:45,641 --> 00:12:47,558
+Se o Holston se tivesse reformado,
+
+89
+00:12:47,559 --> 00:12:49,644
+bastaria seguir os desejos dele,
+mas assim...
+
+90
+00:12:49,645 --> 00:12:53,106
+O Judicial vai tentar meter
+um dos seus no cargo.
+
+91
+00:12:53,607 --> 00:12:56,068
+O Holston não te disse nada?
+
+92
+00:13:02,074 --> 00:13:05,410
+Estive a ver os registos dos <i>mayors</i>.
+Cheguei a 97.
+
+93
+00:13:06,870 --> 00:13:12,458
+Nascimentos. Mortes. Quanta água se gastou
+nesse ano. Quantos cabos de computador.
+
+94
+00:13:12,459 --> 00:13:14,127
+Se mandaram alguém ir limpar.
+
+95
+00:13:15,420 --> 00:13:19,757
+Até agora, não vi um único caso
+de um <i>mayor</i> mandar um xerife ir limpar.
+
+96
+00:13:19,758 --> 00:13:21,968
+Ele saiu,
+mas não foi a <i>mayor</i> que o mandou.
+
+97
+00:13:21,969 --> 00:13:25,013
+Não falei nisto
+por estar com pena de mim própria.
+
+98
+00:13:26,139 --> 00:13:30,894
+Foi porque não sei o que aconteceu
+antes de estes registos existirem.
+
+99
+00:13:32,437 --> 00:13:34,063
+Antes da rebelião?
+
+100
+00:13:34,064 --> 00:13:36,525
+Antes do que quer que a tenha causado.
+
+101
+00:13:38,944 --> 00:13:40,404
+Receia que tenha sido uma limpeza?
+
+102
+00:13:41,113 --> 00:13:44,449
+- Receio a instabilidade.
+- Sim.
+
+103
+00:13:45,742 --> 00:13:48,078
+É por isso que precisamos de um xerife
+logo que possível.
+
+104
+00:13:52,291 --> 00:13:53,916
+É o último que temos.
+
+105
+00:13:53,917 --> 00:13:55,294
+Obrigado.
+
+106
+00:13:56,336 --> 00:13:57,754
+Preciso disto.
+
+107
+00:13:58,797 --> 00:14:01,591
+- Não, não podes levá-lo. Não! O...
+- Não. Preciso disto.
+
+108
+00:14:01,592 --> 00:14:04,135
+Não, a porra do martelo é meu!
+
+109
+00:14:04,136 --> 00:14:05,761
+- Parem!
+- Tenho de proteger a minha família!
+
+110
+00:14:05,762 --> 00:14:09,349
+- Larga o martelo.
+- Parem com essa merda!
+
+111
+00:14:10,225 --> 00:14:12,352
+Merda. O Judicial.
+
+112
+00:14:12,895 --> 00:14:14,229
+Merda.
+
+113
+00:14:18,358 --> 00:14:19,735
+Adjunto Brooks.
+
+114
+00:14:20,402 --> 00:14:22,821
+Sr. Sims, tenho isto sob controlo.
+
+115
+00:14:25,532 --> 00:14:26,867
+Apontem os nomes.
+
+116
+00:14:31,330 --> 00:14:33,165
+<i>Quando haverá um novo xerife?</i>
+
+117
+00:14:33,832 --> 00:14:36,292
+<i>Ainda há uma longa fila na Reciclagem</i>
+
+118
+00:14:36,293 --> 00:14:39,129
+<i>e o adjunto pediu para verificar
+se há munições suficientes.</i>
+
+119
+00:14:47,179 --> 00:14:48,889
+<i>O nível 14 está limpo.</i>
+
+120
+00:15:03,195 --> 00:15:05,363
+- Que estás a fazer?
+- Que te parece?
+
+121
+00:15:05,364 --> 00:15:07,615
+Parece que vens de mau humor.
+
+122
+00:15:07,616 --> 00:15:09,408
+E estás a descarregá-lo na torradeira.
+
+123
+00:15:09,409 --> 00:15:12,162
+Não. Estou a consertá-la.
+
+124
+00:15:12,955 --> 00:15:15,581
+Desde os 13 anos que vens para aqui...
+
+125
+00:15:15,582 --> 00:15:16,541
+Cá vamos nós.
+
+126
+00:15:16,542 --> 00:15:18,876
+...consertar merdas
+para não teres de lidar com merdas.
+
+127
+00:15:18,877 --> 00:15:22,088
+Podes deixar-me trabalhar sozinha,
+por favor?
+
+128
+00:15:22,089 --> 00:15:25,259
+Terá algo a ver com o que disseste
+após a limpeza do xerife?
+
+129
+00:15:26,468 --> 00:15:28,010
+A Shirley veio cá ontem à noite.
+
+130
+00:15:28,011 --> 00:15:31,514
+Disse que saíste de rompante, a gritar:
+"Ele mentiu!"
+
+131
+00:15:31,515 --> 00:15:32,641
+Não gritei.
+
+132
+00:15:34,226 --> 00:15:37,311
+Sabes que mais? Vir para aqui
+e usar as minhas ferramentas
+
+133
+00:15:37,312 --> 00:15:38,437
+é um privilégio.
+
+134
+00:15:38,438 --> 00:15:42,025
+E só podes ficar aqui
+se me contares o que raio se passa.
+
+135
+00:15:45,320 --> 00:15:46,655
+Certo, então não fico.
+
+136
+00:15:47,990 --> 00:15:51,201
+Não vieste aqui consertar uma torradeira.
+Vieste para falar.
+
+137
+00:15:52,202 --> 00:15:53,579
+Sei que é difícil para ti.
+
+138
+00:15:56,290 --> 00:15:57,708
+Pronto. Não tenhas pressa.
+
+139
+00:16:08,302 --> 00:16:09,511
+É por causa do George.
+
+140
+00:16:10,637 --> 00:16:12,598
+Ele morreu há três meses.
+
+141
+00:16:14,099 --> 00:16:16,810
+- Achas que ele mentiu?
+- Não. O Holston é que mentiu.
+
+142
+00:16:17,311 --> 00:16:19,187
+- Ainda achas que assassinaram o George?
+- Sim.
+
+143
+00:16:19,188 --> 00:16:22,815
+- Sim, porque ele não se matou, por isso...
+- Como podes ter tanta certeza?
+
+144
+00:16:22,816 --> 00:16:24,817
+Porque da última vez que o vi,
+
+145
+00:16:24,818 --> 00:16:26,778
+<i>ele queria muito mostrar-me algo.</i>
+
+146
+00:16:27,529 --> 00:16:29,907
+<i>Estávamos a celebrar
+o Cooper tornar-se meu aprendiz.</i>
+
+147
+00:16:30,741 --> 00:16:33,576
+<i>O George andava sempre paranoico
+porque não tínhamos autorização</i>
+
+148
+00:16:33,577 --> 00:16:34,994
+<i>e nunca vinha a estas coisas.</i>
+
+149
+00:16:34,995 --> 00:16:36,205
+Tipo dos computadores!
+
+150
+00:16:37,915 --> 00:16:39,081
+Estão a embebedar-me.
+
+151
+00:16:39,082 --> 00:16:41,501
+Bem, parece que estás a resistir.
+
+152
+00:16:41,502 --> 00:16:44,630
+Coop, é melhor irmos buscar
+um pouco de água e uma cadeira.
+
+153
+00:16:48,592 --> 00:16:49,593
+Bolo?
+
+154
+00:16:50,093 --> 00:16:52,429
+{\an8}VAIS ARREPENDER-TE!
+
+155
+00:17:02,189 --> 00:17:05,650
+Olha. Todos sabem sobre nós.
+Estão-se nas tintas.
+
+156
+00:17:05,651 --> 00:17:07,527
+Não nos vão mandar para as minas.
+
+157
+00:17:07,528 --> 00:17:09,530
+Safar-te-ias lá em baixo, durona.
+
+158
+00:17:10,864 --> 00:17:13,242
+Olha, aconteceu algo.
+
+159
+00:17:14,785 --> 00:17:15,992
+Algo grande.
+
+160
+00:17:15,993 --> 00:17:18,496
+Não te posso contar aqui,
+mas... falamos depois?
+
+161
+00:17:18,497 --> 00:17:20,039
+Sim, claro. Trabalho até tarde.
+
+162
+00:17:20,040 --> 00:17:21,874
+Então, digo-te em tua casa.
+
+163
+00:17:21,875 --> 00:17:22,960
+Está bem.
+
+164
+00:17:23,544 --> 00:17:24,837
+Ouçam!
+
+165
+00:17:25,921 --> 00:17:27,004
+Onde está o Coop?
+
+166
+00:17:27,005 --> 00:17:28,298
+Vem cá, Coop.
+
+167
+00:17:29,383 --> 00:17:31,385
+Isto é tudo para ele. Vem cá.
+
+168
+00:17:32,052 --> 00:17:34,221
+Coop, sei que te estás a passar,
+
+169
+00:17:37,224 --> 00:17:40,476
+- mas estás pronto para seguir a Jules.
+- Tenho de ir.
+
+170
+00:17:40,477 --> 00:17:42,980
+Um forte aplauso para o Cooper! Vá lá.
+
+171
+00:17:55,284 --> 00:17:58,078
+<i>Quando saí do trabalho,
+à meia-noite, estava exausta.</i>
+
+172
+00:17:58,954 --> 00:18:00,831
+<i>Estava ansiosa por ver o George.</i>
+
+173
+00:18:10,382 --> 00:18:11,383
+George?
+
+174
+00:18:40,037 --> 00:18:41,746
+Lembras-te de onde viste isto
+pela última vez?
+
+175
+00:18:41,747 --> 00:18:42,873
+Encontrei o que procurava.
+
+176
+00:19:04,061 --> 00:19:05,811
+- Olá.
+- Olá.
+
+177
+00:19:05,812 --> 00:19:07,605
+Bem, não pareces muito ressacado.
+
+178
+00:19:07,606 --> 00:19:09,358
+Não estou. Só estou triste.
+
+179
+00:19:10,442 --> 00:19:11,342
+Porquê?
+
+180
+00:19:12,986 --> 00:19:14,987
+- Não soubeste?
+- Acabei de acordar. O quê?
+
+181
+00:19:14,988 --> 00:19:17,074
+O George dos computadores
+caiu da beirada, ontem.
+
+182
+00:19:19,535 --> 00:19:20,827
+Dizem que foi suicídio.
+
+183
+00:19:23,539 --> 00:19:24,665
+Conhecia-lo bem?
+
+184
+00:19:41,223 --> 00:19:43,809
+Olha, Jules,
+não sei o que queres que te diga.
+
+185
+00:19:44,643 --> 00:19:46,102
+Gostava muito do tipo.
+
+186
+00:19:46,103 --> 00:19:48,729
+E o suicídio é um crime contra o Silo.
+
+187
+00:19:48,730 --> 00:19:51,566
+- Eu sei.
+- Se tens provas de que ele não saltou,
+
+188
+00:19:51,567 --> 00:19:54,111
+poupas-me montes de papelada. Mas...
+
+189
+00:19:55,362 --> 00:19:56,488
+Mas homicídio?
+
+190
+00:19:57,739 --> 00:20:00,032
+E quem foi? E porquê?
+
+191
+00:20:00,033 --> 00:20:03,744
+Não sei!
+Só sei que ele não se matou, Hank.
+
+192
+00:20:03,745 --> 00:20:06,497
+Certo, mas para ser homicídio,
+é preciso mais que isso.
+
+193
+00:20:06,498 --> 00:20:09,292
+- É preciso motivo, oportunidade...
+- Não sejas condescendente, Hank.
+
+194
+00:20:09,293 --> 00:20:11,670
+Não estou a ser condescendente, é só que...
+
+195
+00:20:15,716 --> 00:20:16,633
+Quê?
+
+196
+00:20:19,511 --> 00:20:21,054
+Eu sei que vocês eram...
+
+197
+00:20:22,222 --> 00:20:25,433
+Cá em baixo quem quer saber, certo?
+A questão é a seguinte.
+
+198
+00:20:25,434 --> 00:20:28,519
+Se a vossa relação fosse autorizada,
+isto seria mais fácil.
+
+199
+00:20:28,520 --> 00:20:30,022
+A companheira tem direitos.
+
+200
+00:20:31,356 --> 00:20:32,524
+Pois. Bem...
+
+201
+00:20:36,069 --> 00:20:37,070
+Que se foda.
+
+202
+00:20:38,488 --> 00:20:40,114
+Vou comunicar isto lá para cima.
+
+203
+00:20:40,115 --> 00:20:42,825
+Direi que veio de um colega de trabalho
+que o conhecia bem.
+
+204
+00:20:42,826 --> 00:20:45,412
+Vejamos o que diz o xerife.
+É um bom homem.
+
+205
+00:20:46,288 --> 00:20:47,998
+Ninguém gosta de um suicídio.
+
+206
+00:20:53,629 --> 00:20:54,630
+Vá lá!
+
+207
+00:21:11,355 --> 00:21:12,564
+É ela.
+
+208
+00:21:13,065 --> 00:21:15,024
+- Como se chama?
+- Quê?
+
+209
+00:21:15,025 --> 00:21:17,151
+Como se chama?
+
+210
+00:21:17,152 --> 00:21:19,153
+Juliette.
+
+211
+00:21:19,154 --> 00:21:21,031
+Juliette Nichols.
+
+212
+00:21:32,751 --> 00:21:36,255
+O corpo foi encontrado aqui,
+sobre esta unidade de ventilação.
+
+213
+00:21:40,342 --> 00:21:44,346
+Creio que o George caiu
+de uma altura de 30 metros, mais ou menos.
+
+214
+00:21:44,888 --> 00:21:46,389
+Não houve testemunhas.
+
+215
+00:21:46,390 --> 00:21:48,851
+Portanto, não vos posso dizer muito mais.
+
+216
+00:21:51,019 --> 00:21:52,688
+Parece muito tensa.
+
+217
+00:21:53,438 --> 00:21:55,065
+Eu estou sempre tensa.
+
+218
+00:21:56,525 --> 00:21:59,735
+Eu percebo. O suicídio é um crime grave.
+
+219
+00:21:59,736 --> 00:22:02,697
+- Não, não foi suicídio.
+- Segundo o que diz.
+
+220
+00:22:02,698 --> 00:22:06,826
+Sim. Ele não estava deprimido.
+Não se desfez dos pertences.
+
+221
+00:22:06,827 --> 00:22:10,413
+Não houve uma alegria súbita
+que indicasse que ele finalmente decidiu...
+
+222
+00:22:10,414 --> 00:22:14,001
+Ensinam-nos esses sinais tão cedo,
+que todos aprendemos a escondê-los.
+
+223
+00:22:14,501 --> 00:22:15,502
+Como o conhecia?
+
+224
+00:22:17,462 --> 00:22:20,299
+- O George...
+- Cá em baixo, todos se conhecem.
+
+225
+00:22:21,008 --> 00:22:23,677
+E o George
+era o tipo dos computadores com piada.
+
+226
+00:22:24,887 --> 00:22:26,345
+Porque acha que foi assassinado?
+
+227
+00:22:26,346 --> 00:22:27,513
+Tinha algum inimigo?
+
+228
+00:22:27,514 --> 00:22:28,639
+Eu só sei que ele...
+
+229
+00:22:28,640 --> 00:22:32,643
+Eu disse-lhe,
+num homicídio há motivo, oportunidade...
+
+230
+00:22:32,644 --> 00:22:34,770
+Sim, mas já vos disse
+que houve oportunidade.
+
+231
+00:22:34,771 --> 00:22:36,982
+Ele morreu às... três da manhã?
+
+232
+00:22:37,482 --> 00:22:39,359
+Não há ninguém nas escadas
+a essa hora. Certo?
+
+233
+00:22:41,403 --> 00:22:42,946
+Exceto os transportadores.
+
+234
+00:22:44,031 --> 00:22:45,407
+Ou quem for saltar.
+
+235
+00:22:47,492 --> 00:22:48,868
+Vai à Central, está bem?
+
+236
+00:22:48,869 --> 00:22:51,495
+Vê se havia transportadores
+nas escadas quando aconteceu.
+
+237
+00:22:51,496 --> 00:22:52,581
+- Sim.
+- Muito bem.
+
+238
+00:22:59,087 --> 00:23:01,381
+Esse relógio é bonito. É uma relíquia?
+
+239
+00:23:02,591 --> 00:23:05,469
+- É legal.
+- Só disse que era bonito.
+
+240
+00:23:07,971 --> 00:23:09,848
+Olhe, lamento pelo seu colega.
+
+241
+00:23:11,767 --> 00:23:14,435
+Vou voltar a verificar o corpo.
+Ver se há sinais de luta.
+
+242
+00:23:14,436 --> 00:23:15,521
+Certo.
+
+243
+00:23:16,021 --> 00:23:19,274
+Odeio pedir, mas talvez repare em algo
+que eu não repararia.
+
+244
+00:23:20,192 --> 00:23:21,610
+Mas só se achar que consegue.
+
+245
+00:23:24,947 --> 00:23:27,950
+Não, sim... Claro que sim.
+Sim, claro. Tudo bem.
+
+246
+00:23:40,838 --> 00:23:43,423
+Procuramos qualquer coisa invulgar.
+
+247
+00:23:44,383 --> 00:23:49,137
+Abrasões que não sejam consistentes
+com a queda. Sinais de uma luta.
+
+248
+00:23:52,391 --> 00:23:54,226
+- Está pronta?
+- Sim.
+
+249
+00:24:07,030 --> 00:24:08,282
+Algumas pessoas...
+
+250
+00:24:09,324 --> 00:24:12,244
+...haviam cortado os pulsos
+em tentativas anteriores.
+
+251
+00:24:14,830 --> 00:24:16,498
+Depois, para garantir que não falham...
+
+252
+00:24:18,792 --> 00:24:20,294
+...saltam.
+
+253
+00:24:26,258 --> 00:24:29,261
+Mesmo após tantos anos,
+ainda não me habituei a isto.
+
+254
+00:24:30,762 --> 00:24:32,221
+- Já tinha visto...
+- Uma pessoa morta? Sim.
+
+255
+00:24:32,222 --> 00:24:33,598
+O meu irmão, aos 12 anos.
+
+256
+00:24:33,599 --> 00:24:37,227
+A minha mãe aos 13. Mas já...
+O xerife já sabia, então...
+
+257
+00:24:39,938 --> 00:24:42,190
+Se alguém fala em homicídio, investigamos.
+
+258
+00:24:42,191 --> 00:24:44,400
+Procuramos uma razão
+que possa levar alguém...
+
+259
+00:24:44,401 --> 00:24:46,361
+A razão é que ele foi assassinado. É essa.
+
+260
+00:24:47,279 --> 00:24:50,741
+Mas talvez não queira acreditar
+que foi suicídio, dado o seu passado.
+
+261
+00:24:51,241 --> 00:24:53,327
+É algo que consigo compreender.
+
+262
+00:24:56,413 --> 00:24:57,414
+Novidades?
+
+263
+00:24:58,707 --> 00:24:59,833
+Nem por isso.
+
+264
+00:25:00,501 --> 00:25:01,919
+Que disseram na Central?
+
+265
+00:25:02,544 --> 00:25:05,046
+Foi uma noite calma.
+Ninguém subiu nem desceu.
+
+266
+00:25:05,047 --> 00:25:06,839
+- O Judicial está a caminho.
+- Certo.
+
+267
+00:25:06,840 --> 00:25:09,133
+Sendo um possível suicídio,
+querem inteirar-se.
+
+268
+00:25:09,134 --> 00:25:12,137
+Vocês, perguntem por aí.
+
+269
+00:25:12,846 --> 00:25:14,681
+Vejam se havia mais alguém nas escadas.
+
+270
+00:25:15,265 --> 00:25:16,433
+Certo.
+
+271
+00:25:24,024 --> 00:25:25,359
+Quer comer algo?
+
+272
+00:25:25,984 --> 00:25:26,985
+Não.
+
+273
+00:25:30,280 --> 00:25:32,241
+Há quanto tempo
+tinha uma relação com o George?
+
+274
+00:25:34,368 --> 00:25:35,827
+Eu não conto a ninguém.
+
+275
+00:25:36,537 --> 00:25:38,497
+Não sei do que está a falar.
+
+276
+00:25:39,831 --> 00:25:41,333
+Porque não pediram autorização?
+
+277
+00:25:46,463 --> 00:25:47,464
+Porque não?
+
+278
+00:25:49,174 --> 00:25:52,385
+Olhe, para descobrirmos o que aconteceu,
+vai ter de me dizer a verdade.
+
+279
+00:25:52,386 --> 00:25:56,306
+Quando falou em homicídio ao meu adjunto
+procurava ajuda, certo?
+
+280
+00:25:57,015 --> 00:25:58,642
+Ele não se matou.
+
+281
+00:25:59,351 --> 00:26:00,602
+Certo.
+
+282
+00:26:03,981 --> 00:26:05,607
+Tenho de ir falar com o Judicial.
+
+283
+00:26:09,152 --> 00:26:10,988
+Juliette, não saber...
+
+284
+00:26:12,573 --> 00:26:14,408
+...vai persegui-la para sempre.
+
+285
+00:26:19,955 --> 00:26:21,540
+Ele deixou-me uma coisa.
+
+286
+00:26:23,333 --> 00:26:24,625
+O quê?
+
+287
+00:26:24,626 --> 00:26:28,963
+O senhor sendo xerife e eu...
+não sendo xerife,
+
+288
+00:26:28,964 --> 00:26:32,133
+preciso que me prometa
+que não me vai denunciar ao Judicial.
+
+289
+00:26:32,134 --> 00:26:33,218
+É uma relíquia?
+
+290
+00:26:34,261 --> 00:26:36,096
+Porque se for, terei de a confiscar.
+
+291
+00:26:40,058 --> 00:26:43,395
+Não, ele não me deixou nada.
+Nada que lhe possa mostrar.
+
+292
+00:26:45,355 --> 00:26:47,107
+Mas quem saberá onde a encontrei?
+
+293
+00:26:49,818 --> 00:26:51,028
+O Silo é muito grande.
+
+294
+00:27:24,645 --> 00:27:25,687
+O que é isto?
+
+295
+00:27:26,813 --> 00:27:28,064
+Não sei.
+
+296
+00:27:28,065 --> 00:27:31,068
+Talvez fosse a forma de ele dizer adeus.
+Dando-lhe algo.
+
+297
+00:27:35,864 --> 00:27:37,199
+Também deixou isto.
+
+298
+00:27:41,328 --> 00:27:42,537
+Onde está o resto?
+
+299
+00:27:42,538 --> 00:27:44,122
+Era só isso. Não sei.
+
+300
+00:27:46,124 --> 00:27:49,294
+"Lembras-te de onde viste isto
+pela última vez?"
+
+301
+00:27:55,676 --> 00:27:58,762
+O que lhe vou mostrar
+é mais ilegal do que qualquer relíquia.
+
+302
+00:27:59,429 --> 00:28:02,641
+De certeza que sabem disto lá em cima,
+mas não parecem importar-se.
+
+303
+00:28:03,225 --> 00:28:04,810
+Eu sou lá de cima
+
+304
+00:28:05,602 --> 00:28:07,437
+e não faço ideia de aonde vamos.
+
+305
+00:28:10,274 --> 00:28:11,649
+{\an8}NÃO AVANÇAR ALÉM DESTE PONTO
+
+306
+00:28:11,650 --> 00:28:13,819
+{\an8}É UMA VIOLAÇÃO DO PACTO
+PASSÍVEL DE PUNIÇÃO
+
+307
+00:28:16,655 --> 00:28:18,198
+O nosso acordo mantém-se?
+
+308
+00:28:18,949 --> 00:28:19,950
+Sim.
+
+309
+00:28:22,619 --> 00:28:23,787
+Muito bem.
+
+310
+00:28:33,672 --> 00:28:35,632
+Espero que não tenha medo do escuro.
+
+311
+00:28:39,428 --> 00:28:40,888
+Ou de espaços apertados.
+
+312
+00:28:42,806 --> 00:28:43,807
+Ou de alturas.
+
+313
+00:29:13,962 --> 00:29:16,006
+{\an8}- Quem fez isto?
+- Não sei.
+
+314
+00:29:16,715 --> 00:29:18,467
+Achamos que é anterior à rebelião.
+
+315
+00:29:22,221 --> 00:29:24,515
+Cuidado.
+
+316
+00:29:28,268 --> 00:29:30,812
+- Que há lá em baixo?
+- Já vai ver.
+
+317
+00:30:12,187 --> 00:30:13,188
+Obrigada.
+
+318
+00:30:15,399 --> 00:30:19,236
+Isto devia ter
+uma centena de luzes de trabalho.
+
+319
+00:30:20,070 --> 00:30:23,115
+Só restam estas.
+
+320
+00:30:25,242 --> 00:30:26,450
+Que é aquilo?
+
+321
+00:30:26,451 --> 00:30:29,745
+O mais provável é que seja
+o que resta da máquina que escavou o Silo.
+
+322
+00:30:29,746 --> 00:30:33,583
+A teoria é que a máquina escavou até aqui
+
+323
+00:30:33,584 --> 00:30:35,459
+e não era fácil retirá-la,
+
+324
+00:30:35,460 --> 00:30:41,258
+então, os Fundadores selaram-na
+debaixo de 9 metros de betão.
+
+325
+00:30:42,885 --> 00:30:47,222
+Já deve estar com este aspeto
+há uma centena de anos.
+
+326
+00:30:47,806 --> 00:30:50,267
+Tudo o que era valioso
+já foi pilhado há muito.
+
+327
+00:30:51,977 --> 00:30:53,937
+A primeira vez que vi este lugar
+
+328
+00:30:54,438 --> 00:30:57,274
+fez-me perceber
+como sabemos tão pouco sobre o Silo.
+
+329
+00:31:00,819 --> 00:31:01,904
+Pronto?
+
+330
+00:31:05,240 --> 00:31:07,242
+É melhor não olhar para baixo.
+
+331
+00:31:14,416 --> 00:31:15,334
+Tudo bem?
+
+332
+00:32:00,462 --> 00:32:01,880
+Que lugar é este?
+
+333
+00:32:02,422 --> 00:32:03,590
+Foi o George.
+
+334
+00:32:04,174 --> 00:32:05,759
+Ele montou isto tudo.
+
+335
+00:32:10,055 --> 00:32:13,141
+A última vez que vi esta coisa
+foi aqui em baixo.
+
+336
+00:32:19,231 --> 00:32:20,357
+Estava nesta caixa.
+
+337
+00:32:29,116 --> 00:32:32,827
+Era por isto que ele queria
+manter a relação em segredo.
+
+338
+00:32:32,828 --> 00:32:36,206
+Sabe, não queria arrastar-me com ele,
+se fosse apanhado com isto.
+
+339
+00:32:37,624 --> 00:32:39,001
+São tudo relíquias?
+
+340
+00:32:40,252 --> 00:32:41,253
+Sim.
+
+341
+00:32:44,298 --> 00:32:45,549
+Não sei...
+
+342
+00:32:47,217 --> 00:32:48,468
+Nunca tinha visto esta.
+
+343
+00:32:50,470 --> 00:32:52,263
+Talvez seja o que ele queria que visse?
+
+344
+00:32:52,264 --> 00:32:53,432
+Não sei o que será.
+
+345
+00:33:00,731 --> 00:33:04,650
+Então,
+o George vendia e trocava relíquias?
+
+346
+00:33:04,651 --> 00:33:06,861
+Sim. Era obcecado com os tempos antigos.
+
+347
+00:33:06,862 --> 00:33:09,947
+Sabe, vinha cá abaixo sozinho,
+à procura de algo.
+
+348
+00:33:09,948 --> 00:33:12,116
+- À procura de quê?
+- Não sei. Nunca me disse.
+
+349
+00:33:12,117 --> 00:33:13,952
+Só dizia que saberia quando visse.
+
+350
+00:33:16,955 --> 00:33:17,873
+Que estranho.
+
+351
+00:33:19,291 --> 00:33:22,586
+Este fio de plástico
+estava enrolado nesta bobina.
+
+352
+00:33:31,970 --> 00:33:33,639
+Espere. Espere lá.
+
+353
+00:34:18,100 --> 00:34:19,141
+Que é isto?
+
+354
+00:34:53,552 --> 00:34:54,553
+Que é isso?
+
+355
+00:34:59,183 --> 00:35:00,559
+Já tinha visto isto?
+
+356
+00:35:01,268 --> 00:35:02,269
+Não.
+
+357
+00:35:03,937 --> 00:35:06,397
+Ele nunca mencionou isto?
+O que poderia conter?
+
+358
+00:35:06,398 --> 00:35:07,482
+Não.
+
+359
+00:35:10,903 --> 00:35:14,031
+"Instruções para a recuperação
+de ficheiros eliminados."
+
+360
+00:35:17,868 --> 00:35:19,870
+Há algo escrito à mão no verso.
+
+361
+00:35:20,746 --> 00:35:22,206
+Não é a letra do George.
+
+362
+00:35:24,666 --> 00:35:25,792
+É da minha mulher.
+
+363
+00:35:28,754 --> 00:35:30,380
+Acha que a sua mulher o conhecia?
+
+364
+00:35:30,923 --> 00:35:33,842
+A Allison deu-lhe assistência informática
+pouco antes de sair.
+
+365
+00:35:36,136 --> 00:35:38,013
+Porque não me disse isso?
+
+366
+00:35:42,226 --> 00:35:44,520
+Se o George e a sua m...
+
+367
+00:35:46,230 --> 00:35:47,688
+O xerife falou com ele?
+
+368
+00:35:47,689 --> 00:35:48,899
+Uma vez.
+
+369
+00:35:53,654 --> 00:35:55,489
+Merda. O relógio.
+
+370
+00:35:57,324 --> 00:35:58,699
+Já o tinha visto, não tinha?
+
+371
+00:35:58,700 --> 00:36:00,536
+Por isso é que verificou os pulsos dele.
+
+372
+00:36:01,411 --> 00:36:05,207
+É por isso que sabia que estávamos juntos.
+
+373
+00:36:06,750 --> 00:36:08,835
+<i>É por isso que veio aqui?</i>
+
+374
+00:36:08,836 --> 00:36:11,212
+A ver se eu sei o porquê
+de a sua mulher ter ido limpar?
+
+375
+00:36:11,213 --> 00:36:13,089
+Vim cá para determinar a causa da morte.
+
+376
+00:36:13,090 --> 00:36:15,591
+Tretas! Está a perguntar-se
+se o George teve algo a ver
+
+377
+00:36:15,592 --> 00:36:18,010
+com o motivo
+de a sua mulher ter ido limpar.
+
+378
+00:36:18,011 --> 00:36:20,763
+E vou ter de dizer ao Judicial
+que a morte dele foi um acidente.
+
+379
+00:36:20,764 --> 00:36:23,975
+Porquê? Porque faria isso?
+Ele foi assassinado!
+
+380
+00:36:23,976 --> 00:36:26,060
+- Por quem?
+- Não sei por quem!
+
+381
+00:36:26,061 --> 00:36:28,312
+Há um motivo
+para o George ter escondido isto.
+
+382
+00:36:28,313 --> 00:36:31,232
+Talvez nos diga porquê...
+O que lhe aconteceu...
+
+383
+00:36:31,233 --> 00:36:33,067
+Não sei porque escondeu um disco rígido.
+
+384
+00:36:33,068 --> 00:36:37,238
+Esta é uma relíquia de nível vermelho,
+o que a torna uma ameaça à ordem no Silo.
+
+385
+00:36:37,239 --> 00:36:41,033
+Não quero saber da ordem no Silo.
+Quero que faça o seu trabalho!
+
+386
+00:36:41,034 --> 00:36:43,119
+Manter a ordem no Silo é o meu trabalho.
+
+387
+00:36:43,120 --> 00:36:44,787
+E descobrir a verdade?
+
+388
+00:36:44,788 --> 00:36:48,291
+Tenho de meter isto no incinerador
+antes que mais alguém o encontre.
+
+389
+00:36:48,292 --> 00:36:49,960
+- Não.
+- Chega!
+
+390
+00:36:52,212 --> 00:36:56,675
+Talvez se tivesse ouvido a sua mulher,
+ela ainda estivesse viva neste momento!
+
+391
+00:37:02,222 --> 00:37:06,894
+Para chegar ao meu escritório,
+tenho de passar pela cantina.
+
+392
+00:37:07,895 --> 00:37:10,855
+Por isso, agora,
+vou trabalhar antes do amanhecer
+
+393
+00:37:10,856 --> 00:37:12,565
+e volto para casa depois de escurecer,
+
+394
+00:37:12,566 --> 00:37:15,068
+só para não ter de ver
+o cadáver dela naquela colina.
+
+395
+00:37:17,154 --> 00:37:19,531
+A Allison também fazia perguntas.
+
+396
+00:37:25,704 --> 00:37:27,206
+Ela nunca tinha medo.
+
+397
+00:37:27,831 --> 00:37:30,125
+Então, por favor... Apenas...
+
+398
+00:37:31,710 --> 00:37:32,711
+Ajude-me.
+
+399
+00:37:41,803 --> 00:37:43,554
+Vou tentar descobrir
+o que aconteceu ao George,
+
+400
+00:37:43,555 --> 00:37:46,974
+mas tem de ficar calada
+e não dar nas vistas.
+
+401
+00:37:46,975 --> 00:37:48,601
+Pare de usar esse relógio!
+
+402
+00:37:48,602 --> 00:37:51,605
+Pode ser legal, mas chama a atenção.
+
+403
+00:37:52,898 --> 00:37:55,525
+Quando encontrar algo,
+enviarei uma mensagem.
+
+404
+00:37:55,526 --> 00:37:56,610
+Um sinal.
+
+405
+00:37:57,152 --> 00:37:58,277
+Prometo.
+
+406
+00:37:58,278 --> 00:37:59,445
+Que tipo de sinal?
+
+407
+00:37:59,446 --> 00:38:00,989
+Saberá quando o vir.
+
+408
+00:38:01,490 --> 00:38:03,115
+Há algo que eu possa fazer entretanto?
+
+409
+00:38:03,116 --> 00:38:05,201
+Tenho de descobrir o que isto é
+
+410
+00:38:05,202 --> 00:38:08,747
+e tem de confiar em mim.
+
+411
+00:38:12,292 --> 00:38:13,502
+Sim.
+
+412
+00:38:15,170 --> 00:38:17,463
+Disseste mesmo que,
+se ele ouvisse a mulher,
+
+413
+00:38:17,464 --> 00:38:18,841
+ela ainda estaria viva?
+
+414
+00:38:19,675 --> 00:38:21,802
+E achas estranho
+nunca mais teres notícias dele?
+
+415
+00:38:23,554 --> 00:38:26,223
+Jules, já me podias ter contado isto.
+
+416
+00:38:26,723 --> 00:38:31,144
+- Ele pediu-me que esperasse e eu esperei.
+- E nenhuma notícia, nenhum sinal.
+
+417
+00:38:33,730 --> 00:38:36,649
+Lamento não teres obtido
+as respostas que esperavas,
+
+418
+00:38:36,650 --> 00:38:38,943
+mas talvez devesses tirar um dia,
+
+419
+00:38:38,944 --> 00:38:43,198
+fazer alguma coisa
+para deixar de pensar nisso.
+
+420
+00:38:44,408 --> 00:38:45,868
+Talvez devesse é pensar mais.
+
+421
+00:38:48,203 --> 00:38:49,955
+Não mostrei tudo ao xerife.
+
+422
+00:38:59,590 --> 00:39:01,632
+O resto do bilhete do George.
+
+423
+00:39:01,633 --> 00:39:03,885
+"Encontrei o que procurava."
+
+424
+00:39:03,886 --> 00:39:06,137
+Porque não mostraste isto ao xerife?
+
+425
+00:39:06,138 --> 00:39:10,058
+O George disse-me que o que procurava
+era mais perigoso que qualquer relíquia.
+
+426
+00:39:10,559 --> 00:39:13,352
+Receava que bastaria eu saber de algo
+para que me expulsassem.
+
+427
+00:39:13,353 --> 00:39:15,230
+O que procurava ele, afinal?
+
+428
+00:39:17,316 --> 00:39:19,151
+Jules, isto está a ficar perigoso.
+
+429
+00:39:24,031 --> 00:39:24,931
+Sim.
+
+430
+00:39:26,658 --> 00:39:27,868
+Conserto isto depois.
+
+431
+00:39:28,744 --> 00:39:29,952
+Não, não o farás.
+
+432
+00:39:29,953 --> 00:39:31,580
+Pois. Não o farei.
+
+433
+00:39:35,000 --> 00:39:36,001
+Pronto.
+
+434
+00:39:37,294 --> 00:39:38,295
+Olha.
+
+435
+00:39:39,546 --> 00:39:41,715
+Tenta não acabar morta lá em baixo.
+
+436
+00:39:43,634 --> 00:39:44,635
+Sim.
+
+437
+00:39:53,060 --> 00:39:55,728
+PRIBIDO PARAR OU VAGABUNDEAR
+NOS PATAMARES
+
+438
+00:39:55,729 --> 00:39:57,940
+<i>Tenho as escolhas de xerifes da juíza.</i>
+
+439
+00:39:58,440 --> 00:39:59,774
+Quatro candidatos medíocres
+
+440
+00:39:59,775 --> 00:40:02,319
+só para fazer sobressair
+o que ela quer na verdade.
+
+441
+00:40:03,445 --> 00:40:06,072
+- O Paul Billings.
+- Lembro-me dele. Era adjunto.
+
+442
+00:40:06,073 --> 00:40:07,156
+Sim, nos níveis médios.
+
+443
+00:40:07,157 --> 00:40:09,909
+Era bom tipo,
+até nos abandonar pelo Judicial.
+
+444
+00:40:09,910 --> 00:40:11,994
+Casou e queria um horário melhor.
+
+445
+00:40:11,995 --> 00:40:15,248
+Para ser sincero,
+o Paul Billings não seria o pior.
+
+446
+00:40:15,249 --> 00:40:17,333
+Não quero alguém que não seja o pior.
+
+447
+00:40:17,334 --> 00:40:20,628
+Não paro de pensar
+que alguém entrará por aquela porta
+
+448
+00:40:20,629 --> 00:40:23,506
+a dizer que uma multidão armada
+vem a subir as escadas.
+
+449
+00:40:23,507 --> 00:40:26,677
+E que 140 anos de paz
+vão pelo cano abaixo.
+
+450
+00:40:27,511 --> 00:40:30,388
+E logo a seguir,
+penso em falar com o Holston sobre isso.
+
+451
+00:40:30,389 --> 00:40:33,642
+Sim. Eu penso o mesmo
+umas dez vezes por dia.
+
+452
+00:40:34,434 --> 00:40:36,645
+Quem me dera
+que ele tivesse indicado alguém.
+
+453
+00:40:38,313 --> 00:40:39,690
+E indicou.
+
+454
+00:40:43,944 --> 00:40:46,529
+- Deixou um bilhete.
+- Porque só me dizes agora?
+
+455
+00:40:46,530 --> 00:40:48,781
+Porque é ridículo e, quando muito,
+
+456
+00:40:48,782 --> 00:40:52,119
+é um sinal de que ele não estava bem,
+no final.
+
+457
+00:40:52,703 --> 00:40:55,289
+- Quem é?
+- Talvez queira voltar a encher o copo.
+
+458
+00:40:58,625 --> 00:41:02,503
+"No meu ato final como xerife,
+eu, Holston Becker,
+
+459
+00:41:02,504 --> 00:41:06,757
+nomeio Juliette Nichols,
+da Mecânica, como minha sucessora."
+
+460
+00:41:06,758 --> 00:41:08,844
+- Juliette Nichols?
+- É uma engenheira.
+
+461
+00:41:09,803 --> 00:41:12,138
+"Mesmo que ela recuse,
+peço que este distintivo,
+
+462
+00:41:12,139 --> 00:41:14,892
+que é propriedade minha,
+lhe seja entregue. Holston Becker."
+
+463
+00:41:15,475 --> 00:41:16,351
+Porquê ela?
+
+464
+00:41:16,352 --> 00:41:19,771
+Como eu disse, não estava
+no seu perfeito juízo, no final.
+
+465
+00:41:20,856 --> 00:41:21,982
+Quero conhecê-la.
+
+466
+00:41:22,482 --> 00:41:23,692
+Tem a certeza?
+
+467
+00:41:24,610 --> 00:41:26,777
+Eu disse conhecê-la, não dar-lhe o cargo.
+
+468
+00:41:26,778 --> 00:41:28,739
+Vou enviar uma mensagem
+para que venha amanhã.
+
+469
+00:41:29,489 --> 00:41:31,407
+Não. Eu vou ter com ela.
+
+470
+00:41:31,408 --> 00:41:33,619
+Ai sim? Vai descer 144 níveis?
+
+471
+00:41:34,578 --> 00:41:36,872
+Acabei de mandar um xerife ir limpar.
+
+472
+00:41:37,831 --> 00:41:41,168
+Tenho de percorrer o Silo.
+O povo precisa de ver a <i>mayor</i>.
+
+473
+00:42:18,247 --> 00:42:19,790
+<i>Tens muita corda.</i>
+
+474
+00:42:21,458 --> 00:42:22,584
+Sim.
+
+475
+00:42:24,336 --> 00:42:25,671
+Para que precisas dela?
+
+476
+00:42:27,506 --> 00:42:28,924
+Para chegar onde quero ir.
+
+477
+00:42:29,550 --> 00:42:30,759
+Certo. Onde é isso?
+
+478
+00:42:32,761 --> 00:42:33,846
+No passado.
+
+479
+00:42:34,972 --> 00:42:36,014
+No passado?
+
+480
+00:42:39,184 --> 00:42:40,601
+O que procuras?
+
+481
+00:42:40,602 --> 00:42:43,230
+Bem, o que procuro não é
+tão importante como o que encontrei.
+
+482
+00:42:44,898 --> 00:42:46,275
+Tu.
+
+483
+00:42:46,859 --> 00:42:48,861
+Ena! Que parvo.
+
+484
+00:42:50,445 --> 00:42:52,281
+A sério, o que procuras?
+
+485
+00:42:53,365 --> 00:42:54,907
+Se o encontrar, eu digo-te...
+
+486
+00:42:54,908 --> 00:42:57,995
+- Diz-me!
+- Sai de cima de mim... Está bem!
+
+487
+00:42:59,705 --> 00:43:00,873
+Creio que é uma porta.
+
+488
+00:43:05,169 --> 00:43:06,336
+Uma porta?
+
+489
+00:43:07,838 --> 00:43:08,964
+Como assim, uma porta?
+
+490
+00:43:10,007 --> 00:43:12,925
+Eu vi-a num desenho antigo.
+
+491
+00:43:12,926 --> 00:43:15,052
+Fica no final de um curto túnel.
+
+492
+00:43:15,053 --> 00:43:18,139
+E o que está para lá da porta?
+Como sabes sequer se é real?
+
+493
+00:43:18,140 --> 00:43:20,099
+Não sei.
+É por isso que tenho de a encontrar.
+
+494
+00:43:20,100 --> 00:43:22,853
+É algures lá no fundo.
+
+495
+00:43:24,313 --> 00:43:25,647
+No fundo?
+
+496
+00:43:26,148 --> 00:43:28,900
+Há água. Há água ali em baixo.
+
+497
+00:43:28,901 --> 00:43:30,818
+Porque poriam uma porta no fundo?
+
+498
+00:43:30,819 --> 00:43:34,238
+- Sei que a água te assusta.
+- Sim, assusta-me, George.
+
+499
+00:43:34,239 --> 00:43:36,324
+Porque afundamos
+e não conseguimos respirar.
+
+500
+00:43:36,325 --> 00:43:38,826
+E se caíres da corda?
+
+501
+00:43:38,827 --> 00:43:41,120
+E se não conseguires voltar para cima?
+E se...
+
+502
+00:43:41,121 --> 00:43:42,372
+Eu terei cuidado.
+
+503
+00:43:46,168 --> 00:43:47,586
+Muito bem, façamos um acordo.
+
+504
+00:43:49,755 --> 00:43:51,005
+Se fores lá abaixo,
+
+505
+00:43:51,006 --> 00:43:54,801
+eu só quero saber depois.
+
+506
+00:43:56,470 --> 00:43:57,596
+Está bem?
+
+507
+00:44:00,140 --> 00:44:01,350
+De acordo.
+
+508
+00:44:02,935 --> 00:44:04,061
+Certo.
+
+509
+00:45:09,793 --> 00:45:10,794
+Muito bem.
+
+510
+00:46:17,528 --> 00:46:18,428
+Não!
+
+511
+00:46:23,325 --> 00:46:24,326
+Foda-se!
+
+512
+00:47:37,733 --> 00:47:39,735
+Legendas: Henrique Moreira
+
