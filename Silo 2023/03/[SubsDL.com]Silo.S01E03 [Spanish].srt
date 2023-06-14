@@ -1,0 +1,3102 @@
+﻿1
+00:03:25,916 --> 00:03:28,335
+{\an8}BASADO EN LA SERIE DE LIBROS DE SILO
+POR HUGH HOWEY
+
+2
+00:04:05,747 --> 00:04:07,666
+Debí haber sabido que llegarías temprano.
+
+3
+00:04:09,918 --> 00:04:11,336
+Ya pareces cansado.
+
+4
+00:04:12,212 --> 00:04:15,298
+Esperaba conocer a Juliette Nichols
+antes de que te desplomaras.
+
+5
+00:04:17,634 --> 00:04:18,884
+Veremos quién se agota.
+
+6
+00:04:20,011 --> 00:04:22,138
+- Después de ti.
+- Gracias.
+
+7
+00:04:43,076 --> 00:04:44,077
+¿Estás muerta?
+
+8
+00:04:45,870 --> 00:04:47,372
+Apuesto a que desearías estarlo.
+
+9
+00:04:48,373 --> 00:04:50,125
+Vamos, llegas tarde.
+
+10
+00:04:54,337 --> 00:04:55,755
+¿Cómo entraste?
+
+11
+00:04:56,298 --> 00:04:57,799
+La puerta estaba abierta.
+
+12
+00:04:58,967 --> 00:05:00,343
+Vomitaste en el pasillo.
+
+13
+00:05:00,343 --> 00:05:02,846
+Y por el olor, en casi todas partes.
+
+14
+00:05:02,846 --> 00:05:06,600
+- ¿Podrías hablar de otra cosa?
+- ¿Otra cosa que no sea vómito?
+
+15
+00:05:06,600 --> 00:05:08,935
+¿No quieres que hable de vomito?
+
+16
+00:05:10,061 --> 00:05:11,062
+Vete.
+
+17
+00:05:15,525 --> 00:05:17,027
+¿Por qué usas eso otra vez?
+
+18
+00:05:19,654 --> 00:05:21,406
+¿Vas a decirme qué está pasando?
+
+19
+00:05:23,241 --> 00:05:24,743
+No eres bebedora, Jules.
+
+20
+00:05:24,743 --> 00:05:26,119
+No una buena, no.
+
+21
+00:05:27,412 --> 00:05:28,413
+Toma.
+
+22
+00:05:33,418 --> 00:05:35,212
+Oye, vamos. Háblame.
+
+23
+00:05:41,676 --> 00:05:43,386
+Mierda. Mi arreglo está fallando.
+
+24
+00:06:07,535 --> 00:06:08,870
+- ¿Agua?
+- Sí, claro.
+
+25
+00:06:10,580 --> 00:06:11,581
+Toma.
+
+26
+00:06:14,626 --> 00:06:17,045
+A menos que hayas tirado tu agua
+para aligerar la carga,
+
+27
+00:06:17,045 --> 00:06:18,547
+creo que tienes una fuga.
+
+28
+00:06:20,882 --> 00:06:22,717
+¿Quieres saludar al juez?
+
+29
+00:06:24,553 --> 00:06:27,722
+Pero quieres asegurarte
+que sus guardias te vean aquí.
+
+30
+00:06:40,485 --> 00:06:41,486
+¡Oye!
+
+31
+00:06:43,363 --> 00:06:44,364
+¡Sal de ahí!
+
+32
+00:06:46,241 --> 00:06:47,951
+- No, sólo iba a hacer...
+- ¡No!
+
+33
+00:06:48,577 --> 00:06:50,787
+- Juliette, ¿cómo voy a aprender...?
+- ¡No! ¡Basta!
+
+34
+00:07:19,524 --> 00:07:21,610
+¿Quieres decirme qué está pasando?
+
+35
+00:07:24,446 --> 00:07:25,906
+Porque estoy confundido.
+
+36
+00:07:26,823 --> 00:07:28,241
+Le dijiste a Cooper que entrara.
+
+37
+00:07:28,241 --> 00:07:30,076
+¿Tenía que esperar a que llegaras?
+
+38
+00:07:31,369 --> 00:07:34,539
+- Es un olor increíble, por cierto.
+- Conoces mis reglas.
+
+39
+00:07:34,539 --> 00:07:35,624
+¿Tus reglas?
+
+40
+00:07:36,166 --> 00:07:39,002
+Hasta donde sé, soy la jefa
+de Mecánica y tú eres mi aprendiz.
+
+41
+00:07:39,002 --> 00:07:41,588
+Aunque no recuerdo la última vez
+que me escuchaste.
+
+42
+00:07:41,588 --> 00:07:45,300
+- Solo yo voy por la escotilla.
+- ¿Y te sientes bien golpeando a Coop?
+
+43
+00:07:45,300 --> 00:07:48,261
+Jules, es tu aprendiz.
+El maldito chico te idolatra.
+
+44
+00:07:48,261 --> 00:07:50,764
+Mi trabajo es asegurarme de que funcione.
+
+45
+00:07:50,764 --> 00:07:53,058
+Y tanto te preocupas
+que llegas dos horas tarde.
+
+46
+00:07:53,058 --> 00:07:54,976
+Solo aplazamos lo inevitable.
+
+47
+00:07:54,976 --> 00:07:57,979
+Tenemos que cerrarlo
+y arreglarlo de verdad.
+
+48
+00:07:57,979 --> 00:08:01,900
+Jules, no puedo ser el primer tipo
+en la historia del Silo
+
+49
+00:08:01,900 --> 00:08:04,361
+- en apagar el generador.
+- Mejor en nuestros términos
+
+50
+00:08:04,361 --> 00:08:06,446
+con el respaldo
+que con el rotor destrozando...
+
+51
+00:08:06,446 --> 00:08:08,531
+Incluso una hora a oscuras
+será un caos total.
+
+52
+00:08:08,531 --> 00:08:10,533
+- Nada comparado con lo que pasará...
+- Jules.
+
+53
+00:08:10,533 --> 00:08:12,619
+Es mejor que sea en nuestros términos
+
+54
+00:08:12,619 --> 00:08:15,288
+- ¡que el rotor destrozándose!
+- Jules, te diré algo.
+
+55
+00:08:15,288 --> 00:08:16,373
+Carajo.
+
+56
+00:08:19,084 --> 00:08:20,085
+Te diré una cosa.
+
+57
+00:08:21,127 --> 00:08:26,132
+Hablaremos de esto mañana,
+cuando no tengas resaca o estés ebria.
+
+58
+00:08:28,927 --> 00:08:29,928
+Vete a casa.
+
+59
+00:08:30,470 --> 00:08:34,099
+Lávate lo que sea que huele
+y recibe tu castigo.
+
+60
+00:08:36,518 --> 00:08:38,477
+Golpeaste a Cooper en la cara.
+
+61
+00:08:38,979 --> 00:08:41,022
+O haces un día en la línea de basura
+
+62
+00:08:41,022 --> 00:08:42,983
+o trabajas algunas entradas con Walker.
+
+63
+00:08:45,443 --> 00:08:47,320
+¿No puedo dejar que me devuelva el golpe?
+
+64
+00:08:50,782 --> 00:08:53,910
+Iba a salir a aplaudir.
+Caminar por el Silo a tu...
+
+65
+00:08:53,910 --> 00:08:56,705
+Si dices "a tu edad",
+no te doy lo que te traje.
+
+66
+00:08:56,705 --> 00:08:57,872
+¿Qué me trajiste?
+
+67
+00:08:58,456 --> 00:09:01,668
+Sólo una muestra de mi gratitud
+por todo lo que hemos hecho juntos.
+
+68
+00:09:02,294 --> 00:09:04,170
+Vaya, me alegra que alguien consiga algo.
+
+69
+00:09:04,170 --> 00:09:06,798
+La acompañé en esta marcha de la muerte
+
+70
+00:09:06,798 --> 00:09:08,758
+y solo me ha dado pesar.
+
+71
+00:09:09,718 --> 00:09:11,636
+Debes querer algo en verdad.
+
+72
+00:09:11,636 --> 00:09:14,598
+Bueno, puede que necesite ayuda
+con nuestra amiga de toga.
+
+73
+00:09:15,098 --> 00:09:16,099
+Jueza Meadows.
+
+74
+00:09:17,100 --> 00:09:19,060
+No, vas a necesitar mucha ayuda.
+
+75
+00:09:19,686 --> 00:09:23,607
+Su oficina me mandó un mensaje
+y me dijo que habías olvidado ir.
+
+76
+00:09:32,616 --> 00:09:34,910
+¿Quieres que Paul Billings sea alguacil?
+
+77
+00:09:35,702 --> 00:09:38,496
+Alcaldesa, me conoce.
+No importa lo que yo quiera.
+
+78
+00:09:38,496 --> 00:09:40,165
+Solo tienes que hacer números.
+
+79
+00:09:40,165 --> 00:09:43,877
+Lo que me dice que Paul Billings
+es el candidato más favorable.
+
+80
+00:09:43,877 --> 00:09:46,087
+¿Eso es para el Silo o para TI?
+
+81
+00:09:47,839 --> 00:09:49,633
+¿Qué dicen tus números sobre Holston?
+
+82
+00:09:49,633 --> 00:09:54,095
+Dijeron que sería un gran alguacil
+y lo fue hasta que dejó de serlo.
+
+83
+00:09:54,095 --> 00:09:55,972
+Me pregunto qué dicen tus números de mí.
+
+84
+00:09:55,972 --> 00:09:57,891
+A la mierda los números. Trajiste brandy.
+
+85
+00:09:59,059 --> 00:10:01,061
+¿Qué dicen sobre Juliette Nichols?
+
+86
+00:10:01,061 --> 00:10:02,687
+Es ingeniera en mecánica.
+
+87
+00:10:02,687 --> 00:10:04,272
+Sé quién es.
+
+88
+00:10:04,272 --> 00:10:07,567
+- No necesito sus números. Es una ladrona.
+- ¿Ladrona?
+
+89
+00:10:07,567 --> 00:10:08,860
+Su expediente está limpio.
+
+90
+00:10:08,860 --> 00:10:12,989
+Robó cuatro cajas de cinta H57
+reservadas para TI.
+
+91
+00:10:12,989 --> 00:10:14,783
+- Robó cinta.
+- No cualquier cinta.
+
+92
+00:10:14,783 --> 00:10:17,494
+Cinta térmica para evitar
+que los servidores se cocinen.
+
+93
+00:10:18,370 --> 00:10:22,207
+Y sinceramente,
+el problema no es lo que robó.
+
+94
+00:10:22,874 --> 00:10:26,878
+- Es el hecho de que robó.
+- Bernard, Holston la eligió.
+
+95
+00:10:27,921 --> 00:10:30,257
+Alcaldesa,
+no puede considerarla seriamente.
+
+96
+00:10:32,259 --> 00:10:33,385
+Oficial.
+
+97
+00:10:33,385 --> 00:10:35,887
+- No importa lo que él piense.
+- Solo soy el acompañante.
+
+98
+00:10:35,887 --> 00:10:39,391
+No me gusta que me fuercen
+la elección de jurídico.
+
+99
+00:10:39,391 --> 00:10:42,018
+Alcaldesa,
+el traerme una botella de brandy
+
+100
+00:10:42,018 --> 00:10:45,689
+no va a ayudarla a ganar una batalla
+territorial con la jueza Meadows.
+
+101
+00:10:45,689 --> 00:10:47,065
+Es un buen brandy.
+
+102
+00:10:47,065 --> 00:10:49,359
+Por mí,
+podría ser de antes de los tiempos.
+
+103
+00:10:50,527 --> 00:10:52,696
+Aquí hay otros números
+que deberías considerar.
+
+104
+00:10:53,238 --> 00:10:55,907
+Cada hora que el Silo
+se queda sin alguacil,
+
+105
+00:10:55,907 --> 00:10:59,536
+la probabilidad de catástrofe
+aumenta uno por ciento.
+
+106
+00:10:59,536 --> 00:11:03,123
+Mientras estamos aquí hablando,
+los ciudadanos asustados se están armando,
+
+107
+00:11:03,123 --> 00:11:05,667
+porque no saben quién va a protegerlos.
+
+108
+00:11:06,501 --> 00:11:08,128
+Billings es una buena opción.
+
+109
+00:11:08,837 --> 00:11:10,088
+Solo hágalo alguacil,
+
+110
+00:11:10,088 --> 00:11:14,843
+y el pasear por el Silo mejor déjaselo
+a los niños sin nada que hacer.
+
+111
+00:11:30,817 --> 00:11:31,818
+Ya viene.
+
+112
+00:11:34,029 --> 00:11:35,030
+Ya viene.
+
+113
+00:11:41,995 --> 00:11:44,873
+- No pudiste evitarlo, ¿verdad?
+- Mandé un mensaje.
+
+114
+00:11:44,873 --> 00:11:46,708
+Nos necesitan ahora, Sam.
+
+115
+00:11:46,708 --> 00:11:48,835
+¡Alcaldesa! Bienvenida a en medio.
+
+116
+00:11:49,794 --> 00:11:52,005
+¡Bienvenida a en medio, alcaldesas Jahns!
+
+117
+00:11:52,005 --> 00:11:53,089
+¡Hola!
+
+118
+00:11:53,715 --> 00:11:57,427
+Sé que ha pasado mucho tiempo
+desde que crucé este puente.
+
+119
+00:11:57,427 --> 00:11:59,304
+De hecho, puedo ver a un par de hombres
+
+120
+00:11:59,304 --> 00:12:01,806
+que eran adolescentes
+la última vez que estuve aquí.
+
+121
+00:12:04,267 --> 00:12:08,313
+Vine a verlos a los ojos
+y a recordarles lo importantes que son.
+
+122
+00:12:09,481 --> 00:12:11,066
+Todos tenemos miedo.
+
+123
+00:12:11,066 --> 00:12:13,318
+Perdimos a un gran hombre
+y a un buen alguacil,
+
+124
+00:12:13,318 --> 00:12:15,654
+pero es esta comunidad.
+
+125
+00:12:15,654 --> 00:12:19,616
+Es la forma en que se quieren
+lo que mantiene al Silo unido,
+
+126
+00:12:20,492 --> 00:12:22,786
+incluso en tiempos difíciles, como ahora.
+
+127
+00:12:23,370 --> 00:12:24,955
+La queremos, alcaldesa Jahns.
+
+128
+00:12:24,955 --> 00:12:28,250
+Votaré por usted en las próximas
+elecciones. Todos votaremos por usted.
+
+129
+00:12:28,250 --> 00:12:29,334
+Sí.
+
+130
+00:12:30,210 --> 00:12:32,712
+Ahora, tengo asuntos abajo,
+
+131
+00:12:32,712 --> 00:12:36,424
+pero no voy a dejar este nivel
+hasta que vea a los bebés.
+
+132
+00:12:37,592 --> 00:12:41,304
+- Él es Jacob, alcaldesa Jahns.
+- Hermoso. Me alegra verte.
+
+133
+00:12:50,397 --> 00:12:51,398
+Él es Harry.
+
+134
+00:12:52,107 --> 00:12:54,818
+Harry tenía prisa.
+Nació tres semanas antes.
+
+135
+00:12:55,318 --> 00:12:56,528
+Pero está mejorando.
+
+136
+00:12:58,196 --> 00:12:59,948
+Según recuerdo de su última visita,
+
+137
+00:12:59,948 --> 00:13:02,325
+le gustaría saludar a las futuras madres.
+
+138
+00:13:02,325 --> 00:13:06,496
+En realidad, doctor,
+esperábamos un momento a solas con usted.
+
+139
+00:13:08,039 --> 00:13:09,165
+Claro.
+
+140
+00:13:09,165 --> 00:13:11,751
+Queríamos hablar con usted
+sobre su hija, Juliette.
+
+141
+00:13:15,755 --> 00:13:17,382
+- ¿Está bien?
+- Sí, está bien.
+
+142
+00:13:17,382 --> 00:13:19,676
+La están considerando
+para un nuevo puesto.
+
+143
+00:13:21,219 --> 00:13:22,721
+Solo la investigación estándar.
+
+144
+00:13:22,721 --> 00:13:25,557
+- ¿Algo que pueda responder?
+- ¿Cómo es que vive en el fondo?
+
+145
+00:13:25,557 --> 00:13:29,519
+Entiende que es algo inusual
+para alguien nacida en medio
+
+146
+00:13:29,519 --> 00:13:33,732
+con un padre médico,
+que acabe en mecánica.
+
+147
+00:13:38,111 --> 00:13:39,529
+Nuestros problemas empezaron.
+
+148
+00:13:43,158 --> 00:13:44,701
+Fue difícil para Jules.
+
+149
+00:13:46,202 --> 00:13:47,454
+Una pérdida como esa...
+
+150
+00:13:50,624 --> 00:13:53,585
+Desde pequeña
+mostró un gran interés por las máquinas.
+
+151
+00:13:54,586 --> 00:13:57,964
+Siempre veía cómo funcionaban las cosas
+y cómo arreglarlas.
+
+152
+00:13:59,716 --> 00:14:02,510
+Creo que se sentía bien
+poder arreglar algo.
+
+153
+00:14:04,221 --> 00:14:07,307
+Era un poco joven,
+pero apoyé su decisión de ir.
+
+154
+00:14:07,307 --> 00:14:10,060
+- ¿Qué edad tenía cuando se fue?
+- Trece años.
+
+155
+00:14:10,060 --> 00:14:11,853
+¿Cuándo habló con ella por última vez?
+
+156
+00:14:14,481 --> 00:14:15,482
+Ha pasado tiempo.
+
+157
+00:14:17,609 --> 00:14:19,527
+Tengo bebés nuevos cada semana.
+
+158
+00:14:20,111 --> 00:14:22,989
+Jules tiene el generador.
+Es una larga caminata hasta mecánica.
+
+159
+00:14:22,989 --> 00:14:27,619
+No puedo ir y volver en mi día libre.
+Necesito ese día para descansar.
+
+160
+00:14:28,745 --> 00:14:32,249
+Bueno. Si es todo, tengo una futura madre
+con un bebé sentado
+
+161
+00:14:32,249 --> 00:14:34,626
+y necesito darle la vuelta.
+
+162
+00:14:44,761 --> 00:14:46,805
+Más preguntas que respuestas.
+
+163
+00:14:49,933 --> 00:14:51,643
+Es muy difícil de describir.
+
+164
+00:14:52,352 --> 00:14:54,563
+¿Lo que viste o lo que sentiste?
+
+165
+00:14:54,563 --> 00:14:56,898
+- No, me sentí bien.
+- Muy bien.
+
+166
+00:14:57,732 --> 00:15:00,277
+No era la oscuridad
+lo que me preocupaba. Yo...
+
+167
+00:15:01,570 --> 00:15:03,238
+- sólo sentí...
+- Miedo.
+
+168
+00:15:03,238 --> 00:15:04,823
+No, no sentí miedo.
+
+169
+00:15:04,823 --> 00:15:07,242
+- Si tuviera miedo, te lo diría.
+- Está bien.
+
+170
+00:15:09,369 --> 00:15:11,538
+Bueno, carajo. Sí, sentí miedo. yo...
+
+171
+00:15:15,250 --> 00:15:16,626
+Tanta agua, es...
+
+172
+00:15:17,836 --> 00:15:20,171
+<i>Era más agua de la que jamás había visto.</i>
+
+173
+00:15:23,550 --> 00:15:25,760
+Era más que eso. Acababa de...
+
+174
+00:15:28,805 --> 00:15:30,140
+Sabes, George, él...
+
+175
+00:15:31,683 --> 00:15:36,771
+Me dejó todas estas pistas
+y no pude hacerlo.
+
+176
+00:15:38,440 --> 00:15:40,191
+No pude hacerlo. No podía bajar.
+
+177
+00:15:40,191 --> 00:15:44,863
+- Es lo que siento. Me enfada.
+- Tanto así que te desquitaste con Cooper.
+
+178
+00:15:44,863 --> 00:15:47,073
+- No quiero hablar de Cooper.
+- ¿Qué quieres?
+
+179
+00:15:47,073 --> 00:15:49,743
+No lo sé. Solo quiero...
+
+180
+00:15:51,578 --> 00:15:52,954
+Huir.
+
+181
+00:15:54,039 --> 00:15:57,083
+Está bien. Lo entiendo.
+
+182
+00:15:58,501 --> 00:16:01,421
+Ya sabes, gritamos,
+peleamos, nos enfadamos.
+
+183
+00:16:01,421 --> 00:16:04,591
+Pero de vez en cuando,
+deberíamos decirnos a nosotros mismos,
+
+184
+00:16:04,591 --> 00:16:06,301
+"Nos esforzamos. Nos apoyamos".
+
+185
+00:16:06,301 --> 00:16:07,969
+"Nos". ¿En serio? ¿"Nos"?
+
+186
+00:16:07,969 --> 00:16:10,972
+Ni siquiera sé por qué me da consejos
+alguien que se sienta
+
+187
+00:16:10,972 --> 00:16:13,141
+todos los días a escuchar la radio.
+
+188
+00:16:13,141 --> 00:16:15,936
+No has salido del taller en 20 años.
+
+189
+00:16:17,312 --> 00:16:18,730
+¡Veinte malditos años!
+
+190
+00:16:31,409 --> 00:16:34,287
+<i>¿Alguna vez te conté
+del primer arresto que hice?</i>
+
+191
+00:16:35,038 --> 00:16:37,249
+Fue justo aquí en este parque, justo allí.
+
+192
+00:16:37,249 --> 00:16:40,252
+Tres de la mañana.
+Pareja borracha y desnuda haciéndolo.
+
+193
+00:16:40,252 --> 00:16:41,753
+Ese fue mi primer arresto.
+
+194
+00:16:41,753 --> 00:16:43,463
+¿Sabes cuál fue mi segundo arresto?
+
+195
+00:16:43,463 --> 00:16:47,425
+Veinticuatro horas después.
+La misma pareja de borrachos haciéndolo.
+
+196
+00:16:48,009 --> 00:16:49,386
+Es una historia real.
+
+197
+00:16:51,846 --> 00:16:53,848
+¿No vas a echarlo de menos? ¿El trabajo?
+
+198
+00:16:54,474 --> 00:16:55,600
+Ya es hora.
+
+199
+00:16:55,600 --> 00:16:59,271
+Estaba pensando que tal vez podría abrir
+un puesto en el mercado,
+
+200
+00:16:59,271 --> 00:17:04,734
+intentar vender mis dibujos a quien esté
+bastante ciego como para quererlos.
+
+201
+00:17:05,901 --> 00:17:08,112
+Sinceramente, no sé lo que voy a hacer.
+
+202
+00:17:09,322 --> 00:17:11,699
+Siempre pensé que Holston me sustituiría.
+
+203
+00:17:11,699 --> 00:17:16,412
+Cortesía del juez Meadows.
+Fresas frescas de la granja.
+
+204
+00:17:16,412 --> 00:17:20,041
+Si no lo ha probado, no lo haga.
+Un bocado puede hacerla adicta.
+
+205
+00:17:20,041 --> 00:17:21,834
+¿Se supone que esto debe intimidarme?
+
+206
+00:17:21,834 --> 00:17:22,919
+¿Postre?
+
+207
+00:17:24,045 --> 00:17:25,546
+No. Quería asegurarme de que...
+
+208
+00:17:25,546 --> 00:17:28,466
+Todo lo que contenga mucha azúcar
+es malo para el corazón.
+
+209
+00:17:28,466 --> 00:17:29,801
+Entonces me equivoqué.
+
+210
+00:17:29,801 --> 00:17:32,888
+Se suponía que era un gesto amistoso
+y un pequeño soborno.
+
+211
+00:17:33,471 --> 00:17:37,350
+- No pasó a ver al juez Meadows.
+- No sabía que tenía que hacerlo.
+
+212
+00:17:37,350 --> 00:17:39,269
+Alcaldesa, al momento que Holston salió,
+
+213
+00:17:39,269 --> 00:17:41,521
+empezó a correr el tiempo
+para su sustituto.
+
+214
+00:17:41,688 --> 00:17:43,648
+Entiendo por qué querría respetar
+a Holston
+
+215
+00:17:43,648 --> 00:17:45,734
+con al menos reunirse con su elección.
+
+216
+00:17:46,234 --> 00:17:48,612
+- Bernard te lo dijo, ya veo.
+- En verdad no hay tiempo.
+
+217
+00:17:48,612 --> 00:17:50,989
+Paul Billings es una buena elección.
+
+218
+00:17:50,989 --> 00:17:54,075
+Es un hombre de familia,
+dedicado, trabajador, inteligente.
+
+219
+00:17:54,075 --> 00:17:55,577
+- Le importa la gente.
+- Sr. Sims.
+
+220
+00:17:55,577 --> 00:17:58,121
+Tomaré una decisión
+cuando haya terminado mi viaje.
+
+221
+00:18:03,460 --> 00:18:05,629
+- Sam, ¿lo quieres?
+- No, Rob, estoy bien.
+
+222
+00:18:34,407 --> 00:18:36,368
+<i>El suicidio es un delito grave.</i>
+
+223
+00:18:36,368 --> 00:18:37,911
+<i>No, no fue suicidio.</i>
+
+224
+00:18:37,911 --> 00:18:39,412
+Eso dices.
+
+225
+00:18:48,964 --> 00:18:53,802
+Encontré lo que estaba buscando
+
+226
+00:18:55,178 --> 00:18:56,763
+"Lo que estaba buscando".
+
+227
+00:19:18,577 --> 00:19:20,996
+¡Carajo!
+
+228
+00:19:29,004 --> 00:19:32,549
+- Eso no es bueno.
+- No me digas. ¿Dónde está Jules?
+
+229
+00:19:50,275 --> 00:19:51,318
+Knox.
+
+230
+00:19:52,027 --> 00:19:54,112
+Señora alcaldesa. Oficial.
+
+231
+00:19:54,738 --> 00:19:55,906
+No la esperábamos...
+
+232
+00:19:55,906 --> 00:19:57,324
+¿Todo bien?
+
+233
+00:19:57,324 --> 00:20:00,160
+- Sí. Todo está bajo control.
+- Quieres que volvamos o...
+
+234
+00:20:00,160 --> 00:20:02,037
+No debería de sonar así, ¿verdad?
+
+235
+00:20:04,414 --> 00:20:05,415
+No, señora.
+
+236
+00:20:18,011 --> 00:20:20,430
+- ¿Qué pasa?
+- La reparación está fallando de nuevo.
+
+237
+00:20:21,181 --> 00:20:22,182
+Sí, ya veo.
+
+238
+00:20:26,436 --> 00:20:29,272
+- Intenté cambiar...
+- Necesito escuchar.
+
+239
+00:20:39,991 --> 00:20:41,326
+¿Es ella?
+
+240
+00:20:41,326 --> 00:20:42,410
+Sí.
+
+241
+00:20:50,043 --> 00:20:51,378
+Disculpe, señora alcaldesa.
+
+242
+00:20:51,378 --> 00:20:52,879
+- ¿Qué ocurre?
+- No se preocupes.
+
+243
+00:21:00,345 --> 00:21:01,513
+¡Jules!
+
+244
+00:21:02,222 --> 00:21:04,057
+- La vibración cambió.
+- ¿Qué?
+
+245
+00:21:04,057 --> 00:21:06,476
+Cambió. Todo este tiempo
+
+246
+00:21:06,476 --> 00:21:08,270
+- la vibración lo ha movido...
+- Por aquí.
+
+247
+00:21:08,270 --> 00:21:10,730
+- Y ahora va por allí.
+- Carajo.
+
+248
+00:21:10,730 --> 00:21:13,567
+- Entonces, ¿Qué hacemos?
+- Vete. Comprueba la salida.
+
+249
+00:21:13,567 --> 00:21:15,318
+Oigan, todos, retrocedan.
+
+250
+00:21:15,318 --> 00:21:17,404
+- Atrás. Vamos.
+- Jules, puedo ayudar.
+
+251
+00:21:17,404 --> 00:21:19,573
+Conozco este generador
+tanto como cualquier...
+
+252
+00:21:19,573 --> 00:21:21,366
+¡Coop! Eres su aprendiz.
+
+253
+00:21:21,366 --> 00:21:23,785
+No pueden estar los dos
+si esto se vuelve un desastre.
+
+254
+00:21:26,705 --> 00:21:29,541
+Ciérralo detrás de mí.
+Esto es lo que te advertía.
+
+255
+00:21:29,541 --> 00:21:30,667
+Lo sé.
+
+256
+00:21:33,003 --> 00:21:34,004
+Buena suerte.
+
+257
+00:21:43,179 --> 00:21:44,180
+Carajo.
+
+258
+00:22:08,121 --> 00:22:09,122
+No dejes que se vaya.
+
+259
+00:22:09,789 --> 00:22:11,750
+- ¿Oiga, señora alcaldesa?
+- Estaré bien.
+
+260
+00:22:23,762 --> 00:22:26,473
+De haber sabido que iba a recibir
+la visita de la alcaldesa,
+
+261
+00:22:27,265 --> 00:22:28,642
+habría limpiado.
+
+262
+00:22:28,642 --> 00:22:30,352
+No se limpia para los viejos amigos.
+
+263
+00:22:31,436 --> 00:22:33,647
+Además, sabías que iba a venir.
+
+264
+00:22:33,647 --> 00:22:35,565
+Lo escuchaste en la radio que hiciste.
+
+265
+00:22:36,358 --> 00:22:39,277
+Lo que está tan prohibido por el Pacto,
+que no sé por dónde empezar.
+
+266
+00:22:39,277 --> 00:22:44,532
+Los de arriba realmente no conocen
+sus máquinas, ¿verdad? Eso es un tostador.
+
+267
+00:22:49,287 --> 00:22:51,289
+Me entristeció
+que tu matrimonio terminara.
+
+268
+00:22:52,624 --> 00:22:54,125
+Fue hace 25 años.
+
+269
+00:22:54,125 --> 00:22:55,293
+Todavía estaba triste.
+
+270
+00:22:56,044 --> 00:22:58,296
+Carla y tú hacían una linda pareja.
+¿Qué pasó?
+
+271
+00:22:59,798 --> 00:23:01,299
+Masticaba con la boca abierta.
+
+272
+00:23:04,135 --> 00:23:05,720
+¿Qué puedo hacer por ti, Ruth?
+
+273
+00:23:05,720 --> 00:23:06,972
+Juliette Nichols.
+
+274
+00:23:07,847 --> 00:23:10,183
+- ¿Qué hay con ella?
+- Necesito tu opinión de ella.
+
+275
+00:23:11,393 --> 00:23:13,353
+¿Quién es ella, Martha?
+
+276
+00:23:25,156 --> 00:23:26,658
+¿Estoy bajo arresto o algo así?
+
+277
+00:23:28,451 --> 00:23:29,619
+¿Deberías?
+
+278
+00:23:34,791 --> 00:23:36,668
+- Juliette.
+- Sí.
+
+279
+00:23:37,210 --> 00:23:38,253
+Soy la alcaldesa Jahns.
+
+280
+00:23:42,465 --> 00:23:43,508
+¿Nos dan un momento?
+
+281
+00:23:44,092 --> 00:23:45,093
+Claro.
+
+282
+00:23:46,720 --> 00:23:47,721
+¿No puedes quedarte?
+
+283
+00:23:48,597 --> 00:23:49,598
+Tú puedes.
+
+284
+00:23:56,688 --> 00:24:00,317
+Uno de mis deberes como alcaldesa
+es nombrar al próximo alguacil.
+
+285
+00:24:00,317 --> 00:24:01,818
+Una de las tradiciones de Silo
+
+286
+00:24:01,818 --> 00:24:04,988
+es que el alguacil saliente
+deje una sugerencia
+
+287
+00:24:04,988 --> 00:24:07,824
+en cuanto a quién debería ser el próximo
+en llevar la estrella.
+
+288
+00:24:07,824 --> 00:24:10,201
+Holston Becker te eligió a ti.
+
+289
+00:24:12,579 --> 00:24:14,748
+- Lo siento, ¿qué?
+- Debo decírtelo,
+
+290
+00:24:14,748 --> 00:24:18,126
+- nadie te quiere para este trabajo.
+- De acuerdo.
+
+291
+00:24:18,126 --> 00:24:23,173
+Excepto un exalguacil fallecido y yo.
+
+292
+00:24:27,219 --> 00:24:28,595
+Sé que es mucho para asimilar.
+
+293
+00:24:34,184 --> 00:24:35,310
+No.
+
+294
+00:24:35,852 --> 00:24:38,188
+- ¿Perdón?
+- No lo quiero.
+
+295
+00:24:38,188 --> 00:24:39,648
+Aleluya.
+
+296
+00:24:40,774 --> 00:24:42,234
+¿Puedo preguntar por qué?
+
+297
+00:24:42,234 --> 00:24:46,571
+Todo el mundo piensa que su trabajo
+en el Silo es el más importante.
+
+298
+00:24:46,571 --> 00:24:47,697
+El mío en verdad lo es.
+
+299
+00:24:49,491 --> 00:24:51,618
+El generador no está bien.
+
+300
+00:24:51,618 --> 00:24:54,663
+Y si no estoy aquí para asegurarme
+de que funcione y...
+
+301
+00:24:57,958 --> 00:24:59,292
+Tengo que cuidarlo.
+
+302
+00:24:59,793 --> 00:25:01,753
+Pues qué pena.
+
+303
+00:25:03,088 --> 00:25:05,924
+Holston quería que tuvieras esto...
+
+304
+00:25:09,219 --> 00:25:10,637
+aceptaras o no el trabajo.
+
+305
+00:25:21,147 --> 00:25:23,817
+COMISARÍA
+ALGUACIL BECKER
+
+306
+00:25:23,817 --> 00:25:25,235
+Cuídate, Juliette.
+
+307
+00:25:45,589 --> 00:25:46,882
+¿Qué carajo?
+
+308
+00:25:52,762 --> 00:25:53,889
+Deja de hacer trampas.
+
+309
+00:25:53,889 --> 00:25:54,973
+Vamos.
+
+310
+00:26:05,692 --> 00:26:07,777
+- Vaya.
+- Eso no tiene sentido.
+
+311
+00:26:07,777 --> 00:26:10,363
+¿Tú? ¿Alguacil?
+
+312
+00:26:10,363 --> 00:26:11,448
+Sí.
+
+313
+00:26:12,532 --> 00:26:13,867
+- ¿Por qué?
+- No lo sé.
+
+314
+00:26:13,867 --> 00:26:15,577
+Porque logras hacer el trabajo.
+
+315
+00:26:15,577 --> 00:26:19,039
+- Serías una gran alguacil.
+- Coop, no tienes que adularla.
+
+316
+00:26:19,039 --> 00:26:21,207
+- No te volverá a pegar.
+- Deberías ser tú, Hank.
+
+317
+00:26:21,917 --> 00:26:23,335
+Le harían cortarse el pelo.
+
+318
+00:26:24,961 --> 00:26:26,463
+- ¿Puedo verla?
+- Sí, claro.
+
+319
+00:26:30,884 --> 00:26:34,930
+Sabes, el alguacil Holston
+fue la razón por la que quise ser oficial.
+
+320
+00:26:34,930 --> 00:26:38,266
+Digo, ¿qué sé yo acerca de la ley? Yo...
+
+321
+00:26:38,266 --> 00:26:40,185
+¿Qué sabías sobre ser ingeniero?
+
+322
+00:26:40,852 --> 00:26:43,939
+- No mucho.
+- Oye. ¿Qué es esto?
+
+323
+00:26:45,607 --> 00:26:47,943
+Hay algo grabado
+en el reverso de la placa.
+
+324
+00:27:00,413 --> 00:27:01,831
+¡Alcaldesa Jahns!
+
+325
+00:27:03,458 --> 00:27:04,626
+Cambié de opinión.
+
+326
+00:27:05,710 --> 00:27:07,671
+Aceptaré el trabajo.
+
+327
+00:27:08,421 --> 00:27:10,757
+- Bueno, eso es maravilloso.
+- Con una condición.
+
+328
+00:27:10,757 --> 00:27:11,841
+¿Tienes condición?
+
+329
+00:27:12,342 --> 00:27:13,843
+Necesito arreglar el generador.
+
+330
+00:27:14,844 --> 00:27:17,347
+No puedo dejar Mecánica
+sin saber que es seguro.
+
+331
+00:27:17,347 --> 00:27:20,308
+- Bien.
+- Y para arreglar el generador...
+
+332
+00:27:22,727 --> 00:27:24,104
+Necesito apagarlo.
+
+333
+00:27:25,230 --> 00:27:28,567
+¿Necesitas apagar el generador?
+¿Dejarnos a todos a oscuras?
+
+334
+00:27:29,150 --> 00:27:31,403
+- Tenemos un respaldo.
+- Que da la potencia mínima.
+
+335
+00:27:31,945 --> 00:27:33,780
+Apenas suficiente para el soporte vital.
+
+336
+00:27:33,780 --> 00:27:36,074
+Lo que pides no se ha hecho nunca.
+
+337
+00:27:36,074 --> 00:27:37,284
+No. Yo...
+
+338
+00:27:38,326 --> 00:27:40,120
+- Lo sé.
+- La gente estaría aterrorizada.
+
+339
+00:27:40,120 --> 00:27:44,249
+La gente va a estar aterrorizada
+cuando el rotor se rompa,
+
+340
+00:27:44,249 --> 00:27:47,294
+y estemos viviendo del respaldo
+en la oscuridad.
+
+341
+00:27:48,587 --> 00:27:49,588
+Para siempre.
+
+342
+00:27:54,968 --> 00:27:55,969
+Puedo hacerlo.
+
+343
+00:27:59,472 --> 00:28:01,725
+<i>Para poder reparar el generador,</i>
+
+344
+00:28:01,725 --> 00:28:05,437
+<i>esta noche, a las 10:00 p. m.,
+comenzará un apagón de ocho horas.</i>
+
+345
+00:28:05,437 --> 00:28:08,899
+<i>El Silo estará completamente a oscuras
+durante ese periodo.</i>
+
+346
+00:28:08,899 --> 00:28:11,651
+<i>Se les ordena reunirse
+en las zonas seguras designadas</i>
+
+347
+00:28:11,651 --> 00:28:16,406
+<i>o quedarse en casa.
+Los que no lo hagan serán encarcelados.</i>
+
+348
+00:28:17,574 --> 00:28:18,742
+POR ORDEN DE LA ALCALDESA
+
+349
+00:28:18,742 --> 00:28:21,119
+UN CORTE DE ELECTRICIDAD DE OCHO HORAS
+COMENZARÁ A LAS 10PM
+
+350
+00:28:21,119 --> 00:28:22,203
+FAVOR DE PREPARARSE
+
+351
+00:28:28,084 --> 00:28:29,878
+Así es como el rotor debe girar, ¿cierto?
+
+352
+00:28:30,795 --> 00:28:34,507
+Así que algo en algún momento
+de los últimos 30 años, lo dañó.
+
+353
+00:28:35,383 --> 00:28:36,593
+- ¿Qué?
+- No lo sé.
+
+354
+00:28:36,593 --> 00:28:39,095
+Quizá a alguien
+se le cayó una herramienta del pasillo.
+
+355
+00:28:39,095 --> 00:28:43,391
+- ¿Cuánto daño?
+- Solo hace falta una pequeña abolladura
+
+356
+00:28:45,936 --> 00:28:50,565
+Eso creará un pequeño bamboleo
+que se convertirá en un gran bamboleo.
+
+357
+00:28:51,233 --> 00:28:53,693
+No importa cuántas veces afinemos
+la alineación.
+
+358
+00:28:53,693 --> 00:28:56,905
+- Siempre se mueve fuera de lugar.
+- Pronto se romperá todo,
+
+359
+00:28:56,905 --> 00:29:00,659
+lo que significa que no tenemos suficiente
+energía para alimentar un solo nivel,
+
+360
+00:29:00,659 --> 00:29:02,202
+por no hablar de todo el Silo.
+
+361
+00:29:05,038 --> 00:29:06,539
+¿Cómo lo arreglamos?
+
+362
+00:29:07,540 --> 00:29:10,168
+Primero, vamos a abrirlo
+y ver dónde está roto.
+
+363
+00:29:10,877 --> 00:29:13,046
+Luego,
+para arreglar lo que sea que esté mal,
+
+364
+00:29:13,046 --> 00:29:15,715
+tendremos que apagar el generador.
+
+365
+00:29:15,715 --> 00:29:18,468
+¿Y le dijiste a la alcaldesa
+que no podemos hacerlo?
+
+366
+00:29:18,468 --> 00:29:19,928
+Claro que podemos.
+
+367
+00:29:19,928 --> 00:29:21,930
+Knox controla el flujo de vapor
+desde aquí.
+
+368
+00:29:21,930 --> 00:29:23,598
+Y si lo apaga,
+
+369
+00:29:23,598 --> 00:29:25,809
+¿cuánto tiempo tendremos
+antes de que explote?
+
+370
+00:29:25,809 --> 00:29:27,352
+- ¿Explotar?
+- No lo sé.
+
+371
+00:29:30,021 --> 00:29:33,233
+- No lo sé. ¿Una hora?
+- Si consigues la mitad, tendrás suerte.
+
+372
+00:29:34,234 --> 00:29:35,610
+Le mostraré por qué.
+
+373
+00:29:39,781 --> 00:29:41,491
+No sabemos a qué nos enfrentamos,
+
+374
+00:29:41,491 --> 00:29:43,868
+así que debemos estar preparados.
+Esperar lo peor.
+
+375
+00:29:43,868 --> 00:29:45,996
+Si tienen algún problema,
+llamen por radio,
+
+376
+00:29:45,996 --> 00:29:47,831
+y me coordino con las otras estaciones.
+
+377
+00:29:47,831 --> 00:29:50,792
+Estén alerta. No sabemos qué esperar.
+
+378
+00:29:52,127 --> 00:29:54,296
+Que todo el mundo esté a salvo allá fuera.
+
+379
+00:29:56,006 --> 00:29:57,966
+Molly, tú y tu equipo vayan a patrullar.
+
+380
+00:29:57,966 --> 00:30:01,428
+- Que todos sepan que están ahí.
+- Ya saben qué hacer. Hagámoslo.
+
+381
+00:30:03,054 --> 00:30:05,599
+Oye, si se mantiene en silencio,
+hay una celda en espera
+
+382
+00:30:05,599 --> 00:30:08,101
+y el sofá de mi oficina se hace cama.
+
+383
+00:30:08,101 --> 00:30:10,395
+- No diría que alguno es cómodo.
+- Es bueno saberlo.
+
+384
+00:30:10,395 --> 00:30:12,856
+¿Acompañaría a la alcaldesa
+al albergue, por favor?
+
+385
+00:30:13,356 --> 00:30:14,858
+- Me quedaré aquí.
+- No.
+
+386
+00:30:14,858 --> 00:30:18,320
+Estará tranquilo, pero quiero saber
+cómo van las cosas en el Silo.
+
+387
+00:30:22,532 --> 00:30:24,534
+- Buenas noches. Señora.
+- Hasta mañana.
+
+388
+00:30:30,457 --> 00:30:33,168
+Por lo que sabemos, nunca hemos
+estado con energía de reserva
+
+389
+00:30:33,168 --> 00:30:36,254
+- ¿y crees que estará tranquilo?
+- Esta noche sólo tendrán miedo.
+
+390
+00:30:36,254 --> 00:30:38,840
+¿Y si no vuelve la luz mañana?
+
+391
+00:30:39,633 --> 00:30:41,760
+Espero que tengas la clave
+de la bóveda de armas.
+
+392
+00:30:45,680 --> 00:30:49,100
+El vapor viene de muy abajo.
+Nadie sabe de dónde.
+
+393
+00:30:50,060 --> 00:30:52,312
+Todo lo que sabemos
+es que sube por esta tubería,
+
+394
+00:30:52,312 --> 00:30:54,606
+da vuelta y va directo hasta la turbina.
+
+395
+00:30:54,606 --> 00:30:56,107
+Los fundadores eran listos.
+
+396
+00:30:56,650 --> 00:31:00,362
+Sabían que no podían controlar el vapor,
+así que pusieron un elemento de seguridad.
+
+397
+00:31:00,904 --> 00:31:02,489
+Esta es la cámara de contención.
+
+398
+00:31:02,489 --> 00:31:05,867
+Protege la turbina
+en caso de una sobrecarga repentina
+
+399
+00:31:05,867 --> 00:31:07,661
+y se tenga que regular el flujo.
+
+400
+00:31:08,703 --> 00:31:10,247
+¿Quieres apagar el generador?
+
+401
+00:31:10,247 --> 00:31:14,167
+Knox tiene que cerrar por completo
+la válvula principal.
+
+402
+00:31:15,377 --> 00:31:16,920
+Si eso pasa, tienes unos 30 minutos
+
+403
+00:31:16,920 --> 00:31:19,756
+antes de que la presión llegue al límite
+y necesite liberarse.
+
+404
+00:31:20,757 --> 00:31:22,342
+Vamos a necesitar más tiempo.
+
+405
+00:31:23,176 --> 00:31:24,594
+¿Se puede mantener al límite?
+
+406
+00:31:24,594 --> 00:31:27,806
+Podríamos si el vapor estuviera frío,
+pero no lo está porque es vapor.
+
+407
+00:31:28,306 --> 00:31:30,267
+Cuanta más presión tenga,
+más se calentará.
+
+408
+00:31:30,267 --> 00:31:34,187
+Y esa presión aumentará hasta que estalle.
+
+409
+00:31:34,187 --> 00:31:36,481
+Entonces, ¿30 minutos antes del límite?
+
+410
+00:31:36,481 --> 00:31:37,857
+Como mucho.
+
+411
+00:31:39,526 --> 00:31:40,527
+¿Jefe?
+
+412
+00:31:43,613 --> 00:31:46,116
+La alcaldesa ha autorizado
+ocho horas de respaldo.
+
+413
+00:31:46,116 --> 00:31:50,745
+Una vez que cambiemos,
+el equipo separará los paneles C y D.
+
+414
+00:31:50,745 --> 00:31:51,830
+¿Ambos?
+
+415
+00:31:51,830 --> 00:31:53,665
+Es el único modo de evaluar el interior.
+
+416
+00:31:53,665 --> 00:31:56,293
+- Deben pesar...
+- 1.35 toneladas. Cada uno.
+
+417
+00:31:59,629 --> 00:32:03,300
+Chicos, nada de esto será fácil.
+
+418
+00:32:05,510 --> 00:32:09,514
+El más mínimo error en cualquier momento
+podría acabar con la vida de alguien,
+
+419
+00:32:09,514 --> 00:32:12,934
+o peor, dejar a 10 mil personas
+en la oscuridad para siempre.
+
+420
+00:32:15,061 --> 00:32:17,606
+Pon a cinco de nuestros hombres
+más fuertes en cada panel.
+
+421
+00:32:17,606 --> 00:32:21,735
+Una vez abiertos,
+reduciré el generador al 50 %,
+
+422
+00:32:21,735 --> 00:32:24,154
+pero no lo detendré. Todavía no.
+
+423
+00:32:26,239 --> 00:32:27,657
+Identificaremos el problema.
+
+424
+00:32:27,657 --> 00:32:29,868
+Luego Jules me hará una señal
+cuando esté lista.
+
+425
+00:32:30,577 --> 00:32:31,828
+En ese momento,
+
+426
+00:32:31,828 --> 00:32:34,539
+cerraré la válvula de vapor
+y detendré el generador.
+
+427
+00:32:36,124 --> 00:32:39,669
+Los 30 minutos
+comienzan en ese momento. ¿De acuerdo?
+
+428
+00:32:40,212 --> 00:32:41,379
+Sí.
+
+429
+00:32:42,130 --> 00:32:44,466
+Ahora, Jules,
+¿a quién quieres allí arriba contigo?
+
+430
+00:32:50,180 --> 00:32:53,058
+De acuerdo. ¡Vamos! ¡Adelante!
+
+431
+00:33:16,915 --> 00:33:18,416
+Así es. Aléjate de la escalera.
+
+432
+00:33:18,416 --> 00:33:22,170
+Aléjate de la es... Vuelva adentro,
+por favor, señor. Señora... Gracias.
+
+433
+00:33:31,721 --> 00:33:32,722
+Adelante.
+
+434
+00:33:34,599 --> 00:33:35,934
+Cambiando al respaldo.
+
+435
+00:34:29,820 --> 00:34:31,155
+El respaldo funciona bien.
+
+436
+00:34:34,242 --> 00:34:36,202
+Reducción del vapor al 50 %.
+
+437
+00:34:47,463 --> 00:34:49,423
+Adelante, empecemos con los paneles.
+
+438
+00:35:31,091 --> 00:35:32,092
+Es increíble.
+
+439
+00:35:35,470 --> 00:35:36,471
+De acuerdo.
+
+440
+00:35:37,430 --> 00:35:38,557
+Ahí es donde tengo que ir.
+
+441
+00:35:57,576 --> 00:35:59,411
+¡Oye! ¿Estás bien?
+
+442
+00:36:01,329 --> 00:36:03,582
+Cuando subamos, nos vamos a meter.
+
+443
+00:36:03,582 --> 00:36:05,000
+Arreglaremos lo que podamos.
+
+444
+00:36:05,000 --> 00:36:08,003
+Si es algo más grande, lo mandamos
+abajo para que lo arreglen. ¿Sí?
+
+445
+00:36:08,670 --> 00:36:10,505
+- Bien.
+- ¿Sí?
+
+446
+00:36:10,505 --> 00:36:11,590
+De acuerdo.
+
+447
+00:36:13,758 --> 00:36:15,719
+- ¡Jules!
+- ¿Sí?
+
+448
+00:36:16,261 --> 00:36:17,429
+Me das la señal.
+
+449
+00:36:30,317 --> 00:36:31,318
+De acuerdo.
+
+450
+00:36:33,028 --> 00:36:34,029
+Adelante.
+
+451
+00:36:34,779 --> 00:36:38,033
+<i>Cierre de escotilla.
+Los 30 minutos comienzan ahora.</i>
+
+452
+00:37:13,568 --> 00:37:14,861
+¡Ahora!
+
+453
+00:37:33,296 --> 00:37:34,506
+¡Alto! Estamos aquí.
+
+454
+00:37:36,007 --> 00:37:37,133
+¡Muy bien!
+
+455
+00:37:39,844 --> 00:37:42,097
+Carajo. Es malo.
+
+456
+00:37:42,639 --> 00:37:43,640
+De acuerdo.
+
+457
+00:37:47,269 --> 00:37:49,938
+Bien. El problema es esta hoja.
+Vamos a enviarla abajo.
+
+458
+00:37:49,938 --> 00:37:52,816
+Arreglaremos el resto aquí.
+Sube el equipo.
+
+459
+00:37:52,816 --> 00:37:54,943
+Teddy, ¡súbelo!
+
+460
+00:38:01,908 --> 00:38:03,577
+¡Coop, te necesito del otro lado!
+
+461
+00:38:14,254 --> 00:38:16,047
+Coop, necesito que revises eso.
+
+462
+00:38:16,548 --> 00:38:18,091
+Bien, chicos. ¡Va subiendo ahora!
+
+463
+00:38:26,224 --> 00:38:27,225
+Vamos.
+
+464
+00:38:35,150 --> 00:38:38,361
+¿Sabes que digo que hacer las cosas bien
+es mejor que hacerlas rápido?
+
+465
+00:38:38,862 --> 00:38:39,863
+Ahora necesito ambas.
+
+466
+00:38:39,863 --> 00:38:41,239
+¿Dónde está la herramienta?
+
+467
+00:38:45,368 --> 00:38:46,661
+Vamos.
+
+468
+00:38:48,622 --> 00:38:50,832
+Bien, Coop. Agarra el otro extremo.
+
+469
+00:38:53,335 --> 00:38:54,836
+- Bien, ¿listo? Jala.
+- Sí.
+
+470
+00:38:55,670 --> 00:38:56,796
+Jala.
+
+471
+00:38:57,339 --> 00:38:58,840
+Sí. Lo tengo.
+
+472
+00:39:00,592 --> 00:39:03,303
+Bájalo. Necesito arreglar
+las hojas más pequeñas.
+
+473
+00:39:16,149 --> 00:39:17,400
+¡Estamos listos!
+
+474
+00:39:21,321 --> 00:39:23,156
+- ¡Oye!¿Lo tienes?
+- Sí.
+
+475
+00:39:23,740 --> 00:39:25,200
+- No estoy seguro...
+- ¿Sí?
+
+476
+00:39:25,200 --> 00:39:26,576
+¡Cuidado!
+
+477
+00:39:27,661 --> 00:39:29,871
+- ¡Cuidado!
+- ¡Dios mío! ¡No!
+
+478
+00:39:32,040 --> 00:39:34,042
+- ¿Están bien?
+- ¡Sí!
+
+479
+00:39:34,042 --> 00:39:37,254
+Levanten esa cosa y enderécenla
+para que Jules pueda volverla a meter.
+
+480
+00:39:37,254 --> 00:39:41,675
+¡Oye, Cooper! ¡Cooper, concéntrate!
+Te necesito en los pernos. ¡Vamos! ¡Ahora!
+
+481
+00:39:41,675 --> 00:39:45,554
+¡Vamos! ¡Hagámoslo! Vamos, muchachos.
+
+482
+00:39:47,514 --> 00:39:48,723
+¡Bien, Cooper!
+
+483
+00:39:54,521 --> 00:39:56,314
+La temperatura sigue estable.
+
+484
+00:40:04,489 --> 00:40:05,657
+¡Papá!
+
+485
+00:40:07,742 --> 00:40:08,827
+¡Papá!
+
+486
+00:40:09,995 --> 00:40:11,204
+¡Papá!
+
+487
+00:40:13,707 --> 00:40:15,000
+Está bien, hijo.
+
+488
+00:40:17,168 --> 00:40:18,587
+Está demasiado oscuro.
+
+489
+00:40:18,587 --> 00:40:19,754
+No pasa nada.
+
+490
+00:40:20,839 --> 00:40:22,215
+No te preocupe.
+
+491
+00:40:22,215 --> 00:40:25,510
+No hay nada que temer a la oscuridad, ¿sí?
+
+492
+00:40:25,510 --> 00:40:28,138
+Papá se quedará contigo
+hasta que te duermas.
+
+493
+00:40:36,771 --> 00:40:38,857
+<i>Aquí LaFontaine en el 80.</i>
+
+494
+00:40:38,857 --> 00:40:40,609
+<i>Todo sereno hasta las granjas.</i>
+
+495
+00:40:41,318 --> 00:40:42,360
+Entendido.
+
+496
+00:40:53,413 --> 00:40:54,581
+No puedo dormir.
+
+497
+00:40:58,543 --> 00:40:59,544
+Entonces no lo hagas.
+
+498
+00:41:13,266 --> 00:41:16,937
+Diez mil personas no están dormidas ahora,
+
+499
+00:41:18,438 --> 00:41:20,315
+con miedo de que la energía no volverá.
+
+500
+00:41:22,651 --> 00:41:26,363
+Temen que las aguas subterráneas
+suban y se ahoguen.
+
+501
+00:41:27,113 --> 00:41:31,952
+O que un montón de locos lleguen
+por arriba y suelten el veneno.
+
+502
+00:41:33,453 --> 00:41:38,041
+Siempre hemos estado
+a una falla catastrófica
+
+503
+00:41:38,041 --> 00:41:39,334
+del final de todo,
+
+504
+00:41:40,460 --> 00:41:42,546
+y esto hace que todos
+estén consciente de ello.
+
+505
+00:41:43,880 --> 00:41:45,423
+Quizá eso no sea malo.
+
+506
+00:41:46,967 --> 00:41:49,010
+Te hace apreciar el día que tienes.
+
+507
+00:41:50,887 --> 00:41:53,557
+Sé que crees que nombrar
+a Nichols es un error,
+
+508
+00:41:53,557 --> 00:41:57,602
+pero algo en ella
+me hace tener esperanzas.
+
+509
+00:41:58,353 --> 00:42:02,399
+Con la esperanza de ceder las riendas
+a otra persona.
+
+510
+00:42:02,941 --> 00:42:04,276
+¿Considerarías jubilarte?
+
+511
+00:42:05,944 --> 00:42:07,529
+¿Para hacer qué? ¿Sentarte a tejer?
+
+512
+00:42:08,572 --> 00:42:09,614
+¿Por qué no?
+
+513
+00:42:10,448 --> 00:42:13,285
+Tal vez abrir una tienda
+
+514
+00:42:14,661 --> 00:42:17,205
+justo al lado de un tipo que hace dibujos.
+
+515
+00:42:24,004 --> 00:42:26,840
+Sabes que no vine hasta aquí
+solo para conocer a Nichols.
+
+516
+00:42:26,840 --> 00:42:29,301
+Quería pasar tiempo contigo.
+
+517
+00:42:36,892 --> 00:42:38,602
+Sé que por eso vine.
+
+518
+00:43:02,876 --> 00:43:06,129
+¡Carajo! ¡Jefe!
+
+519
+00:43:06,713 --> 00:43:08,632
+Se sobrecalienta más rápido de lo pensado.
+
+520
+00:43:08,632 --> 00:43:09,925
+¿Cuánto tiempo?
+
+521
+00:43:10,884 --> 00:43:12,219
+¿Unos minutos, tal vez?
+
+522
+00:43:18,350 --> 00:43:20,310
+¡Jules, tienes que salir!
+
+523
+00:43:20,310 --> 00:43:22,896
+¡Sólo tenemos unos minutos! ¡Jules!
+
+524
+00:43:23,813 --> 00:43:25,232
+¿Qué? ¿Qué dijo?
+
+525
+00:43:25,232 --> 00:43:27,400
+- Solo tenemos unos minutos.
+- ¿Qué? No.
+
+526
+00:43:27,400 --> 00:43:29,069
+No, Knox. ¡Necesitamos más tiempo!
+
+527
+00:43:29,069 --> 00:43:30,570
+- ¡Estamos al límite!
+- ¿Ya?
+
+528
+00:43:30,570 --> 00:43:33,657
+¡La temperatura subió más de lo esperado!
+¡Hay que abrir la válvula!
+
+529
+00:43:33,657 --> 00:43:37,118
+¡No! ¡No sin la hoja del rotor! Carajo.
+
+530
+00:43:38,370 --> 00:43:40,747
+¡Teddy!
+
+531
+00:43:41,790 --> 00:43:43,792
+- ¡Lo estamos haciendo!
+- ¡Hazlo más rápido!
+
+532
+00:43:47,546 --> 00:43:49,172
+- ¿Cómo va?
+- Está empeorando.
+
+533
+00:43:49,631 --> 00:43:50,632
+Carajo.
+
+534
+00:43:51,925 --> 00:43:52,926
+Mierda.
+
+535
+00:43:58,014 --> 00:43:59,224
+¿Qué hacemos?
+
+536
+00:43:59,933 --> 00:44:01,351
+De acuerdo. Hazte cargo.
+
+537
+00:44:01,351 --> 00:44:02,811
+Sigue trabajando, ¿sí?
+
+538
+00:44:02,811 --> 00:44:04,729
+- Es como te enseñé, ¿sí?
+- Está bien.
+
+539
+00:44:04,729 --> 00:44:07,607
+Cuando la hoja suba,
+la colocas y atornillas.
+
+540
+00:44:07,607 --> 00:44:09,859
+Que esté en el ángulo correcto
+o estamos jodidos.
+
+541
+00:44:09,859 --> 00:44:12,737
+- Pero no puedo hacer esto con...
+- No. Mírame.
+
+542
+00:44:12,737 --> 00:44:15,156
+Estás preparado. Puedes hacerlo, ¿sí?
+
+543
+00:44:17,617 --> 00:44:18,618
+De acuerdo.
+
+544
+00:44:25,166 --> 00:44:26,167
+¡Teddy!
+
+545
+00:44:27,210 --> 00:44:28,837
+- ¡Otro minuto!
+- ¡La necesita ahora!
+
+546
+00:44:28,837 --> 00:44:30,505
+- ¡Súbela!
+- ¡Lo intento!
+
+547
+00:44:30,505 --> 00:44:33,758
+- Jules, ¿a dónde vas?
+- ¡Voy a intentar ganar más tiempo!
+
+548
+00:44:39,264 --> 00:44:40,348
+¡Mierda!
+
+549
+00:44:47,105 --> 00:44:49,482
+Yo me encargo.
+Asegúrate de que no haga nada estúpido.
+
+550
+00:45:03,455 --> 00:45:04,664
+¿Jules? ¿Qué haces, Jules?
+
+551
+00:45:04,664 --> 00:45:06,207
+Es la única manera de enfriarlo.
+
+552
+00:45:07,292 --> 00:45:09,044
+Cuando grite, enciéndelo.
+
+553
+00:45:09,044 --> 00:45:10,170
+¿Vas a entrar ahí?
+
+554
+00:45:13,465 --> 00:45:14,466
+Mierda.
+
+555
+00:45:26,603 --> 00:45:28,104
+¡Ahora! ¡Enciéndelo!
+
+556
+00:45:46,289 --> 00:45:49,709
+Se está enfriando.
+¡Sí, Jules! Está funcionando.
+
+557
+00:45:50,585 --> 00:45:54,756
+Bien. Perra loca.
+
+558
+00:46:24,286 --> 00:46:25,954
+Quédese adentro, señor, por favor.
+
+559
+00:46:28,039 --> 00:46:29,040
+Gracias, señor.
+
+560
+00:46:40,343 --> 00:46:42,846
+¡Auxilio! ¡Que alguien me ayude!
+
+561
+00:46:44,014 --> 00:46:46,308
+¡Ayuda!
+
+562
+00:46:46,892 --> 00:46:49,477
+¡Que alguien me ayude! ¡Auxilio!
+
+563
+00:46:50,812 --> 00:46:53,106
+Intentaba llegar a casa y se fue la luz.
+
+564
+00:46:53,106 --> 00:46:57,402
+Está bien, señor. Ya lo ayudamos.
+Venga. Beson lo llevará a salvo.
+
+565
+00:46:58,320 --> 00:46:59,321
+Gracias.
+
+566
+00:47:19,716 --> 00:47:21,301
+¡Teddy, la hoja!
+
+567
+00:47:21,301 --> 00:47:22,427
+¡Otro minuto!
+
+568
+00:47:26,514 --> 00:47:28,350
+Mierda.
+
+569
+00:47:28,350 --> 00:47:30,143
+Vamos, Jules.
+
+570
+00:47:30,143 --> 00:47:31,811
+Dame otros minutos. Vamos.
+
+571
+00:47:37,651 --> 00:47:39,152
+¡Vamos!
+
+572
+00:47:43,365 --> 00:47:45,283
+¡Jefe! ¡Knox!
+
+573
+00:47:45,283 --> 00:47:47,077
+Teddy, ¡carajo, date prisa!
+
+574
+00:47:47,077 --> 00:47:48,703
+¡Ya casi está!
+
+575
+00:47:55,752 --> 00:47:56,753
+Carajo.
+
+576
+00:47:57,212 --> 00:47:58,213
+Ya va.
+
+577
+00:48:01,466 --> 00:48:04,010
+¡Más rápido! ¡Estamos al límite otra vez!
+
+578
+00:48:04,010 --> 00:48:05,095
+¡Arriba!
+
+579
+00:48:12,310 --> 00:48:13,520
+¡Vamos!
+
+580
+00:48:16,106 --> 00:48:19,025
+¡Jules! ¡La cuchilla va hacia Coop!
+
+581
+00:48:34,291 --> 00:48:35,875
+¡Alto! ¡Lo tengo!
+
+582
+00:48:50,015 --> 00:48:51,016
+¡Vamos!
+
+583
+00:48:53,518 --> 00:48:54,728
+¡Date prisa!
+
+584
+00:48:56,479 --> 00:48:57,480
+¡Knox!
+
+585
+00:49:04,112 --> 00:49:05,113
+Carajo.
+
+586
+00:49:07,282 --> 00:49:10,076
+¡Cooper! ¡Pon esa hoja! ¡Va a explotar!
+
+587
+00:49:14,247 --> 00:49:17,542
+¡Vamos, Coop! ¡Tienes que colocarla!
+
+588
+00:49:21,421 --> 00:49:24,424
+¡Shirley! ¡Vamos, Shirley!
+
+589
+00:49:27,552 --> 00:49:29,471
+¡Carajo! ¡Todavía está ahí!
+
+590
+00:49:29,471 --> 00:49:31,848
+¡Tenemos que sacarla! ¡Mierda!
+
+591
+00:49:32,641 --> 00:49:33,683
+¡Mierda!
+
+592
+00:49:43,568 --> 00:49:44,569
+¡Vamos!
+
+593
+00:49:51,326 --> 00:49:52,494
+¡Vamos!
+
+594
+00:49:55,664 --> 00:49:58,416
+¡Vamos! ¡Auxilio!
+
+595
+00:50:00,210 --> 00:50:02,546
+Vamos, Jules. Sólo dame unos segundos más.
+
+596
+00:50:13,306 --> 00:50:14,307
+Joder.
+
+597
+00:50:15,934 --> 00:50:18,728
+¡Cooper! ¡Sal ahora mismo!
+
+598
+00:50:18,728 --> 00:50:20,355
+¡Ya casi lo tengo!
+
+599
+00:50:20,355 --> 00:50:21,982
+¡Sáquenla! ¡Tenemos que sacarla!
+
+600
+00:50:21,982 --> 00:50:24,067
+¡Jefe, se está ahogando!
+
+601
+00:50:28,822 --> 00:50:29,864
+Vamos.
+
+602
+00:50:35,078 --> 00:50:36,246
+¡Hecho!
+
+603
+00:50:36,246 --> 00:50:38,957
+¡Bájenlo! ¡Saca a Jules ahora!
+
+604
+00:50:46,214 --> 00:50:47,591
+- ¡Venga ya!
+- Carajo.
+
+605
+00:50:48,425 --> 00:50:50,135
+¡Ve! ¡Sáquenla!
+
+606
+00:50:50,135 --> 00:50:52,012
+¡Agárrenla! ¡Jalen!
+
+607
+00:50:56,850 --> 00:50:58,560
+- ¿Jules?
+- ¡Vamos, Jules!
+
+608
+00:51:02,647 --> 00:51:03,648
+¡Vamos!
+
+609
+00:51:08,278 --> 00:51:09,279
+Mierda.
+
+610
+00:51:26,338 --> 00:51:28,548
+¡Está fuera! ¡La cámara está despejada!
+
+611
+00:52:08,213 --> 00:52:10,215
+- ¿Lo lograron?
+- Sí, tal vez... eso creo.
+
+612
+00:52:24,312 --> 00:52:25,897
+Vamos.
+
+613
+00:52:36,241 --> 00:52:39,536
+Carajo.
+
+614
+00:53:56,071 --> 00:54:00,242
+Espero que no esperes que te alabe
+por hacer tu trabajo.
+
+615
+00:54:00,242 --> 00:54:02,160
+Vine a decir que lamento lo que dije.
+
+616
+00:54:04,788 --> 00:54:08,333
+No te equivocaste.
+Hace mucho que no salgo de aquí.
+
+617
+00:54:08,333 --> 00:54:11,461
+Sí, pero fracasé y me desquité contigo.
+
+618
+00:54:12,546 --> 00:54:13,547
+¿Cómo fallaste?
+
+619
+00:54:13,547 --> 00:54:16,216
+Intenté hacer lo que George quería
+y no pude.
+
+620
+00:54:19,553 --> 00:54:22,013
+La primera vez que oí hablar de ti
+y del informático,
+
+621
+00:54:22,013 --> 00:54:24,516
+No sabía qué pensar.
+
+622
+00:54:25,308 --> 00:54:27,644
+Y entonces Shirley
+me dijo que te hacía sonreír.
+
+623
+00:54:33,275 --> 00:54:34,276
+Sí.
+
+624
+00:54:35,819 --> 00:54:37,529
+Siento que no hayas podido conocerlo.
+
+625
+00:54:38,905 --> 00:54:40,156
+¿No te dijo?
+
+626
+00:54:41,116 --> 00:54:43,243
+No, está bien. Le dije que no lo hiciera.
+
+627
+00:54:43,243 --> 00:54:46,580
+Lo mandé llamar. Le dije que tenía
+un problema con mi computadora,
+
+628
+00:54:46,580 --> 00:54:48,498
+que yo no causé porque yo lo construí.
+
+629
+00:54:49,457 --> 00:54:53,169
+Cuando llegó aquí,
+le dije que si hacía algo para lastimarte,
+
+630
+00:54:53,795 --> 00:54:55,630
+desaparecería sin dejar rastro.
+
+631
+00:55:00,218 --> 00:55:01,219
+Tú...
+
+632
+00:55:07,934 --> 00:55:08,935
+Antes de irme...
+
+633
+00:55:08,935 --> 00:55:10,020
+A aceptar un trabajo
+
+634
+00:55:10,020 --> 00:55:12,105
+para el que claramente
+no estás cualificada.
+
+635
+00:55:12,105 --> 00:55:15,191
+Vaya. Siempre he disfrutado
+tus palabras de ánimo.
+
+636
+00:55:20,906 --> 00:55:22,115
+¿Qué es eso?
+
+637
+00:55:22,657 --> 00:55:24,576
+No lo sé.
+Lo encontré en las cosas de George.
+
+638
+00:55:25,660 --> 00:55:27,287
+¿Trajiste una reliquia a mi taller?
+
+639
+00:55:27,287 --> 00:55:29,497
+Te encanta descubrir
+cómo funcionan las cosas.
+
+640
+00:55:29,915 --> 00:55:31,291
+También me gusta no morir.
+
+641
+00:55:31,291 --> 00:55:32,792
+No te mandarían a limpiar.
+
+642
+00:55:32,792 --> 00:55:35,337
+Solo vas a salir de este lugar
+con los pies por delante.
+
+643
+00:55:36,630 --> 00:55:37,923
+Gracias.
+
+644
+00:55:39,466 --> 00:55:42,093
+Como sea, si tienes un minuto,
+¿puedes averiguar qué es?
+
+645
+00:55:42,677 --> 00:55:43,720
+Claro.
+
+646
+00:55:46,306 --> 00:55:47,307
+Gracias.
+
+647
+00:55:50,977 --> 00:55:51,978
+Sí.
+
+648
+00:56:01,154 --> 00:56:02,280
+Bueno.
+
+649
+00:56:06,493 --> 00:56:07,494
+Gracias...
+
+650
+00:56:11,706 --> 00:56:12,707
+por todo.
+
+651
+00:56:17,629 --> 00:56:18,672
+Enviaré mensajes.
+
+652
+00:56:19,673 --> 00:56:21,883
+El alguacil tiene radio.
+Estaré escuchando.
+
+653
+00:56:21,883 --> 00:56:23,260
+Sí, claro que sí.
+
+654
+00:56:24,594 --> 00:56:25,595
+Otra cosa.
+
+655
+00:56:29,558 --> 00:56:31,142
+No termines como George.
+
+656
+00:56:52,747 --> 00:56:53,748
+¿Me das un poco de agua?
+
+657
+00:56:53,748 --> 00:56:54,833
+Sí.
+
+658
+00:57:03,216 --> 00:57:04,384
+Alcaldesa Jahns,
+
+659
+00:57:05,927 --> 00:57:08,680
+por favor, dígame por qué el Silo
+pasó la noche en la oscuridad.
+
+660
+00:57:09,264 --> 00:57:12,017
+- Porque era de noche.
+- Que útil, oficial. Gracias.
+
+661
+00:57:12,017 --> 00:57:15,854
+Era crucial que arregláramos el generador.
+Tomé la decisión.
+
+662
+00:57:15,854 --> 00:57:19,190
+¿Hiciste un trato con Juliette Nichols,
+la futura alguacil?
+
+663
+00:57:20,233 --> 00:57:21,693
+¿Cómo te enteraste, Bernard?
+
+664
+00:57:21,693 --> 00:57:25,238
+Es una ladrona de mecánica.
+
+665
+00:57:25,238 --> 00:57:26,656
+Lo hará genial.
+
+666
+00:57:26,656 --> 00:57:28,533
+Diez mil vidas, Ruth.
+
+667
+00:57:30,160 --> 00:57:32,203
+Y todas las generaciones siguientes.
+
+668
+00:57:32,913 --> 00:57:34,706
+Ruego a los fundadores que tengas razón.
+
+669
+00:57:48,053 --> 00:57:53,016
+Es raro. No he dejado mecánica
+desde que llegué aquí.
+
+670
+00:57:53,683 --> 00:57:57,270
+Ya es hora. Hay algunas cosas
+que tienes que enfrentar allá arriba.
+
+671
+00:57:59,689 --> 00:58:00,690
+Sí.
+
+672
+00:58:00,690 --> 00:58:03,610
+Y cuando te hartes de los de arriba,
+vuelve aquí.
+
+673
+00:58:03,610 --> 00:58:06,404
+Estaremos esperando la visita
+de nuestra alguacil.
+
+674
+00:58:08,406 --> 00:58:09,407
+Vamos.
+
+675
+00:58:12,535 --> 00:58:13,662
+Lo harás genial.
+
+676
+00:58:14,663 --> 00:58:16,373
+Sí.
+
+677
+00:58:18,291 --> 00:58:19,292
+Ve.
+
+678
+00:58:33,431 --> 00:58:35,308
+<i>¿Qué hay de encontrar la verdad?</i>
+
+679
+00:58:36,017 --> 00:58:39,771
+<i>Cuando encuentre algo, te informaré.</i>
+
+680
+00:58:39,771 --> 00:58:40,855
+Una señal.
+
+681
+00:58:42,023 --> 00:58:43,066
+<i>Te lo prometo.</i>
+
+682
+00:58:45,360 --> 00:58:47,779
+{\an8}Verdad
+
+683
+00:59:16,725 --> 00:59:18,852
+{\an8}Juliette Nichols
+NOMBRE DEL ALGUACIL
+
+684
+00:59:19,811 --> 00:59:22,063
+Espero que no estés cometiendo
+un terrible error.
+
+685
+00:59:23,189 --> 00:59:24,190
+No es así.
+
+686
+00:59:25,609 --> 00:59:29,571
+- ¿Estás bien? ¿Sí?
+- ¿Estoy bien?
+
+687
+00:59:30,322 --> 00:59:31,323
+¿Segura?
+
+688
+00:59:39,331 --> 00:59:42,918
+¿Por qué no tomas una botella de vino
+y me llevas a mi apartamento?
+
+689
+00:59:42,918 --> 00:59:44,002
+Sí, señora.
+
+690
+00:59:45,295 --> 00:59:47,088
+Solo tengo que ir al baño.
+
+691
+00:59:59,142 --> 01:00:01,394
+- ¿Cuál?
+- La que quieras.
+
+692
+01:00:06,691 --> 01:00:11,112
+Oye, Ruth,
+¿crees que una botella sea suficiente?
+
+693
+01:00:14,157 --> 01:00:15,742
+Quizá me lleve dos, ¿no?
+
+694
+01:00:17,202 --> 01:00:18,245
+Nosotros...
+
+695
+01:00:18,870 --> 01:00:19,871
+Ruth.
+
+696
+01:00:20,413 --> 01:00:21,623
+¿Ruth?
+
+697
+01:00:25,210 --> 01:00:26,211
+¡Ruth!
+
+698
+01:00:32,175 --> 01:00:33,176
+Ruth.
+
+699
+01:00:33,677 --> 01:00:34,678
+Ruth.
+
+700
+01:00:35,262 --> 01:00:36,596
+¡Ruth!
+
+701
+01:00:46,690 --> 01:00:47,816
+¡Ruth!
+
+702
+01:00:49,401 --> 01:00:50,402
+Ruth.
+
+703
+01:00:50,944 --> 01:00:51,945
+¿Qué pasó?
+
+704
+01:00:53,697 --> 01:00:55,949
+Ruth. No.
+
+705
+01:00:56,449 --> 01:00:57,617
+¡Ayuda!
+
+706
+01:00:57,617 --> 01:00:59,119
+¡Alguien, por favor!
+
+707
+01:00:59,119 --> 01:01:01,413
+¡Alguien!
+
+708
+01:01:53,924 --> 01:01:58,926
+- <font color="#D81D1D">Si te gusto el subtitulo regalame un like y suscripción Youtube </font> -
+-- <font color="#138CE9">EasyTechOficial</font> --
+
