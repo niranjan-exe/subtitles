@@ -1,0 +1,994 @@
+﻿1
+00:00:57,140 --> 00:00:59,809
+Cid a intérêt à nous donner un bonus
+pour cette mission.
+
+2
+00:00:59,893 --> 00:01:01,561
+C'était pas si terrible.
+
+3
+00:01:02,687 --> 00:01:06,900
+Elle a omis de mentionner
+qu'on atterrirait au milieu de Gundarks.
+
+4
+00:01:06,983 --> 00:01:10,236
+Ce n'est pas la première fois
+qu'elle omet des détails importants.
+
+5
+00:01:32,717 --> 00:01:35,011
+Depuis quand
+cet endroit est si populaire ?
+
+6
+00:01:35,095 --> 00:01:36,763
+Qui sont ces gens ?
+
+7
+00:01:36,846 --> 00:01:39,099
+C'est pas notre problème. Trouvons Cid.
+
+8
+00:01:44,145 --> 00:01:45,980
+Où vous allez, comme ça ?
+
+9
+00:01:52,737 --> 00:01:55,782
+C'est impoli d'entrer
+dans mon bureau sans frapper.
+
+10
+00:01:55,865 --> 00:01:58,201
+C'est pas votre bureau.
+
+11
+00:01:59,369 --> 00:02:00,537
+Détrompez-vous.
+
+12
+00:02:01,121 --> 00:02:03,957
+- Ruby ?
+- C'est mon animal de compagnie.
+
+13
+00:02:04,958 --> 00:02:06,626
+Que faites-vous avec elle ?
+
+14
+00:02:07,252 --> 00:02:09,504
+Je l'ai payée. Cid me l'a livrée.
+
+15
+00:02:10,088 --> 00:02:11,589
+Où est Cid ?
+
+16
+00:02:11,673 --> 00:02:13,425
+Elle n'est plus là.
+
+17
+00:02:13,508 --> 00:02:17,595
+Ce bar et Ord Mantell
+sont désormais mon territoire.
+
+18
+00:02:18,555 --> 00:02:21,683
+Mais si vous cherchez du travail,
+vous pourriez m'être utiles.
+
+19
+00:02:23,226 --> 00:02:24,519
+On va y réfléchir.
+
+20
+00:02:25,770 --> 00:02:26,855
+Faites donc ça.
+
+21
+00:02:29,482 --> 00:02:31,151
+On quitte Ord Mantell.
+
+22
+00:02:31,234 --> 00:02:34,612
+Tech, prépare le vaisseau.
+On va chercher des vivres.
+
+23
+00:02:34,696 --> 00:02:36,072
+Et Cid ?
+
+24
+00:02:36,740 --> 00:02:38,950
+Il entendait quoi par
+"Elle n'est plus là" ?
+
+25
+00:02:39,034 --> 00:02:40,702
+Vu le ton de sa voix,
+
+26
+00:02:40,785 --> 00:02:44,998
+il est plausible
+que Cid ait été évincée ou éliminée.
+
+27
+00:02:48,084 --> 00:02:50,170
+Il faut la retrouver et l'aider.
+
+28
+00:02:52,422 --> 00:02:54,799
+Au moins une qui se soucie de moi.
+
+29
+00:02:54,883 --> 00:02:56,551
+Venez ici. Tout de suite.
+
+30
+00:02:59,429 --> 00:03:01,806
+Vous avez vu Roland.
+
+31
+00:03:01,890 --> 00:03:06,561
+C'est un ancien client,
+et le fils de la criminelle Isa Durand.
+
+32
+00:03:06,644 --> 00:03:10,982
+Roland essaie de se faire un nom
+en s'associant aux Pykes.
+
+33
+00:03:11,066 --> 00:03:13,193
+Que fait-il sur Ord Mantell ?
+
+34
+00:03:13,276 --> 00:03:17,113
+Ce port relie
+de nombreuses routes de l'hyperespace.
+
+35
+00:03:17,197 --> 00:03:18,865
+L'idéal pour faire du trafic.
+
+36
+00:03:18,948 --> 00:03:21,576
+Mon bar est au cœur de l'action.
+
+37
+00:03:21,659 --> 00:03:24,788
+Roland a vu sa valeur et s'en est emparé.
+
+38
+00:03:25,705 --> 00:03:28,541
+Mais on va le lui reprendre.
+
+39
+00:03:29,125 --> 00:03:31,419
+- "On" ?
+- Si je perds, vous aussi.
+
+40
+00:03:31,503 --> 00:03:35,256
+N'oubliez pas les secrets que j'ai gardés.
+
+41
+00:03:35,340 --> 00:03:36,883
+Je crois qu'elle nous menace.
+
+42
+00:03:36,966 --> 00:03:38,301
+Quelle perspicacité.
+
+43
+00:03:38,885 --> 00:03:41,388
+Cid nous a aidés quand on en avait besoin.
+
+44
+00:03:41,471 --> 00:03:43,556
+Maintenant, elle a besoin de nous.
+
+45
+00:03:43,640 --> 00:03:45,475
+On peut pas lui tourner le dos.
+
+46
+00:03:46,267 --> 00:03:47,852
+Bien dit, minus.
+
+47
+00:03:49,604 --> 00:03:51,272
+Quel est le plan ?
+
+48
+00:03:53,900 --> 00:03:57,612
+D'après mes sources,
+un acheteur doit voir Roland ce soir
+
+49
+00:03:57,696 --> 00:04:01,825
+pour racheter une cargaison d'épice
+qu'il stocke dans mon bureau.
+
+50
+00:04:01,908 --> 00:04:05,286
+Vous voulez rompre la chaîne
+en volant la marchandise
+
+51
+00:04:05,370 --> 00:04:07,372
+pour saboter son accord.
+
+52
+00:04:07,455 --> 00:04:09,082
+Bravo, binoclard.
+
+53
+00:04:09,165 --> 00:04:10,834
+Quand les Pykes viendront,
+
+54
+00:04:10,917 --> 00:04:14,671
+Roland ne pourra pas les payer,
+et il deviendra leur problème.
+
+55
+00:04:27,017 --> 00:04:28,768
+En avant, les durs à cuire.
+
+56
+00:04:34,190 --> 00:04:35,567
+Où on est ?
+
+57
+00:04:35,650 --> 00:04:38,403
+Dans les vieux tunnels miniers
+d'Ord Mantell.
+
+58
+00:04:39,112 --> 00:04:41,364
+Ces rails passent sous la ville.
+
+59
+00:04:41,448 --> 00:04:45,118
+On va les emprunter
+pour rejoindre mon bar et voler l'épice.
+
+60
+00:04:45,201 --> 00:04:47,495
+Pourquoi on n'y va pas directement ?
+
+61
+00:04:47,579 --> 00:04:48,830
+On neutralisera les gardes.
+
+62
+00:04:48,913 --> 00:04:50,832
+Personne ne doit savoir
+qu'on est impliqués.
+
+63
+00:04:50,915 --> 00:04:52,417
+Roland est une chose,
+
+64
+00:04:52,500 --> 00:04:55,128
+mais ne nous mettons pas les Pykes à dos.
+
+65
+00:04:55,211 --> 00:04:58,381
+Ces chariots transporteront
+les caisses d'épice.
+
+66
+00:04:58,465 --> 00:05:01,634
+Ils sont usés,
+mais je peux réparer les moteurs.
+
+67
+00:05:01,718 --> 00:05:03,636
+Non. Les moteurs font trop de bruit.
+
+68
+00:05:03,720 --> 00:05:07,015
+C'est une mission furtive.
+C'est votre rayon, non ?
+
+69
+00:05:07,557 --> 00:05:10,143
+Minus et binoclard, suivez-moi.
+
+70
+00:05:44,344 --> 00:05:45,428
+Écoutez-moi bien.
+
+71
+00:05:46,012 --> 00:05:50,308
+Je ne veux pas entendre un seul bruit
+une fois ces portes franchies.
+
+72
+00:05:50,392 --> 00:05:52,852
+Il ne faut pas réveiller la ruche.
+
+73
+00:05:52,936 --> 00:05:54,145
+La quoi ?
+
+74
+00:05:54,896 --> 00:05:59,067
+Il y a un léger problème d'infestation
+dans les grottes.
+
+75
+00:05:59,818 --> 00:06:02,404
+Les bestioles nous font pas peur.
+
+76
+00:06:02,487 --> 00:06:05,740
+Ce ne sera pas un souci
+si tout le monde la boucle.
+
+77
+00:06:06,408 --> 00:06:08,076
+Ouvrez la porte, le costaud.
+
+78
+00:06:46,781 --> 00:06:48,116
+C'était quoi ?
+
+79
+00:06:57,292 --> 00:06:59,169
+Qu'est-ce que j'ai dit ?
+
+80
+00:07:00,003 --> 00:07:01,921
+Je l'ai pas fait exprès.
+
+81
+00:07:24,569 --> 00:07:26,237
+Avancez.
+
+82
+00:07:46,800 --> 00:07:47,967
+On y est.
+
+83
+00:07:53,181 --> 00:07:57,018
+Cette échelle mène à mon bureau. Grimpez.
+
+84
+00:07:57,102 --> 00:08:00,814
+Comment être sûrs que Roland n'y est pas ?
+
+85
+00:08:00,897 --> 00:08:02,649
+Je m'en suis occupée.
+
+86
+00:08:52,615 --> 00:08:53,783
+Ruby ?
+
+87
+00:08:54,492 --> 00:08:57,412
+Ne restez pas plantés là. Retrouvez-la !
+
+88
+00:09:10,133 --> 00:09:11,551
+La voie est libre.
+
+89
+00:09:28,151 --> 00:09:30,236
+Moi qui trouvais Wrecker désordonné.
+
+90
+00:09:30,320 --> 00:09:34,115
+Assez discuté. Roland va bientôt revenir.
+
+91
+00:09:38,453 --> 00:09:40,330
+Six caisses d'épice confirmées.
+
+92
+00:09:40,413 --> 00:09:41,831
+Faites passer.
+
+93
+00:09:58,223 --> 00:09:59,307
+Où est-elle ?
+
+94
+00:09:59,391 --> 00:10:01,393
+On a cherché partout.
+Elle est introuvable.
+
+95
+00:10:02,060 --> 00:10:03,269
+Continuez à chercher.
+
+96
+00:10:06,898 --> 00:10:08,149
+Fais-la taire.
+
+97
+00:10:08,733 --> 00:10:09,734
+Donne-lui à manger.
+
+98
+00:10:12,862 --> 00:10:14,322
+Bien joué.
+
+99
+00:10:19,911 --> 00:10:21,496
+Bon, nouveau plan !
+
+100
+00:10:22,580 --> 00:10:23,581
+Espèce de lâche !
+
+101
+00:10:29,713 --> 00:10:30,714
+Te voilà.
+
+102
+00:10:36,469 --> 00:10:37,595
+C'est bien.
+
+103
+00:10:38,638 --> 00:10:39,639
+Attrapez-les.
+
+104
+00:10:43,601 --> 00:10:44,644
+Le temps est écoulé.
+
+105
+00:10:44,728 --> 00:10:47,147
+- Chargez les dernières caisses.
+- Je referme la porte.
+
+106
+00:10:50,650 --> 00:10:53,361
+T'en fais pas.
+On va les attraper et les tuer.
+
+107
+00:10:53,445 --> 00:10:54,612
+Mais oui.
+
+108
+00:10:56,614 --> 00:10:59,034
+Dorénavant, reste près de moi.
+
+109
+00:11:20,722 --> 00:11:21,723
+L'épice.
+
+110
+00:11:22,849 --> 00:11:23,933
+Elle a disparu !
+
+111
+00:11:35,111 --> 00:11:37,822
+Ça fera l'affaire. Allons-y.
+
+112
+00:11:41,743 --> 00:11:42,994
+Ils sont là !
+
+113
+00:11:58,968 --> 00:12:00,220
+Ils approchent !
+
+114
+00:12:01,012 --> 00:12:04,349
+- Pas de tirs, j'ai dit.
+- C'est à eux qu'il faut le dire !
+
+115
+00:12:22,701 --> 00:12:25,829
+Si ces abrutis ont réveillé la ruche,
+on est tous morts.
+
+116
+00:12:30,875 --> 00:12:32,210
+C'est quoi, ce bruit ?
+
+117
+00:12:38,717 --> 00:12:40,385
+Ça me dit rien qui vaille.
+
+118
+00:12:47,058 --> 00:12:48,852
+Allumez les moteurs !
+
+119
+00:12:52,147 --> 00:12:54,441
+Il y en a d'autres !
+
+120
+00:13:10,206 --> 00:13:12,667
+Ils évitent la lumière.
+Allumez vos lampes.
+
+121
+00:13:23,094 --> 00:13:24,637
+Pas l'épice !
+
+122
+00:13:34,647 --> 00:13:36,441
+Oubliez l'épice. On s'en va !
+
+123
+00:13:37,150 --> 00:13:38,234
+Enferme-les, Wrecker.
+
+124
+00:13:55,251 --> 00:13:58,672
+Au moins, on s'est débarrassés de l'épice.
+
+125
+00:14:10,809 --> 00:14:15,397
+Je n'imaginais pas Cid
+aussi téméraire ou idiote.
+
+126
+00:14:15,897 --> 00:14:18,274
+C'était son idée.
+
+127
+00:14:18,358 --> 00:14:20,860
+- On le jure.
+- Oui, c'était une diversion.
+
+128
+00:14:20,944 --> 00:14:22,862
+On ne voulait aucun mal à Ruby. Promis.
+
+129
+00:14:22,946 --> 00:14:25,907
+Dites-moi où Cid a mis mon épice !
+
+130
+00:14:26,616 --> 00:14:30,120
+On n'en sait rien. Elle n'a rien dit.
+
+131
+00:14:31,037 --> 00:14:32,539
+Faites-les sortir.
+
+132
+00:14:32,622 --> 00:14:34,999
+Où est notre paiement ?
+
+133
+00:14:35,834 --> 00:14:37,836
+La marchandise a été volée.
+
+134
+00:14:38,336 --> 00:14:41,131
+Vous aurez votre argent,
+mais il me faut plus de temps.
+
+135
+00:14:41,214 --> 00:14:44,843
+On n'est pas venus
+pour entendre vos excuses.
+
+136
+00:14:44,926 --> 00:14:50,598
+Si vous ne tenez pas vos promesses,
+vous ne nous êtes plus d'aucune utilité.
+
+137
+00:14:53,685 --> 00:14:55,103
+Vous aurez votre argent.
+
+138
+00:14:55,186 --> 00:14:58,815
+Retournez sur Oba Diah et patientez.
+
+139
+00:14:59,566 --> 00:15:02,652
+Vous êtes dépassé, Durand.
+
+140
+00:15:03,319 --> 00:15:06,698
+Rectifiez cette grave erreur,
+
+141
+00:15:06,781 --> 00:15:13,288
+ou votre famille et vous découvrirez
+ce qu'est réellement la douleur.
+
+142
+00:15:27,260 --> 00:15:28,845
+On ne craint rien au bar ?
+
+143
+00:15:28,928 --> 00:15:32,182
+D'après Bolo et Ketch,
+les Pykes sont déjà venus pour Roland.
+
+144
+00:15:32,265 --> 00:15:35,685
+Je vous ai dit
+qu'ils n'appréciaient pas les dettes.
+
+145
+00:15:47,655 --> 00:15:50,325
+Vous voyez ?
+Ça a marché comme sur des roulettes.
+
+146
+00:15:50,408 --> 00:15:52,619
+Même mieux que prévu.
+
+147
+00:15:55,747 --> 00:15:58,708
+C'est elle. C'est celle que vous cherchez.
+
+148
+00:15:58,792 --> 00:16:03,546
+J'ai appris que vous aviez volé
+notre cargaison d'épice.
+
+149
+00:16:04,214 --> 00:16:09,678
+Rendez-la-nous,
+et on oubliera ce qu'il s'est passé.
+
+150
+00:16:09,761 --> 00:16:14,349
+J'ignore ce qu'il vous a dit,
+mais on n'a pas d'épice.
+
+151
+00:16:16,184 --> 00:16:17,227
+Tuez-les tous.
+
+152
+00:16:17,811 --> 00:16:22,107
+Attendez. On n'a pas l'épice sur nous,
+mais on sait où elle est.
+
+153
+00:16:22,190 --> 00:16:26,069
+Ma patience a ses limites.
+
+154
+00:16:26,152 --> 00:16:28,530
+Si vous savez où est l'épice,
+
+155
+00:16:28,613 --> 00:16:31,825
+vous n'aurez aucun mal à la récupérer.
+
+156
+00:16:31,908 --> 00:16:36,162
+L'enfant restera ici en attendant.
+
+157
+00:16:38,832 --> 00:16:40,250
+Pas question.
+
+158
+00:16:41,000 --> 00:16:43,586
+Vous n'avez pas bien compris.
+
+159
+00:16:43,670 --> 00:16:46,339
+Ce n'est pas une négociation.
+
+160
+00:16:49,968 --> 00:16:51,386
+Si vous permettez…
+
+161
+00:16:55,015 --> 00:16:57,767
+Vous ignorez à qui vous avez affaire.
+
+162
+00:16:57,851 --> 00:17:02,439
+Si vous ne baissez pas vos armes,
+on va tous le regretter.
+
+163
+00:17:03,690 --> 00:17:05,108
+Laissez-moi régler ça.
+
+164
+00:17:08,695 --> 00:17:11,197
+On ne peut pas leur laisser Omega.
+
+165
+00:17:11,281 --> 00:17:15,410
+On n'a pas le choix.
+Mais on sait où se trouve l'épice.
+
+166
+00:17:15,493 --> 00:17:18,663
+On va leur rendre,
+et tout ira bien pour la petite.
+
+167
+00:17:18,747 --> 00:17:21,875
+Les ptéro-créatures qu'on a vues
+dans la grotte sont des Irlings.
+
+168
+00:17:22,459 --> 00:17:26,296
+Des insectes nocturnes
+avec une sensibilité visuelle thermique.
+
+169
+00:17:27,005 --> 00:17:29,090
+On doit agir avant la nuit.
+
+170
+00:17:29,674 --> 00:17:33,928
+Le costaud et moi, on descendra
+dans la grotte à la recherche des caisses.
+
+171
+00:17:34,637 --> 00:17:38,475
+J'ai mis la petite dans ce pétrin.
+À moi de l'en sortir.
+
+172
+00:18:16,680 --> 00:18:19,140
+Dites-moi que je rêve.
+
+173
+00:18:19,224 --> 00:18:22,352
+Cette fois, ne la faites pas tomber.
+
+174
+00:19:02,308 --> 00:19:03,727
+J'en ai trouvé une.
+
+175
+00:19:12,068 --> 00:19:13,903
+Je vais l'attacher.
+
+176
+00:19:14,696 --> 00:19:16,823
+Cherchez les autres caisses.
+
+177
+00:19:16,906 --> 00:19:18,324
+En silence.
+
+178
+00:19:33,214 --> 00:19:35,884
+N'essaie même pas. Ils te tueront.
+
+179
+00:19:36,551 --> 00:19:39,721
+Si tes amis ne rapportent pas l'épice,
+on est morts.
+
+180
+00:19:40,638 --> 00:19:43,767
+Voilà ce qui arrive
+quand on se mêle des affaires des autres.
+
+181
+00:19:44,309 --> 00:19:45,310
+Nous ?
+
+182
+00:19:45,393 --> 00:19:47,729
+C'est vous qui avez volé le bar de Cid.
+
+183
+00:19:47,812 --> 00:19:51,816
+On prend ce qu'on veut.
+C'est la devise des Durand.
+
+184
+00:19:52,484 --> 00:19:54,235
+C'est la spécialité de ma mère.
+
+185
+00:19:55,153 --> 00:19:57,447
+C'est une criminelle aussi ?
+
+186
+00:19:58,656 --> 00:20:00,825
+Tu dis ça avec tant de dédain.
+
+187
+00:20:02,619 --> 00:20:04,496
+Si elle me voyait…
+
+188
+00:20:12,212 --> 00:20:14,464
+Ruby apprécie peu de gens.
+
+189
+00:20:15,215 --> 00:20:18,218
+T'en fais pas, Ruby. On va s'en sortir.
+
+190
+00:20:33,274 --> 00:20:35,276
+Les caisses trois et quatre sont à bord.
+
+191
+00:20:36,027 --> 00:20:37,904
+La nuit va tomber.
+
+192
+00:20:37,987 --> 00:20:40,281
+Les créatures vont se réveiller.
+
+193
+00:20:40,365 --> 00:20:42,617
+Je me prépare à cette éventualité.
+
+194
+00:20:50,667 --> 00:20:54,129
+Voilà la dernière caisse.
+
+195
+00:20:54,212 --> 00:20:55,422
+Le repos attendra.
+
+196
+00:20:55,505 --> 00:20:56,673
+Dernière caisse attachée.
+
+197
+00:20:58,383 --> 00:20:59,467
+Remontez-nous.
+
+198
+00:21:09,728 --> 00:21:11,229
+Arrêtez de gigoter.
+
+199
+00:21:25,243 --> 00:21:26,995
+Elles n'ont peut-être rien entendu.
+
+200
+00:21:27,579 --> 00:21:29,748
+Je doute qu'on ait une telle chance.
+
+201
+00:21:30,331 --> 00:21:32,917
+Moi aussi.
+
+202
+00:21:46,556 --> 00:21:48,683
+Sortez-nous de là !
+
+203
+00:21:48,767 --> 00:21:50,101
+Wrecker, qu'y a-t-il ?
+
+204
+00:21:50,185 --> 00:21:52,062
+Des Irlings partout !
+
+205
+00:21:52,145 --> 00:21:53,772
+Au secours ! À l'aide !
+
+206
+00:21:53,855 --> 00:21:55,648
+Attention à l'épice.
+
+207
+00:21:57,525 --> 00:21:59,027
+Tech.
+
+208
+00:21:59,110 --> 00:22:00,737
+Ça devrait les distraire.
+
+209
+00:22:04,240 --> 00:22:05,700
+Attention !
+
+210
+00:22:27,138 --> 00:22:31,267
+Alors, le costaud ?
+C'était pas si terrible.
+
+211
+00:22:31,351 --> 00:22:33,186
+Tout va bien.
+
+212
+00:22:47,158 --> 00:22:52,664
+Puisque l'épice a été restituée,
+notre problème avec vous est résolu.
+
+213
+00:22:53,623 --> 00:22:55,291
+Mais pas le nôtre.
+
+214
+00:23:03,008 --> 00:23:04,342
+Non !
+
+215
+00:23:05,093 --> 00:23:07,220
+Il a commis une erreur. C'est tout.
+
+216
+00:23:07,303 --> 00:23:08,722
+Elle a raison.
+
+217
+00:23:08,805 --> 00:23:12,142
+Le tuer serait une déclaration de guerre
+contre Isa Durand.
+
+218
+00:23:12,225 --> 00:23:14,436
+C'est vraiment ce que vous voulez ?
+
+219
+00:23:15,186 --> 00:23:17,814
+Acceptez d'avoir fait
+une mauvaise affaire et partez.
+
+220
+00:23:18,565 --> 00:23:22,152
+On n'accepte pas les mauvaises affaires.
+
+221
+00:23:29,325 --> 00:23:31,745
+Notre accord est rompu.
+
+222
+00:23:32,537 --> 00:23:36,374
+Évitez de recroiser notre chemin.
+
+223
+00:23:46,051 --> 00:23:47,344
+Ça va ?
+
+224
+00:23:48,636 --> 00:23:50,138
+C'est peu cher payé.
+
+225
+00:23:56,770 --> 00:23:58,021
+Je m'en vais.
+
+226
+00:24:03,818 --> 00:24:06,821
+Venez. C'est ma tournée.
+
+227
+00:24:07,572 --> 00:24:10,033
+Vous nous devez bien plus que ça.
+
+228
+00:24:10,116 --> 00:24:11,868
+Ne poussez pas le bouchon.
+
+229
+00:24:17,999 --> 00:24:22,837
+Pourquoi l'avoir défendu
+après ce qu'il a fait ?
+
+230
+00:24:23,922 --> 00:24:24,923
+J'en sais rien.
+
+231
+00:24:25,465 --> 00:24:26,716
+Ruby l'apprécie.
+
+232
+00:24:27,550 --> 00:24:28,885
+Il doit pas être si méchant.
+
+233
+00:25:17,350 --> 00:25:19,352
+Sous-titres : Cynthia Kirbach
+

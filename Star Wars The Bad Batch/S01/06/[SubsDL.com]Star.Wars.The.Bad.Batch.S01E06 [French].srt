@@ -1,0 +1,1043 @@
+﻿1
+00:00:30,822 --> 00:00:33,575
+Hors service
+
+2
+00:00:56,181 --> 00:00:57,432
+Désolée !
+
+3
+00:00:59,434 --> 00:01:00,518
+Doucement.
+
+4
+00:01:00,602 --> 00:01:04,189
+Bras alignés.
+Ne quitte pas la cible des yeux.
+
+5
+00:01:04,272 --> 00:01:06,191
+Tu vas y arriver !
+
+6
+00:01:06,274 --> 00:01:08,943
+Certainement pas. Rate ! Allez, rate !
+
+7
+00:01:11,237 --> 00:01:12,238
+J'ai réussi.
+
+8
+00:01:12,322 --> 00:01:14,532
+Dans le mille ! Par ici la monnaie.
+
+9
+00:01:14,616 --> 00:01:16,242
+Bravo. Recommence.
+
+10
+00:01:16,326 --> 00:01:19,079
+Mais j'ai déjà touché la cible trois fois.
+
+11
+00:01:19,162 --> 00:01:23,583
+Sur 12 essais.
+C'est de la chance, pas de l'adresse.
+
+12
+00:01:23,667 --> 00:01:25,794
+Les soldats doivent être réguliers.
+
+13
+00:01:27,170 --> 00:01:29,297
+Quitte ou double qu'elle va rater.
+
+14
+00:01:35,303 --> 00:01:37,931
+J'y arrivais mieux
+avant qu'ils débarquent.
+
+15
+00:01:38,682 --> 00:01:43,645
+Apprends à faire abstraction du reste.
+Pour ça, il faut t'entraîner.
+
+16
+00:01:44,354 --> 00:01:45,355
+Recommence.
+
+17
+00:01:52,112 --> 00:01:54,489
+C'est pas son fort.
+
+18
+00:01:55,490 --> 00:01:58,868
+- Hé !
+- Assez rigolé. Il faut qu'on parle.
+
+19
+00:01:58,952 --> 00:02:00,745
+Du balai, vous deux.
+
+20
+00:02:00,829 --> 00:02:02,539
+- D'accord !
+- On s'en va !
+
+21
+00:02:04,541 --> 00:02:08,336
+Je suppose que vous savez
+ce qu'est un droïde tactique ?
+
+22
+00:02:08,962 --> 00:02:09,963
+Ils étaient les…
+
+23
+00:02:10,046 --> 00:02:12,340
+Les cerveaux de l'armée séparatiste…
+
+24
+00:02:12,424 --> 00:02:14,634
+C'est moi qui parle, binoclard.
+
+25
+00:02:14,718 --> 00:02:15,719
+Hé !
+
+26
+00:02:15,802 --> 00:02:18,805
+Les infos des droïdes tactiques
+valent très cher.
+
+27
+00:02:18,888 --> 00:02:23,810
+C'est pourquoi vous allez infiltrer
+ce complexe de désaffectation sur Corellia
+
+28
+00:02:23,893 --> 00:02:26,896
+et en ramener un
+avant qu'ils soient tous détruits.
+
+29
+00:02:28,189 --> 00:02:31,067
+On n'a pas convenu
+de travailler pour vous.
+
+30
+00:02:31,151 --> 00:02:34,738
+Laissez-moi décider pour vous.
+Vous acceptez !
+
+31
+00:02:36,364 --> 00:02:40,035
+C'est un arrangement
+mutuellement bénéfique.
+
+32
+00:02:40,118 --> 00:02:43,955
+Vous gagnez de l'argent, j'en gagne,
+et j'assure vos arrières.
+
+33
+00:02:44,914 --> 00:02:47,625
+Vu vos soucis,
+c'est votre meilleure option.
+
+34
+00:02:50,337 --> 00:02:51,796
+Je suppose qu'on accepte.
+
+35
+00:02:51,880 --> 00:02:55,550
+Je sais. Je viens de vous le dire.
+
+36
+00:02:55,633 --> 00:03:00,513
+Et toi, tu relâches la corde trop tôt
+à cause de tes bras mollassons.
+
+37
+00:03:00,597 --> 00:03:02,223
+Muscle-toi.
+
+38
+00:03:05,060 --> 00:03:06,227
+Fin de la leçon.
+
+39
+00:03:20,992 --> 00:03:22,535
+Ce vieux subterfuge ?
+
+40
+00:03:22,619 --> 00:03:25,455
+Il permet d'échapper
+aux capteurs planétaires.
+
+41
+00:03:25,538 --> 00:03:29,542
+Qu'est-ce qu'un droïde tactique a
+de plus que les autres ?
+
+42
+00:03:29,626 --> 00:03:34,381
+Plus un droïde tactique se bat,
+plus il apprend… et gagne.
+
+43
+00:03:34,464 --> 00:03:36,508
+Sauf face à nous !
+
+44
+00:03:36,591 --> 00:03:38,843
+Maintenant que les clones
+servent l'Empire,
+
+45
+00:03:38,927 --> 00:03:42,097
+on donnerait cher pour savoir
+comment les battre.
+
+46
+00:03:42,180 --> 00:03:44,516
+On approche du complexe.
+
+47
+00:03:44,599 --> 00:03:47,602
+Posons-nous au chantier naval
+et continuons à pied.
+
+48
+00:04:27,809 --> 00:04:30,854
+Cid n'avait pas dit
+que ça grouillait de droïdes policiers.
+
+49
+00:04:31,438 --> 00:04:33,815
+Ils utilisent un scan rotatif
+par quadrants.
+
+50
+00:04:34,399 --> 00:04:38,319
+Si on calcule bien,
+on peut entrer via leur angle mort.
+
+51
+00:04:38,403 --> 00:04:39,404
+Suivez-moi.
+
+52
+00:05:24,824 --> 00:05:26,451
+Bonne nuit.
+
+53
+00:05:38,421 --> 00:05:41,841
+Echo, Tech.
+On va localiser et récupérer le droïde.
+
+54
+00:05:41,925 --> 00:05:43,551
+Wrecker, couvre-nous.
+
+55
+00:05:43,635 --> 00:05:46,846
+C'était le boulot de Crosshair.
+
+56
+00:05:46,930 --> 00:05:48,556
+Sans discuter.
+
+57
+00:05:48,640 --> 00:05:50,392
+Et moi ? Je fais quoi ?
+
+58
+00:05:50,475 --> 00:05:53,353
+Reste ici et repère la cible.
+
+59
+00:05:53,436 --> 00:05:54,437
+En avant.
+
+60
+00:06:29,973 --> 00:06:33,393
+Un seul droïde tactique est répertorié
+dans le système.
+
+61
+00:06:33,476 --> 00:06:35,478
+Les autres ont été détruits.
+
+62
+00:06:35,562 --> 00:06:38,148
+C'est notre seule chance.
+Tâchons de réussir.
+
+63
+00:06:38,231 --> 00:06:40,066
+Où a-t-il été déchargé ?
+
+64
+00:06:40,150 --> 00:06:41,484
+Tapis roulant nord.
+
+65
+00:06:43,153 --> 00:06:44,487
+Trouvé !
+
+66
+00:06:44,571 --> 00:06:45,572
+En quelque sorte.
+
+67
+00:06:45,655 --> 00:06:47,907
+Le droïde est en morceaux.
+
+68
+00:06:47,991 --> 00:06:49,659
+La tête est intacte ?
+
+69
+00:06:49,743 --> 00:06:51,119
+Affirmatif.
+
+70
+00:06:51,202 --> 00:06:53,371
+Attendez !
+Quelqu'un s'enfuit avec la tête.
+
+71
+00:06:57,292 --> 00:07:00,378
+Je le vois.
+Un des employés vole notre cible.
+
+72
+00:07:01,004 --> 00:07:02,213
+Je m'en charge.
+
+73
+00:07:02,297 --> 00:07:04,132
+Négatif. Reste cachée.
+
+74
+00:07:04,215 --> 00:07:05,383
+Pas question.
+
+75
+00:07:06,092 --> 00:07:07,802
+N'approchez pas.
+
+76
+00:07:09,346 --> 00:07:10,597
+Du calme, petite.
+
+77
+00:07:11,431 --> 00:07:14,434
+Je te veux aucun mal,
+mais je te laisserai pas interférer.
+
+78
+00:07:14,517 --> 00:07:16,478
+C'est vous qui interférez.
+
+79
+00:07:17,312 --> 00:07:19,898
+Rafa, j'ai la cible. Où tu es ?
+
+80
+00:07:19,981 --> 00:07:21,941
+Ne répondez pas.
+
+81
+00:07:25,278 --> 00:07:29,074
+Rafa, réponds. Que se passe-t-il ?
+T'es où ? Faut y aller.
+
+82
+00:07:31,242 --> 00:07:32,660
+Qui êtes-vous ?
+
+83
+00:07:33,453 --> 00:07:35,538
+Moi ? Et vous, vous êtes qui ?
+
+84
+00:07:37,791 --> 00:07:39,793
+Tes bras tremblent.
+
+85
+00:07:42,545 --> 00:07:44,464
+D'accord, t'as gagné.
+
+86
+00:07:44,964 --> 00:07:48,635
+Si tu baissais ça et on discutait ?
+
+87
+00:08:01,272 --> 00:08:03,108
+Tirs de blasters !
+
+88
+00:08:04,025 --> 00:08:05,610
+Ouvrez l'œil !
+
+89
+00:08:10,365 --> 00:08:12,659
+Effraction ! Verrouillez tout !
+
+90
+00:08:14,703 --> 00:08:17,247
+Danger.
+
+91
+00:08:19,624 --> 00:08:22,252
+Génial.
+Comment vous comptez sortir d'ici ?
+
+92
+00:08:24,421 --> 00:08:25,714
+Bien joué, petite.
+
+93
+00:08:25,797 --> 00:08:28,341
+Moi ?
+C'est vous qui avez agrippé mon arc !
+
+94
+00:08:32,554 --> 00:08:35,473
+Ne reste pas plantée là. Prends une arme.
+
+95
+00:08:35,557 --> 00:08:36,725
+J'en avais une.
+
+96
+00:08:42,897 --> 00:08:43,898
+Avancez !
+
+97
+00:08:43,982 --> 00:08:45,316
+À plus.
+
+98
+00:08:45,400 --> 00:08:46,860
+Hé !
+
+99
+00:08:46,943 --> 00:08:48,820
+Droïdes policiers en approche.
+
+100
+00:08:48,903 --> 00:08:50,071
+Visez-les.
+
+101
+00:08:57,829 --> 00:08:58,913
+Omega, au rapport.
+
+102
+00:08:59,622 --> 00:09:02,000
+Une deuxième personne est
+en quête du droïde tactique.
+
+103
+00:09:02,083 --> 00:09:03,918
+Vous en faites pas. Je la suis.
+
+104
+00:09:04,002 --> 00:09:06,421
+Non, reste où tu es.
+On a la tête du droïde.
+
+105
+00:09:06,504 --> 00:09:07,922
+Faux.
+
+106
+00:09:09,758 --> 00:09:12,635
+Rafa, je l'ai.
+Rejoins-moi au point de rendez-vous.
+
+107
+00:09:13,303 --> 00:09:16,639
+Je vais récupérer la tête.
+Déverrouillez les portes.
+
+108
+00:09:25,023 --> 00:09:26,316
+Trace, où es-tu ?
+
+109
+00:09:26,399 --> 00:09:27,734
+Ici !
+
+110
+00:09:29,027 --> 00:09:30,403
+Attrape !
+
+111
+00:09:31,529 --> 00:09:32,697
+Je l'ai ! Viens.
+
+112
+00:09:38,078 --> 00:09:39,079
+Je m'en charge !
+
+113
+00:09:45,418 --> 00:09:47,003
+N'espérez pas de remerciements.
+
+114
+00:09:47,087 --> 00:09:48,963
+J'aurais dû les laisser
+vous tirer dessus ?
+
+115
+00:10:02,185 --> 00:10:03,186
+Merci !
+
+116
+00:10:04,270 --> 00:10:05,397
+J'ai la tête du droïde !
+
+117
+00:10:07,899 --> 00:10:09,734
+Beau travail. Attends-nous.
+
+118
+00:10:16,032 --> 00:10:17,909
+Tu as court-circuité tout le système.
+
+119
+00:10:17,992 --> 00:10:19,661
+Il le fallait bien.
+
+120
+00:10:19,744 --> 00:10:22,163
+Wrecker, va au tableau de bord principal.
+
+121
+00:10:27,085 --> 00:10:28,628
+La plate-forme est hors de portée.
+
+122
+00:10:28,712 --> 00:10:32,257
+C'est le seul moyen de tout redémarrer.
+Débrouille-toi !
+
+123
+00:10:32,340 --> 00:10:34,175
+Facile à dire !
+
+124
+00:10:41,516 --> 00:10:43,018
+Wrecker, dépêche.
+
+125
+00:10:50,442 --> 00:10:52,777
+Ne regarde pas en bas.
+
+126
+00:10:56,656 --> 00:10:58,658
+Wrecker, qu'est-ce que t'attends ?
+
+127
+00:11:06,666 --> 00:11:07,917
+À moi.
+
+128
+00:11:14,758 --> 00:11:17,302
+Wrecker, ça refonctionne. Reviens.
+
+129
+00:11:18,470 --> 00:11:21,139
+Ma tête.
+
+130
+00:11:21,765 --> 00:11:23,600
+Les bons soldats…
+
+131
+00:11:31,691 --> 00:11:34,361
+Les bons… soldats…
+
+132
+00:11:47,874 --> 00:11:49,918
+Pourquoi vous voulez ce droïde ?
+
+133
+00:11:50,001 --> 00:11:52,045
+C'est pas vos oignons, le clone.
+
+134
+00:11:52,128 --> 00:11:53,463
+Aujourd'hui, si.
+
+135
+00:11:59,302 --> 00:12:01,096
+Rafa, je l'ai.
+
+136
+00:12:01,179 --> 00:12:02,639
+Rendez-vous à la sortie nord.
+
+137
+00:12:02,722 --> 00:12:04,557
+Je suis un peu occupée.
+
+138
+00:12:24,786 --> 00:12:28,665
+Hunter, je suis coincée
+sur le tapis roulant. À l'aide !
+
+139
+00:12:29,833 --> 00:12:30,917
+J'arrive.
+
+140
+00:12:35,880 --> 00:12:38,508
+- Que faites-vous ?
+- J'abats la structure.
+
+141
+00:12:38,591 --> 00:12:39,718
+Suivez-moi !
+
+142
+00:12:42,929 --> 00:12:44,389
+Depuis quand vous commandez ?
+
+143
+00:13:05,035 --> 00:13:06,036
+Hunter !
+
+144
+00:13:06,119 --> 00:13:07,412
+Tiens bon, Omega !
+
+145
+00:13:08,872 --> 00:13:12,208
+Vous avez failli me faire tuer,
+espèce de cinglé !
+
+146
+00:13:27,307 --> 00:13:30,268
+Par ici ! Vite !
+
+147
+00:13:35,440 --> 00:13:36,524
+J'y arrive pas !
+
+148
+00:13:38,943 --> 00:13:40,320
+Prends quelque chose !
+
+149
+00:13:58,672 --> 00:14:00,048
+On te tient.
+
+150
+00:14:01,800 --> 00:14:03,051
+Ça va ?
+
+151
+00:14:03,134 --> 00:14:04,511
+Oui.
+
+152
+00:14:06,471 --> 00:14:07,472
+Merci.
+
+153
+00:14:07,555 --> 00:14:09,224
+Pas de quoi.
+
+154
+00:14:17,023 --> 00:14:19,943
+Je vais bien. Vous inquiétez pas pour moi.
+
+155
+00:14:22,779 --> 00:14:24,531
+Ce fut un plaisir,
+
+156
+00:14:24,614 --> 00:14:28,159
+mais comme vous le constatez,
+le droïde tactique est à nous.
+
+157
+00:14:28,243 --> 00:14:29,411
+On débattra plus tard.
+
+158
+00:14:29,494 --> 00:14:31,830
+On doit unir nos forces
+si on veut sortir d'ici.
+
+159
+00:14:31,913 --> 00:14:33,581
+D'accord, mais je ne vous aime pas.
+
+160
+00:14:33,665 --> 00:14:34,749
+J'ai l'habitude.
+
+161
+00:14:37,293 --> 00:14:39,421
+Wrecker, réponds. Wrecker ?
+
+162
+00:14:40,714 --> 00:14:44,718
+- Non. Non.
+- Wrecker ?
+
+163
+00:14:44,801 --> 00:14:46,803
+Les bons soldats obéissent aux ordres.
+
+164
+00:14:52,892 --> 00:14:55,353
+Toutes les issues sont bloquées.
+Ça se gâte.
+
+165
+00:14:55,437 --> 00:14:57,689
+Une flopée de droïdes policiers arrive.
+
+166
+00:15:03,778 --> 00:15:05,113
+Il nous faut une diversion.
+
+167
+00:15:05,613 --> 00:15:07,282
+Il nous faut une diversion.
+
+168
+00:15:08,450 --> 00:15:09,701
+Il y a un écho, non ?
+
+169
+00:15:10,326 --> 00:15:11,703
+- Oui.
+- Quoi ?
+
+170
+00:15:11,786 --> 00:15:12,829
+Je m'appelle Echo.
+
+171
+00:15:12,912 --> 00:15:13,913
+Sérieusement ?
+
+172
+00:15:14,581 --> 00:15:17,334
+Echo, il nous faut une distraction.
+
+173
+00:15:17,417 --> 00:15:19,169
+Et il peut nous être utile.
+
+174
+00:15:22,547 --> 00:15:24,049
+Comment ?
+
+175
+00:15:24,132 --> 00:15:28,011
+Il nous faut une armée pour sortir de là.
+Et on en a une.
+
+176
+00:15:33,099 --> 00:15:36,895
+Si vous activez ces tas de ferraille,
+ils nous tireront dessus.
+
+177
+00:15:36,978 --> 00:15:39,981
+Pas si on contrôle le droïde
+qui les contrôle.
+
+178
+00:15:40,648 --> 00:15:41,816
+Brillante idée.
+
+179
+00:15:42,609 --> 00:15:44,194
+Ça devrait marcher.
+
+180
+00:15:44,277 --> 00:15:46,529
+Transmission impossible.
+
+181
+00:15:46,613 --> 00:15:48,114
+Ça n'a pas marché.
+
+182
+00:15:48,198 --> 00:15:50,325
+Ça marchera si on amplifie le signal.
+
+183
+00:15:51,284 --> 00:15:53,203
+Ça m'aidera à accéder au programme.
+
+184
+00:16:04,339 --> 00:16:05,674
+Wrecker, vous me recevez ?
+
+185
+00:16:08,259 --> 00:16:10,512
+Vous êtes où ? On a besoin d'aide.
+
+186
+00:16:16,935 --> 00:16:18,144
+J'arrive.
+
+187
+00:16:19,145 --> 00:16:22,691
+Super plan, Trace. Bravo.
+C'est l'un de tes meilleurs.
+
+188
+00:16:22,774 --> 00:16:24,818
+On a juste besoin de temps.
+
+189
+00:16:33,993 --> 00:16:36,496
+À mon tour de m'amuser.
+
+190
+00:16:37,288 --> 00:16:38,289
+Lui, je l'aime bien.
+
+191
+00:16:47,382 --> 00:16:50,760
+Patience.
+L'échange de données est presque terminé.
+
+192
+00:16:51,928 --> 00:16:53,013
+Ça y est !
+
+193
+00:16:53,096 --> 00:16:54,556
+Que se passe-t-il ?
+
+194
+00:16:54,639 --> 00:16:58,643
+Active les droïdes de combat.
+Dis-leur d'attaquer les droïdes policiers.
+
+195
+00:16:58,727 --> 00:16:59,978
+Affirmatif.
+
+196
+00:17:06,026 --> 00:17:07,819
+Qu'est-ce qui se passe ?
+
+197
+00:17:08,361 --> 00:17:10,155
+J'en sais rien. On a gagné ?
+
+198
+00:17:10,238 --> 00:17:14,659
+Nouvel ordre : votre cible est
+le personnel de sécurité de l'usine.
+
+199
+00:17:20,665 --> 00:17:21,958
+Les ordres sont les ordres.
+
+200
+00:17:27,881 --> 00:17:30,008
+Des droïdes de combat à la rescousse.
+Je rêve.
+
+201
+00:17:30,925 --> 00:17:32,260
+On y va !
+
+202
+00:17:34,054 --> 00:17:35,305
+Mission accomplie.
+
+203
+00:17:35,388 --> 00:17:36,473
+Beau travail.
+
+204
+00:17:36,556 --> 00:17:38,391
+R7, on est prêtes à partir.
+
+205
+00:17:43,355 --> 00:17:44,564
+On y est presque.
+
+206
+00:17:44,647 --> 00:17:45,899
+Tu nous verras.
+
+207
+00:17:49,152 --> 00:17:50,028
+Non !
+
+208
+00:17:52,697 --> 00:17:53,698
+Ouais !
+
+209
+00:17:54,324 --> 00:17:55,533
+Joli tir.
+
+210
+00:17:55,617 --> 00:17:57,660
+Il faut faire abstraction du reste.
+
+211
+00:17:59,162 --> 00:18:00,538
+Le voilà. Allons-y !
+
+212
+00:18:20,600 --> 00:18:22,644
+Tous ces efforts pour rien.
+
+213
+00:18:22,727 --> 00:18:25,689
+L'acheteur de Cid ne va pas apprécier.
+
+214
+00:18:25,772 --> 00:18:27,732
+Si j'ai bien compris,
+
+215
+00:18:27,816 --> 00:18:31,111
+vous saviez combien les infos du droïde
+étaient dangereuses,
+
+216
+00:18:31,194 --> 00:18:33,530
+mais vous ignoriez
+à qui elles étaient destinées ?
+
+217
+00:18:34,030 --> 00:18:37,867
+On nous paie pour les livrer,
+pas pour poser des questions.
+
+218
+00:18:37,951 --> 00:18:41,496
+Notre contact avait besoin de ces infos
+pour combattre l'Empire.
+
+219
+00:18:42,664 --> 00:18:45,417
+Il essaie d'aider les gens
+et arranger les choses.
+
+220
+00:18:46,793 --> 00:18:51,840
+Pourquoi vous ne servez pas l'Empire ?
+C'est ce que les clones font, non ?
+
+221
+00:18:52,590 --> 00:18:55,760
+Pas tous. On est différents.
+
+222
+00:18:55,844 --> 00:18:58,847
+J'ai déjà entendu ça.
+
+223
+00:19:06,021 --> 00:19:07,981
+Vous devriez nous rendre visite.
+
+224
+00:19:08,773 --> 00:19:12,110
+Votre coin d'Ord Mantell
+n'est pas un peu… louche ?
+
+225
+00:19:12,193 --> 00:19:15,447
+Carrément. C'est génial !
+
+226
+00:19:15,530 --> 00:19:17,574
+Continue de t'entraîner au tir à l'arc.
+
+227
+00:19:17,657 --> 00:19:19,659
+D'accord. Au revoir !
+
+228
+00:19:20,577 --> 00:19:21,661
+Au revoir, Omega.
+
+229
+00:19:24,456 --> 00:19:25,498
+Tenez.
+
+230
+00:19:25,582 --> 00:19:26,916
+Qu'est-ce que c'est ?
+
+231
+00:19:27,000 --> 00:19:31,087
+Tech a copié les données
+du droïde tactique avant sa destruction.
+
+232
+00:19:31,629 --> 00:19:34,007
+Pourquoi vous nous les donnez ?
+
+233
+00:19:34,507 --> 00:19:36,343
+Vous en ferez bon usage.
+
+234
+00:19:36,426 --> 00:19:39,596
+Vous êtes bel et bien différents.
+
+235
+00:19:40,472 --> 00:19:44,851
+Pour être franc, c'était plus simple
+quand on n'était que des soldats.
+
+236
+00:19:44,934 --> 00:19:46,436
+Croyez-moi.
+
+237
+00:19:47,395 --> 00:19:50,106
+On finit tous par choisir un camp.
+
+238
+00:20:20,720 --> 00:20:21,971
+Contacte-le, R7.
+
+239
+00:20:25,600 --> 00:20:28,436
+On a obtenu les données du droïde tactique
+sur Corellia.
+
+240
+00:20:29,562 --> 00:20:30,814
+On a eu de l'aide.
+
+241
+00:20:31,564 --> 00:20:35,694
+Une escouade de clones rebelles.
+Et je sais où les trouver.
+
+242
+00:20:36,569 --> 00:20:38,405
+Je me suis dit que ça t'intéresserait.
+
+243
+00:20:55,880 --> 00:20:57,257
+HORS SERVICE
+
+244
+00:21:19,320 --> 00:21:21,322
+Sous-titres : Cynthia Kirbach
+

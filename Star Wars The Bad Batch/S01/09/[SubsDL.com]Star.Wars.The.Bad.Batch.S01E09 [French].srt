@@ -1,0 +1,1059 @@
+﻿1
+00:00:41,708 --> 00:00:43,418
+Tu vois le chasseur de primes ?
+
+2
+00:00:43,501 --> 00:00:45,837
+Je ne détecte
+que le vaisseau de Crosshair,
+
+3
+00:00:45,920 --> 00:00:47,255
+et il nous talonne.
+
+4
+00:00:48,965 --> 00:00:51,051
+Ne les laisse pas s'échapper.
+
+5
+00:00:53,303 --> 00:00:55,221
+Les choses se gâtent !
+
+6
+00:00:55,305 --> 00:00:56,389
+Paré pour l'hyperespace.
+
+7
+00:00:56,473 --> 00:00:57,474
+Pas sans Omega.
+
+8
+00:00:57,557 --> 00:00:59,976
+Son ravisseur est déjà loin.
+
+9
+00:01:00,060 --> 00:01:03,730
+On ne pourra pas les retrouver
+si Crosshair nous abat.
+
+10
+00:01:05,523 --> 00:01:07,108
+Les boucliers déflecteurs lâchent.
+
+11
+00:01:10,653 --> 00:01:11,863
+Vas-y.
+
+12
+00:01:44,104 --> 00:01:45,897
+Laisse-moi sortir !
+
+13
+00:01:45,980 --> 00:01:47,315
+Pas question.
+
+14
+00:01:51,653 --> 00:01:54,030
+Tu cherches ton communicateur ?
+
+15
+00:01:54,114 --> 00:01:57,617
+Il a été confisqué et mis en sécurité.
+
+16
+00:01:57,701 --> 00:02:02,205
+J'ai dit : laisse-moi sortir.
+
+17
+00:02:02,997 --> 00:02:05,208
+Je te conseille de coopérer.
+
+18
+00:02:05,750 --> 00:02:10,672
+M. Bane n'apprécie pas
+les prisonniers difficiles.
+
+19
+00:02:16,970 --> 00:02:21,433
+- Comment va mon bien ?
+- Je m'appelle Omega.
+
+20
+00:02:22,600 --> 00:02:23,518
+Qui êtes-vous ?
+
+21
+00:02:24,144 --> 00:02:26,771
+Cad Bane, à ton service.
+
+22
+00:02:27,397 --> 00:02:29,274
+Où vous m'emmenez ?
+
+23
+00:02:33,862 --> 00:02:36,448
+Vous le regretterez
+quand mes amis viendront me sauver.
+
+24
+00:02:37,574 --> 00:02:42,120
+Tes amis sont déjà bien loin.
+J'y ai veillé.
+
+25
+00:02:42,620 --> 00:02:45,165
+Personne ne viendra te sauver,
+jeune fille.
+
+26
+00:02:46,207 --> 00:02:50,754
+Reste assise et ne bronche pas.
+
+27
+00:02:51,588 --> 00:02:54,257
+Quand pourriez-vous réparer ma jambe ?
+
+28
+00:02:54,341 --> 00:02:56,384
+C'est assez handicapant.
+
+29
+00:02:56,968 --> 00:02:59,596
+Bane, vous m'avez entendu ?
+
+30
+00:03:00,221 --> 00:03:02,849
+M. Bane.
+
+31
+00:03:10,982 --> 00:03:14,277
+- J'ai la fille.
+<i>- Dans quel état ?</i>
+
+32
+00:03:14,361 --> 00:03:18,448
+Vivante, ce qui mérite un bonus.
+
+33
+00:03:18,531 --> 00:03:21,159
+<i>Veillez à ce qu'elle le reste.</i>
+
+34
+00:03:21,242 --> 00:03:22,827
+Ça dépendra de vous.
+
+35
+00:03:23,495 --> 00:03:27,874
+Je serai au rendez-vous.
+Apportez mes crédits non marqués.
+
+36
+00:03:29,959 --> 00:03:33,463
+J'apporterai le paiement
+et je récupérerai Omega.
+
+37
+00:03:33,546 --> 00:03:38,468
+Votre intérêt pour la jeune clone
+a suffisamment menacé notre opération.
+
+38
+00:03:39,803 --> 00:03:44,891
+Taun We, vous irez à notre installation
+abandonnée sur Bora Vio.
+
+39
+00:03:44,974 --> 00:03:49,938
+Payez le chasseur de primes
+et récupérez notre bien.
+
+40
+00:03:50,021 --> 00:03:52,607
+Bien, M. le Premier ministre.
+
+41
+00:03:53,441 --> 00:03:58,238
+À son retour,
+confinez la clone au sous-sol.
+
+42
+00:03:58,321 --> 00:04:03,034
+Quand vous aurez prélevé
+le matériel génétique requis, exécutez-la.
+
+43
+00:04:12,293 --> 00:04:16,673
+C'est de la faute du clone.
+Il m'a tiré dans la jambe.
+
+44
+00:04:17,632 --> 00:04:21,052
+Pour me protéger.
+C'est ce que les amis font.
+
+45
+00:04:21,803 --> 00:04:23,596
+Pourquoi le tien ne t'aide pas ?
+
+46
+00:04:24,222 --> 00:04:27,225
+M. Bane est très occupé.
+
+47
+00:04:36,609 --> 00:04:39,487
+Je peux réparer ta jambe, si tu veux.
+
+48
+00:04:39,571 --> 00:04:41,531
+Il suffit de régler le propulseur.
+
+49
+00:04:41,614 --> 00:04:45,118
+Je le faisais souvent pour AZI-3
+sur Kamino.
+
+50
+00:04:46,119 --> 00:04:48,121
+Je suis un droïde de techno-service.
+
+51
+00:04:48,204 --> 00:04:51,499
+Je sais me réparer tout seul.
+
+52
+00:04:51,583 --> 00:04:54,878
+Tu es une prisonnière.
+Tu n'es pas digne de confiance.
+
+53
+00:04:56,296 --> 00:04:57,672
+Comme tu voudras.
+
+54
+00:05:02,385 --> 00:05:05,847
+Ton portrait correspond à un chasseur
+de primes répertorié par la République.
+
+55
+00:05:05,930 --> 00:05:07,265
+C'est lui.
+
+56
+00:05:07,349 --> 00:05:08,850
+Cad Bane.
+
+57
+00:05:08,933 --> 00:05:10,977
+Il s'est heurté aux Jedi plusieurs fois
+
+58
+00:05:11,061 --> 00:05:14,189
+et il a tenté
+d'enlever le chancelier Palpatine.
+
+59
+00:05:14,272 --> 00:05:17,650
+Une chasseuse de primes sur Pantora,
+et maintenant, lui ?
+
+60
+00:05:17,734 --> 00:05:19,194
+Pourquoi ils veulent la petite ?
+
+61
+00:05:19,277 --> 00:05:21,696
+Elle est plus précieuse
+qu'on ne le pensait.
+
+62
+00:05:21,780 --> 00:05:22,822
+Comment ça ?
+
+63
+00:05:22,906 --> 00:05:25,367
+En analysant le profil génétique d'Omega,
+
+64
+00:05:25,450 --> 00:05:28,578
+j'ai découvert qu'elle avait
+un ADN pur de première génération.
+
+65
+00:05:30,330 --> 00:05:32,332
+Ça veut dire quoi ?
+
+66
+00:05:32,415 --> 00:05:35,794
+Tous les clones ont été créés
+à partir de Jango Fett.
+
+67
+00:05:35,877 --> 00:05:39,631
+Nos gènes ont été modifiés pour optimiser
+notre croissance et notre obéissance.
+
+68
+00:05:39,714 --> 00:05:42,217
+Omega est une pure reproduction génétique.
+
+69
+00:05:42,300 --> 00:05:43,843
+Combien d'autres sont comme elle ?
+
+70
+00:05:43,927 --> 00:05:46,137
+À ma connaissance, un seul.
+
+71
+00:05:46,221 --> 00:05:50,642
+Un clone masculin nommé Alpha,
+qui se faisait appeler Boba.
+
+72
+00:05:51,226 --> 00:05:53,228
+Il a disparu au début de la guerre.
+
+73
+00:05:53,311 --> 00:05:57,899
+Ça fait d'Omega la seule source vivante
+du matériel génétique de Fett.
+
+74
+00:05:57,982 --> 00:06:00,860
+Si elle est indispensable
+à l'opération des Kaminoiens,
+
+75
+00:06:00,944 --> 00:06:02,654
+la prime doit venir d'eux.
+
+76
+00:06:02,737 --> 00:06:05,365
+Comment retrouver ce chasseur de primes ?
+
+77
+00:06:05,448 --> 00:06:08,284
+Tech, demande à Cid
+si ses contacts ont des infos.
+
+78
+00:06:08,368 --> 00:06:09,953
+On surveille les communications.
+
+79
+00:06:12,163 --> 00:06:14,791
+Non. Pas comme ça.
+
+80
+00:06:14,874 --> 00:06:18,461
+Tu dois d'abord rebrancher
+les servo-moteurs dans ta hanche.
+
+81
+00:06:19,045 --> 00:06:21,214
+C'est ce que j'essaie de faire.
+
+82
+00:06:21,840 --> 00:06:23,800
+Laisse-moi t'aider.
+
+83
+00:06:23,883 --> 00:06:25,927
+Tu es une prisonnière.
+
+84
+00:06:26,511 --> 00:06:28,013
+Exactement.
+
+85
+00:06:28,096 --> 00:06:30,557
+C'est pas comme si je pouvais m'échapper.
+
+86
+00:06:31,516 --> 00:06:33,143
+Tu marques un point.
+
+87
+00:06:34,185 --> 00:06:35,437
+Je suis qu'une enfant.
+
+88
+00:06:36,271 --> 00:06:38,398
+D'accord, mais fais vite.
+
+89
+00:06:38,481 --> 00:06:40,984
+Et pas un mot de tout ça.
+
+90
+00:06:41,818 --> 00:06:43,903
+Bien sûr que non.
+
+91
+00:06:59,502 --> 00:07:02,547
+Bien. Au travail.
+
+92
+00:07:02,630 --> 00:07:04,132
+Pas d'entourloupes.
+
+93
+00:07:04,215 --> 00:07:06,343
+M. Bane va bientôt revenir.
+
+94
+00:07:06,426 --> 00:07:08,345
+Depuis quand tu travailles pour lui ?
+
+95
+00:07:08,428 --> 00:07:09,721
+De nombreuses années.
+
+96
+00:07:09,804 --> 00:07:11,556
+Je suis son fidèle confident.
+
+97
+00:07:11,639 --> 00:07:13,433
+On forme une équipe.
+
+98
+00:07:13,516 --> 00:07:15,977
+Ah bon ?
+Il n'est pas très gentil avec toi.
+
+99
+00:07:16,061 --> 00:07:19,064
+Bien au contraire. Il me traite
+de façon parfaitement adéquate…
+
+100
+00:07:20,023 --> 00:07:21,274
+la plupart du temps.
+
+101
+00:07:21,358 --> 00:07:23,693
+Voilà. Comment va ta jambe ?
+
+102
+00:07:23,777 --> 00:07:25,028
+Elle est mal alignée.
+
+103
+00:07:25,111 --> 00:07:28,490
+Il faut régler le calibrage,
+mais sois prudente.
+
+104
+00:07:29,157 --> 00:07:31,743
+Détends-toi. J'ai l'habitude.
+
+105
+00:07:39,000 --> 00:07:41,294
+Ça alors. Ça fonctionne !
+
+106
+00:07:41,961 --> 00:07:46,257
+Elle est comme neuve.
+
+107
+00:07:47,342 --> 00:07:48,510
+Désolée.
+
+108
+00:07:48,593 --> 00:07:49,969
+C'est temporaire.
+
+109
+00:07:50,637 --> 00:07:54,516
+Où as-tu caché mon communicateur ?
+
+110
+00:08:10,115 --> 00:08:12,492
+Todo, ramène ton châssis ici.
+
+111
+00:08:12,575 --> 00:08:14,536
+J'y vois rien du tout.
+
+112
+00:08:40,979 --> 00:08:43,273
+Todo, viens ici.
+
+113
+00:08:44,899 --> 00:08:46,276
+Todo ?
+
+114
+00:08:57,787 --> 00:08:59,914
+Allez. Où il est ?
+
+115
+00:09:00,582 --> 00:09:01,499
+Trouvé !
+
+116
+00:09:03,001 --> 00:09:05,420
+Pauvre droïde défectueux.
+
+117
+00:09:05,503 --> 00:09:07,630
+Tu en mets du temps !
+
+118
+00:09:15,722 --> 00:09:18,058
+Todo ? Où est la gamine ?
+
+119
+00:09:18,141 --> 00:09:22,187
+M. Bane, elle est juste là, voyons.
+
+120
+00:09:27,817 --> 00:09:28,943
+Reste là.
+
+121
+00:09:33,573 --> 00:09:36,451
+Allô ? Y a quelqu'un ? Vous m'entendez ?
+
+122
+00:09:39,371 --> 00:09:42,957
+Cid connaît bien Bane,
+mais elle ignore comment le trouver.
+
+123
+00:09:43,041 --> 00:09:45,001
+On doit se débrouiller.
+
+124
+00:09:45,710 --> 00:09:47,837
+<i>Allô ?</i>
+
+125
+00:09:47,921 --> 00:09:48,880
+<i>- Allô ?</i>
+- Omega !
+
+126
+00:09:48,963 --> 00:09:51,091
+Omega, tu m'entends ? Omega !
+
+127
+00:09:51,174 --> 00:09:53,218
+Elle est loin.
+Je vais amplifier le signal.
+
+128
+00:09:57,555 --> 00:09:59,766
+Y a quelqu'un ?
+
+129
+00:09:59,849 --> 00:10:01,601
+<i>Omega, tu me reçois ?</i>
+
+130
+00:10:01,685 --> 00:10:02,811
+Hunter ?
+
+131
+00:10:03,645 --> 00:10:06,773
+Je suis là. Je me suis enfuie,
+mais il faut faire vite.
+
+132
+00:10:07,732 --> 00:10:09,609
+<i>Où es-tu ?</i>
+
+133
+00:10:10,443 --> 00:10:13,196
+J'en sais rien.
+
+134
+00:10:13,279 --> 00:10:14,280
+<i>Tiens bon.</i>
+
+135
+00:10:14,364 --> 00:10:15,865
+On arrive !
+
+136
+00:10:16,783 --> 00:10:19,661
+Le signal est trop faible
+pour le localiser.
+
+137
+00:10:19,744 --> 00:10:22,831
+Omega, tu dois nous indiquer ta position.
+
+138
+00:10:22,914 --> 00:10:27,419
+<i>Essaie de créer une surtension.</i>
+<i>Tu vois un panneau de commandes pas loin ?</i>
+
+139
+00:10:28,420 --> 00:10:29,838
+Oui, près de la porte.
+
+140
+00:10:29,921 --> 00:10:32,007
+Comme ceux de Tipoca City.
+
+141
+00:10:32,090 --> 00:10:35,343
+<i>Parfait. Essaie de l'activer.</i>
+
+142
+00:10:42,350 --> 00:10:44,394
+J'ai réussi. Et maintenant ?
+
+143
+00:10:44,477 --> 00:10:47,647
+<i>Tu dois rediriger les circuits</i>
+<i>pour surcharger le réseau principal.</i>
+
+144
+00:10:47,731 --> 00:10:49,566
+De gré ou de force…
+
+145
+00:10:50,775 --> 00:10:52,402
+Tu vas me suivre.
+
+146
+00:10:52,485 --> 00:10:53,653
+<i>Omega ?</i>
+
+147
+00:10:53,737 --> 00:10:55,405
+- Lâchez…
+<i>- Tu nous reçois ?</i>
+
+148
+00:10:56,156 --> 00:10:58,074
+<i>- Lâchez-moi !</i>
+- Sa localisation est floue.
+
+149
+00:10:58,158 --> 00:10:59,284
+<i>Hunter, à l'aide !</i>
+
+150
+00:10:59,367 --> 00:11:00,493
+<i>Omega !</i>
+
+151
+00:11:01,619 --> 00:11:02,620
+<i>Omega…</i>
+
+152
+00:11:06,791 --> 00:11:08,918
+Elle est vraiment comme neuve.
+
+153
+00:11:09,794 --> 00:11:13,048
+M. Bane,
+vaisseau non identifié en approche.
+
+154
+00:11:13,131 --> 00:11:14,341
+<i>Va voir.</i>
+
+155
+00:11:17,010 --> 00:11:18,303
+Non.
+
+156
+00:11:18,386 --> 00:11:20,263
+Je refuse de vous suivre.
+
+157
+00:11:20,347 --> 00:11:22,557
+Tu as de la chance
+qu'ils te veulent vivante.
+
+158
+00:11:22,640 --> 00:11:23,892
+Qui ça ?
+
+159
+00:11:23,975 --> 00:11:26,311
+Tu le sauras bientôt.
+
+160
+00:11:29,147 --> 00:11:31,775
+Je vous avais dit
+que vous le regretteriez.
+
+161
+00:11:31,858 --> 00:11:33,401
+Silence.
+
+162
+00:11:47,415 --> 00:11:49,209
+Taun We ?
+
+163
+00:11:51,086 --> 00:11:52,712
+Elle a besoin d'aide !
+
+164
+00:11:52,796 --> 00:11:54,381
+Tu ne peux rien pour elle.
+
+165
+00:11:54,964 --> 00:11:56,257
+Il a raison.
+
+166
+00:11:58,343 --> 00:12:00,720
+Fennec Shand.
+
+167
+00:12:00,804 --> 00:12:02,222
+Bonjour, Bane.
+
+168
+00:12:02,305 --> 00:12:06,851
+Tu n'as pas à te mêler de mes affaires.
+
+169
+00:12:06,935 --> 00:12:10,855
+Tu sais mieux que quiconque
+que tout est une question d'argent.
+
+170
+00:12:10,939 --> 00:12:13,608
+D'ailleurs, je l'ai trouvée avant toi.
+
+171
+00:12:14,234 --> 00:12:16,069
+Omega et moi, on se connaît bien.
+
+172
+00:12:16,778 --> 00:12:17,779
+Pas vrai ?
+
+173
+00:12:18,279 --> 00:12:22,242
+Tu n'as pas l'étoffe
+pour rivaliser avec moi.
+
+174
+00:12:22,826 --> 00:12:25,328
+Et pourtant, c'est moi qui ai l'argent.
+
+175
+00:12:25,995 --> 00:12:29,374
+C'est le mien.
+
+176
+00:12:29,457 --> 00:12:33,003
+Donne-le-moi et je t'épargnerai.
+
+177
+00:12:33,586 --> 00:12:35,296
+Et si on faisait un échange ?
+
+178
+00:12:35,380 --> 00:12:37,298
+L'argent contre la fille.
+
+179
+00:12:38,049 --> 00:12:39,759
+Ça me paraît équitable.
+
+180
+00:12:39,843 --> 00:12:41,136
+Toi d'abord.
+
+181
+00:12:48,393 --> 00:12:49,644
+J'ai l'argent !
+
+182
+00:13:06,703 --> 00:13:08,288
+Les crédits !
+
+183
+00:13:18,131 --> 00:13:20,258
+Todo ! Retrouve la gamine.
+
+184
+00:13:20,342 --> 00:13:21,468
+Je m'en occupe !
+
+185
+00:13:36,691 --> 00:13:39,402
+Apprends à capituler, Shand.
+
+186
+00:15:17,042 --> 00:15:19,794
+Je crois l'avoir trouvée.
+Dans le système Lido.
+
+187
+00:15:19,878 --> 00:15:21,755
+Où ça, dans le système Lido ?
+
+188
+00:15:21,838 --> 00:15:23,715
+Je localise sa position exacte.
+
+189
+00:15:23,798 --> 00:15:25,008
+Patience !
+
+190
+00:15:33,433 --> 00:15:34,768
+M. Bane !
+
+191
+00:15:36,478 --> 00:15:40,523
+N'ayez crainte, je retrouverai la cible.
+Je ne vous décevrai pas !
+
+192
+00:15:45,904 --> 00:15:47,739
+Ils n'arriveront pas à temps.
+
+193
+00:15:48,406 --> 00:15:51,534
+Tu ne peux compter que sur toi-même.
+
+194
+00:15:51,618 --> 00:15:54,120
+Pourquoi vous avez tué Taun We ?
+
+195
+00:15:54,204 --> 00:15:55,830
+Ça fait partie du boulot.
+
+196
+00:15:55,914 --> 00:15:57,499
+Tu devrais me remercier.
+
+197
+00:15:57,582 --> 00:15:59,584
+Ce que leur ministre prévoit de te faire
+
+198
+00:15:59,668 --> 00:16:01,461
+est bien pire que ce qui m'amène.
+
+199
+00:16:01,544 --> 00:16:03,463
+Que me veut-il ?
+
+200
+00:16:04,214 --> 00:16:05,674
+Tu le sais déjà.
+
+201
+00:16:14,307 --> 00:16:17,185
+Omega, j'essaie de t'aider.
+
+202
+00:16:17,268 --> 00:16:20,355
+Vous avez déjà dit ça sur Pantora.
+
+203
+00:16:20,438 --> 00:16:23,400
+Te voilà ! Viens avec…
+
+204
+00:16:32,283 --> 00:16:35,912
+C'est trop tard. Il faut y aller, Omega.
+
+205
+00:17:00,395 --> 00:17:01,813
+Des capsules de sauvetage.
+
+206
+00:17:12,824 --> 00:17:16,036
+Fini de s'amuser, jeune fille.
+
+207
+00:18:05,960 --> 00:18:07,796
+Tu cherches une capsule de sauvetage ?
+
+208
+00:18:10,090 --> 00:18:12,217
+Tu n'iras pas bien loin comme ça.
+
+209
+00:18:15,011 --> 00:18:17,263
+Viens avec moi.
+
+210
+00:18:17,889 --> 00:18:19,391
+Lâche-moi !
+
+211
+00:19:09,524 --> 00:19:11,526
+Où tu vas comme ça ?
+
+212
+00:19:12,944 --> 00:19:14,154
+Oh, non !
+
+213
+00:19:15,321 --> 00:19:17,449
+Tu vas le regretter !
+
+214
+00:19:28,460 --> 00:19:31,504
+<i>Bane, la cible s'enfuit !</i>
+
+215
+00:19:36,134 --> 00:19:37,469
+Retourne au vaisseau !
+
+216
+00:20:11,586 --> 00:20:12,712
+Non !
+
+217
+00:20:44,703 --> 00:20:47,664
+- Omega ! T'es là ?
+- Wrecker !
+
+218
+00:20:52,460 --> 00:20:54,462
+Content de te retrouver, petite.
+
+219
+00:21:06,933 --> 00:21:10,145
+Ça va, Omega ? Tu n'as rien ?
+
+220
+00:21:11,980 --> 00:21:16,151
+Qu'est-ce qui se passe ?
+Pourquoi les Kaminoiens me traquent ?
+
+221
+00:21:17,402 --> 00:21:20,405
+Hunter, dis-lui.
+
+222
+00:21:23,491 --> 00:21:26,286
+Tu es précieuse à leurs yeux.
+
+223
+00:21:26,953 --> 00:21:29,456
+Plus que les autres clones.
+Y compris nous.
+
+224
+00:21:30,123 --> 00:21:32,000
+Tu es différente.
+
+225
+00:21:33,752 --> 00:21:36,171
+Différente ? Comment ça ?
+
+226
+00:21:43,053 --> 00:21:44,721
+Fais-nous décoller.
+
+227
+00:21:44,804 --> 00:21:47,807
+J'essaie,
+mais nos systèmes ne répondent pas.
+
+228
+00:21:50,810 --> 00:21:54,481
+Ils semblent avoir été sabotés.
+
+229
+00:22:08,161 --> 00:22:10,121
+<i>Quelles sont les nouvelles ?</i>
+
+230
+00:22:10,205 --> 00:22:13,416
+Omega a été secourue
+par les mêmes clones que sur Pantora.
+
+231
+00:22:14,042 --> 00:22:16,753
+Je peux les suivre,
+mais ça coûtera plus cher.
+
+232
+00:22:16,836 --> 00:22:17,837
+<i>Non.</i>
+
+233
+00:22:18,546 --> 00:22:22,676
+<i>Tant qu'elle n'est pas entre les mains</i>
+<i>de Lama Su, elle est en sécurité.</i>
+
+234
+00:22:22,759 --> 00:22:25,053
+<i>Je vais transférer votre paiement.</i>
+
+235
+00:22:25,136 --> 00:22:28,348
+Si vous changez d'avis,
+vous savez où me joindre.
+
+236
+00:23:05,051 --> 00:23:06,177
+Insomnie ?
+
+237
+00:23:06,845 --> 00:23:09,597
+J'arrête pas de penser aux Kaminoiens.
+
+238
+00:23:10,098 --> 00:23:12,392
+À cet endroit.
+
+239
+00:23:12,934 --> 00:23:15,854
+Je veux pas devenir un rat de laboratoire.
+
+240
+00:23:15,937 --> 00:23:17,814
+Ça n'arrivera pas.
+
+241
+00:23:17,897 --> 00:23:20,025
+Si j'ai autant de valeur que ça,
+
+242
+00:23:20,650 --> 00:23:23,570
+Lama Su continuera d'envoyer
+des chasseurs à mes trousses.
+
+243
+00:23:24,154 --> 00:23:26,322
+Il peut envoyer toute la galaxie.
+
+244
+00:23:26,948 --> 00:23:28,199
+On te protégera.
+
+245
+00:23:30,827 --> 00:23:32,370
+On peut pas tous les combattre.
+
+246
+00:23:37,417 --> 00:23:40,086
+Omega, ne t'en fais pas.
+
+247
+00:23:40,754 --> 00:23:42,797
+Tu ne retourneras jamais sur Kamino.
+
+248
+00:23:44,758 --> 00:23:45,884
+Promis ?
+
+249
+00:23:46,634 --> 00:23:47,927
+Promis.
+
+250
+00:24:32,847 --> 00:24:34,849
+Sous-titres : Cynthia Kirbach
+

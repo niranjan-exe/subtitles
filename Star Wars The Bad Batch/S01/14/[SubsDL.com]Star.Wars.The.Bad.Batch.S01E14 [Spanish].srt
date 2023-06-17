@@ -1,0 +1,926 @@
+﻿1
+00:00:30,530 --> 00:00:33,742
+STAR WARS: LA REMESA MALA
+
+2
+00:02:15,593 --> 00:02:19,014
+Alguien se está comunicando con nosotros.
+Es… Rex.
+
+3
+00:02:27,564 --> 00:02:32,402
+Hola. Perdonad que vaya directo al grano,
+pero me vendría bien vuestra ayuda.
+
+4
+00:02:32,485 --> 00:02:33,987
+¿Qué necesitas, capitán?
+
+5
+00:02:34,070 --> 00:02:39,659
+He recibido un SOS de un soldado clon,
+pero no puedo ir a rescatarlo ahora mismo.
+
+6
+00:02:39,743 --> 00:02:44,706
+- ¿Quieres que rescatemos a un norm?
+- Es un viejo amigo y tiene problemas.
+
+7
+00:02:45,331 --> 00:02:47,083
+Necesito que lo saquéis.
+
+8
+00:02:48,918 --> 00:02:50,795
+¿Que lo saquemos de dónde?
+
+9
+00:02:52,589 --> 00:02:55,592
+No puedo hablar. Os envío su SOS.
+Estamos en contacto.
+
+10
+00:02:57,427 --> 00:02:58,928
+¿De qué va todo esto?
+
+11
+00:02:59,012 --> 00:03:04,392
+El SOS que envió CC-5576 procede de Daro,
+
+12
+00:03:04,476 --> 00:03:08,355
+un planeta terrestre del Borde Exterior
+sin población ni instalaciones conocidas.
+
+13
+00:03:08,438 --> 00:03:10,273
+¿Qué hace tan lejos?
+
+14
+00:03:10,357 --> 00:03:11,608
+¿Eso qué importa?
+
+15
+00:03:11,691 --> 00:03:14,361
+Ya hemos ido a misiones
+con poca información,
+
+16
+00:03:14,444 --> 00:03:15,862
+pero esto es el colmo.
+
+17
+00:03:15,945 --> 00:03:19,115
+Rex no nos pediría ayuda
+si no fuera urgente.
+
+18
+00:03:19,783 --> 00:03:21,326
+Eco lleva razón.
+
+19
+00:03:21,409 --> 00:03:25,205
+Permitidme recordaros
+que estamos haciendo un trabajo para Cid.
+
+20
+00:03:25,288 --> 00:03:27,916
+Si nos desviamos, no se nos compensará.
+
+21
+00:03:27,999 --> 00:03:29,918
+Sin dinero no hay comida.
+
+22
+00:03:30,752 --> 00:03:33,254
+Ah, sí. Tech lleva razón.
+
+23
+00:03:33,338 --> 00:03:38,176
+Pero el amigo de Rex tiene problemas.
+Eso es más importante que cobrar.
+
+24
+00:03:39,302 --> 00:03:40,929
+Bueno, la niña lleva razón.
+
+25
+00:03:47,727 --> 00:03:52,565
+Vale, iremos a ver, pero no me gusta.
+
+26
+00:04:05,328 --> 00:04:07,956
+La operación va muy adelantada.
+
+27
+00:04:08,540 --> 00:04:12,252
+Bien. Asegúrate de movilizar
+a todos los clones disponibles.
+
+28
+00:04:18,591 --> 00:04:21,052
+¿Y los kaminoanos?
+
+29
+00:04:21,886 --> 00:04:23,138
+Tenemos órdenes.
+
+30
+00:04:24,139 --> 00:04:27,475
+Vigílalos… hasta que llegue el momento.
+
+31
+00:04:29,352 --> 00:04:33,356
+Señora Nala Se, ¿dejar las instalaciones
+no va contra el protocolo?
+
+32
+00:04:33,440 --> 00:04:35,984
+Seguiréis entrenando en otro sitio.
+
+33
+00:04:37,402 --> 00:04:43,033
+- Seguiremos siendo soldados, ¿no?
+- Por supuesto. Para eso se os hizo.
+
+34
+00:04:47,954 --> 00:04:51,541
+Daos prisa, ahora voy yo.
+
+35
+00:05:03,053 --> 00:05:06,222
+El Imperio ha cancelado
+todos nuestros contratos.
+
+36
+00:05:10,018 --> 00:05:14,230
+El éxito de nuestro ejército clon
+es conocido en la galaxia entera.
+
+37
+00:05:14,814 --> 00:05:21,196
+Habrá otros clientes que valoren
+nuestros avances científicos.
+
+38
+00:05:21,279 --> 00:05:24,407
+El Imperio no es como la República.
+
+39
+00:05:24,491 --> 00:05:27,744
+Les hemos dado poder en perjuicio nuestro.
+
+40
+00:05:28,328 --> 00:05:33,750
+Temo que prefieran destruirnos
+a dejar que sigamos funcionando.
+
+41
+00:05:34,417 --> 00:05:37,754
+Debemos marcharnos
+para asegurar nuestra supervivencia.
+
+42
+00:05:38,505 --> 00:05:42,926
+Reúne a quienes sean esenciales.
+Yo organizaré nuestra partida.
+
+43
+00:05:44,469 --> 00:05:47,222
+Sí, primer ministro.
+
+44
+00:05:56,648 --> 00:05:59,401
+Nos acercamos a la atmósfera de Daro.
+
+45
+00:05:59,484 --> 00:06:02,570
+Volaré bajo para evitar
+dispositivos de seguimiento.
+
+46
+00:06:03,238 --> 00:06:05,699
+Mucho nos fiamos
+de un clon que no conocemos.
+
+47
+00:06:06,491 --> 00:06:09,911
+Rex confía en él, y yo confío en Rex.
+
+48
+00:06:31,182 --> 00:06:33,351
+La señal procede de esa dirección.
+
+49
+00:06:38,106 --> 00:06:39,941
+La baliza debería estar aquí delante.
+
+50
+00:06:43,194 --> 00:06:44,320
+La he encontrado.
+
+51
+00:06:47,407 --> 00:06:49,659
+¿Dónde está el norm?
+
+52
+00:07:02,088 --> 00:07:03,173
+Llegamos tarde.
+
+53
+00:07:04,549 --> 00:07:08,470
+Estaban persiguiendo al clon.
+Se lo llevaron a rastras.
+
+54
+00:07:09,596 --> 00:07:10,680
+Por ahí.
+
+55
+00:07:21,775 --> 00:07:22,776
+Esperad.
+
+56
+00:07:27,947 --> 00:07:32,243
+Hay algo dentro de la montaña.
+
+57
+00:07:33,870 --> 00:07:36,790
+Tienes razón,
+mi escáner tiene interferencias.
+
+58
+00:07:37,332 --> 00:07:41,795
+- Dijiste que era un planeta deshabitado.
+- Ese dato parece ser inexacto.
+
+59
+00:07:41,878 --> 00:07:44,881
+- Wrecker, espéranos en la nave con Omega.
+- ¿Por qué no…?
+
+60
+00:07:44,964 --> 00:07:48,802
+Venir hasta aquí era debatible. Esto no.
+
+61
+00:08:02,273 --> 00:08:03,608
+¿Qué pasa?
+
+62
+00:08:05,235 --> 00:08:06,569
+Aquí aterrizó una lanzadera.
+
+63
+00:08:09,322 --> 00:08:11,741
+¿Qué habrá exactamente en esa montaña?
+
+64
+00:08:13,326 --> 00:08:15,328
+Solo hay un modo de saberlo.
+
+65
+00:08:44,566 --> 00:08:47,819
+Parece una base militar.
+
+66
+00:08:47,902 --> 00:08:49,738
+No me consta como tal.
+
+67
+00:09:00,623 --> 00:09:02,625
+Vamos a acercarnos.
+
+68
+00:09:20,852 --> 00:09:24,647
+Veo a un par de comandos
+y escuadrones de soldados clon.
+
+69
+00:09:25,899 --> 00:09:29,402
+- Han actualizado el uniforme blindado.
+- Déjame ver.
+
+70
+00:09:30,695 --> 00:09:35,575
+La propia montaña fortifica esta base
+y la hace casi impenetrable.
+
+71
+00:09:37,911 --> 00:09:40,580
+Esto ya no es un simple rescate.
+
+72
+00:09:40,663 --> 00:09:42,999
+Vamos al Merodeador
+a comunicarnos con Rex.
+
+73
+00:09:44,292 --> 00:09:45,877
+¿Y qué pasa con la misión?
+
+74
+00:09:47,629 --> 00:09:51,216
+No sabemos seguro si CC-5576 está ahí
+
+75
+00:09:52,008 --> 00:09:53,843
+ni si sigue vivo.
+
+76
+00:09:54,469 --> 00:09:57,055
+Entraríamos a ciegas y sin refuerzos.
+
+77
+00:09:57,806 --> 00:10:01,101
+Como hicisteis en Skako Menor
+cuando me rescatasteis.
+
+78
+00:10:01,184 --> 00:10:04,020
+Seguiría atrapado allí
+si no lo hubierais hecho.
+
+79
+00:10:04,104 --> 00:10:08,149
+Si hay una posibilidad de que ese soldado
+esté retenido contra su voluntad,
+
+80
+00:10:08,233 --> 00:10:10,235
+tenemos que intentar rescatarlo.
+
+81
+00:10:14,572 --> 00:10:16,157
+Aún te toca a ti.
+
+82
+00:10:16,241 --> 00:10:20,036
+Ya lo sé, estoy pensando.
+
+83
+00:10:20,120 --> 00:10:21,746
+Wrecker, ¿nos recibes?
+
+84
+00:10:21,830 --> 00:10:24,249
+Sí, te oímos. ¿Habéis encontrado al norm?
+
+85
+00:10:24,332 --> 00:10:29,004
+Aún no, pero hemos encontrado
+una base imperial dentro de la montaña.
+
+86
+00:10:29,629 --> 00:10:30,630
+Vamos a entrar.
+
+87
+00:10:30,714 --> 00:10:31,965
+¡Esperadnos!
+
+88
+00:10:32,048 --> 00:10:33,174
+Os ayudaremos.
+
+89
+00:10:33,258 --> 00:10:36,678
+Negativo. Quedaos en la nave.
+Sois nuestro apoyo.
+
+90
+00:10:36,761 --> 00:10:39,848
+Habrá interferencias cuando entremos,
+así que atentos.
+
+91
+00:10:40,473 --> 00:10:45,645
+Necesitaré acceder a la base de datos
+para localizar a CC-5576.
+
+92
+00:10:45,729 --> 00:10:49,274
+Hay accesos desde el foso del ascensor.
+Entraremos por ahí.
+
+93
+00:11:07,667 --> 00:11:08,835
+Vamos a saltar.
+
+94
+00:11:37,906 --> 00:11:39,032
+¿Ya?
+
+95
+00:11:39,115 --> 00:11:42,327
+El cifrado es nuevo.
+Igual me cuesta un poco.
+
+96
+00:12:10,313 --> 00:12:12,232
+Esto no tiene sentido.
+
+97
+00:12:12,315 --> 00:12:17,654
+En el informe de efectivos figuran
+50 comandos clon y 1000 soldados TK.
+
+98
+00:12:17,737 --> 00:12:18,988
+¿Soldados TK?
+
+99
+00:12:19,572 --> 00:12:21,533
+No conocía esa denominación.
+
+100
+00:12:21,616 --> 00:12:22,784
+¿Cuánto falta?
+
+101
+00:12:22,867 --> 00:12:25,370
+Ya casi está.
+
+102
+00:12:25,453 --> 00:12:28,665
+Lo tengo. Bloque de celdas 24,
+cuatro niveles más abajo.
+
+103
+00:12:42,554 --> 00:12:47,142
+Oye, novato, ¿por qué no haces algo útil?
+Tráeme comida.
+
+104
+00:12:47,225 --> 00:12:49,019
+¡Calla, traidor!
+
+105
+00:12:49,102 --> 00:12:51,187
+Dirás "capitán traidor",
+
+106
+00:12:52,439 --> 00:12:54,190
+cadete insubordinado.
+
+107
+00:12:58,695 --> 00:13:00,572
+¿Eres CC-5576?
+
+108
+00:13:01,114 --> 00:13:03,324
+Depende de quién lo pregunte.
+
+109
+00:13:04,325 --> 00:13:05,577
+Nos ha enviado Rex.
+
+110
+00:13:07,537 --> 00:13:12,292
+En ese caso, me llamo Gregor. Vámonos.
+
+111
+00:13:54,876 --> 00:13:58,296
+Se han reunido para pasar revista.
+No podemos pasar por ahí.
+
+112
+00:13:58,380 --> 00:14:01,132
+Si no llegamos al ascensor,
+no podremos salir.
+
+113
+00:14:01,216 --> 00:14:02,384
+Puedo redirigirlos.
+
+114
+00:14:05,970 --> 00:14:10,266
+Por vuestro uniforme supongo
+que sois comandos, como yo.
+
+115
+00:14:10,809 --> 00:14:12,185
+Somos CT-99.
+
+116
+00:14:12,268 --> 00:14:14,521
+¿Clones defectuosos?
+
+117
+00:14:15,730 --> 00:14:20,819
+Yo diría más bien que los defectuosos
+son los que quieren quedarse aquí.
+
+118
+00:14:20,902 --> 00:14:22,195
+¿Cuál era tu misión?
+
+119
+00:14:22,278 --> 00:14:24,114
+Era instructor…
+
+120
+00:14:25,532 --> 00:14:26,700
+¿Qué pasa, Tech?
+
+121
+00:14:26,783 --> 00:14:28,827
+He tecleado
+un Código 16 para redirigirlos.
+
+122
+00:14:28,910 --> 00:14:30,120
+No sé qué ha pasado.
+
+123
+00:14:30,203 --> 00:14:33,873
+Los códigos clon no funcionan aquí.
+Has hecho saltar la alarma.
+
+124
+00:14:36,167 --> 00:14:37,711
+¡Intrusos en el nivel seis!
+
+125
+00:14:51,641 --> 00:14:53,184
+¿Hay alguna otra salida?
+
+126
+00:14:53,268 --> 00:14:56,521
+Solo hay una manera de salir: por arriba.
+
+127
+00:14:58,023 --> 00:14:59,482
+Mirad.
+
+128
+00:14:59,566 --> 00:15:01,735
+No son soldados clon.
+
+129
+00:15:03,194 --> 00:15:05,238
+Es lo que intentaba deciros.
+
+130
+00:15:05,321 --> 00:15:09,576
+Son nuestros recambios,
+aunque parezca mentira.
+
+131
+00:15:28,511 --> 00:15:30,305
+¿Seguro que sabes adónde vas?
+
+132
+00:15:30,388 --> 00:15:33,558
+Oye, que quien ya se ha escapado antes
+de aquí soy yo.
+
+133
+00:15:33,641 --> 00:15:34,893
+Y te capturaron.
+
+134
+00:15:34,976 --> 00:15:36,978
+Después de que escapara.
+
+135
+00:15:42,984 --> 00:15:45,528
+¿No te ocupabas tú de entrenarlos?
+
+136
+00:15:45,612 --> 00:15:49,532
+No se lo enseñé todo.
+No habría sido muy inteligente, ¿verdad?
+
+137
+00:16:06,341 --> 00:16:09,427
+- Necesitamos un código de autorización.
+- Lo tenemos.
+
+138
+00:16:16,893 --> 00:16:21,773
+¿Por qué dices que esos soldados nuevos
+son nuestros recambios?
+
+139
+00:16:21,856 --> 00:16:26,111
+Los clones somos soldados
+de una República que ya no existe.
+
+140
+00:16:26,194 --> 00:16:28,780
+Estos reclutas
+proceden de toda la galaxia.
+
+141
+00:16:28,863 --> 00:16:31,825
+Juran lealtad al Imperio.
+
+142
+00:16:31,908 --> 00:16:35,495
+No son muy eficientes,
+pero hay muchísimos.
+
+143
+00:16:35,578 --> 00:16:37,330
+No solo importa el número.
+
+144
+00:16:44,337 --> 00:16:45,755
+¿Qué decías?
+
+145
+00:16:46,506 --> 00:16:49,092
+Tomaremos un desvío.
+
+146
+00:16:59,144 --> 00:17:01,146
+¿Cómo puedes estar tan tranquilo?
+
+147
+00:17:01,980 --> 00:17:06,860
+Me estoy preparando.
+Me recargo antes de cargar.
+
+148
+00:17:07,402 --> 00:17:10,739
+Ya deberían habernos avisado.
+¿Y si les ha pasado algo?
+
+149
+00:17:10,822 --> 00:17:13,575
+Seguro que lo tienen todo bajo control.
+
+150
+00:17:18,788 --> 00:17:19,998
+¡Hunter!
+
+151
+00:18:03,124 --> 00:18:04,209
+¿Cómo estás?
+
+152
+00:18:04,959 --> 00:18:08,088
+No os preocupéis por mí. No es nada.
+
+153
+00:18:08,171 --> 00:18:10,465
+Ya sobreviví a una explosión.
+
+154
+00:18:11,007 --> 00:18:12,634
+También sobreviviré a esto.
+
+155
+00:18:13,343 --> 00:18:16,262
+Todos los accesos
+al anillo central están bloqueados.
+
+156
+00:18:18,014 --> 00:18:20,558
+Por ahí. Son los conductos del reactor.
+
+157
+00:18:20,642 --> 00:18:21,685
+¿Y?
+
+158
+00:18:21,768 --> 00:18:24,771
+Deberían llevar a la abertura de escape
+del reactor principal.
+
+159
+00:18:24,854 --> 00:18:27,315
+Por ahí saldremos al exterior.
+
+160
+00:18:27,399 --> 00:18:30,193
+La abertura de escape
+está a media montaña.
+
+161
+00:18:30,276 --> 00:18:32,570
+No podemos saltar desde ahí.
+
+162
+00:18:32,654 --> 00:18:35,240
+No, pero podemos llamar a nuestra nave.
+
+163
+00:18:50,630 --> 00:18:53,049
+¿Cómo acabaste aquí?
+
+164
+00:18:54,551 --> 00:18:56,886
+Me enviaron con otros comandos
+
+165
+00:18:57,929 --> 00:19:01,516
+y enseguida me entraron ganas de irme.
+
+166
+00:19:02,851 --> 00:19:07,856
+Resulta que el Imperio
+no tolera bien la deserción.
+
+167
+00:19:08,732 --> 00:19:10,066
+No me digas.
+
+168
+00:19:14,279 --> 00:19:16,197
+Wrecker, Omega, ¿nos recibís?
+
+169
+00:19:16,281 --> 00:19:17,282
+¡Son ellos!
+
+170
+00:19:17,907 --> 00:19:18,908
+Te oímos, Hunter.
+
+171
+00:19:18,992 --> 00:19:21,411
+Tenemos el objetivo,
+pero también problemas.
+
+172
+00:19:21,494 --> 00:19:23,163
+- Venid a recogernos.
+- ¡Vamos!
+
+173
+00:19:23,246 --> 00:19:24,664
+¡Vamos!
+
+174
+00:19:36,301 --> 00:19:38,136
+¡Se escapan por la abertura del reactor!
+
+175
+00:19:46,561 --> 00:19:50,190
+- Menos mal que no vamos por ahí.
+- ¡Nos estamos acercando!
+
+176
+00:19:51,191 --> 00:19:52,442
+Os vemos.
+
+177
+00:20:05,121 --> 00:20:06,539
+Mantenla estable, niña.
+
+178
+00:20:06,623 --> 00:20:07,874
+Haré todo lo que pueda.
+
+179
+00:20:14,297 --> 00:20:15,882
+¡Un poquito más cerca!
+
+180
+00:20:18,968 --> 00:20:20,178
+¡Vamos!
+
+181
+00:20:30,438 --> 00:20:31,940
+¡No puedo mantenerla firme!
+
+182
+00:20:32,023 --> 00:20:35,235
+Suficiente. Ya me encargo yo.
+Wrecker, al cañón de cola.
+
+183
+00:20:59,968 --> 00:21:02,137
+Los escudos no van. ¡Perdemos energía!
+
+184
+00:21:08,309 --> 00:21:10,145
+¡Gonky, te necesitamos!
+
+185
+00:21:15,442 --> 00:21:17,569
+¡Funciona! El sistema se ha recuperado.
+
+186
+00:21:37,797 --> 00:21:39,716
+Volvemos a por vosotros. Preparaos.
+
+187
+00:21:44,179 --> 00:21:45,096
+¡Saltad!
+
+188
+00:21:55,357 --> 00:21:56,566
+¡Hunter!
+
+189
+00:22:19,172 --> 00:22:20,298
+¡Múltiples fallos!
+
+190
+00:22:20,382 --> 00:22:22,801
+¡No podemos recibir más impactos!
+
+191
+00:22:40,985 --> 00:22:42,237
+Sacad la nave de aquí.
+
+192
+00:22:42,320 --> 00:22:44,322
+Encontraré otro modo de regresar.
+
+193
+00:22:44,406 --> 00:22:47,200
+Negativo.
+Tienes pocas probabilidades de escapar.
+
+194
+00:22:50,495 --> 00:22:53,456
+¡Marchaos, Tech! Es una orden.
+
+195
+00:23:05,385 --> 00:23:09,180
+¡No! ¡Dad la vuelta!
+¡Tenemos que volver a por él!
+
+196
+00:23:09,264 --> 00:23:13,101
+¡Hunter, diles que vuelvan!
+¡Ordénales que vuelvan!
+
+197
+00:23:13,601 --> 00:23:16,604
+Lo siento, niña. No puedo hacer eso.
+
+198
+00:23:36,416 --> 00:23:39,085
+Almirante, ¿qué puedo hacer por usted?
+
+199
+00:23:40,712 --> 00:23:42,797
+Estoy decepcionado, primer ministro.
+
+200
+00:23:43,631 --> 00:23:46,217
+Prometió al Imperio una cooperación plena.
+
+201
+00:23:46,968 --> 00:23:48,595
+Y se la he dado.
+
+202
+00:23:50,513 --> 00:23:53,266
+Me han informado de un hecho desazonador.
+
+203
+00:23:54,684 --> 00:23:59,856
+Su directora científica estaba reuniendo
+a personal médico para huir de Kamino.
+
+204
+00:24:00,899 --> 00:24:03,151
+Me resulta sorprendente.
+
+205
+00:24:04,736 --> 00:24:07,906
+Me aseguraré de que reciba
+el castigo adecuado.
+
+206
+00:24:08,573 --> 00:24:12,077
+Aunque sus soldados clon
+nunca me impresionaron demasiado,
+
+207
+00:24:12,160 --> 00:24:15,163
+considero que será
+de gran utilidad para el Imperio.
+
+208
+00:24:16,122 --> 00:24:18,291
+Una científica puede serme útil.
+
+209
+00:24:19,250 --> 00:24:22,170
+Un político no.
+
+210
+00:24:22,712 --> 00:24:25,215
+Me temo
+que ya no necesitamos sus servicios.
+
+211
+00:24:50,949 --> 00:24:53,034
+Ya me imaginaba que aparecerías.
+
+212
+00:24:57,997 --> 00:25:03,003
+Habría preferido el escuadrón entero,
+pero contigo me basta.
+
+213
+00:25:49,049 --> 00:25:51,051
+Subtítulos: Jota Martínez Galiana
+

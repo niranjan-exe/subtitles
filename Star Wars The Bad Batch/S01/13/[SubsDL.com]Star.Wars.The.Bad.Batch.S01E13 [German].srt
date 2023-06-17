@@ -1,0 +1,985 @@
+﻿1
+00:00:57,140 --> 00:00:59,809
+Für diese Mission muss Cid
+einen Zuschlag zahlen.
+
+2
+00:00:59,893 --> 00:01:01,561
+So übel war es nicht.
+
+3
+00:01:02,687 --> 00:01:06,900
+Sie vergaß zu erwähnen,
+dass es dort von Gundarks nur so wimmelt.
+
+4
+00:01:06,983 --> 00:01:10,236
+Sie verschwieg nicht zum ersten Mal
+wichtige Details.
+
+5
+00:01:32,717 --> 00:01:35,011
+Seit wann ist dieser Laden so beliebt?
+
+6
+00:01:35,095 --> 00:01:36,763
+Und wer sind die da?
+
+7
+00:01:36,846 --> 00:01:39,099
+Nicht unser Problem. Suchen wir Cid.
+
+8
+00:01:44,145 --> 00:01:45,980
+Was wollt ihr hier?
+
+9
+00:01:52,737 --> 00:01:55,782
+Es ist unhöflich,
+einfach so in mein Büro zu platzen.
+
+10
+00:01:55,865 --> 00:01:58,201
+Das ist nicht dein Büro.
+
+11
+00:01:59,369 --> 00:02:00,537
+Du irrst dich.
+
+12
+00:02:01,121 --> 00:02:03,957
+-Ruby?
+-Sie ist mein Schoßtier.
+
+13
+00:02:04,958 --> 00:02:06,626
+Was machst du mit ihr?
+
+14
+00:02:07,252 --> 00:02:09,504
+Ich habe bezahlt, Cid hat geliefert.
+
+15
+00:02:10,088 --> 00:02:11,589
+Und wo ist Cid?
+
+16
+00:02:11,673 --> 00:02:13,425
+Cid ist aus dem Spiel.
+
+17
+00:02:13,508 --> 00:02:17,595
+Dieses Lokal und Ord Mantell
+sind jetzt mein Revier.
+
+18
+00:02:18,555 --> 00:02:21,683
+Aber falls ihr Arbeit sucht,
+ich könnte euch gebrauchen.
+
+19
+00:02:23,226 --> 00:02:24,519
+Wir überlegen es uns.
+
+20
+00:02:25,770 --> 00:02:26,855
+Tut das.
+
+21
+00:02:29,482 --> 00:02:31,151
+Wir verlassen Ord Mantell.
+
+22
+00:02:31,234 --> 00:02:34,612
+Tech, mach das Schiff klar.
+Wir anderen beschaffen Vorräte.
+
+23
+00:02:34,696 --> 00:02:36,072
+Was ist mit Cid?
+
+24
+00:02:36,740 --> 00:02:38,950
+Was meinte er mit:
+"Sie ist aus dem Spiel"?
+
+25
+00:02:39,034 --> 00:02:40,702
+Seinem Ton nach zu urteilen
+
+26
+00:02:40,785 --> 00:02:44,998
+dürfen wir annehmen, dass Cid
+hinausgedrängt oder getötet wurde.
+
+27
+00:02:48,084 --> 00:02:50,170
+Wir müssen sie suchen und ihr helfen.
+
+28
+00:02:52,422 --> 00:02:54,799
+Schön, dass wenigstens eine sich sorgt.
+
+29
+00:02:54,883 --> 00:02:56,551
+Rein mit euch. Los.
+
+30
+00:02:59,429 --> 00:03:01,806
+Ihr habt also Roland kennengelernt.
+
+31
+00:03:01,890 --> 00:03:06,561
+Er ist ein ehemaliger Kunde
+und Sohn des Gangsterbosses Isa Durand.
+
+32
+00:03:06,644 --> 00:03:10,982
+Roland will sich einen Namen machen.
+Darum verbündet er sich mit den Pykes.
+
+33
+00:03:11,066 --> 00:03:13,193
+Was will er auf Ord Mantell?
+
+34
+00:03:13,276 --> 00:03:17,113
+Hier kreuzen sich
+mehrere Hyperraumstraßen.
+
+35
+00:03:17,197 --> 00:03:18,865
+Ideal für Schmuggel.
+
+36
+00:03:18,948 --> 00:03:21,576
+Mein Laden ist mittendrin.
+
+37
+00:03:21,659 --> 00:03:24,788
+Roland erkannte seinen Wert
+und nahm ihn sich.
+
+38
+00:03:25,705 --> 00:03:28,541
+Aber wir holen ihn uns zurück.
+
+39
+00:03:29,125 --> 00:03:31,419
+-Wir?
+-Wenn ich verliere, verliert ihr auch.
+
+40
+00:03:31,503 --> 00:03:35,256
+Vergesst nicht,
+wie gut ich Dinge für mich behalte.
+
+41
+00:03:35,340 --> 00:03:36,883
+Ich denke, sie droht uns.
+
+42
+00:03:36,966 --> 00:03:38,301
+Du bist fix.
+
+43
+00:03:38,885 --> 00:03:41,388
+Als wir Hilfe brauchten,
+gingen wir zu Cid.
+
+44
+00:03:41,471 --> 00:03:43,556
+Jetzt braucht sie Hilfe.
+
+45
+00:03:43,640 --> 00:03:45,475
+Wir können nicht abhauen.
+
+46
+00:03:46,267 --> 00:03:47,852
+Sag es ihnen, Kleine.
+
+47
+00:03:49,604 --> 00:03:51,272
+Wie lautet dein Plan?
+
+48
+00:03:53,900 --> 00:03:57,612
+Man hat mich informiert, dass heute Abend
+ein Kunde zu Roland kommt,
+
+49
+00:03:57,696 --> 00:04:01,825
+um eine Ladung Spice zu kaufen,
+die Roland in meinem Büro lagert.
+
+50
+00:04:01,908 --> 00:04:05,286
+Du willst die Ladung stehlen,
+die Lieferkette unterbrechen
+
+51
+00:04:05,370 --> 00:04:07,372
+und das Geschäft platzen lassen.
+
+52
+00:04:07,455 --> 00:04:10,834
+Sehr gut, Brillenschlange.
+Wenn die Pykes kassieren wollen,
+
+53
+00:04:10,917 --> 00:04:14,671
+kann Roland nicht zahlen,
+und er wird zum Problem für sie.
+
+54
+00:04:27,017 --> 00:04:28,768
+Jetzt wird geklettert, Männer.
+
+55
+00:04:34,190 --> 00:04:35,567
+Wo sind wir?
+
+56
+00:04:35,650 --> 00:04:38,403
+In den alten Bergbautunnels
+von Ord Mantell.
+
+57
+00:04:39,112 --> 00:04:41,364
+Diese Schienen verlaufen unter der Stadt.
+
+58
+00:04:41,448 --> 00:04:45,118
+So schleichen wir uns in meinen Laden,
+um das Spice zu klauen.
+
+59
+00:04:45,201 --> 00:04:48,830
+Wieso holen wir es nicht einfach?
+Die Wachen sind kein Problem.
+
+60
+00:04:48,913 --> 00:04:52,417
+Keiner darf wissen, dass wir es waren.
+Roland ist nicht das Problem,
+
+61
+00:04:52,500 --> 00:04:55,128
+aber die Pykes
+sollte man sich nicht zu Feinden machen.
+
+62
+00:04:55,211 --> 00:04:58,381
+Mit diesen Karren transportieren wir
+die Kisten mit dem Spice.
+
+63
+00:04:58,465 --> 00:05:01,634
+Sie sind etwas alt,
+aber ich bringe die Motoren zum Laufen.
+
+64
+00:05:01,718 --> 00:05:03,636
+Nein, Motoren sind zu laut.
+
+65
+00:05:03,720 --> 00:05:07,015
+Das ist eine Geheimmission.
+Davon versteht ihr was, oder?
+
+66
+00:05:07,557 --> 00:05:10,143
+Kleine, Brillenschlange,
+ihr kommt mit mir.
+
+67
+00:05:44,344 --> 00:05:45,428
+Hört gut zu.
+
+68
+00:05:46,012 --> 00:05:50,308
+Sobald wir durch das Tor gehen,
+macht niemand mehr einen Mucks.
+
+69
+00:05:50,392 --> 00:05:52,852
+Wir wollen den Stock nicht wecken.
+
+70
+00:05:52,936 --> 00:05:54,145
+Den was?
+
+71
+00:05:54,896 --> 00:05:59,067
+Die Höhlen habe ein kleines Problem
+mit Ungeziefer.
+
+72
+00:05:59,818 --> 00:06:02,404
+Wir haben keine Angst
+vor ein paar Insekten.
+
+73
+00:06:02,487 --> 00:06:05,740
+Wenn alle ihre Klappe halten,
+gibt es keine Probleme.
+
+74
+00:06:06,408 --> 00:06:08,076
+Großer, mach das Tor auf.
+
+75
+00:06:46,781 --> 00:06:48,116
+Was war das?
+
+76
+00:06:57,292 --> 00:06:59,169
+Was hatte ich gesagt?
+
+77
+00:07:00,003 --> 00:07:01,921
+Das war ein Versehen.
+
+78
+00:07:24,569 --> 00:07:26,237
+Weiter.
+
+79
+00:07:46,800 --> 00:07:47,967
+Wir sind da.
+
+80
+00:07:53,181 --> 00:07:57,018
+Diese Leiter führt in mein Büro.
+Hoch mit euch.
+
+81
+00:07:57,102 --> 00:08:00,814
+Woher wissen wir,
+dass Roland nicht dort ist?
+
+82
+00:08:00,897 --> 00:08:02,649
+Darum kümmere ich mich.
+
+83
+00:08:52,615 --> 00:08:53,783
+Ruby?
+
+84
+00:08:54,492 --> 00:08:57,412
+Steht nicht rum, sucht sie!
+
+85
+00:09:10,133 --> 00:09:11,551
+Die Luft ist rein.
+
+86
+00:09:28,151 --> 00:09:30,236
+Und ich dachte, Wrecker sei unordentlich.
+
+87
+00:09:30,320 --> 00:09:34,115
+Spart euch die Kommentare.
+Roland bleibt nicht lange weg.
+
+88
+00:09:38,453 --> 00:09:40,330
+Sechs Kisten Spice bestätigt.
+
+89
+00:09:40,413 --> 00:09:41,831
+Gib sie mir.
+
+90
+00:09:58,223 --> 00:09:59,307
+Wo ist sie?
+
+91
+00:09:59,391 --> 00:10:01,393
+Wir haben überall gesucht. Nichts.
+
+92
+00:10:02,060 --> 00:10:03,269
+Sucht weiter.
+
+93
+00:10:06,898 --> 00:10:08,149
+Halt das Ding ruhig.
+
+94
+00:10:08,733 --> 00:10:09,734
+Gib ihm mehr Futter.
+
+95
+00:10:12,862 --> 00:10:14,322
+Na toll!
+
+96
+00:10:19,911 --> 00:10:21,496
+Okay. Planänderung!
+
+97
+00:10:22,580 --> 00:10:23,581
+Du Feigling!
+
+98
+00:10:29,713 --> 00:10:30,714
+Hier bist du.
+
+99
+00:10:36,469 --> 00:10:37,595
+Braves Mädchen.
+
+100
+00:10:38,638 --> 00:10:39,639
+Schnappt sie.
+
+101
+00:10:43,601 --> 00:10:44,644
+Die Zeit ist um, Jungs.
+
+102
+00:10:44,728 --> 00:10:47,147
+-Holt die letzten zwei Kisten.
+-Ich sperre die Tür.
+
+103
+00:10:50,650 --> 00:10:53,361
+Keine Sorge.
+Wir finden die beiden und töten sie.
+
+104
+00:10:53,445 --> 00:10:54,612
+Ja, ganz sicher.
+
+105
+00:10:56,614 --> 00:10:59,034
+Von nun an musst du bei mir bleiben.
+
+106
+00:11:20,722 --> 00:11:21,723
+Das Spice.
+
+107
+00:11:22,849 --> 00:11:23,933
+Es ist weg!
+
+108
+00:11:35,111 --> 00:11:37,822
+Das reicht. Los jetzt.
+
+109
+00:11:41,743 --> 00:11:42,994
+Da sind sie!
+
+110
+00:11:58,968 --> 00:12:00,220
+Wir werden angegriffen!
+
+111
+00:12:01,012 --> 00:12:04,349
+-Ich sagte: "Keine Blaster."
+-Sag das denen!
+
+112
+00:12:22,701 --> 00:12:25,829
+Wenn diese Idioten den Stock wecken,
+sind wir alle tot.
+
+113
+00:12:30,875 --> 00:12:32,210
+Was ist das für ein Geräusch?
+
+114
+00:12:38,717 --> 00:12:40,385
+Cid, das gefällt mir nicht.
+
+115
+00:12:47,058 --> 00:12:48,852
+Startet die Motoren!
+
+116
+00:12:52,147 --> 00:12:54,441
+Es kommen noch mehr.
+
+117
+00:13:10,206 --> 00:13:12,667
+Sie meiden das Licht. Benutzt eure Lampen.
+
+118
+00:13:23,094 --> 00:13:24,637
+Nicht das Spice!
+
+119
+00:13:34,647 --> 00:13:36,441
+Vergesst das Spice. Weg hier!
+
+120
+00:13:37,150 --> 00:13:38,234
+Wrecker, sperr zu.
+
+121
+00:13:55,251 --> 00:13:58,672
+Wenigstens sind wir das Spice los, oder?
+
+122
+00:14:10,809 --> 00:14:15,397
+Ich hätte nie gedacht,
+dass Cid so töricht wäre.
+
+123
+00:14:15,897 --> 00:14:18,274
+Es war alles ihre Idee.
+
+124
+00:14:18,358 --> 00:14:20,860
+-Wir schwören es.
+-Es war ein Ablenkungsmanöver.
+
+125
+00:14:20,944 --> 00:14:22,862
+Wir wollten Ruby nichts tun. Ehrlich.
+
+126
+00:14:22,946 --> 00:14:25,907
+Sagt mir, wo Cid mein Spice hinbringt.
+
+127
+00:14:26,616 --> 00:14:30,120
+Wir wissen es nicht.
+Das hat sie nicht gesagt.
+
+128
+00:14:31,037 --> 00:14:32,539
+Schafft sie raus.
+
+129
+00:14:32,622 --> 00:14:34,999
+Wo ist unser Geld?
+
+130
+00:14:35,834 --> 00:14:37,836
+Die Lieferung wurde gestohlen.
+
+131
+00:14:38,336 --> 00:14:41,131
+Ihr kriegt euer Geld,
+aber ich brauche mehr Zeit.
+
+132
+00:14:41,214 --> 00:14:44,843
+Wir sind nicht hier, um Ausreden zu hören.
+
+133
+00:14:44,926 --> 00:14:50,598
+Wenn du nicht wie versprochen lieferst,
+bist du für uns nutzlos.
+
+134
+00:14:53,685 --> 00:14:55,103
+Ich sagte, ihr kriegt das Geld.
+
+135
+00:14:55,186 --> 00:14:58,815
+Geht zurück zu Oba Diah und wartet.
+
+136
+00:14:59,566 --> 00:15:02,652
+Du weißt nicht, was du tust, Durand.
+
+137
+00:15:03,319 --> 00:15:06,698
+Entweder du korrigierst
+diesen schweren Fehler,
+
+138
+00:15:06,781 --> 00:15:13,288
+oder deine ganze Familie
+wird wahren Schmerz kennenlernen.
+
+139
+00:15:27,260 --> 00:15:28,845
+Dein Laden ist sicher?
+
+140
+00:15:28,928 --> 00:15:32,182
+Bolo und Ketch sagten,
+dass die Pykes schon bei Roland waren.
+
+141
+00:15:32,265 --> 00:15:35,685
+Wie gesagt, sie mögen es nicht,
+wenn man Schulden nicht bezahlt.
+
+142
+00:15:47,655 --> 00:15:50,325
+Seht ihr? Mein Plan ist aufgegangen.
+
+143
+00:15:50,408 --> 00:15:52,619
+Noch besser als erwartet.
+
+144
+00:15:55,747 --> 00:15:58,708
+Das ist sie. Sie sucht ihr.
+
+145
+00:15:58,792 --> 00:16:03,546
+Ich habe gehört,
+ihr habt unsere Lieferung Spice gestohlen.
+
+146
+00:16:04,214 --> 00:16:09,678
+Gebt es uns zurück,
+und wir betrachten die Sache als erledigt.
+
+147
+00:16:09,761 --> 00:16:14,349
+Ich weiß nicht, was er gesagt hat,
+aber wir haben kein Spice.
+
+148
+00:16:16,184 --> 00:16:17,227
+Tötet sie alle.
+
+149
+00:16:17,811 --> 00:16:22,107
+Wartet. Wir haben das Spice nicht hier,
+aber wir wissen, wo es ist.
+
+150
+00:16:22,190 --> 00:16:26,069
+Mein Geduldsfaden ist sehr dünn.
+
+151
+00:16:26,152 --> 00:16:28,530
+Wenn ihr wisst, wo das Spice ist,
+
+152
+00:16:28,613 --> 00:16:31,825
+sollte es kein Problem für euch sein,
+es zu holen.
+
+153
+00:16:31,908 --> 00:16:36,162
+Bis dahin bleibt das Kind hier.
+
+154
+00:16:38,832 --> 00:16:40,250
+Kommt nicht infrage.
+
+155
+00:16:41,000 --> 00:16:46,339
+Ihr seht das falsch.
+Wir verhandeln hier nicht.
+
+156
+00:16:49,968 --> 00:16:51,386
+Darf ich?
+
+157
+00:16:55,015 --> 00:16:57,767
+Euch ist nicht klar,
+mit wem ihr es zu tun habt.
+
+158
+00:16:57,851 --> 00:17:02,439
+Wenn ihr die Blaster nicht wegsteckt,
+werden wir alle wünschen, wir wären tot.
+
+159
+00:17:03,690 --> 00:17:05,108
+Überlasst das mir.
+
+160
+00:17:08,695 --> 00:17:11,197
+Wir können Omega nicht bei denen lassen.
+
+161
+00:17:11,281 --> 00:17:15,410
+Wir haben keine Wahl.
+Aber wir wissen, wo das Spice ist.
+
+162
+00:17:15,493 --> 00:17:18,663
+Wir bringen es zurück,
+und der Kleinen passiert nichts.
+
+163
+00:17:18,747 --> 00:17:21,875
+Die Fluginsekten in den Höhlen
+sind Irlinge.
+
+164
+00:17:22,459 --> 00:17:26,296
+Es sind Nachtfalter,
+die auf Wärmequellen reagieren.
+
+165
+00:17:27,005 --> 00:17:29,090
+Wir müssen vor der Dämmerung zuschlagen.
+
+166
+00:17:29,674 --> 00:17:33,928
+Muskelprotz und ich gehen runter
+in die Höhlen und suchen die Kisten.
+
+167
+00:17:34,637 --> 00:17:38,475
+Ich habe der Kleinen das eingebrockt,
+und ich hole sie da raus.
+
+168
+00:18:16,680 --> 00:18:19,140
+Das ist nicht dein Ernst.
+
+169
+00:18:19,224 --> 00:18:22,352
+Und lass sie diesmal nicht fallen.
+
+170
+00:19:02,308 --> 00:19:03,727
+Habe eine gefunden.
+
+171
+00:19:12,068 --> 00:19:13,903
+Ich mache sie fest.
+
+172
+00:19:14,696 --> 00:19:16,823
+Suche die anderen Kisten.
+
+173
+00:19:16,906 --> 00:19:18,324
+Leise.
+
+174
+00:19:33,214 --> 00:19:35,884
+Versuch es nicht. Sie bringen dich um.
+
+175
+00:19:36,551 --> 00:19:39,721
+Wenn deine Freunde nicht
+das Spice bringen, sind wir beide tot.
+
+176
+00:19:40,638 --> 00:19:43,767
+So ist das, wenn man sich
+in die Geschäfte anderer einmischt.
+
+177
+00:19:44,309 --> 00:19:45,310
+Wir?
+
+178
+00:19:45,393 --> 00:19:47,729
+Du hast Cid ihren Laden weggenommen.
+
+179
+00:19:47,812 --> 00:19:51,816
+Man nimmt sich, was man will.
+So machen das die Durands.
+
+180
+00:19:52,484 --> 00:19:54,235
+Meine Mutter hat das perfektioniert.
+
+181
+00:19:55,153 --> 00:19:57,447
+Sie ist also auch eine Kriminelle?
+
+182
+00:19:58,656 --> 00:20:00,825
+Bei dir klingt das so würdelos.
+
+183
+00:20:02,619 --> 00:20:04,496
+Wenn sie mich jetzt sähe…
+
+184
+00:20:12,212 --> 00:20:14,464
+Ruby traut nicht vielen Leuten.
+
+185
+00:20:15,215 --> 00:20:18,218
+Keine Sorge, Ruby, wir schaffen das.
+
+186
+00:20:33,274 --> 00:20:35,276
+Kisten drei und vier sind an Bord.
+
+187
+00:20:36,027 --> 00:20:37,904
+Es ist fast Nacht.
+
+188
+00:20:37,987 --> 00:20:40,281
+Diese Dinger wachen bald auf.
+
+189
+00:20:40,365 --> 00:20:42,617
+Ich bereite uns darauf vor.
+
+190
+00:20:50,667 --> 00:20:54,129
+Wir haben die letzte Kiste.
+
+191
+00:20:54,212 --> 00:20:55,422
+Ruh dich später aus.
+
+192
+00:20:55,505 --> 00:20:56,673
+Letzte Kiste ist dran.
+
+193
+00:20:58,383 --> 00:20:59,467
+Holt uns hoch.
+
+194
+00:21:09,728 --> 00:21:11,229
+Halte still.
+
+195
+00:21:25,243 --> 00:21:26,995
+Vielleicht haben sie nichts gehört.
+
+196
+00:21:27,579 --> 00:21:29,748
+Glaube kaum, dass wir so viel Glück haben.
+
+197
+00:21:30,331 --> 00:21:32,917
+Ich auch nicht.
+
+198
+00:21:46,556 --> 00:21:48,683
+Holt uns hier raus!
+
+199
+00:21:48,767 --> 00:21:50,101
+Wrecker. Was ist los?
+
+200
+00:21:50,185 --> 00:21:52,062
+Irlinge. Jede Menge!
+
+201
+00:21:52,145 --> 00:21:53,772
+Hilfe!
+
+202
+00:21:53,855 --> 00:21:55,648
+Achtung, das Spice.
+
+203
+00:21:57,525 --> 00:21:59,027
+Tech.
+
+204
+00:21:59,110 --> 00:22:00,737
+Das sollte sie ablenken.
+
+205
+00:22:04,240 --> 00:22:05,700
+Achtung!
+
+206
+00:22:27,138 --> 00:22:31,267
+Siehst du, Muskelprotz?
+So schlimm war es nicht.
+
+207
+00:22:31,351 --> 00:22:33,186
+Ja, alles in Ordnung.
+
+208
+00:22:47,158 --> 00:22:52,664
+Da das Spice wieder da ist,
+ist die Sache zwischen uns erledigt.
+
+209
+00:22:53,623 --> 00:22:55,291
+Aber nicht die mit dir.
+
+210
+00:23:03,008 --> 00:23:04,342
+Nicht!
+
+211
+00:23:05,093 --> 00:23:08,722
+-Er hat einen Fehler gemacht. Mehr nicht.
+-Sie hat recht.
+
+212
+00:23:08,805 --> 00:23:12,142
+Tötet ihn,
+und ihr habt Krieg mit Isa Durand.
+
+213
+00:23:12,225 --> 00:23:14,436
+Wollt ihr diese Aufmerksamkeit momentan?
+
+214
+00:23:15,186 --> 00:23:17,814
+Akzeptiert,
+dass es ein schlechtes Geschäft war.
+
+215
+00:23:18,565 --> 00:23:22,152
+Wir akzeptieren
+keine schlechten Geschäfte.
+
+216
+00:23:29,325 --> 00:23:31,745
+Unsere Angelegenheit ist erledigt.
+
+217
+00:23:32,537 --> 00:23:36,374
+Es wäre unklug,
+uns erneut in die Quere zu kommen.
+
+218
+00:23:46,051 --> 00:23:47,344
+Geht es dir gut?
+
+219
+00:23:48,636 --> 00:23:50,138
+Das war ein kleines Opfer.
+
+220
+00:23:56,770 --> 00:23:58,021
+Ich gehe jetzt.
+
+221
+00:24:03,818 --> 00:24:06,821
+Los, Jungs. Die erste Runde geht auf mich.
+
+222
+00:24:07,572 --> 00:24:10,033
+Du bist uns viel mehr schuldig.
+
+223
+00:24:10,116 --> 00:24:11,868
+Übertreibt es nicht.
+
+224
+00:24:17,999 --> 00:24:22,837
+Wieso bist du für ihn eingetreten,
+nach dem, was er getan hat?
+
+225
+00:24:23,922 --> 00:24:24,923
+Ich weiß nicht.
+
+226
+00:24:25,465 --> 00:24:28,885
+Ruby mag ihn.
+Er ist vielleicht nicht nur schlecht.
+
+227
+00:25:17,350 --> 00:25:19,352
+Untertitel von: Georg Breusch
+
