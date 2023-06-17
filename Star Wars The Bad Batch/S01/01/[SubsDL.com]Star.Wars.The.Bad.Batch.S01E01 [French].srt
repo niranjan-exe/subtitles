@@ -1,0 +1,3451 @@
+﻿1
+00:00:49,299 --> 00:00:53,595
+La Clone Force 99
+
+2
+00:00:56,514 --> 00:00:58,433
+<i>Les Séparatistes sont à bout.</i>
+
+3
+00:00:58,516 --> 00:01:01,102
+<i>La République accumule les victoires</i>
+
+4
+00:01:01,186 --> 00:01:03,188
+<i>à travers la galaxie.</i>
+
+5
+00:01:03,897 --> 00:01:07,692
+<i>Après que les Jedi ont déjoué</i>
+<i>l'enlèvement du chancelier Palpatine,</i>
+
+6
+00:01:07,776 --> 00:01:11,029
+<i>le malfaisant général Grievous</i>
+<i>s'est refugié dans la Bordure Extérieure.</i>
+
+7
+00:01:11,446 --> 00:01:14,199
+<i>Ses légions de droïdes de combat</i>
+<i>considérablement réduites,</i>
+
+8
+00:01:14,282 --> 00:01:18,787
+<i>Grievous lance une contre-attaque brutale</i>
+<i>dans plusieurs systèmes stellaires.</i>
+
+9
+00:01:19,537 --> 00:01:22,707
+<i>On retrouve les clones troopers</i>
+<i>dans un affrontement mortel</i>
+
+10
+00:01:22,791 --> 00:01:24,667
+<i>sur la planète assiégée Kaller.</i>
+
+11
+00:01:24,751 --> 00:01:27,295
+<i>Menés par la Maître Jedi Depa Billaba,</i>
+
+12
+00:01:27,379 --> 00:01:32,384
+<i>ils peinent à maintenir leur position</i>
+<i>en attendant des renforts.</i>
+
+13
+00:01:45,105 --> 00:01:46,106
+Feu !
+
+14
+00:01:55,240 --> 00:01:56,491
+Au risque d'être pessimiste,
+
+15
+00:01:56,574 --> 00:01:59,285
+si le commandant ne revient pas bientôt
+avec des renforts…
+
+16
+00:01:59,369 --> 00:02:01,496
+Mon Padawan viendra.
+
+17
+00:02:01,579 --> 00:02:02,580
+Maître !
+
+18
+00:02:05,667 --> 00:02:07,919
+Me voilà. Je suis là.
+
+19
+00:02:08,420 --> 00:02:10,839
+Caleb, où sont les renforts ?
+
+20
+00:02:10,922 --> 00:02:13,174
+Ne vous en faites pas. Ils arrivent.
+
+21
+00:02:16,177 --> 00:02:17,554
+Où sont-ils ?
+
+22
+00:02:17,637 --> 00:02:18,805
+Caleb.
+
+23
+00:02:18,888 --> 00:02:19,931
+Faites-moi confiance.
+
+24
+00:02:20,015 --> 00:02:22,350
+- Combien sont-ils ?
+- Cinq.
+
+25
+00:02:22,434 --> 00:02:24,978
+Cinq ? On est fichus.
+
+26
+00:02:25,061 --> 00:02:28,314
+Je le croyais aussi.
+Mais attendez de voir ces clones.
+
+27
+00:02:28,982 --> 00:02:30,233
+Ils sont différents.
+
+28
+00:02:35,697 --> 00:02:36,948
+Halte !
+
+29
+00:02:43,496 --> 00:02:44,581
+Feu.
+
+30
+00:02:48,877 --> 00:02:50,337
+Non !
+
+31
+00:02:50,420 --> 00:02:52,881
+Restez en position !
+
+32
+00:02:55,175 --> 00:02:56,885
+Écartez-vous !
+
+33
+00:02:56,968 --> 00:02:58,011
+Hé !
+
+34
+00:03:18,448 --> 00:03:21,534
+Incroyable. C'est la Clone Force 99.
+
+35
+00:03:26,706 --> 00:03:29,042
+Crosshair, faisons bouger ces chars.
+
+36
+00:03:32,045 --> 00:03:33,922
+À vos ordres.
+
+37
+00:03:50,397 --> 00:03:52,315
+Hé ! Arrêtez ça !
+
+38
+00:03:52,399 --> 00:03:55,318
+Réglez les stabilisateurs. On va tomber !
+
+39
+00:03:56,361 --> 00:03:58,363
+Attrape ça, tas de ferraille.
+
+40
+00:04:18,341 --> 00:04:20,135
+C'est moi qui commande, désormais.
+
+41
+00:04:22,387 --> 00:04:25,015
+Hé ! C'est quoi ?
+
+42
+00:04:26,891 --> 00:04:27,892
+Oh, non.
+
+43
+00:04:47,120 --> 00:04:49,289
+Lâchez vos armes et rendez-vous.
+
+44
+00:04:56,796 --> 00:05:01,343
+Quand vous aurez fini de vous cacher,
+vous devriez lancer une contre-attaque.
+
+45
+00:05:01,426 --> 00:05:03,470
+Un autre bataillon de droïdes approche.
+
+46
+00:05:03,553 --> 00:05:06,097
+C'est le général
+qui donne les ordres, ici.
+
+47
+00:05:06,181 --> 00:05:08,600
+Il a raison. C'est maintenant ou jamais.
+
+48
+00:05:08,683 --> 00:05:10,643
+Lancez la contre-attaque.
+
+49
+00:05:11,644 --> 00:05:12,812
+Bien, général.
+
+50
+00:05:13,396 --> 00:05:14,856
+En avant, soldats !
+
+51
+00:05:14,939 --> 00:05:17,025
+À vos ordres. On se dépêche !
+
+52
+00:05:20,487 --> 00:05:23,823
+Te voilà, petit Jedi.
+T'as raté le meilleur.
+
+53
+00:05:24,282 --> 00:05:26,618
+Le meilleur,
+c'était de vous voir en action.
+
+54
+00:05:26,701 --> 00:05:29,037
+Présente-nous tes nouveaux amis, Caleb.
+
+55
+00:05:29,120 --> 00:05:30,163
+Oui, maître.
+
+56
+00:05:30,246 --> 00:05:35,919
+Voici Wrecker, Hunter,
+Echo, Tech et Crosshair.
+
+57
+00:05:36,002 --> 00:05:39,839
+Je n'appellerais pas ça "le meilleur",
+
+58
+00:05:39,923 --> 00:05:41,716
+mais je suis d'accord avec mon Padawan.
+
+59
+00:05:41,800 --> 00:05:44,469
+Vos exploits étaient impressionnants.
+
+60
+00:05:45,053 --> 00:05:46,262
+Exploits ?
+
+61
+00:05:46,930 --> 00:05:48,598
+N'y réfléchis pas trop, Wrecker.
+
+62
+00:05:49,057 --> 00:05:50,058
+Merci, général.
+
+63
+00:05:50,141 --> 00:05:54,771
+L'un de vous pourrait m'expliquer
+où sont mes renforts ?
+
+64
+00:05:54,854 --> 00:05:58,274
+Renvoyés vers la capitale.
+Il n'y a que nous.
+
+65
+00:05:59,317 --> 00:06:00,902
+Pas besoin de plus.
+
+66
+00:06:00,985 --> 00:06:05,198
+D'après mes informations,
+le général n'aura pas besoin de nous.
+
+67
+00:06:05,699 --> 00:06:07,617
+La Guerre des Clones touche à sa fin.
+
+68
+00:06:07,701 --> 00:06:10,412
+Dites ça
+aux tas de ferraille qui arrivent.
+
+69
+00:06:10,495 --> 00:06:13,498
+Je fais allusion
+aux communications cryptées.
+
+70
+00:06:13,581 --> 00:06:16,960
+Les clones rapportent
+que le général Jedi Obi-Wan Kenobi
+
+71
+00:06:17,043 --> 00:06:20,547
+a retrouvé le général Grievous
+et l'affronte sur Utapau.
+
+72
+00:06:21,047 --> 00:06:23,758
+S'il capture ou élimine Grievous,
+
+73
+00:06:23,842 --> 00:06:26,469
+la chaîne de commandement séparatiste
+s'effondrera.
+
+74
+00:06:26,553 --> 00:06:29,139
+Les armées de droïdes aussi.
+
+75
+00:06:29,222 --> 00:06:33,810
+Une théorie fascinante,
+mais on ne peut rien y faire d'ici.
+
+76
+00:06:33,893 --> 00:06:36,521
+Revenons à nos moutons.
+
+77
+00:06:37,397 --> 00:06:38,982
+Vous avez des consignes ?
+
+78
+00:06:39,065 --> 00:06:42,027
+Ou on peut agir à notre guise ?
+
+79
+00:06:42,110 --> 00:06:44,529
+Oui, explosons des trucs !
+
+80
+00:06:45,363 --> 00:06:50,076
+Caleb, on les laisse agir à leur guise ?
+
+81
+00:06:50,160 --> 00:06:52,120
+À condition que je les accompagne.
+
+82
+00:06:52,203 --> 00:06:53,413
+Très bien.
+
+83
+00:06:53,496 --> 00:06:58,084
+T'es prêt, petit ? On agit vite.
+
+84
+00:06:58,168 --> 00:07:00,837
+Tant mieux. Je sais pas faire autrement.
+
+85
+00:07:03,256 --> 00:07:04,799
+Je l'aime bien.
+
+86
+00:07:15,935 --> 00:07:19,689
+<i>Exécutez l'Ordre 66.</i>
+
+87
+00:07:35,413 --> 00:07:36,706
+Maître.
+
+88
+00:07:39,834 --> 00:07:40,919
+Maître !
+
+89
+00:07:52,931 --> 00:07:54,349
+Sauve-toi !
+
+90
+00:07:58,019 --> 00:07:59,104
+Sauve-toi, Caleb !
+
+91
+00:08:09,489 --> 00:08:10,573
+N'approchez pas !
+
+92
+00:08:14,035 --> 00:08:15,203
+Attends !
+
+93
+00:08:20,458 --> 00:08:22,711
+Que s'est-il passé ?
+
+94
+00:08:22,794 --> 00:08:24,921
+Le canal de communication
+répète la même directive :
+
+95
+00:08:25,005 --> 00:08:27,590
+"Exécutez l'Ordre 66."
+
+96
+00:08:27,674 --> 00:08:29,467
+Je l'ai entendu aussi.
+
+97
+00:08:29,551 --> 00:08:31,428
+C'est quoi, l'Ordre 66 ?
+
+98
+00:08:31,511 --> 00:08:33,596
+Je n'en suis pas sûr.
+
+99
+00:08:34,681 --> 00:08:38,518
+Echo, Tech. Parlez au capitaine des regs.
+Obtenez des informations.
+
+100
+00:08:39,519 --> 00:08:43,189
+Crosshair, allons retrouver le petit
+et veiller sur lui.
+
+101
+00:08:43,690 --> 00:08:46,317
+Wrecker, empêche quiconque de nous suivre.
+
+102
+00:09:14,596 --> 00:09:15,638
+Il n'est pas loin.
+
+103
+00:09:19,434 --> 00:09:20,435
+Là-haut.
+
+104
+00:09:23,313 --> 00:09:24,814
+Descends, petit.
+
+105
+00:09:24,898 --> 00:09:26,858
+On va t'aider. Non !
+
+106
+00:09:27,650 --> 00:09:28,860
+Menteur !
+
+107
+00:09:30,236 --> 00:09:31,446
+À quoi tu joues ?
+
+108
+00:09:32,572 --> 00:09:34,282
+J'obéis aux ordres.
+
+109
+00:09:34,366 --> 00:09:36,368
+On ignore quels sont les ordres.
+
+110
+00:09:37,077 --> 00:09:39,454
+Ne fais rien
+tant qu'on n'en sait pas plus.
+
+111
+00:09:43,333 --> 00:09:46,086
+Les bons soldats obéissent aux ordres.
+
+112
+00:09:54,010 --> 00:09:55,345
+Où est le Padawan ?
+
+113
+00:09:55,428 --> 00:09:58,932
+Ne vous en faites pas. Hunter s'en charge.
+
+114
+00:09:59,015 --> 00:10:02,185
+On a reçu des ordres
+du Chancelier Suprême en personne.
+
+115
+00:10:02,268 --> 00:10:07,148
+C'est super,
+mais j'ai dit qu'Hunter s'en chargeait.
+
+116
+00:10:07,232 --> 00:10:08,566
+Poussez-vous, soldat.
+
+117
+00:10:10,735 --> 00:10:12,237
+À vos ordres.
+
+118
+00:10:12,862 --> 00:10:15,865
+Hunter, soldats regs en approche.
+
+119
+00:10:16,324 --> 00:10:17,325
+Bien reçu.
+
+120
+00:10:18,326 --> 00:10:19,494
+<i>On a un problème.</i>
+
+121
+00:10:20,036 --> 00:10:21,871
+T'as rien d'autre à m'apprendre ?
+
+122
+00:10:21,955 --> 00:10:25,041
+<i>Les regs ont reçu pour ordre</i>
+<i>d'exécuter les Jedi.</i>
+
+123
+00:10:25,125 --> 00:10:27,043
+Quoi ? Lesquels ?
+
+124
+00:10:27,127 --> 00:10:31,381
+<i>Tous. Les Jedi sont accusés de trahison.</i>
+
+125
+00:10:31,464 --> 00:10:33,341
+Ça expliquerait tout.
+
+126
+00:10:33,425 --> 00:10:35,719
+N'importe quoi.
+
+127
+00:10:36,219 --> 00:10:37,887
+<i>Je vous conseille de revenir.</i>
+
+128
+00:10:38,304 --> 00:10:40,056
+Impossible. On cherche encore le petit.
+
+129
+00:10:43,059 --> 00:10:44,060
+Faux.
+
+130
+00:10:58,450 --> 00:10:59,951
+Crosshair, baisse ton arme.
+
+131
+00:11:03,913 --> 00:11:04,914
+Non !
+
+132
+00:11:10,003 --> 00:11:11,421
+Doucement, petit.
+
+133
+00:11:15,300 --> 00:11:16,301
+Doucement.
+
+134
+00:11:18,803 --> 00:11:20,472
+Je suis de ton côté.
+
+135
+00:11:43,661 --> 00:11:44,788
+N'approchez pas.
+
+136
+00:11:46,915 --> 00:11:49,084
+Écoute-moi.
+
+137
+00:11:49,167 --> 00:11:51,670
+Non ! Vous l'avez tuée !
+
+138
+00:11:53,004 --> 00:11:57,092
+C'était les autres.
+Je suis aussi perdu que toi.
+
+139
+00:12:09,729 --> 00:12:13,233
+N'approchez pas !
+
+140
+00:12:15,068 --> 00:12:18,947
+Je peux t'aider. Viens avec moi.
+
+141
+00:12:32,460 --> 00:12:34,713
+<i>Il est parti par là. Venez !</i>
+
+142
+00:12:37,090 --> 00:12:38,299
+Non !
+
+143
+00:12:57,569 --> 00:12:58,903
+Où est le Jedi ?
+
+144
+00:12:59,404 --> 00:13:02,741
+Je l'ai assommé quand il a sauté.
+Il est mort.
+
+145
+00:13:32,354 --> 00:13:33,897
+On approche de Kamino.
+
+146
+00:13:34,731 --> 00:13:36,566
+C'est bon d'être chez soi.
+
+147
+00:13:36,649 --> 00:13:38,068
+Ça fait combien de temps ?
+
+148
+00:13:38,568 --> 00:13:41,321
+En temps normal, 180 rotations,
+
+149
+00:13:41,404 --> 00:13:45,658
+mais avec les fuseaux horaires
+galactiques, ça en fait environ 205.
+
+150
+00:13:46,368 --> 00:13:47,369
+Quoi ?
+
+151
+00:13:48,620 --> 00:13:49,871
+Très longtemps.
+
+152
+00:13:50,372 --> 00:13:51,956
+Et comment.
+
+153
+00:13:54,417 --> 00:13:55,543
+Quoi ?
+
+154
+00:13:55,627 --> 00:13:58,630
+Es-tu sûr que le Padawan est mort
+en chutant ?
+
+155
+00:13:59,130 --> 00:14:01,132
+Oui. Pourquoi ?
+
+156
+00:14:01,633 --> 00:14:06,179
+D'habitude, quand quelqu'un tombe,
+on regarde en bas, pas en face.
+
+157
+00:14:06,805 --> 00:14:08,723
+On n'a pas tous envie de voir ça.
+
+158
+00:14:18,942 --> 00:14:22,278
+<i>Véhicule non identifié,</i>
+<i>donnez votre code d'autorisation.</i>
+
+159
+00:14:22,362 --> 00:14:25,281
+Code d'autorisation ?
+Ils ne savent pas qui on est ?
+
+160
+00:14:25,365 --> 00:14:26,991
+Sans doute un exercice protocolaire.
+
+161
+00:14:31,246 --> 00:14:32,747
+Envoi du code d'autorisation.
+
+162
+00:14:33,164 --> 00:14:36,835
+<i>Autorisation confirmée.</i>
+<i>Allez au quai d'atterrissage un-tac-un.</i>
+
+163
+00:15:06,239 --> 00:15:09,075
+<i>Confinement de niveau cinq en vigueur.</i>
+
+164
+00:15:14,664 --> 00:15:16,666
+Des shock troopers ?
+
+165
+00:15:16,750 --> 00:15:18,918
+Que fait la Garde de Coruscant ici ?
+
+166
+00:15:19,502 --> 00:15:22,255
+<i>Confinement de niveau cinq en vigueur.</i>
+
+167
+00:15:22,339 --> 00:15:25,342
+<i>Les agents de sécurité</i>
+<i>sont attendus au centre de contrôle.</i>
+
+168
+00:15:25,425 --> 00:15:27,218
+Ce n'est pas un exercice.
+
+169
+00:15:27,302 --> 00:15:29,971
+Qu'est-ce qu'on a encore raté ?
+
+170
+00:15:30,680 --> 00:15:31,931
+La fin de la guerre.
+
+171
+00:15:32,640 --> 00:15:33,892
+Pardon ?
+
+172
+00:15:34,517 --> 00:15:36,936
+Le général Grievous a été vaincu
+sur Utapau.
+
+173
+00:15:37,020 --> 00:15:40,357
+Le commandement séparatiste s'est écroulé.
+La guerre est finie.
+
+174
+00:15:40,440 --> 00:15:41,608
+Je l'avais dit.
+
+175
+00:15:42,734 --> 00:15:44,986
+Effectivement.
+
+176
+00:15:59,042 --> 00:16:00,293
+Un problème ?
+
+177
+00:16:01,127 --> 00:16:02,754
+Non, aucun.
+
+178
+00:16:04,089 --> 00:16:05,799
+On va regagner nos quartiers.
+
+179
+00:16:06,883 --> 00:16:10,220
+Faites vite.
+Assemblée générale obligatoire à 15 h.
+
+180
+00:16:19,562 --> 00:16:21,981
+Les clones de Kaller
+ne sont pas les seuls.
+
+181
+00:16:22,065 --> 00:16:24,192
+Tous les regs agissent bizarrement.
+
+182
+00:16:24,275 --> 00:16:25,652
+On va vérifier.
+
+183
+00:16:26,236 --> 00:16:28,321
+Excusez-moi. Vous êtes de quelle unité ?
+
+184
+00:16:28,405 --> 00:16:29,406
+Poussez-vous.
+
+185
+00:16:31,324 --> 00:16:32,826
+Je ne vois aucune différence.
+
+186
+00:16:41,042 --> 00:16:42,711
+Quelle joie d'être de retour.
+
+187
+00:16:42,794 --> 00:16:44,462
+L'odeur est de pire en pire.
+
+188
+00:16:44,546 --> 00:16:47,215
+T'es encore nouveau. Tu t'y feras.
+
+189
+00:16:47,298 --> 00:16:49,050
+Parle pour toi.
+
+190
+00:16:49,551 --> 00:16:51,511
+Je me charge du tableau.
+
+191
+00:16:59,185 --> 00:17:01,855
+Onze missions réussies de plus.
+
+192
+00:17:02,856 --> 00:17:04,607
+Comme si on en doutait.
+
+193
+00:17:05,275 --> 00:17:06,609
+Pas celle sur Kaller.
+
+194
+00:17:07,318 --> 00:17:10,447
+Comment ça ? On a atteint nos objectifs.
+
+195
+00:17:10,989 --> 00:17:12,907
+Pas tous.
+
+196
+00:17:14,784 --> 00:17:18,371
+Hunter a laissé le jeune Jedi s'échapper.
+
+197
+00:17:18,455 --> 00:17:21,332
+Ou tu vas continuer à mentir ?
+
+198
+00:17:22,792 --> 00:17:27,797
+Exécuter nos commandants
+n'est pas un objectif de mission.
+
+199
+00:17:28,590 --> 00:17:30,467
+Les ordres sont les ordres.
+
+200
+00:17:30,550 --> 00:17:32,552
+Depuis quand ?
+
+201
+00:17:35,388 --> 00:17:37,265
+Tout ça est insensé.
+
+202
+00:17:37,349 --> 00:17:40,643
+Ces clones se sont battus aux côtés
+du général Billaba durant des années.
+
+203
+00:17:40,727 --> 00:17:43,063
+Comment ont-ils pu s'en prendre à elle ?
+
+204
+00:17:43,146 --> 00:17:44,689
+Les regs ont été programmés pour.
+
+205
+00:17:45,565 --> 00:17:47,442
+Programmés ?
+
+206
+00:17:47,525 --> 00:17:50,153
+On sait que les Kaminoiens
+
+207
+00:17:50,236 --> 00:17:52,530
+ont inhibé
+les fonctions cognitives des clones
+
+208
+00:17:52,614 --> 00:17:55,825
+afin qu'ils suivent les ordres
+sans contester.
+
+209
+00:17:56,826 --> 00:17:57,994
+C'est pas notre cas.
+
+210
+00:17:58,078 --> 00:18:00,121
+On est différents.
+
+211
+00:18:00,205 --> 00:18:03,583
+Les anomalies préexistantes
+de notre ADN ont été manipulées.
+
+212
+00:18:03,666 --> 00:18:07,629
+Résultat : tu as une force colossale,
+Crosshair est un tireur d'élite,
+
+213
+00:18:07,712 --> 00:18:11,466
+Hunter a des sens ultra aiguisés
+et je suis extrêmement intelligent.
+
+214
+00:18:12,050 --> 00:18:15,428
+Je pense qu'on est immunisés
+contre les effets de cette programmation.
+
+215
+00:18:15,512 --> 00:18:17,931
+Mais je n'en suis pas absolument sûr.
+
+216
+00:18:18,807 --> 00:18:22,602
+Et Echo ? C'était un clone reg
+avant qu'il nous rejoigne.
+
+217
+00:18:22,686 --> 00:18:27,524
+Oui. Si tous les regs ont été programmés,
+pourquoi j'ai pas réagi comme les autres ?
+
+218
+00:18:28,108 --> 00:18:30,193
+Ce que tu as subi sur Skako Minor
+
+219
+00:18:30,276 --> 00:18:34,030
+a sans doute effacé tes modifications
+comportementales préprogrammées.
+
+220
+00:18:34,781 --> 00:18:38,785
+Tu es plus une machine qu'un homme.
+Du moins, mathématiquement.
+
+221
+00:18:40,286 --> 00:18:41,454
+J'en ai de la chance.
+
+222
+00:18:42,205 --> 00:18:44,040
+<i>Rendez-vous à l'aire de rassemblement</i>
+
+223
+00:18:44,124 --> 00:18:46,584
+<i>pour un briefing sur la République.</i>
+
+224
+00:18:47,168 --> 00:18:50,213
+Voilà une réunion à ne pas manquer.
+
+225
+00:18:51,006 --> 00:18:52,382
+Il y a une première à tout.
+
+226
+00:18:55,135 --> 00:19:00,140
+<i>Et la rébellion jedi a été matée.</i>
+
+227
+00:19:01,141 --> 00:19:06,896
+<i>Les Jedi survivants seront traqués</i>
+<i>et vaincus !</i>
+
+228
+00:19:08,189 --> 00:19:10,900
+<i>Cette tentative d'assassinat</i>
+
+229
+00:19:10,984 --> 00:19:15,488
+<i>m'a laissé meurtri et difforme.</i>
+
+230
+00:19:15,572 --> 00:19:17,240
+C'est le moins qu'on puisse dire.
+
+231
+00:19:17,323 --> 00:19:19,743
+<i>Mais je vous assure…</i>
+
+232
+00:19:19,826 --> 00:19:25,081
+<i>que ma résolution</i>
+<i>n'a jamais été aussi forte !</i>
+
+233
+00:19:26,458 --> 00:19:30,420
+<i>Pour assurer la sécurité</i>
+<i>et la continuité dans la stabilité…</i>
+
+234
+00:19:30,503 --> 00:19:31,671
+Qu'y a-t-il ?
+
+235
+00:19:32,839 --> 00:19:36,509
+<i>…la République sera réorganisée</i>
+<i>et deviendra…</i>
+
+236
+00:19:36,593 --> 00:19:42,098
+- Rien.
+<i>- …le Premier Empire Galactique !</i>
+
+237
+00:19:42,182 --> 00:19:44,851
+Un Empire Galactique ?
+
+238
+00:19:44,934 --> 00:19:50,940
+<i>Pour la sauvegarde et la sécurité</i>
+<i>de la société.</i>
+
+239
+00:19:52,400 --> 00:19:53,902
+Oui !
+
+240
+00:19:54,861 --> 00:19:57,447
+Vous doutez encore
+que les regs soient programmés ?
+
+241
+00:20:12,837 --> 00:20:16,883
+Un Empire Galactique ?
+On est des soldats de la République.
+
+242
+00:20:16,966 --> 00:20:21,429
+République, Empire…
+Qu'est-ce que ça change ?
+
+243
+00:20:21,513 --> 00:20:26,434
+L'exécution systématique des Jedi
+est un sacré changement.
+
+244
+00:20:26,518 --> 00:20:29,145
+On a de la visite.
+
+245
+00:20:31,106 --> 00:20:32,107
+Bonjour.
+
+246
+00:20:32,857 --> 00:20:34,442
+C'est quoi, ça ?
+
+247
+00:20:35,652 --> 00:20:39,989
+Une adolescente humaine.
+Origine… inconnue.
+
+248
+00:20:40,573 --> 00:20:44,035
+Je m'appelle Omega.
+Je me demandais quand vous reviendriez.
+
+249
+00:20:44,619 --> 00:20:47,455
+Tu sais qui on est ?
+
+250
+00:20:47,539 --> 00:20:51,960
+Hunter, Echo, Tech, Wrecker et Crosshair.
+
+251
+00:20:52,043 --> 00:20:54,212
+Vous êtes la Clone Force 99.
+
+252
+00:20:55,005 --> 00:20:57,048
+Que fais-tu sur Kamino, petite ?
+
+253
+00:20:57,674 --> 00:20:59,884
+Son travail, bien sûr.
+
+254
+00:21:01,761 --> 00:21:04,014
+C'est mon assistante médicale.
+
+255
+00:21:04,097 --> 00:21:07,767
+Sa curiosité la fait vagabonder.
+
+256
+00:21:08,560 --> 00:21:11,396
+Viens, Omega. On a du travail.
+
+257
+00:21:20,989 --> 00:21:24,743
+Cette journée est de plus en plus bizarre.
+
+258
+00:21:58,860 --> 00:22:03,365
+Amiral Tarkin,
+cette nouvelle nous surprend.
+
+259
+00:22:03,948 --> 00:22:09,329
+Le chancelier Palpatine a toujours soutenu
+nos avancées dans le clonage.
+
+260
+00:22:09,412 --> 00:22:13,583
+Les priorités de l'empereur Palpatine
+ont changé.
+
+261
+00:22:13,666 --> 00:22:17,921
+La fin de la guerre
+remet l'utilité des clones en question.
+
+262
+00:22:18,004 --> 00:22:21,508
+Nos contrats exigent
+une production continue.
+
+263
+00:22:21,591 --> 00:22:25,053
+Vos contrats étaient avec la République.
+Elle n'existe plus.
+
+264
+00:22:25,136 --> 00:22:30,141
+Le nouvel Empire se trouve
+dans un état précaire.
+
+265
+00:22:30,642 --> 00:22:34,813
+Des clones troopers seront nécessaires
+pour maintenir l'ordre dans la galaxie.
+
+266
+00:22:35,480 --> 00:22:39,943
+En effet. Des soldats ordinaires le feront
+pour deux fois moins cher.
+
+267
+00:22:40,026 --> 00:22:42,987
+Les compétences et l'efficacité
+de nos clones
+
+268
+00:22:43,071 --> 00:22:47,158
+sont de loin supérieures
+à celles de quiconque vous recruterez.
+
+269
+00:22:48,034 --> 00:22:50,370
+Permettez-moi d'en juger,
+M. le Premier ministre.
+
+270
+00:23:05,385 --> 00:23:07,220
+Sa navette est arrivée aujourd'hui.
+
+271
+00:23:07,762 --> 00:23:10,682
+Il paraît qu'il évalue tous les clones.
+
+272
+00:23:10,765 --> 00:23:14,185
+Tant mieux. Il est temps
+d'écrémer un peu la sélection.
+
+273
+00:23:20,316 --> 00:23:24,404
+Des clones programmés.
+Personne ne me contrôle.
+
+274
+00:23:25,113 --> 00:23:27,032
+Wrecker, il est logique
+
+275
+00:23:27,115 --> 00:23:30,118
+que ton penchant pour la destruction
+découle de ton conditionnement.
+
+276
+00:23:30,201 --> 00:23:32,287
+Retire ce que t'as dit !
+
+277
+00:23:32,370 --> 00:23:36,750
+J'énonce juste une hypothèse scientifique
+basée sur des faits.
+
+278
+00:23:36,833 --> 00:23:39,252
+Je vais t'en donner, un fait.
+
+279
+00:23:39,335 --> 00:23:44,257
+Si j'aime faire exploser des trucs,
+c'est parce que j'aime ça !
+
+280
+00:23:44,758 --> 00:23:45,925
+Compris ?
+
+281
+00:23:46,009 --> 00:23:48,845
+Me voilà convaincu.
+
+282
+00:23:48,928 --> 00:23:51,848
+Un Impérial a été envoyé
+pour évaluer les clones.
+
+283
+00:23:52,432 --> 00:23:53,808
+Tout le monde en parle.
+
+284
+00:23:53,892 --> 00:23:55,894
+Quel genre d'évaluation ?
+
+285
+00:23:55,977 --> 00:23:59,647
+Pas mentale, j'espère.
+On échouerait à coup sûr.
+
+286
+00:24:01,524 --> 00:24:02,609
+Re-bonjour.
+
+287
+00:24:08,656 --> 00:24:10,950
+Omega. On s'est vus tout à l'heure.
+
+288
+00:24:13,203 --> 00:24:14,996
+Dans le couloir.
+
+289
+00:24:15,080 --> 00:24:17,582
+Oui, on s'en souvient.
+
+290
+00:24:17,665 --> 00:24:20,502
+Tu n'as rien d'autre à faire ?
+
+291
+00:24:21,336 --> 00:24:22,796
+Non. Je reste ici.
+
+292
+00:24:22,879 --> 00:24:26,633
+Tu veux t'asseoir avec nous ?
+C'est jamais arrivé.
+
+293
+00:24:29,636 --> 00:24:32,138
+Je vous aime bien.
+Vous êtes différents aussi.
+
+294
+00:24:32,972 --> 00:24:35,433
+Que fais-tu réellement
+sur Kamino, petite ?
+
+295
+00:24:35,517 --> 00:24:38,561
+Tu n'as pas de famille ? De parents ?
+
+296
+00:24:38,645 --> 00:24:40,063
+Des parents ?
+
+297
+00:24:40,146 --> 00:24:45,402
+Regardez. L'escouade des défectueux
+a une nouvelle recrue.
+
+298
+00:24:46,486 --> 00:24:49,656
+La Clowns Force 99 compte
+un nouveau membre.
+
+299
+00:24:51,908 --> 00:24:52,909
+Je rêve.
+
+300
+00:24:54,160 --> 00:24:55,286
+Qui a lancé ça ?
+
+301
+00:24:56,454 --> 00:25:00,291
+C'est moi.
+Présentez vos excuses à mes amis.
+
+302
+00:25:00,375 --> 00:25:02,585
+J'adore cette petite !
+
+303
+00:25:03,169 --> 00:25:04,879
+Répète un peu, pour voir.
+
+304
+00:25:04,963 --> 00:25:07,340
+Doucement. Reculez.
+
+305
+00:25:07,424 --> 00:25:10,260
+Passez votre chemin.
+
+306
+00:25:18,268 --> 00:25:20,478
+Reste à ta place, morveuse.
+
+307
+00:25:28,903 --> 00:25:29,988
+Oups.
+
+308
+00:25:30,572 --> 00:25:31,573
+C'en est trop.
+
+309
+00:25:31,656 --> 00:25:32,824
+Ouais !
+
+310
+00:25:36,411 --> 00:25:37,579
+C'est reparti.
+
+311
+00:26:04,689 --> 00:26:06,524
+Echo, attention.
+
+312
+00:26:11,071 --> 00:26:15,533
+Maîtresse Nala Se te demande
+à l'infirmerie. Tu dois y aller.
+
+313
+00:26:15,617 --> 00:26:18,620
+Non, je reste jusqu'à son réveil.
+
+314
+00:26:19,162 --> 00:26:21,373
+Où…
+
+315
+00:26:28,421 --> 00:26:30,340
+Non ! Enlevez-moi ça !
+
+316
+00:26:31,132 --> 00:26:33,009
+Je n'ai pas terminé mes analyses.
+
+317
+00:26:33,093 --> 00:26:37,138
+Echo, tout va bien. C'est moi, Omega.
+
+318
+00:26:37,847 --> 00:26:39,265
+Je comprends.
+
+319
+00:26:39,349 --> 00:26:41,810
+J'aime pas être branchée
+à leurs machines non plus.
+
+320
+00:26:42,936 --> 00:26:45,271
+Bonjour, CT-1409.
+
+321
+00:26:45,355 --> 00:26:47,023
+Il s'appelle Echo.
+
+322
+00:26:47,107 --> 00:26:54,030
+Je suis AZI-345211896246498721347,
+
+323
+00:26:54,114 --> 00:26:55,782
+votre droïde médical attitré.
+
+324
+00:26:56,866 --> 00:26:58,201
+J'avais dit qu'il survivrait !
+
+325
+00:26:58,284 --> 00:27:00,453
+Tu me dois deux crédits.
+
+326
+00:27:00,537 --> 00:27:03,289
+L'état de CT-1409 est stable.
+
+327
+00:27:03,373 --> 00:27:06,000
+Mais j'ai une nouvelle alarmante
+pour vous.
+
+328
+00:27:06,668 --> 00:27:08,294
+D'après vos résultats d'analyses,
+
+329
+00:27:08,378 --> 00:27:12,298
+il semblerait que vous soyez tous
+des clones génétiquement défectueux.
+
+330
+00:27:16,928 --> 00:27:19,681
+Je vous laisse vous remettre
+du choc de cette annonce.
+
+331
+00:27:21,182 --> 00:27:22,475
+On a un problème.
+
+332
+00:27:22,559 --> 00:27:25,353
+Pas vraiment.
+On est plus atypiques que défectueux.
+
+333
+00:27:25,437 --> 00:27:29,065
+Pas ça. L'amiral Tarkin est ici.
+
+334
+00:27:29,149 --> 00:27:31,401
+C'est lui qui évalue les clones.
+
+335
+00:27:31,484 --> 00:27:35,196
+Le même Tarkin qu'au sauvetage
+de la Citadelle, quand tu as…
+
+336
+00:27:35,280 --> 00:27:37,699
+- Comment dire ?
+- Explosé.
+
+337
+00:27:37,782 --> 00:27:39,701
+Ce qui t'a rendu comme ça.
+
+338
+00:27:40,577 --> 00:27:41,578
+Oui.
+
+339
+00:27:42,412 --> 00:27:44,998
+Il n'est pas fan des clones.
+
+340
+00:27:45,081 --> 00:27:49,127
+On le saura bientôt.
+On est convoqués par le Premier ministre.
+
+341
+00:27:49,210 --> 00:27:53,798
+La bagarre n'a pas dû lui plaire.
+À moi, si.
+
+342
+00:27:54,215 --> 00:27:56,301
+Venez. Finissons-en.
+
+343
+00:28:00,472 --> 00:28:01,473
+Attendez.
+
+344
+00:28:01,556 --> 00:28:04,934
+La bagarre était de ma faute.
+Je viens avec vous.
+
+345
+00:28:05,018 --> 00:28:08,063
+Pas question. On s'en occupe.
+
+346
+00:28:08,146 --> 00:28:09,397
+- Mais…
+- Écoute.
+
+347
+00:28:09,481 --> 00:28:11,483
+On n'apporte que des ennuis.
+
+348
+00:28:11,566 --> 00:28:14,110
+Garde tes distances, c'est pour ton bien.
+
+349
+00:28:14,194 --> 00:28:15,362
+Compris ?
+
+350
+00:28:26,414 --> 00:28:29,834
+Vous allez où ?
+Le centre d'entraînement est par là.
+
+351
+00:28:30,752 --> 00:28:32,087
+Le centre d'entraînement ?
+
+352
+00:28:32,170 --> 00:28:34,172
+Pour une simulation de bataille.
+
+353
+00:28:34,255 --> 00:28:37,467
+L'amiral Tarkin veut voir
+votre escouade en action.
+
+354
+00:28:37,550 --> 00:28:39,678
+On ne va pas nous réprimander ?
+
+355
+00:28:40,261 --> 00:28:42,347
+Non, on va vous tester.
+
+356
+00:28:42,430 --> 00:28:43,598
+Allez vous équiper.
+
+357
+00:28:44,349 --> 00:28:48,687
+On n'a pas d'ennuis,
+et ils veulent qu'on se batte ?
+
+358
+00:28:49,979 --> 00:28:53,191
+L'Empire n'est peut-être pas si mal,
+finalement.
+
+359
+00:29:05,578 --> 00:29:09,624
+L'Empire remet en question
+la valeur des clones troopers.
+
+360
+00:29:09,708 --> 00:29:14,254
+Afin de prouver votre efficacité,
+un test d'aptitude au combat s'impose.
+
+361
+00:29:14,754 --> 00:29:16,214
+Mettez-vous en place.
+
+362
+00:29:16,297 --> 00:29:20,010
+On a fait ça un millier de fois.
+Vous savez quoi faire.
+
+363
+00:29:20,510 --> 00:29:24,514
+Une simulation de bataille ? Trop facile.
+
+364
+00:29:26,433 --> 00:29:28,226
+Allez-y.
+
+365
+00:29:46,619 --> 00:29:47,871
+Crosshair, les tours.
+
+366
+00:30:16,608 --> 00:30:17,692
+Avancez.
+
+367
+00:30:17,776 --> 00:30:19,319
+Enfin !
+
+368
+00:30:21,905 --> 00:30:22,906
+Je te couvre.
+
+369
+00:30:34,042 --> 00:30:36,044
+C'est trop long !
+
+370
+00:30:51,601 --> 00:30:54,688
+C'est tout ? J'attends la suite !
+
+371
+00:30:55,438 --> 00:30:59,776
+Si on veut un Empire Galactique plus fort
+que la République qui l'a précédé,
+
+372
+00:30:59,859 --> 00:31:02,028
+ses soldats doivent l'être aussi.
+
+373
+00:31:02,112 --> 00:31:04,114
+Utilisez de vraies munitions.
+
+374
+00:31:04,197 --> 00:31:07,242
+Amiral Tarkin, je me dois de contester.
+
+375
+00:31:07,325 --> 00:31:12,205
+De vraies munitions endommageraient
+mes clones et mon infrastructure.
+
+376
+00:31:12,288 --> 00:31:15,750
+Vous serez dédommagé. Obéissez !
+
+377
+00:31:30,932 --> 00:31:34,060
+De nouveaux jouets. Voilà qui est mieux.
+
+378
+00:31:37,897 --> 00:31:38,982
+Ouais !
+
+379
+00:31:48,199 --> 00:31:49,409
+Des vraies munitions.
+
+380
+00:31:49,492 --> 00:31:50,910
+Aide Wrecker. On te couvre.
+
+381
+00:31:59,461 --> 00:32:00,879
+Wrecker, ça va ?
+
+382
+00:32:01,838 --> 00:32:03,173
+Je l'ai senti passer.
+
+383
+00:32:26,321 --> 00:32:27,322
+On se replie.
+
+384
+00:32:35,288 --> 00:32:36,623
+Ça se présente mal.
+
+385
+00:32:37,123 --> 00:32:39,250
+Ces blasters ne servent à rien.
+
+386
+00:32:39,334 --> 00:32:41,169
+Alors, improvisons.
+
+387
+00:32:41,252 --> 00:32:44,422
+Tarkin veut nous mettre à l'épreuve ?
+Il ne va pas être déçu.
+
+388
+00:32:52,931 --> 00:32:54,641
+J'ai horreur des signaux.
+
+389
+00:32:54,724 --> 00:32:56,476
+Si tu les mémorisais…
+
+390
+00:32:56,559 --> 00:32:58,144
+T'as qu'à le faire, toi.
+
+391
+00:32:58,228 --> 00:32:59,229
+Je l'ai fait.
+
+392
+00:33:02,023 --> 00:33:03,608
+Ce qu'on a fait sur Felucia.
+
+393
+00:33:04,150 --> 00:33:05,819
+Il suffisait de le dire.
+
+394
+00:33:18,331 --> 00:33:19,332
+J'arrive.
+
+395
+00:33:32,345 --> 00:33:34,973
+Rien ne sert de le reprogrammer
+si tu l'écrabouilles.
+
+396
+00:33:35,640 --> 00:33:37,392
+T'as pas intérêt à te tromper.
+
+397
+00:33:43,606 --> 00:33:45,984
+Ces tactiques sont peu communes.
+
+398
+00:33:46,568 --> 00:33:49,195
+Les clones de l'unité expérimentale 99
+
+399
+00:33:49,279 --> 00:33:53,199
+ont tendance à dévier
+du protocole de combat standard.
+
+400
+00:33:59,205 --> 00:34:00,206
+Dépêche.
+
+401
+00:34:00,832 --> 00:34:02,208
+Terminé. Relâche-le.
+
+402
+00:34:34,407 --> 00:34:35,492
+Wrecker, réveille-toi.
+
+403
+00:34:39,454 --> 00:34:40,955
+Reste à terre !
+
+404
+00:34:42,248 --> 00:34:44,084
+La connexion ne tient pas.
+
+405
+00:34:50,715 --> 00:34:51,758
+Tech !
+
+406
+00:34:58,932 --> 00:35:00,350
+Crosshair, couvre-nous.
+
+407
+00:35:07,732 --> 00:35:09,651
+Tech ! Tiens bon.
+
+408
+00:35:09,734 --> 00:35:12,445
+Je ne bouge pas.
+
+409
+00:35:16,241 --> 00:35:17,325
+Wrecker, le couteau.
+
+410
+00:35:34,676 --> 00:35:35,677
+Beau travail.
+
+411
+00:36:01,327 --> 00:36:03,830
+Extraordinaires, n'est-ce pas ?
+
+412
+00:36:04,330 --> 00:36:09,002
+Ça reste à voir.
+Parlez-moi de la Clone Force 99.
+
+413
+00:36:09,836 --> 00:36:11,963
+Ce sont des clones défectueux
+
+414
+00:36:12,047 --> 00:36:17,052
+dont les mutations cellulaires
+ont amplifié leurs qualités de soldats.
+
+415
+00:36:18,678 --> 00:36:22,349
+Combien de clones de la sorte
+possédez-vous ?
+
+416
+00:36:23,141 --> 00:36:25,352
+Il n'en reste que cinq.
+
+417
+00:36:26,102 --> 00:36:29,189
+Ils pourraient être utiles
+à votre nouvel Empire.
+
+418
+00:36:29,272 --> 00:36:33,276
+D'après les rapports,
+ils ont une fâcheuse tendance
+
+419
+00:36:33,360 --> 00:36:35,945
+à désobéir et ignorer les ordres.
+
+420
+00:36:36,029 --> 00:36:38,323
+Un effet secondaire de leur mutation.
+
+421
+00:36:38,406 --> 00:36:42,619
+Mais cela n'a jamais entravé
+la réussite de leurs missions.
+
+422
+00:36:43,703 --> 00:36:46,623
+Ont-ils exécuté l'Ordre 66 ?
+
+423
+00:36:47,665 --> 00:36:52,671
+Le général Jedi et le Padawan
+ayant été éliminés sur Kaller,
+
+424
+00:36:52,754 --> 00:36:53,922
+on suppose que oui.
+
+425
+00:36:54,005 --> 00:36:57,592
+Ne supposez rien.
+Seule la mort du général a été confirmée.
+
+426
+00:36:58,259 --> 00:37:02,764
+Un autre rapport, issu de l'un des leurs,
+affirme que le Padawan s'est échappé.
+
+427
+00:37:03,431 --> 00:37:06,851
+Voyons si ces clones
+sont réellement loyaux.
+
+428
+00:37:13,650 --> 00:37:18,988
+Ils ont utilisé des vraies munitions !
+Contre nous !
+
+429
+00:37:19,072 --> 00:37:21,157
+On était là, Wrecker. On sait.
+
+430
+00:37:21,241 --> 00:37:22,742
+Je vous avais prévenus.
+
+431
+00:37:23,326 --> 00:37:26,079
+Pour qui se prend cette vipère de Tarkin ?
+
+432
+00:37:26,162 --> 00:37:30,750
+Arrête de râler. Tu as été blessé.
+Ça arrive tout le temps.
+
+433
+00:37:31,876 --> 00:37:34,838
+Il y a une différence
+entre être blessé au combat
+
+434
+00:37:34,921 --> 00:37:37,173
+et servir de cible d'entraînement.
+
+435
+00:37:37,257 --> 00:37:40,385
+Exactement !
+On n'est pas des droïdes factices.
+
+436
+00:37:40,468 --> 00:37:41,886
+On est bien d'accord.
+
+437
+00:37:50,729 --> 00:37:52,897
+Impressionnante prestation.
+
+438
+00:37:53,481 --> 00:37:54,941
+Pas trop le choix.
+
+439
+00:37:55,025 --> 00:37:59,946
+Les méthodes du nouvel empire
+peuvent paraître peu orthodoxes,
+
+440
+00:38:00,030 --> 00:38:01,990
+mais les vôtres aussi.
+
+441
+00:38:02,073 --> 00:38:03,992
+Les deux ont leurs mérites.
+
+442
+00:38:04,784 --> 00:38:08,163
+Nala Se dit le plus grand bien
+de ses cinq clones améliorés.
+
+443
+00:38:08,246 --> 00:38:11,082
+Elle vous dit plus efficaces qu'une armée.
+
+444
+00:38:11,166 --> 00:38:13,793
+Vous avez une mission pour nous ?
+
+445
+00:38:14,377 --> 00:38:18,882
+En effet. Nous avons localisé un groupe
+d'insurgés dans le secteur d'Onderon.
+
+446
+00:38:18,965 --> 00:38:20,550
+Ils doivent être éliminés.
+
+447
+00:38:20,633 --> 00:38:22,385
+Quel genre d'insurgés ?
+
+448
+00:38:22,886 --> 00:38:27,265
+Des forces séparatistes déterminées
+à faire perdurer la guerre.
+
+449
+00:38:27,349 --> 00:38:31,895
+Si vous neutralisez cette menace,
+vous aurez mes faveurs
+
+450
+00:38:31,978 --> 00:38:34,731
+quand j'évaluerai les besoins
+de l'Armée Impériale.
+
+451
+00:38:50,497 --> 00:38:52,832
+Des infos sur les insurgés ?
+
+452
+00:38:52,916 --> 00:38:56,086
+Négatif.
+Les fichiers impériaux sont verrouillés.
+
+453
+00:38:56,169 --> 00:38:58,338
+Laisse-moi le temps de les pirater.
+
+454
+00:38:58,838 --> 00:39:02,634
+Force est d'admettre que l'Empire
+a une sacrée puissance de feu.
+
+455
+00:39:02,717 --> 00:39:04,803
+Tu devrais voir l'armurerie.
+
+456
+00:39:04,886 --> 00:39:06,763
+Il en a pleuré.
+
+457
+00:39:06,846 --> 00:39:08,598
+Toi aussi.
+
+458
+00:39:09,182 --> 00:39:10,684
+On n'a pas assez de place à bord.
+
+459
+00:39:10,767 --> 00:39:13,186
+Ah non ? J'en ferai.
+
+460
+00:39:14,896 --> 00:39:18,108
+Une nouvelle mission
+et des explosifs à volonté.
+
+461
+00:39:18,191 --> 00:39:20,235
+Enfin de retour à la normale.
+
+462
+00:39:20,318 --> 00:39:24,322
+Que ça reste loin de moi. Je refuse
+de redormir à côté d'un projectile.
+
+463
+00:39:27,659 --> 00:39:28,660
+Hunter.
+
+464
+00:39:29,828 --> 00:39:32,080
+Je t'ai dit de garder tes distances.
+
+465
+00:39:32,706 --> 00:39:34,833
+Je sais, mais je dois vous parler.
+
+466
+00:39:34,916 --> 00:39:37,544
+D'accord. Qu'y a-t-il ?
+
+467
+00:39:38,753 --> 00:39:43,008
+Je crois
+que l'officier impérial en a après vous.
+
+468
+00:39:43,091 --> 00:39:46,970
+Je l'ai entendu parler à Lama Su.
+Il n'aime pas les clones.
+
+469
+00:39:48,430 --> 00:39:51,683
+On a l'habitude.
+Mais on fait du bon boulot.
+
+470
+00:39:51,766 --> 00:39:53,643
+J'ai pas confiance en lui.
+
+471
+00:39:53,727 --> 00:39:57,647
+Une mission est une mission.
+Il n'y a pas lieu de s'inquiéter.
+
+472
+00:39:58,148 --> 00:39:59,983
+Laissez-moi venir avec vous.
+
+473
+00:40:00,525 --> 00:40:04,029
+Tu n'es pas un soldat. C'est dangereux.
+
+474
+00:40:04,112 --> 00:40:06,406
+Ici aussi.
+
+475
+00:40:06,489 --> 00:40:09,617
+Les choses ont changé.
+On doit quitter Kamino.
+
+476
+00:40:09,701 --> 00:40:11,536
+Hunter, en route !
+
+477
+00:40:12,829 --> 00:40:17,375
+Il faut du temps pour s'habituer
+au changement. Tu t'y feras.
+
+478
+00:40:21,713 --> 00:40:22,714
+Hunter.
+
+479
+00:40:25,925 --> 00:40:27,135
+Non, rien.
+
+480
+00:40:33,641 --> 00:40:34,768
+Un problème ?
+
+481
+00:40:36,311 --> 00:40:38,563
+Y a un truc qui m'échappe chez elle.
+
+482
+00:40:42,359 --> 00:40:46,696
+Les enfants, c'est pas ton rayon.
+
+483
+00:41:06,966 --> 00:41:09,636
+Omega. Viens.
+
+484
+00:41:09,719 --> 00:41:11,554
+Je t'ai dit de rester près de moi.
+
+485
+00:41:43,503 --> 00:41:44,796
+C'était quoi ?
+
+486
+00:41:44,879 --> 00:41:46,381
+Tu préfères pas savoir.
+
+487
+00:41:46,464 --> 00:41:48,425
+Au moins, c'est pas un marécage.
+
+488
+00:41:48,508 --> 00:41:50,301
+C'est tout comme.
+
+489
+00:41:50,385 --> 00:41:52,971
+Le camp des Séparatistes
+est à 2 km au sud.
+
+490
+00:41:53,054 --> 00:41:55,640
+On va continuer à pied
+et inspecter le périmètre.
+
+491
+00:41:57,559 --> 00:41:58,810
+Discrètement.
+
+492
+00:41:59,853 --> 00:42:03,773
+Allez. Ça fait des jours
+que j'ai rien fait exploser.
+
+493
+00:42:03,857 --> 00:42:06,234
+Du calme. Ta programmation se manifeste.
+
+494
+00:42:06,317 --> 00:42:08,236
+Ne commence pas avec ça !
+
+495
+00:42:29,299 --> 00:42:31,217
+Combien y a-t-il de droïdes, Tech ?
+
+496
+00:42:31,718 --> 00:42:35,555
+Impossible à dire à cette distance.
+Quelque chose bloque mon scanner.
+
+497
+00:42:35,638 --> 00:42:38,016
+Les tas de ferraille voyagent toujours
+en groupe.
+
+498
+00:42:38,099 --> 00:42:40,393
+Voyons un peu ce qui nous attend.
+
+499
+00:43:02,374 --> 00:43:04,084
+Qu'est-ce que tu vois, Tech ?
+
+500
+00:43:04,167 --> 00:43:08,254
+Je compte 25 signatures thermiques,
+mais aucun droïde.
+
+501
+00:43:09,089 --> 00:43:13,009
+Tarkin a parlé d'insurgés, pas de droïdes.
+
+502
+00:43:13,843 --> 00:43:16,221
+Je crois qu'ils ne sont
+ni l'un ni l'autre.
+
+503
+00:43:17,847 --> 00:43:20,684
+Il y a des enfants.
+
+504
+00:43:20,767 --> 00:43:23,186
+Des enfants ? Ici ?
+
+505
+00:43:25,063 --> 00:43:26,898
+Ça ne tourne pas rond.
+
+506
+00:43:27,691 --> 00:43:28,983
+Tu attends quoi ?
+
+507
+00:43:29,609 --> 00:43:31,611
+Donne-nous le feu vert.
+
+508
+00:43:31,695 --> 00:43:35,031
+- Négatif. Ne faites rien.
+- Quoi ?
+
+509
+00:43:35,115 --> 00:43:38,034
+On n'explose pas les droïdes ?
+
+510
+00:43:38,118 --> 00:43:39,786
+Il n'y a pas de droïdes.
+
+511
+00:43:39,869 --> 00:43:41,955
+Alors, on fait quoi ?
+
+512
+00:43:42,038 --> 00:43:44,332
+On termine la mission.
+
+513
+00:43:44,416 --> 00:43:46,376
+Donne le feu vert, Hunter.
+
+514
+00:43:47,627 --> 00:43:49,295
+On n'est pas seuls.
+
+515
+00:43:49,879 --> 00:43:51,381
+Ne faites rien.
+
+516
+00:44:00,265 --> 00:44:02,600
+Vous l'avez entendu. On ne bouge pas.
+
+517
+00:44:03,852 --> 00:44:07,564
+Écoutons ce qu'ils ont à dire.
+Faites-moi confiance.
+
+518
+00:44:44,392 --> 00:44:46,603
+Ce ne sont pas des Séparatistes.
+
+519
+00:44:46,686 --> 00:44:48,563
+Ce sont des soldats de la République.
+
+520
+00:44:49,439 --> 00:44:52,150
+Pourquoi Tarkin nous enverrait
+attaquer nos propres forces ?
+
+521
+00:44:53,401 --> 00:44:56,154
+Parce qu'on refuse de se battre
+pour l'Empire.
+
+522
+00:44:57,155 --> 00:44:58,782
+Vous êtes Saw Gerrera.
+
+523
+00:44:59,449 --> 00:45:03,453
+Formé par le capitaine Rex
+et le général Skywalker.
+
+524
+00:45:15,548 --> 00:45:21,429
+Le nouvel empire vous envoie
+nous éliminer ?
+
+525
+00:45:22,055 --> 00:45:24,474
+On doit neutraliser un groupe d'insurgés.
+
+526
+00:45:26,101 --> 00:45:28,478
+Vous l'avez trouvé.
+
+527
+00:45:28,561 --> 00:45:29,938
+Et maintenant ?
+
+528
+00:45:30,021 --> 00:45:32,649
+Vous allez nous abattre comme les Jedi ?
+
+529
+00:45:32,732 --> 00:45:34,734
+Si vous le demandez.
+
+530
+00:45:34,818 --> 00:45:35,860
+Ça suffit.
+
+531
+00:45:35,944 --> 00:45:38,947
+On pensait trouver
+des droïdes de combat, pas…
+
+532
+00:45:39,030 --> 00:45:43,535
+Des civils ? Les temps changent.
+Les cibles aussi.
+
+533
+00:45:43,618 --> 00:45:47,622
+Regardez les insurgés
+qu'on vous demande d'éliminer.
+
+534
+00:45:53,378 --> 00:45:56,131
+C'est à se demander
+quels autres mensonges ils racontent.
+
+535
+00:45:58,299 --> 00:46:00,468
+Mobilisons-nous. On remballe.
+
+536
+00:46:07,350 --> 00:46:10,562
+Que se passe-t-il ici ?
+Qui sont ces gens ?
+
+537
+00:46:11,521 --> 00:46:15,692
+Des villageois, des fermiers,
+d'anciens soldats de la République…
+
+538
+00:46:15,775 --> 00:46:21,948
+Tous des réfugiés depuis que Palpatine
+s'est autoproclamé empereur.
+
+539
+00:46:22,532 --> 00:46:27,662
+D'après les rapports, les Jedi ont tenté
+d'assassiner le Chancelier Suprême.
+
+540
+00:46:27,746 --> 00:46:30,540
+C'était une mesure défensive de sa part.
+
+541
+00:46:31,166 --> 00:46:32,834
+Je croyais que vous étiez l'intello.
+
+542
+00:46:33,585 --> 00:46:37,505
+Avec les Jedi décimés
+et l'armée des clones sous ses ordres,
+
+543
+00:46:37,589 --> 00:46:41,384
+Palpatine aura le contrôle
+de toute la galaxie.
+
+544
+00:46:41,468 --> 00:46:43,303
+Sauf si on l'en empêche.
+
+545
+00:46:43,386 --> 00:46:46,348
+La guerre est finie.
+
+546
+00:46:46,931 --> 00:46:50,393
+Si on abandonne,
+tout ce pour quoi on s'est battus…
+
+547
+00:46:51,394 --> 00:46:54,564
+tous ceux qu'on a perdus,
+tout ça n'aura servi à rien.
+
+548
+00:46:55,398 --> 00:46:57,317
+Il n'en est pas question.
+
+549
+00:46:57,400 --> 00:47:02,405
+La Guerre des Clones est peut-être finie,
+mais une guerre civile va éclater.
+
+550
+00:47:03,156 --> 00:47:07,660
+Avec si peu de soldats et de munitions,
+vous n'avez aucune chance.
+
+551
+00:47:07,744 --> 00:47:09,454
+Pas si on est seuls.
+
+552
+00:47:09,996 --> 00:47:12,290
+On doit y aller. On est attendus.
+
+553
+00:47:12,916 --> 00:47:14,167
+Que fait-on d'eux ?
+
+554
+00:47:18,171 --> 00:47:23,843
+Les clones nous ont aidés à libérer
+Onderon, alors on leur laisse le choix.
+
+555
+00:47:23,927 --> 00:47:26,471
+Les choses ont changé.
+
+556
+00:47:26,554 --> 00:47:30,850
+Vous pouvez vous adapter et survivre,
+ou mourir avec le passé.
+
+557
+00:47:31,476 --> 00:47:32,977
+À vous de choisir.
+
+558
+00:48:24,404 --> 00:48:27,323
+Au moins, avec la République,
+on savait à quoi s'en tenir.
+
+559
+00:48:27,991 --> 00:48:32,037
+Tarkin et l'Empire sont
+une autre histoire.
+
+560
+00:48:32,120 --> 00:48:35,957
+Pourquoi on discute ?
+On a une mission à accomplir.
+
+561
+00:48:36,458 --> 00:48:40,754
+Ouvre les yeux. On nous a envoyés
+éliminer des civils innocents.
+
+562
+00:48:40,837 --> 00:48:42,505
+Qui dit qu'ils sont innocents ?
+
+563
+00:48:42,589 --> 00:48:43,923
+T'as perdu la tête ?
+
+564
+00:48:44,466 --> 00:48:46,968
+Moi ? J'obéis aux ordres.
+
+565
+00:48:47,052 --> 00:48:48,970
+Exactement.
+
+566
+00:48:49,054 --> 00:48:51,681
+Ces insurgés complotent contre l'empereur.
+
+567
+00:48:52,390 --> 00:48:56,102
+Si tu n'as pas le cran
+de faire ce qu'il faut,
+
+568
+00:48:56,186 --> 00:48:59,689
+tu n'es pas apte à diriger cette escouade.
+
+569
+00:49:10,992 --> 00:49:12,202
+On est suivis.
+
+570
+00:49:18,625 --> 00:49:20,418
+C'est un droïde sonde.
+
+571
+00:49:20,502 --> 00:49:22,504
+Voilà que Tarkin nous espionne ?
+
+572
+00:49:23,004 --> 00:49:24,589
+Les Jedi n'ont jamais fait ça.
+
+573
+00:49:24,673 --> 00:49:26,549
+Pas à ta connaissance.
+
+574
+00:49:29,511 --> 00:49:30,512
+Omega.
+
+575
+00:49:31,221 --> 00:49:32,472
+Quoi ?
+
+576
+00:49:33,098 --> 00:49:36,101
+Elle m'a mis en garde
+contre la mission et Tarkin.
+
+577
+00:49:36,184 --> 00:49:40,355
+Elle m'a dit de ne pas revenir sur Kamino.
+Que c'était dangereux.
+
+578
+00:49:41,439 --> 00:49:43,441
+Elle a peut-être raison.
+
+579
+00:49:43,525 --> 00:49:46,945
+On va croire une enfant ?
+
+580
+00:49:47,445 --> 00:49:49,364
+On ne devrait pas ignorer sa sagacité.
+
+581
+00:49:50,198 --> 00:49:52,450
+Une intuition surdéveloppée n'est pas rare
+
+582
+00:49:52,534 --> 00:49:55,203
+chez un clone amélioré comme elle.
+
+583
+00:49:56,037 --> 00:49:58,832
+Elle est bien bonne. J'ai failli marcher.
+
+584
+00:49:58,915 --> 00:50:01,334
+Quand Nala Se a mentionné cinq clones,
+
+585
+00:50:01,418 --> 00:50:04,879
+Tarkin a cru qu'elle parlait de nous.
+Mais Echo est normal.
+
+586
+00:50:04,963 --> 00:50:06,923
+Le cinquième clone est Omega.
+
+587
+00:50:07,007 --> 00:50:11,720
+J'ai confirmé mes soupçons
+en analysant son ADN à l'infirmerie.
+
+588
+00:50:11,803 --> 00:50:14,639
+Et tu nous dis ça maintenant ?
+
+589
+00:50:14,723 --> 00:50:16,683
+Je croyais que c'était évident.
+
+590
+00:50:16,766 --> 00:50:18,768
+En quoi c'est évident ?
+
+591
+00:50:19,310 --> 00:50:20,729
+On retourne la chercher.
+
+592
+00:50:22,897 --> 00:50:26,860
+Tu désobéis encore aux ordres
+pour une enfant ?
+
+593
+00:50:26,943 --> 00:50:29,154
+Mauvaise idée, Hunter.
+
+594
+00:50:36,286 --> 00:50:39,956
+Elle est des nôtres.
+Pas question de l'abandonner là-bas.
+
+595
+00:50:57,724 --> 00:51:00,310
+C'est quoi tout ça, AZI ?
+
+596
+00:51:00,393 --> 00:51:03,521
+Mes analyses révèlent divers armements,
+
+597
+00:51:03,605 --> 00:51:06,900
+curiosités et détritus sans aucune valeur.
+
+598
+00:51:06,983 --> 00:51:08,610
+Ça me plaît.
+
+599
+00:51:08,693 --> 00:51:10,570
+On ne devrait pas être ici.
+
+600
+00:51:10,653 --> 00:51:13,365
+Nala Se nous a ordonné
+de rester à l'infirmerie.
+
+601
+00:51:13,448 --> 00:51:17,535
+T'inquiète pas.
+C'est une… mission de recherche.
+
+602
+00:51:17,619 --> 00:51:22,082
+Une mission de recherche ? J'adore ça.
+
+603
+00:51:22,165 --> 00:51:25,251
+Que cherche-t-on ? Ça ?
+
+604
+00:51:27,671 --> 00:51:29,422
+Ou bien ça ?
+
+605
+00:51:31,216 --> 00:51:32,217
+Ou ça ?
+
+606
+00:51:34,427 --> 00:51:35,428
+C'est ça ?
+
+607
+00:51:36,471 --> 00:51:37,472
+Ça, peut-être ?
+
+608
+00:51:39,849 --> 00:51:40,850
+Ou bien ça ?
+
+609
+00:51:51,903 --> 00:51:55,240
+Quel drôle d'objet.
+
+610
+00:51:59,577 --> 00:52:01,246
+On va nous entendre.
+
+611
+00:52:01,329 --> 00:52:04,332
+Je déclare cet endroit inhabitable.
+
+612
+00:52:07,836 --> 00:52:10,588
+Quelqu'un approche. Filons.
+
+613
+00:52:14,718 --> 00:52:16,720
+Tu n'as rien à faire ici.
+
+614
+00:52:16,803 --> 00:52:18,847
+Je… me suis perdue.
+
+615
+00:52:18,930 --> 00:52:20,265
+Pardon. Ça n'arrivera plus.
+
+616
+00:52:20,890 --> 00:52:23,059
+Emmenez leur équipement au hangar.
+
+617
+00:52:23,143 --> 00:52:24,936
+Vous, vous venez avec moi.
+
+618
+00:52:25,020 --> 00:52:27,564
+Non. On est membres
+du personnel médical kaminoien.
+
+619
+00:52:27,647 --> 00:52:28,898
+Bas les pattes.
+
+620
+00:52:29,941 --> 00:52:30,942
+AZI !
+
+621
+00:52:43,621 --> 00:52:48,168
+Aucune réponse du radar. C'est étrange.
+
+622
+00:52:48,251 --> 00:52:51,212
+Atterris. On va voir ce qui se passe.
+
+623
+00:53:20,909 --> 00:53:22,410
+Tenez-vous-en au plan.
+
+624
+00:53:22,494 --> 00:53:25,747
+On se sépare, on retrouve Omega,
+et on se rejoint au vaisseau.
+
+625
+00:53:48,478 --> 00:53:49,479
+Plus un geste !
+
+626
+00:53:53,692 --> 00:53:55,527
+C'était à prévoir.
+
+627
+00:54:00,740 --> 00:54:03,702
+L'Empire ne tolère pas l'échec, sergent.
+
+628
+00:54:03,785 --> 00:54:06,621
+Il y a eu des complications.
+
+629
+00:54:06,705 --> 00:54:09,791
+Oui, le rapport du droïde sonde
+était très détaillé.
+
+630
+00:54:10,417 --> 00:54:12,961
+Vous complotez avec Saw Gerrera.
+
+631
+00:54:13,044 --> 00:54:15,755
+Vous connaissez la peine pour trahison ?
+
+632
+00:54:15,839 --> 00:54:17,340
+Trahison ?
+
+633
+00:54:17,424 --> 00:54:19,175
+Mettez-les au bloc.
+
+634
+00:54:37,485 --> 00:54:38,737
+Ça sent bizarre.
+
+635
+00:54:38,820 --> 00:54:40,321
+Parce que c'est propre.
+
+636
+00:54:40,822 --> 00:54:42,615
+Le plan n'aura pas été un échec total.
+
+637
+00:54:46,077 --> 00:54:47,162
+Génial.
+
+638
+00:54:49,039 --> 00:54:50,915
+Je vous avais dit de pas revenir.
+
+639
+00:54:50,999 --> 00:54:53,668
+Il le fallait. On te cherchait.
+
+640
+00:54:55,170 --> 00:54:56,254
+Moi ?
+
+641
+00:54:56,338 --> 00:54:58,006
+Qu'en dis-tu, petite ?
+
+642
+00:54:58,089 --> 00:55:01,426
+Tu viens avec nous,
+ou on a été capturés pour rien ?
+
+643
+00:55:01,509 --> 00:55:03,970
+Vous êtes revenus pour moi ?
+
+644
+00:55:04,054 --> 00:55:07,640
+Oui. Tu peux rester sur Kamino si…
+
+645
+00:55:07,724 --> 00:55:11,311
+Non, je vous l'ai dit.
+Je veux venir avec vous.
+
+646
+00:55:12,145 --> 00:55:14,481
+Comme c'est touchant.
+
+647
+00:55:18,860 --> 00:55:21,738
+Hunter, comment on va sortir d'ici ?
+
+648
+00:55:21,821 --> 00:55:23,656
+Je réfléchis.
+
+649
+00:55:23,740 --> 00:55:26,076
+Tu sais à quoi tu devrais réfléchir ?
+
+650
+00:55:26,159 --> 00:55:28,411
+À quand tu t'es adouci.
+
+651
+00:55:28,495 --> 00:55:29,913
+Arrête, Crosshair.
+
+652
+00:55:29,996 --> 00:55:33,792
+Vous ne voyez pas
+qu'on est emprisonnés à cause de lui ?
+
+653
+00:55:33,875 --> 00:55:35,627
+Il nous a fait désobéir aux ordres.
+
+654
+00:55:35,710 --> 00:55:38,838
+Ça ne t'a jamais posé de problème.
+
+655
+00:55:38,922 --> 00:55:41,383
+On le fait tout le temps.
+
+656
+00:55:41,466 --> 00:55:43,677
+Les bons soldats obéissent aux ordres.
+
+657
+00:55:43,760 --> 00:55:47,097
+Tu n'as fait que des mauvais choix
+depuis Kaller.
+
+658
+00:55:47,681 --> 00:55:50,934
+D'abord le Padawan, puis Gerrera.
+
+659
+00:55:51,017 --> 00:55:53,353
+Tu deviens un handicap.
+
+660
+00:55:53,853 --> 00:55:55,855
+On discutera de ça plus tard.
+
+661
+00:55:55,939 --> 00:55:58,775
+L'important, c'est de sortir d'ici.
+
+662
+00:56:10,161 --> 00:56:11,246
+Vous êtes en colère.
+
+663
+00:56:15,500 --> 00:56:17,836
+Quelle perspicacité.
+
+664
+00:56:18,753 --> 00:56:23,091
+Je sais ce que vous comptez faire.
+Pitié, ne faites pas ça.
+
+665
+00:56:23,174 --> 00:56:25,093
+Qu'en sais-tu ?
+
+666
+00:56:25,885 --> 00:56:29,389
+Je sais que ce n'est pas de votre faute.
+
+667
+00:56:30,849 --> 00:56:32,100
+Vous n'y pouvez rien.
+
+668
+00:56:37,272 --> 00:56:39,482
+CT-9904, suis-nous.
+
+669
+00:56:39,566 --> 00:56:41,860
+Non. On reste ensemble.
+
+670
+00:56:44,070 --> 00:56:44,946
+Reculez !
+
+671
+00:57:16,102 --> 00:57:18,188
+Alors ?
+
+672
+00:57:18,813 --> 00:57:25,320
+Les mutations de CT-9904 ont altéré
+son activité crânienne,
+
+673
+00:57:25,403 --> 00:57:27,447
+y compris sa puce inhibitrice.
+
+674
+00:57:28,114 --> 00:57:32,285
+Il s'est pourtant montré loyal
+envers l'Empire durant leur mission.
+
+675
+00:57:32,369 --> 00:57:36,373
+Sa puce n'est pas aussi active
+que chez un clone standard,
+
+676
+00:57:36,456 --> 00:57:39,000
+mais l'ordre semble fonctionner.
+
+677
+00:57:39,084 --> 00:57:42,462
+Pouvez-vous intensifier sa programmation ?
+
+678
+00:57:42,545 --> 00:57:43,713
+Oui.
+
+679
+00:57:43,797 --> 00:57:45,215
+Faites-le.
+
+680
+00:58:27,298 --> 00:58:30,218
+Je sais.
+Pourquoi n'y ai-je pas pensé plus tôt ?
+
+681
+00:58:30,301 --> 00:58:32,137
+Ce n'est pas une prison.
+
+682
+00:58:32,220 --> 00:58:33,972
+Je suis pas de ton avis.
+
+683
+00:58:34,055 --> 00:58:38,059
+C'est un complexe kaminoien,
+construit avant la Guerre des Clones.
+
+684
+00:58:38,143 --> 00:58:40,729
+Il n'y avait ni quartiers ni prisons
+à sa construction.
+
+685
+00:58:41,396 --> 00:58:42,981
+En quoi ça nous aide ?
+
+686
+00:58:43,064 --> 00:58:47,318
+Ces cellules ont été réaménagées
+pour emprisonner des individus normaux.
+
+687
+00:58:47,402 --> 00:58:51,406
+Pas quelqu'un comme Wrecker.
+
+688
+00:58:52,198 --> 00:58:54,034
+On peut sortir de là à coups de poings ?
+
+689
+00:58:57,495 --> 00:59:00,623
+Pardon.
+On peut sortir de là à coups de poings ?
+
+690
+00:59:00,707 --> 00:59:03,001
+Si tu frappes au bon endroit.
+
+691
+00:59:03,084 --> 00:59:04,669
+D'accord. Montre-moi où.
+
+692
+00:59:05,253 --> 00:59:09,257
+Il faut rester à l'abri des regards.
+Formez un mur.
+
+693
+00:59:20,310 --> 00:59:22,145
+Frappe ici. Juste là.
+
+694
+00:59:23,438 --> 00:59:24,439
+D'accord.
+
+695
+00:59:30,070 --> 00:59:31,488
+Dites-moi quand.
+
+696
+00:59:32,697 --> 00:59:33,531
+Maintenant.
+
+697
+00:59:41,748 --> 00:59:42,916
+Ça n'a rien donné.
+
+698
+00:59:43,541 --> 00:59:45,293
+Tu es sûr que ça va marcher ?
+
+699
+00:59:45,377 --> 00:59:47,629
+Réessaie. Un peu plus fort.
+
+700
+00:59:48,797 --> 00:59:51,007
+Tu peux y aller. Donne tout.
+
+701
+00:59:51,091 --> 00:59:52,384
+D'accord.
+
+702
+01:00:03,395 --> 01:00:04,979
+Ça n'a pas marché.
+
+703
+01:00:10,318 --> 01:00:12,028
+Si.
+
+704
+01:00:12,112 --> 01:00:13,196
+Regarde.
+
+705
+01:00:15,448 --> 01:00:17,784
+Je passerai jamais.
+
+706
+01:00:17,867 --> 01:00:21,788
+Très observateur.
+J'allais plutôt suggérer…
+
+707
+01:00:21,871 --> 01:00:22,872
+J'y vais.
+
+708
+01:00:23,790 --> 01:00:25,041
+Tu es sûre ?
+
+709
+01:00:25,709 --> 01:00:26,751
+Certaine.
+
+710
+01:00:27,585 --> 01:00:32,298
+D'accord. Accède aux commandes
+et abaisse le bouclier rayonnant.
+
+711
+01:00:38,638 --> 01:00:39,806
+On a de la compagnie.
+
+712
+01:00:42,642 --> 01:00:44,602
+Où est la fille ?
+
+713
+01:00:44,686 --> 01:00:46,187
+À vous de nous le dire.
+
+714
+01:00:46,271 --> 01:00:48,356
+Si vous lui faites du mal, je vous tue.
+
+715
+01:00:48,440 --> 01:00:51,526
+Localisez la prisonnière 0219.
+
+716
+01:00:55,613 --> 01:00:56,656
+C'était quoi, ça ?
+
+717
+01:00:56,740 --> 01:00:57,741
+Désolé.
+
+718
+01:00:57,824 --> 01:01:01,536
+Le sol a du mal à supporter mon poids,
+
+719
+01:01:01,619 --> 01:01:06,041
+étant donné qu'il n'est pas conçu
+pour des individus anormaux comme moi.
+
+720
+01:01:06,750 --> 01:01:08,501
+Il y a quoi derrière toi ?
+
+721
+01:01:08,585 --> 01:01:10,086
+Rien du tout.
+
+722
+01:01:10,170 --> 01:01:12,213
+Écarte-toi du mur. Tout de suite.
+
+723
+01:01:12,297 --> 01:01:14,132
+Venez donc m'y obliger.
+
+724
+01:01:15,675 --> 01:01:18,511
+Bien reçu. La fille est toujours ici.
+
+725
+01:01:18,595 --> 01:01:20,013
+Dites-nous où elle est.
+
+726
+01:01:23,475 --> 01:01:24,476
+Abaisse le levier !
+
+727
+01:01:30,482 --> 01:01:31,483
+Lâchez-moi !
+
+728
+01:01:32,734 --> 01:01:33,735
+Hé, toi.
+
+729
+01:01:43,495 --> 01:01:44,496
+Pas mal.
+
+730
+01:01:46,456 --> 01:01:50,043
+Il faut retrouver Crosshair. Allons-y.
+
+731
+01:02:13,900 --> 01:02:16,319
+On n'ira pas loin sans notre équipement.
+
+732
+01:02:17,070 --> 01:02:20,699
+Ils ont mis vos affaires dans le hangar.
+Votre équipement y est peut-être.
+
+733
+01:02:21,825 --> 01:02:22,826
+Par là.
+
+734
+01:02:36,798 --> 01:02:40,343
+Équipez-vous. Faites vite.
+
+735
+01:02:43,346 --> 01:02:48,143
+Non ! Où elle est ?
+
+736
+01:02:49,728 --> 01:02:51,229
+Elle doit bien être quelque part.
+
+737
+01:02:56,651 --> 01:03:00,071
+Tech, démarre le vaisseau.
+On va chercher Crosshair.
+
+738
+01:03:12,500 --> 01:03:14,753
+Inutile de chercher bien loin.
+
+739
+01:03:21,384 --> 01:03:23,803
+C'est Crosshair ?
+
+740
+01:03:37,859 --> 01:03:40,028
+Rends-toi, sergent.
+
+741
+01:03:40,612 --> 01:03:42,447
+N'aggrave pas ton cas.
+
+742
+01:03:42,530 --> 01:03:43,907
+T'as perdu la tête ?
+
+743
+01:03:44,908 --> 01:03:47,410
+On aurait dû tuer le Jedi.
+
+744
+01:03:47,494 --> 01:03:50,497
+Tu as désobéi aux ordres.
+
+745
+01:03:51,247 --> 01:03:53,291
+C'était la bonne décision.
+
+746
+01:03:53,375 --> 01:03:55,960
+Tu n'as jamais su voir plus loin.
+
+747
+01:03:56,711 --> 01:03:57,921
+Rends-toi.
+
+748
+01:04:04,302 --> 01:04:05,720
+C'est un ordre ?
+
+749
+01:04:08,473 --> 01:04:10,308
+Oui.
+
+750
+01:04:11,351 --> 01:04:15,313
+Alors, je désobéis à nouveau.
+
+751
+01:05:02,068 --> 01:05:03,778
+Tech, faut y aller. Vite !
+
+752
+01:05:03,862 --> 01:05:04,779
+J'y travaille.
+
+753
+01:05:05,405 --> 01:05:07,032
+Wrecker, dissipe cette fumée.
+
+754
+01:05:07,115 --> 01:05:08,616
+Bien, chef.
+
+755
+01:05:09,743 --> 01:05:11,119
+Omega, baisse-toi.
+
+756
+01:05:12,537 --> 01:05:16,124
+Un… deux…
+
+757
+01:05:16,750 --> 01:05:18,084
+Trois !
+
+758
+01:05:30,638 --> 01:05:31,765
+Omega, non !
+
+759
+01:05:32,849 --> 01:05:34,309
+Wrecker lui sert d'appât.
+
+760
+01:05:34,392 --> 01:05:35,810
+Il a besoin d'aide.
+
+761
+01:05:36,269 --> 01:05:38,730
+- Tech, ça urge.
+- J'y suis presque.
+
+762
+01:05:44,861 --> 01:05:46,071
+Verrouillez les portes !
+
+763
+01:05:57,874 --> 01:06:00,001
+Quelqu'un pirate les commandes.
+
+764
+01:06:04,798 --> 01:06:08,218
+À mon signal, cours vers la rampe
+sans t'arrêter. Compris ?
+
+765
+01:06:09,344 --> 01:06:10,512
+Echo, on va aider Wrecker.
+
+766
+01:06:12,889 --> 01:06:15,058
+Il n'y a qu'une seule issue, Hunter.
+
+767
+01:06:15,141 --> 01:06:17,352
+À toi de jouer.
+
+768
+01:06:18,061 --> 01:06:19,229
+Vas-y !
+
+769
+01:07:18,204 --> 01:07:21,124
+Vous avez remédié au problème ?
+
+770
+01:07:21,207 --> 01:07:24,878
+La puissance de la puce inhibitrice
+a été augmentée avec succès.
+
+771
+01:07:24,961 --> 01:07:30,717
+Mais les autres clones de l'escouade 99
+se sont échappés.
+
+772
+01:07:31,468 --> 01:07:33,470
+Omega est avec eux.
+
+773
+01:07:35,430 --> 01:07:37,432
+Soyons prudents.
+
+774
+01:07:37,515 --> 01:07:42,520
+Ne dites rien tant que les intentions
+de l'Empire ne sont pas claires.
+
+775
+01:07:43,188 --> 01:07:45,440
+Bien, M. le Premier ministre.
+
+776
+01:08:04,167 --> 01:08:07,087
+Attends ! Tu vas faire quoi ?
+
+777
+01:08:07,170 --> 01:08:09,172
+Tout ira bien. Ne bouge pas.
+
+778
+01:08:10,298 --> 01:08:12,342
+C'est ça que vous cherchiez ?
+
+779
+01:08:13,718 --> 01:08:15,762
+Ma Lula !
+
+780
+01:08:19,683 --> 01:08:22,352
+Voyons voir. Ne bouge pas.
+
+781
+01:08:22,435 --> 01:08:25,021
+Ne m'examine pas.
+Je suis pas un ordinateur.
+
+782
+01:08:25,105 --> 01:08:26,898
+Ça ne prendra qu'une seconde.
+
+783
+01:08:26,981 --> 01:08:28,733
+Éloigne ça de moi.
+
+784
+01:08:50,088 --> 01:08:52,340
+C'est ton premier voyage dans l'espace ?
+
+785
+01:08:53,675 --> 01:08:56,511
+Mon premier voyage tout court.
+
+786
+01:08:59,556 --> 01:09:02,225
+Joli tir, tout à l'heure.
+
+787
+01:09:02,308 --> 01:09:04,060
+Où tu as appris ça ?
+
+788
+01:09:04,686 --> 01:09:06,146
+J'en sais rien.
+
+789
+01:09:06,229 --> 01:09:08,815
+J'ai jamais utilisé de blaster.
+
+790
+01:09:08,898 --> 01:09:09,983
+J'ai eu de la chance.
+
+791
+01:09:10,066 --> 01:09:11,943
+Elle n'est pas la seule.
+
+792
+01:09:12,027 --> 01:09:13,445
+Je vais bien.
+
+793
+01:09:13,528 --> 01:09:16,781
+Il en faut plus pour me mettre au tapis.
+
+794
+01:09:16,865 --> 01:09:18,283
+Tu l'étais.
+
+795
+01:09:18,366 --> 01:09:19,868
+Pas longtemps.
+
+796
+01:09:22,328 --> 01:09:24,080
+Quel est le plan, Hunter ?
+
+797
+01:09:24,164 --> 01:09:28,001
+On pourrait partir et faire profil bas.
+
+798
+01:09:28,585 --> 01:09:32,380
+Mais avec Crosshair à nos trousses,
+j'en doute.
+
+799
+01:09:32,464 --> 01:09:35,508
+Et vos amis ?
+L'un d'eux pourrait nous aider ?
+
+800
+01:09:35,592 --> 01:09:37,886
+La liste est courte.
+
+801
+01:09:39,429 --> 01:09:41,348
+Il y en aurait bien un.
+
+802
+01:09:41,431 --> 01:09:43,933
+Cap sur J-19.
+
+803
+01:09:44,017 --> 01:09:45,101
+J-19 ?
+
+804
+01:09:45,769 --> 01:09:47,187
+On connaît quelqu'un.
+
+805
+01:09:48,605 --> 01:09:49,606
+Oui !
+
+806
+01:09:50,648 --> 01:09:54,152
+Attache ta ceinture, petite.
+Tu vas en prendre plein la vue.
+
+807
+01:10:35,443 --> 01:10:36,820
+LA CLONE FORCE 99
+
+808
+01:11:03,346 --> 01:11:05,348
+Sous-titres : Cynthia Kirbach
+

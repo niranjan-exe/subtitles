@@ -1,0 +1,963 @@
+﻿1
+00:00:33,825 --> 00:00:36,828
+La chasseuse de prime
+
+2
+00:00:45,503 --> 00:00:48,381
+Idaflor. C'est là-bas qu'on ira.
+
+3
+00:00:48,465 --> 00:00:50,592
+C'est même pas habité.
+
+4
+00:00:50,675 --> 00:00:53,261
+Ce qui en fait l'endroit idéal
+pour se cacher.
+
+5
+00:00:53,845 --> 00:00:58,266
+Se cacher ?
+J'ai passé toute ma vie sur Kamino.
+
+6
+00:00:58,850 --> 00:01:00,393
+On peut pas explorer un peu ?
+
+7
+00:01:00,477 --> 00:01:03,897
+Pas maintenant.
+Attendons que les choses se calment.
+
+8
+00:01:03,980 --> 00:01:05,982
+On ne fera ni l'un ni l'autre.
+
+9
+00:01:06,066 --> 00:01:10,236
+On n'a plus assez de carburant,
+et on n'a plus une seule ration.
+
+10
+00:01:10,320 --> 00:01:12,614
+Sans la République
+pour nous procurer des vivres,
+
+11
+00:01:12,697 --> 00:01:15,408
+on va devoir s'approvisionner seuls.
+
+12
+00:01:15,492 --> 00:01:17,160
+Il y a pire que ça.
+
+13
+00:01:17,243 --> 00:01:20,372
+Notre vaisseau est recherché.
+
+14
+00:01:20,455 --> 00:01:21,831
+On le rendra intraçable.
+
+15
+00:01:21,915 --> 00:01:23,249
+Tu sais faire ça ?
+
+16
+00:01:23,333 --> 00:01:24,751
+Évidemment.
+
+17
+00:01:24,834 --> 00:01:28,171
+Mais pour ça, on doit se poser.
+
+18
+00:01:28,254 --> 00:01:32,217
+D'après mes calculs,
+la planète la plus proche est… Pantora.
+
+19
+00:01:33,009 --> 00:01:35,345
+Va pour Pantora.
+
+20
+00:01:44,396 --> 00:01:46,940
+Va pour Pantora.
+
+21
+00:02:20,515 --> 00:02:24,769
+T'aurais pas dû dire
+qu'on n'avait plus rien. Je meurs de faim.
+
+22
+00:02:24,853 --> 00:02:27,605
+La priorité est de brouiller
+la signature de notre vaisseau.
+
+23
+00:02:28,523 --> 00:02:30,025
+Parle pour toi.
+
+24
+00:02:31,192 --> 00:02:33,278
+Vous venez pour des réparations ?
+
+25
+00:02:33,361 --> 00:02:35,613
+Juste un calibrage et du carburant.
+
+26
+00:02:35,697 --> 00:02:39,743
+Allez-y.
+Je dois juste scanner votre vaisseau.
+
+27
+00:02:40,952 --> 00:02:42,912
+Vous en êtes sûr ?
+
+28
+00:02:44,873 --> 00:02:47,625
+Je pourrais ignorer cette étape.
+
+29
+00:02:50,754 --> 00:02:52,339
+Trop facile.
+
+30
+00:02:52,422 --> 00:02:55,216
+Vous n'oubliez rien ?
+
+31
+00:02:57,927 --> 00:02:59,846
+Vous deviez ignorer cette étape.
+
+32
+00:02:59,929 --> 00:03:02,057
+- Je pourrais.
+- Génial !
+
+33
+00:03:02,140 --> 00:03:05,018
+Moyennant une compensation…
+
+34
+00:03:06,770 --> 00:03:09,647
+financière.
+
+35
+00:03:09,731 --> 00:03:12,692
+Je crois qu'il veut des crédits.
+
+36
+00:03:13,651 --> 00:03:16,237
+Ça vous suffira ?
+
+37
+00:03:23,244 --> 00:03:25,580
+Ravi de faire des affaires avec vous.
+
+38
+00:03:27,207 --> 00:03:29,751
+On s'en sort bien en tant que civils.
+
+39
+00:03:36,383 --> 00:03:38,968
+Ici Raspar Six à la Ro Station.
+
+40
+00:03:41,888 --> 00:03:43,556
+<i>On raconte</i>
+
+41
+00:03:43,640 --> 00:03:48,228
+<i>que vous êtes à la recherche</i>
+<i>d'une navette d'assaut de classe </i>Omicron<i>.</i>
+
+42
+00:03:48,311 --> 00:03:53,483
+<i>Je sais où la trouver,</i>
+<i>mais ça va vous coûter cher.</i>
+
+43
+00:03:53,566 --> 00:03:55,610
+Vous serez généreusement récompensé.
+
+44
+00:03:56,444 --> 00:03:59,781
+Envoyez-moi les coordonnées
+et veillez à ce qu'ils ne partent pas.
+
+45
+00:04:19,384 --> 00:04:22,846
+Ne vends pas cet explosif.
+C'est le dernier.
+
+46
+00:04:22,929 --> 00:04:25,849
+C'est le seul objet de valeur qu'on a.
+
+47
+00:04:26,391 --> 00:04:28,143
+Tu veux manger ou pas ?
+
+48
+00:04:28,226 --> 00:04:30,395
+Pourquoi Tech et moi devons tout réparer
+
+49
+00:04:30,478 --> 00:04:32,814
+pendant que vous faites du tourisme ?
+
+50
+00:04:32,897 --> 00:04:33,898
+Du tourisme ?
+
+51
+00:04:33,982 --> 00:04:39,654
+Non. On va chercher des vivres.
+Ni vus ni connus.
+
+52
+00:04:39,738 --> 00:04:42,032
+Oui. Et tu te démarques trop.
+
+53
+00:04:42,115 --> 00:04:43,491
+Et toi, non ?
+
+54
+00:04:43,575 --> 00:04:45,493
+Pas dans cette tenue.
+
+55
+00:04:47,078 --> 00:04:48,496
+Bien. Allons-y.
+
+56
+00:04:48,580 --> 00:04:51,041
+- Omega, suis-nous.
+- Super !
+
+57
+00:04:52,709 --> 00:04:55,003
+Hé ! Ramenez-nous un bon repas.
+
+58
+00:05:29,120 --> 00:05:31,915
+<i>…obtenir votre code d'identité.</i>
+
+59
+00:05:31,998 --> 00:05:35,877
+<i>Chaque citoyen peut échanger sa monnaie</i>
+<i>obsolète contre des Crédits Impériaux…</i>
+
+60
+00:05:35,960 --> 00:05:38,213
+Qu'est-ce qu'ils fêtent ?
+
+61
+00:05:38,296 --> 00:05:39,547
+La fin de la guerre.
+
+62
+00:05:40,924 --> 00:05:44,094
+Un poste de codes d'identité
+comme sur Saleucami.
+
+63
+00:05:44,177 --> 00:05:46,012
+<i>…votre code d'identité.</i>
+
+64
+00:05:46,096 --> 00:05:52,686
+<i>Chaque citoyen peut échanger sa monnaie</i>
+<i>obsolète contre des Crédits Impériaux,</i>
+
+65
+00:05:52,769 --> 00:05:56,189
+<i>grâce à la générosité</i>
+<i>du nouvel Empire Galactique.</i>
+
+66
+00:05:56,272 --> 00:05:58,608
+Les choses changent plus vite que prévu.
+
+67
+00:05:58,692 --> 00:06:00,944
+Trouvons ce qu'il nous faut et filons.
+
+68
+00:06:01,027 --> 00:06:04,239
+Mais la guerre est finie.
+C'est une bonne chose, non ?
+
+69
+00:06:04,322 --> 00:06:06,491
+Ça dépend dans quel camp on est.
+
+70
+00:06:06,574 --> 00:06:11,621
+<i>…grâce à la générosité</i>
+<i>du nouvel Empire Galactique.</i>
+
+71
+00:06:18,128 --> 00:06:23,091
+La clé de signature doit être encastrée
+sous les inverteurs arrières de parallaxe.
+
+72
+00:06:23,174 --> 00:06:24,634
+Dis-moi quoi arracher.
+
+73
+00:06:25,343 --> 00:06:27,178
+Commence par ça.
+
+74
+00:06:47,282 --> 00:06:48,366
+Je n'en veux pas.
+
+75
+00:06:48,450 --> 00:06:53,413
+Écoutez. Ce pyro denton vaut
+au moins 1 800 crédits.
+
+76
+00:06:53,496 --> 00:06:57,876
+Peut-être au marché noir,
+mais je tiens un commerce respectable.
+
+77
+00:07:00,128 --> 00:07:02,881
+Hé, petite ! Si tu casses, tu paies.
+
+78
+00:07:02,964 --> 00:07:04,049
+Désolée.
+
+79
+00:07:17,729 --> 00:07:21,316
+Et si vous me vendiez plutôt
+votre droïde ?
+
+80
+00:07:21,399 --> 00:07:22,400
+Droïde ?
+
+81
+00:07:22,984 --> 00:07:26,571
+C'est un prototype militaire.
+
+82
+00:07:26,654 --> 00:07:28,114
+Militaire ?
+
+83
+00:07:31,117 --> 00:07:32,494
+Je vous en donne 2 000.
+
+84
+00:07:34,412 --> 00:07:35,413
+Une minute.
+
+85
+00:07:36,956 --> 00:07:39,542
+Non. Tu n'es pas sérieux.
+
+86
+00:07:39,626 --> 00:07:41,294
+Il nous faut des crédits.
+
+87
+00:07:41,378 --> 00:07:45,048
+Quand on aura les vivres,
+je te ferai signe et tu pourras partir.
+
+88
+00:07:46,800 --> 00:07:48,510
+Bien, mais pas à ce prix-là.
+
+89
+00:07:48,593 --> 00:07:51,596
+- Je vaux plus que 2 000.
+- D'accord.
+
+90
+00:07:52,180 --> 00:07:53,431
+J'en veux 4 000.
+
+91
+00:07:54,891 --> 00:07:55,892
+Disons 3 000.
+
+92
+00:07:58,770 --> 00:07:59,771
+Marché conclu.
+
+93
+00:08:12,659 --> 00:08:14,160
+Salut, toi.
+
+94
+00:08:19,916 --> 00:08:21,710
+Attends !
+
+95
+00:08:22,460 --> 00:08:23,586
+Hé !
+
+96
+00:08:32,721 --> 00:08:36,307
+Echo, suis ton nouveau propriétaire.
+
+97
+00:08:36,391 --> 00:08:39,477
+D'accord. À vos ordres.
+
+98
+00:08:43,898 --> 00:08:44,899
+Omega ?
+
+99
+00:08:47,485 --> 00:08:48,486
+Omega ?
+
+100
+00:08:59,205 --> 00:09:01,207
+Hé ! Fais attention.
+
+101
+00:09:01,291 --> 00:09:02,292
+Pardon.
+
+102
+00:09:11,468 --> 00:09:12,802
+Tout va bien ?
+
+103
+00:09:18,683 --> 00:09:20,518
+Tu as l'air perdue.
+
+104
+00:09:20,602 --> 00:09:23,480
+J'ai été séparée de mes amis.
+
+105
+00:09:23,563 --> 00:09:27,942
+Je vais t'aider.
+Ne t'en fais pas. On va les retrouver.
+
+106
+00:09:42,499 --> 00:09:45,126
+On va enfin rétablir l'ordre ici.
+
+107
+00:09:45,210 --> 00:09:48,838
+Au travail. Supervise ces droïdes.
+
+108
+00:09:51,800 --> 00:09:57,347
+Pardon ? Je suis le droïde en chef.
+Ça alors ! Vous n'êtes pas un droïde.
+
+109
+00:10:00,809 --> 00:10:04,521
+Tu as raison, Clink.
+Je vais signaler cet imposteur.
+
+110
+00:10:05,397 --> 00:10:07,232
+Adressez-moi votre plainte.
+
+111
+00:10:07,315 --> 00:10:09,025
+Nom d'un droïde !
+
+112
+00:10:09,109 --> 00:10:10,819
+Quelqu'un d'autre ?
+
+113
+00:10:32,090 --> 00:10:34,884
+Merci de m'aider à retrouver mes amis.
+
+114
+00:10:34,968 --> 00:10:38,638
+Aucun souci. Tu as faim ?
+
+115
+00:10:38,722 --> 00:10:41,558
+Oui, mais j'ai pas de crédits.
+
+116
+00:10:49,107 --> 00:10:50,316
+Désolée.
+
+117
+00:11:01,661 --> 00:11:03,246
+Merci. C'est très gentil.
+
+118
+00:11:04,122 --> 00:11:05,123
+C'est ma faute.
+
+119
+00:11:07,250 --> 00:11:08,626
+Tiens.
+
+120
+00:11:08,710 --> 00:11:11,921
+Mais… on ne les a pas payés.
+
+121
+00:11:12,005 --> 00:11:14,716
+On peut enfreindre les règles
+de temps en temps.
+
+122
+00:11:14,799 --> 00:11:16,509
+Vous êtes soldat ?
+
+123
+00:11:17,093 --> 00:11:18,803
+Pas exactement.
+
+124
+00:11:18,887 --> 00:11:21,097
+Alors, pourquoi vous avez un blaster ?
+
+125
+00:11:21,181 --> 00:11:22,599
+Pour me protéger.
+
+126
+00:11:22,682 --> 00:11:25,393
+La galaxie est dangereuse
+quand on est seule.
+
+127
+00:11:25,477 --> 00:11:28,188
+Oui. Heureusement que j'ai mes amis.
+
+128
+00:11:28,813 --> 00:11:29,898
+Quelle chance.
+
+129
+00:11:32,567 --> 00:11:36,613
+Je sais. Si vous êtes seule,
+venez donc avec nous.
+
+130
+00:11:37,906 --> 00:11:40,909
+C'est la meilleure proposition
+qu'on m'ait faite.
+
+131
+00:11:43,078 --> 00:11:44,913
+Viens. Par ici.
+
+132
+00:11:49,626 --> 00:11:50,627
+Omega.
+
+133
+00:11:52,170 --> 00:11:54,255
+Voilà un de mes amis.
+
+134
+00:11:56,508 --> 00:11:59,928
+Omega, éloigne-toi d'elle.
+
+135
+00:12:00,011 --> 00:12:03,139
+Pourquoi ? Elle m'aidait à vous retrouver.
+
+136
+00:12:03,223 --> 00:12:06,768
+Oui, Omega et moi faisions connaissance.
+
+137
+00:12:19,072 --> 00:12:20,532
+Hunter !
+
+138
+00:12:21,241 --> 00:12:22,992
+Lâchez-moi !
+
+139
+00:12:32,836 --> 00:12:34,045
+Omega, sauve-toi !
+
+140
+00:12:41,761 --> 00:12:43,221
+Citoyenne.
+
+141
+00:12:44,514 --> 00:12:45,515
+Halte-là !
+
+142
+00:12:48,935 --> 00:12:50,603
+Doucement avec mon vaisseau.
+
+143
+00:12:50,687 --> 00:12:51,688
+Ton vaisseau ?
+
+144
+00:12:54,315 --> 00:12:56,943
+La voilà. La clé de signature.
+
+145
+00:13:01,614 --> 00:13:02,615
+Je l'ai.
+
+146
+00:13:02,699 --> 00:13:04,075
+Avec un petit réglage,
+
+147
+00:13:04,159 --> 00:13:07,078
+on pourra brouiller notre signature
+à notre guise.
+
+148
+00:13:07,162 --> 00:13:12,709
+<i>Wrecker, Tech, Echo.</i>
+<i>J'ai perdu Omega. On nous a attaqués</i>.
+
+149
+00:13:13,293 --> 00:13:14,836
+<i>Qui ça ?</i>
+
+150
+00:13:14,919 --> 00:13:18,840
+Une femme. Très bien entraînée.
+Elle veut la petite.
+
+151
+00:13:18,923 --> 00:13:20,759
+C'est ce qu'on va voir.
+
+152
+00:13:22,469 --> 00:13:24,554
+Je vais me connecter
+au réseau de sécurité.
+
+153
+00:13:24,637 --> 00:13:27,057
+Les caméras de la ville
+nous aideront à la retrouver.
+
+154
+00:13:27,140 --> 00:13:30,894
+<i>Je me suis fait remarquer.</i>
+<i>Prépare le vaisseau au décollage.</i>
+
+155
+00:13:30,977 --> 00:13:33,646
+Je n'appellerais plus ça un vaisseau.
+
+156
+00:13:33,730 --> 00:13:37,400
+<i>Il va falloir attendre, à moins</i>
+<i>que tu aies des droïdes de maintenance.</i>
+
+157
+00:13:37,484 --> 00:13:38,610
+J'ai une solution.
+
+158
+00:13:38,693 --> 00:13:40,862
+Équipez-vous, on va sur le terrain.
+
+159
+00:13:41,863 --> 00:13:46,201
+Impossible.
+Il nous est interdit de quitter ce poste.
+
+160
+00:13:46,284 --> 00:13:50,955
+Plus vite on y ira,
+plus vite tu reprendras les commandes.
+
+161
+00:13:51,039 --> 00:13:54,918
+Quand bien même, je ne peux pas
+retirer nos crans de sûreté.
+
+162
+00:13:55,001 --> 00:13:57,921
+Voilà pourquoi je suis le chef.
+
+163
+00:14:03,426 --> 00:14:07,013
+Où vous allez comme ça ?
+Retournez à l'intérieur.
+
+164
+00:14:08,098 --> 00:14:09,432
+Tu n'es pas un droïde.
+
+165
+00:14:09,516 --> 00:14:11,476
+Vous m'avez eu à bas prix.
+
+166
+00:14:14,854 --> 00:14:15,855
+Hé !
+
+167
+00:14:17,023 --> 00:14:18,024
+Fais attention !
+
+168
+00:14:39,587 --> 00:14:43,299
+<i>Attention, un incident a été signalé</i>
+<i>au marché central.</i>
+
+169
+00:14:44,968 --> 00:14:47,721
+<i>Code 315 en cours. Deux suspects à pied.</i>
+
+170
+00:14:47,804 --> 00:14:49,806
+<i>Que toutes les unités disponibles</i>
+<i>s'y rendent.</i>
+
+171
+00:14:49,889 --> 00:14:51,349
+Je vois Omega.
+
+172
+00:14:51,433 --> 00:14:55,770
+Elle est dans les tunnels de maintenance.
+Va au nord-ouest, à 155.
+
+173
+00:14:58,273 --> 00:14:59,983
+Elle a de la compagnie.
+
+174
+00:15:14,372 --> 00:15:15,874
+Te voilà enfin.
+
+175
+00:15:15,957 --> 00:15:17,208
+Wrecker ?
+
+176
+00:15:17,292 --> 00:15:18,752
+On s'inquiétait pour toi.
+
+177
+00:15:19,419 --> 00:15:21,004
+On peut s'en aller ?
+
+178
+00:15:21,087 --> 00:15:22,505
+Ça marche.
+
+179
+00:15:24,507 --> 00:15:26,843
+Je suis avec Omega. On arrive.
+
+180
+00:15:30,597 --> 00:15:33,933
+Va au vaisseau. Je m'occupe d'elle.
+
+181
+00:15:39,939 --> 00:15:43,401
+Touche à la petite,
+et t'auras affaire à moi.
+
+182
+00:16:17,936 --> 00:16:19,646
+Tech ne plaisantait pas.
+
+183
+00:16:19,729 --> 00:16:21,856
+On a du pain sur la planche.
+
+184
+00:16:21,940 --> 00:16:25,402
+Je ne suis pas programmée
+pour réparer ou assembler des vaisseaux.
+
+185
+00:16:27,904 --> 00:16:31,282
+Pas question, Clink.
+C'est moi qui donne les ordres.
+
+186
+00:16:31,366 --> 00:16:35,036
+DK-3 et 225, attelez-vous aux répulseurs.
+
+187
+00:16:45,630 --> 00:16:47,340
+Wrecker, où es-tu ?
+
+188
+00:16:47,424 --> 00:16:49,009
+Wrecker, tu me reçois ?
+
+189
+00:16:50,510 --> 00:16:53,430
+<i>Un enfant est suspendu à une tour</i>
+<i>du bas-district.</i>
+
+190
+00:16:53,513 --> 00:16:54,681
+Je ne vois pas Wrecker,
+
+191
+00:16:54,764 --> 00:16:58,143
+mais Omega est suspendue
+à une tour sur la voie aérienne.
+
+192
+00:16:58,226 --> 00:16:59,394
+Suspendue ?
+
+193
+00:16:59,477 --> 00:17:01,187
+<i>Pour l'instant. Fais vite.</i>
+
+194
+00:17:07,402 --> 00:17:08,403
+Hé !
+
+195
+00:17:19,664 --> 00:17:21,833
+Tu me remercieras plus tard.
+
+196
+00:17:29,549 --> 00:17:31,509
+Fais une roulade en tombant.
+
+197
+00:17:41,227 --> 00:17:42,228
+<i>Wrecker.</i>
+
+198
+00:17:43,772 --> 00:17:45,315
+Je dois retrouver Omega.
+
+199
+00:17:45,398 --> 00:17:47,984
+<i>Hunter s'en occupe. Reviens au vaisseau.</i>
+
+200
+00:18:42,038 --> 00:18:43,039
+Hé !
+
+201
+00:18:50,839 --> 00:18:52,132
+Hunter !
+
+202
+00:18:53,883 --> 00:18:54,926
+Attention !
+
+203
+00:19:37,260 --> 00:19:39,512
+Accroche-toi.
+On n'est pas encore tirés d'affaire.
+
+204
+00:20:14,381 --> 00:20:16,633
+Je rate tout !
+
+205
+00:20:18,259 --> 00:20:22,138
+Mon test diagnostique indique
+que ce vaisseau est opérationnel.
+
+206
+00:20:22,222 --> 00:20:23,431
+Merci pour votre aide.
+
+207
+00:20:25,058 --> 00:20:26,893
+Ils sont tout à toi.
+
+208
+00:20:26,976 --> 00:20:30,021
+Vous l'avez entendu.
+Je reprends les commandes. Suivez-moi.
+
+209
+00:20:40,448 --> 00:20:42,117
+Il faut qu'on file d'ici.
+
+210
+00:20:42,200 --> 00:20:45,120
+Wrecker, accélère.
+On n'a pas que ça à faire.
+
+211
+00:20:45,954 --> 00:20:48,039
+Je suis là.
+
+212
+00:20:55,255 --> 00:20:56,965
+Non. Ils doivent rester !
+
+213
+00:20:57,924 --> 00:21:02,387
+Non, attendez ! Ne partez pas !
+Elle ne m'a pas encore payé ! Arrêtez !
+
+214
+00:21:22,115 --> 00:21:24,117
+Ce doit être une chasseuse de primes.
+
+215
+00:21:25,368 --> 00:21:26,745
+Une quoi ?
+
+216
+00:21:26,828 --> 00:21:29,247
+Quelqu'un qu'on engage
+pour capturer une cible.
+
+217
+00:21:29,330 --> 00:21:31,291
+Et la cible, c'est toi.
+
+218
+00:21:31,875 --> 00:21:32,876
+Moi ?
+
+219
+00:21:32,959 --> 00:21:35,128
+Ne lui faites pas peur.
+
+220
+00:21:35,211 --> 00:21:38,089
+On doit découvrir qui c'est,
+et qui l'a engagée.
+
+221
+00:21:49,976 --> 00:21:53,480
+Non. Attendez. J'ai essayé de les retenir.
+
+222
+00:22:01,237 --> 00:22:04,491
+S'ils reviennent,
+vous savez où me joindre.
+
+223
+00:22:12,791 --> 00:22:16,211
+La cible s'est échappée,
+mais je la retrouverai.
+
+224
+00:22:37,607 --> 00:22:38,983
+LA CHASSEUSE DE PRIME
+
+225
+00:23:01,006 --> 00:23:03,008
+Sous-titres : Cynthia Kirbach
+
