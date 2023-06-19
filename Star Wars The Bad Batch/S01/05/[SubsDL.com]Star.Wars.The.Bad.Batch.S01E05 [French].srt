@@ -1,0 +1,1019 @@
+﻿1
+00:00:30,822 --> 00:00:33,742
+Mission sauvetage
+
+2
+00:00:38,788 --> 00:00:40,623
+Il est un peu grand.
+
+3
+00:00:41,207 --> 00:00:43,084
+J'ai mon propre communicateur ?
+
+4
+00:00:43,168 --> 00:00:46,755
+C'était celui de Crosshair,
+mais il n'en a plus besoin.
+
+5
+00:00:46,838 --> 00:00:49,466
+Echo, quelle est votre position ? À vous.
+
+6
+00:00:51,176 --> 00:00:52,927
+Ce n'est pas un jouet, Omega.
+
+7
+00:00:53,845 --> 00:00:54,929
+Bien reçu.
+
+8
+00:00:56,473 --> 00:01:00,518
+Pourquoi on va sur Ord Mantell ?
+On devait pas faire profil bas ?
+
+9
+00:01:01,102 --> 00:01:04,856
+Pas avec une chasseuse de primes
+à tes trousses. On doit enquêter.
+
+10
+00:01:05,482 --> 00:01:09,319
+Je connais un informateur prénommé Cid
+qui pourrait nous aider.
+
+11
+00:01:09,861 --> 00:01:11,363
+Tu lui fais confiance ?
+
+12
+00:01:11,446 --> 00:01:12,864
+Les Jedi avaient confiance en lui.
+
+13
+00:01:12,947 --> 00:01:15,075
+Les Jedi qui sont tous morts ?
+
+14
+00:01:15,158 --> 00:01:16,868
+Quelqu'un a une meilleure idée ?
+
+15
+00:01:18,495 --> 00:01:20,038
+<i>Il marque un point.</i>
+
+16
+00:01:22,665 --> 00:01:24,042
+Pardon. C'est pas un jouet.
+
+17
+00:01:47,357 --> 00:01:48,817
+Tu as retenu les règles ?
+
+18
+00:01:48,900 --> 00:01:52,278
+Ne pas m'éloigner, rester aux aguets,
+
+19
+00:01:52,362 --> 00:01:53,905
+et ne faire confiance à personne.
+
+20
+00:01:53,988 --> 00:01:55,281
+Et en cas d'ennuis ?
+
+21
+00:01:55,365 --> 00:01:57,951
+Utiliser mon communicateur
+et donner ma position.
+
+22
+00:02:04,582 --> 00:02:05,792
+On y est.
+
+23
+00:02:06,918 --> 00:02:07,919
+Charmant.
+
+24
+00:02:18,388 --> 00:02:21,391
+Sale tricheur ! Je t'ai vu !
+
+25
+00:02:22,142 --> 00:02:24,644
+Moi ? Qui tu traites de tricheur ?
+
+26
+00:02:24,728 --> 00:02:26,438
+Lequel d'entre eux est Cid ?
+
+27
+00:02:26,521 --> 00:02:27,689
+Aucune idée.
+
+28
+00:02:27,772 --> 00:02:30,650
+J'en ai entendu parler,
+mais je ne l'ai jamais vu.
+
+29
+00:02:30,734 --> 00:02:33,445
+Tu aurais pu nous en informer avant.
+
+30
+00:02:36,072 --> 00:02:38,575
+On cherche Cid. Vous le connaissez ?
+
+31
+00:02:38,658 --> 00:02:40,160
+Tu sais ce que t'as fait !
+
+32
+00:02:40,243 --> 00:02:41,369
+Cid ?
+
+33
+00:02:42,328 --> 00:02:44,372
+T'as encore cassé la machine !
+
+34
+00:02:44,456 --> 00:02:45,665
+Non. Ça me dit rien.
+
+35
+00:02:45,749 --> 00:02:47,292
+Et eux ?
+
+36
+00:02:47,375 --> 00:02:49,419
+Je vais te faire la peau.
+
+37
+00:02:49,502 --> 00:02:53,840
+Vous êtes sourds ?
+Vous vous êtes trompés d'endroit.
+
+38
+00:02:53,923 --> 00:02:57,844
+Si vous n'êtes pas là
+pour dépenser de l'argent, du balai.
+
+39
+00:02:58,595 --> 00:03:00,680
+Excellent plan, Echo.
+
+40
+00:03:00,764 --> 00:03:02,432
+Je suis sûr que c'est ici.
+
+41
+00:03:02,515 --> 00:03:04,267
+Les Jedi venaient ici durant la guerre.
+
+42
+00:03:05,185 --> 00:03:08,563
+Cid a peut-être eu vent
+de leur sort et il a pris la fuite.
+
+43
+00:03:09,147 --> 00:03:12,984
+Ou il a été arrêté pour violation
+d'innombrables normes sanitaires.
+
+44
+00:03:15,779 --> 00:03:17,822
+Qu'est-ce qu'il y a, minus ?
+
+45
+00:03:17,906 --> 00:03:19,240
+C'est vous, Cid.
+
+46
+00:03:21,618 --> 00:03:23,870
+Tu es plus futée que tes amis.
+
+47
+00:03:23,953 --> 00:03:26,247
+Les Jedi avaient d'autres informateurs ?
+
+48
+00:03:26,331 --> 00:03:29,584
+Oui, mais Cid était le seul
+dont j'avais les coordonnées.
+
+49
+00:03:29,668 --> 00:03:32,629
+On a fait tout ce chemin pour rien ?
+
+50
+00:03:32,712 --> 00:03:34,047
+<i>J'ai trouvé Cid.</i>
+
+51
+00:03:41,179 --> 00:03:44,015
+J'avais une bonne collaboration
+avec les Jedi.
+
+52
+00:03:44,599 --> 00:03:46,643
+Ils appréciaient mes tuyaux,
+
+53
+00:03:47,310 --> 00:03:53,233
+mais maintenant qu'ils sont tous morts,
+on fait moins appel à mes services.
+
+54
+00:03:53,316 --> 00:03:55,735
+Merci, le nouvel Empire.
+
+55
+00:03:55,819 --> 00:03:58,446
+Les temps ont changé… pour nous tous.
+
+56
+00:03:58,530 --> 00:03:59,864
+Et comment.
+
+57
+00:03:59,948 --> 00:04:03,076
+Jamais des clones déserteurs
+n'avaient fait appel à moi.
+
+58
+00:04:03,159 --> 00:04:07,455
+On est partis car on avait
+une idéologie profondément différente.
+
+59
+00:04:07,539 --> 00:04:10,000
+C'est mignon de croire que ça m'importe.
+
+60
+00:04:10,083 --> 00:04:11,835
+Abrégez. Dites-moi ce que vous voulez.
+
+61
+00:04:18,591 --> 00:04:21,302
+Faites comme chez vous, je vous en prie.
+
+62
+00:04:22,512 --> 00:04:24,514
+On a vu cette femme sur Pantora.
+
+63
+00:04:25,181 --> 00:04:26,558
+Vous savez qui c'est ?
+
+64
+00:04:27,058 --> 00:04:29,894
+Non, mais je sais reconnaître
+un chasseur de primes.
+
+65
+00:04:30,645 --> 00:04:32,313
+Vous pouvez trouver qui l'a engagée ?
+
+66
+00:04:32,897 --> 00:04:35,191
+Ça dépend de ce que vous ferez pour moi.
+
+67
+00:04:38,445 --> 00:04:40,572
+Vous êtes nés de la dernière pluie ?
+
+68
+00:04:41,156 --> 00:04:45,827
+Remplissez une mission pour moi,
+et j'obtiendrai votre information.
+
+69
+00:04:45,910 --> 00:04:47,829
+C'est ça, la vie de mercenaires.
+
+70
+00:04:47,912 --> 00:04:49,205
+Mercenaires ?
+
+71
+00:04:49,289 --> 00:04:51,541
+Vous êtes longs à la détente.
+
+72
+00:04:51,624 --> 00:04:54,210
+La petite est le cerveau de l'équipe.
+
+73
+00:04:56,713 --> 00:04:57,714
+Quelle mission ?
+
+74
+00:04:58,506 --> 00:05:00,216
+Un sauvetage.
+
+75
+00:05:00,300 --> 00:05:03,511
+On offre une prime
+pour une enfant nommée Muchi.
+
+76
+00:05:04,262 --> 00:05:08,350
+D'après mes sources, elle a été enlevée
+par des esclavagistes zygerriens
+
+77
+00:05:08,433 --> 00:05:11,061
+qui se planquent
+à l'autre bout de la planète.
+
+78
+00:05:11,144 --> 00:05:14,105
+Ramenez-moi l'enfant
+et vous obtiendrez votre info.
+
+79
+00:05:14,189 --> 00:05:15,648
+Qui touchera la prime ?
+
+80
+00:05:15,732 --> 00:05:17,525
+Ça alors. Il parle.
+
+81
+00:05:18,485 --> 00:05:23,073
+On partagera : 70 % pour moi
+et 30 % pour vous. À prendre ou à laisser.
+
+82
+00:05:23,156 --> 00:05:25,408
+Reprendre une gamine à des Zygerriens ?
+
+83
+00:05:26,368 --> 00:05:28,036
+C'est du gâteau.
+
+84
+00:05:28,953 --> 00:05:30,538
+Marché conclu, alors.
+
+85
+00:05:31,581 --> 00:05:33,833
+Les détails sont là-dessus.
+
+86
+00:05:33,917 --> 00:05:35,168
+N'échouez pas.
+
+87
+00:05:43,802 --> 00:05:44,803
+Ça va ?
+
+88
+00:05:45,512 --> 00:05:47,389
+Oui. C'est rien.
+
+89
+00:05:48,932 --> 00:05:50,767
+D'après les infos de Cid,
+
+90
+00:05:50,850 --> 00:05:55,355
+les esclavagistes zygerriens se cachent
+dans les ruines de l'Ancienne Cité.
+
+91
+00:05:57,232 --> 00:05:58,650
+C'est quoi, un esclavagiste ?
+
+92
+00:05:58,733 --> 00:06:01,319
+Quelqu'un qui achète et revend des gens
+pour des crédits.
+
+93
+00:06:01,403 --> 00:06:03,279
+On peut vendre des gens ?
+
+94
+00:06:03,988 --> 00:06:08,159
+On ne leur laisse pas le choix. Ils sont
+prisonniers et traités comme des objets.
+
+95
+00:06:08,743 --> 00:06:11,121
+Ça n'a pas l'air correct.
+
+96
+00:06:11,204 --> 00:06:12,205
+Ça ne l'est pas.
+
+97
+00:06:12,914 --> 00:06:15,709
+On va empêcher
+que ça n'arrive à cette enfant.
+
+98
+00:06:15,792 --> 00:06:19,629
+Et empocher une jolie somme
+une fois la mission accomplie.
+
+99
+00:06:19,713 --> 00:06:21,756
+Oui, aussi.
+
+100
+00:06:22,966 --> 00:06:26,511
+T'en fais pas, Muchi. On va te sauver.
+
+101
+00:06:58,043 --> 00:06:59,044
+Je la vois.
+
+102
+00:07:00,128 --> 00:07:01,671
+Je ne vois qu'un enfant.
+
+103
+00:07:01,755 --> 00:07:04,382
+Pauvre Muchi. Elle a l'air terrorisée.
+
+104
+00:07:04,466 --> 00:07:06,676
+Je dénombre une vingtaine d'ennemis.
+
+105
+00:07:06,760 --> 00:07:09,721
+Et plusieurs points d'entrée
+peu fortifiés.
+
+106
+00:07:09,804 --> 00:07:13,016
+On les écrase et on l'attrape,
+comme sur Kuat.
+
+107
+00:07:13,099 --> 00:07:14,351
+Rien de plus facile.
+
+108
+00:07:14,434 --> 00:07:16,144
+En avant. Qu'est-ce qu'on attend ?
+
+109
+00:07:16,227 --> 00:07:18,563
+- Retourne au vaisseau.
+- Mais…
+
+110
+00:07:19,564 --> 00:07:20,732
+C'est un ordre.
+
+111
+00:07:23,610 --> 00:07:24,611
+D'accord.
+
+112
+00:07:43,838 --> 00:07:46,132
+Echo, monte la garde en hauteur.
+
+113
+00:07:46,216 --> 00:07:49,886
+Wrecker, attire les forces zygerriennes.
+Tech et moi, on se charge de l'enfant.
+
+114
+00:07:49,969 --> 00:07:51,262
+Pas de problème.
+
+115
+00:07:58,770 --> 00:08:00,105
+Echo, rapport de situation.
+
+116
+00:08:02,107 --> 00:08:03,692
+Deux patrouilles en speeders.
+
+117
+00:08:03,775 --> 00:08:05,735
+Premier poste de garde droit devant.
+
+118
+00:08:10,448 --> 00:08:12,242
+Une seconde. J'ai de la visite.
+
+119
+00:08:12,325 --> 00:08:14,786
+Occupe-t'en discrètement.
+
+120
+00:08:17,997 --> 00:08:19,165
+Attention !
+
+121
+00:08:32,095 --> 00:08:35,432
+Une mission de cette nature
+demande de l'organisation.
+
+122
+00:08:35,515 --> 00:08:39,394
+Rassurez votre employeur.
+Il retrouvera bientôt Muchi.
+
+123
+00:08:42,355 --> 00:08:45,900
+Allons. Inutile de me menacer.
+
+124
+00:08:45,984 --> 00:08:48,653
+Mes meilleurs agents sont sur le coup.
+
+125
+00:09:03,293 --> 00:09:06,212
+J'apporte des modifications à mon soldat.
+
+126
+00:09:06,296 --> 00:09:07,714
+C'est une membre du Bad Batch.
+
+127
+00:09:08,298 --> 00:09:09,507
+T'en penses quoi ?
+
+128
+00:09:09,591 --> 00:09:10,759
+On a trouvé leur vaisseau.
+
+129
+00:09:12,510 --> 00:09:13,762
+Cache-toi, Gonky.
+
+130
+00:09:20,727 --> 00:09:21,811
+Inspecte la soute.
+
+131
+00:09:21,895 --> 00:09:23,688
+Vérifie qu'il n'y a personne à bord.
+
+132
+00:09:52,092 --> 00:09:55,470
+Rien à signaler. On retourne à la base.
+
+133
+00:10:06,106 --> 00:10:07,524
+Hunter, vous me recevez ?
+
+134
+00:10:08,483 --> 00:10:10,360
+Tech ? Echo ? Wrecker ?
+
+135
+00:10:11,194 --> 00:10:12,278
+Y a quelqu'un ?
+
+136
+00:10:31,047 --> 00:10:32,173
+Ça se desserre.
+
+137
+00:10:34,843 --> 00:10:37,387
+Refais ça et tu le…
+
+138
+00:10:39,723 --> 00:10:42,559
+Économise tes forces.
+On va en avoir besoin.
+
+139
+00:11:03,163 --> 00:11:05,957
+T'en fais pas, Muchi. On va vous sauver.
+
+140
+00:11:06,541 --> 00:11:08,335
+Quelles sont nos chances, Tech ?
+
+141
+00:11:08,418 --> 00:11:09,586
+Difficile à dire.
+
+142
+00:11:09,669 --> 00:11:11,463
+Je croyais que t'étais l'intello.
+
+143
+00:11:12,714 --> 00:11:15,175
+Ce n'est pas
+une opération militaire standard.
+
+144
+00:11:15,258 --> 00:11:17,052
+Et comme on n'a jamais eu
+
+145
+00:11:17,135 --> 00:11:19,846
+à sauver un enfant
+des griffes d'esclavagistes,
+
+146
+00:11:19,929 --> 00:11:21,973
+je n'ai aucun point de comparaison.
+
+147
+00:11:22,057 --> 00:11:24,684
+On doit alerter Omega
+avant qu'ils la trouvent.
+
+148
+00:11:24,768 --> 00:11:28,605
+Nos communicateurs sont là-bas,
+avec nos armes.
+
+149
+00:11:33,526 --> 00:11:35,695
+Pas besoin de communicateurs.
+
+150
+00:11:48,208 --> 00:11:50,960
+Tiens, tiens.
+
+151
+00:11:51,044 --> 00:11:55,548
+Quatre esclaves de plus
+à ajouter à ma collection.
+
+152
+00:11:55,632 --> 00:11:57,467
+Robustes, qui plus est.
+
+153
+00:11:57,550 --> 00:11:59,678
+J'en tirerai un bon prix.
+
+154
+00:11:59,761 --> 00:12:01,680
+La République a interdit l'esclavage.
+
+155
+00:12:01,763 --> 00:12:05,600
+La République n'existe plus, scélérat.
+
+156
+00:12:10,230 --> 00:12:12,315
+Tu as de la chance
+qu'on n'a plus d'équipement,
+
+157
+00:12:12,399 --> 00:12:14,776
+ou les choses se passeraient autrement.
+
+158
+00:12:45,432 --> 00:12:48,935
+On peut se contenter de trois esclaves.
+
+159
+00:12:49,436 --> 00:12:51,688
+Si je te donnais en pâture à mon animal ?
+
+160
+00:12:55,066 --> 00:13:00,363
+Les autres,
+vous contribuerez à un nouveau départ.
+
+161
+00:13:00,447 --> 00:13:02,824
+Sans la République,
+
+162
+00:13:02,907 --> 00:13:07,454
+on peut retourner sur Kadavo
+et rebâtir ce qu'on a perdu.
+
+163
+00:13:08,747 --> 00:13:14,586
+Sous le régime du nouvel Empire,
+notre affaire prospérera à nouveau.
+
+164
+00:13:15,962 --> 00:13:18,465
+Et si vous n'obéissez pas…
+
+165
+00:13:18,548 --> 00:13:19,591
+Je sais.
+
+166
+00:13:19,674 --> 00:13:22,969
+La personne à côté de vous
+en paiera le prix.
+
+167
+00:13:31,019 --> 00:13:32,145
+Je te tiens !
+
+168
+00:13:33,063 --> 00:13:34,064
+Lâchez-moi !
+
+169
+00:13:35,148 --> 00:13:37,067
+Elle rôdait près de la cage.
+
+170
+00:13:38,693 --> 00:13:40,362
+Je rôdais pas.
+
+171
+00:13:41,196 --> 00:13:42,572
+Je l'ouvrais.
+
+172
+00:13:44,366 --> 00:13:45,617
+Verrouillez la cage !
+
+173
+00:13:51,706 --> 00:13:54,000
+Arrêtez-la. Ne la laissez pas s'échapper !
+
+174
+00:14:00,757 --> 00:14:04,844
+Je n'imaginais pas une jeune rancor
+déchaînée en guise de distraction.
+
+175
+00:14:04,928 --> 00:14:06,471
+C'est leur problème.
+
+176
+00:14:06,554 --> 00:14:07,764
+On s'en va.
+
+177
+00:14:24,406 --> 00:14:25,615
+T'en fais pas, Muchi.
+
+178
+00:14:25,699 --> 00:14:27,158
+Tu vas rentrer chez toi.
+
+179
+00:14:33,998 --> 00:14:36,501
+Muchi est la rancor ?
+
+180
+00:14:45,802 --> 00:14:48,179
+Équipez-vous. Il faut rattraper Muchi.
+
+181
+00:14:48,263 --> 00:14:51,599
+Si on ne la capture pas,
+adieu les informations de Cid.
+
+182
+00:15:02,193 --> 00:15:03,570
+Et eux ?
+
+183
+00:15:03,653 --> 00:15:06,823
+Omega et moi allons les conduire
+en lieu sûr. Retrouvez Muchi.
+
+184
+00:15:06,906 --> 00:15:09,492
+D'accord.
+Prenez les speeders à l'entrée sud.
+
+185
+00:15:26,718 --> 00:15:28,636
+Elle s'en sort très bien seule.
+
+186
+00:16:28,905 --> 00:16:31,241
+Tu vas me le payer, scélérat.
+
+187
+00:16:32,659 --> 00:16:34,411
+Je m'en occupe. Sauvez Muchi.
+
+188
+00:17:16,953 --> 00:17:19,205
+Omega, reste près de moi !
+
+189
+00:17:48,777 --> 00:17:50,737
+Une idée de comment l'arrêter ?
+
+190
+00:17:52,655 --> 00:17:55,075
+Les rancors obéissent
+à une hiérarchie sociale.
+
+191
+00:17:57,327 --> 00:17:59,621
+Il faut défier l'autorité de l'alpha.
+
+192
+00:18:01,081 --> 00:18:02,540
+Ça, je sais faire.
+
+193
+00:18:23,645 --> 00:18:25,980
+Vous êtes libres. Sauvez-vous.
+
+194
+00:18:28,858 --> 00:18:29,943
+Au revoir.
+
+195
+00:18:33,697 --> 00:18:35,865
+Viens. Allons rejoindre les autres.
+
+196
+00:18:44,165 --> 00:18:45,625
+Ça dure depuis quand ?
+
+197
+00:18:45,709 --> 00:18:47,836
+Trop longtemps. Il perd la main.
+
+198
+00:18:56,469 --> 00:18:57,846
+Allez, Muchi.
+
+199
+00:18:58,596 --> 00:18:59,639
+Fais dodo.
+
+200
+00:19:02,350 --> 00:19:03,685
+C'est bien.
+
+201
+00:19:05,395 --> 00:19:07,355
+Elle est mignonne de près.
+
+202
+00:19:08,106 --> 00:19:09,983
+Bien joué, Wrecker.
+
+203
+00:19:15,113 --> 00:19:17,032
+Quelle bonne surprise.
+
+204
+00:19:17,115 --> 00:19:21,828
+Le bras droit de Jabba
+me fait l'honneur de sa présence.
+
+205
+00:19:29,127 --> 00:19:31,338
+Du calme, Bib.
+
+206
+00:19:31,421 --> 00:19:34,632
+Je tiens toujours mes promesses.
+Vous verrez.
+
+207
+00:19:37,344 --> 00:19:40,680
+Comme je l'ai dit,
+c'est une mission délicate.
+
+208
+00:19:40,764 --> 00:19:42,682
+Dites à Jabba d'être patient.
+
+209
+00:19:48,313 --> 00:19:49,564
+Muchi.
+
+210
+00:19:55,403 --> 00:19:57,280
+Bon rancor.
+
+211
+00:20:09,000 --> 00:20:12,045
+Vous voyez, Bib ?
+Tout est bien qui finit bien.
+
+212
+00:20:12,128 --> 00:20:14,673
+Il ne manque plus que le paiement.
+
+213
+00:20:24,349 --> 00:20:25,850
+Au revoir, Muchi.
+
+214
+00:20:30,897 --> 00:20:32,565
+Je dois l'admettre.
+
+215
+00:20:32,649 --> 00:20:35,944
+Je doutais un peu de votre réussite.
+
+216
+00:20:36,027 --> 00:20:39,531
+Vous auriez pu nous dire
+qu'on devait sauver un rancor.
+
+217
+00:20:40,740 --> 00:20:42,659
+J'ai dû oublier.
+
+218
+00:20:43,326 --> 00:20:46,413
+Vous, le brun ténébreux. Dans mon bureau.
+
+219
+00:20:51,292 --> 00:20:54,004
+Votre chasseuse de primes
+se nomme Fennec Shand.
+
+220
+00:20:54,087 --> 00:20:55,547
+Elle est nouvelle,
+
+221
+00:20:55,630 --> 00:20:59,050
+mais elle est maligne et impitoyable.
+
+222
+00:20:59,634 --> 00:21:00,635
+Qui l'a engagée ?
+
+223
+00:21:01,219 --> 00:21:02,470
+Je l'ignore.
+
+224
+00:21:02,554 --> 00:21:06,266
+Mes sources à la Guilde disent
+qu'elle a été directement missionnée.
+
+225
+00:21:07,017 --> 00:21:09,561
+Avec quelqu'un comme elle à vos trousses,
+
+226
+00:21:09,644 --> 00:21:13,314
+il va vous falloir deux choses :
+des amis et de l'argent.
+
+227
+00:21:13,398 --> 00:21:14,983
+Surtout de l'argent.
+
+228
+00:21:15,066 --> 00:21:17,527
+On n'a ni l'un ni l'autre, actuellement.
+
+229
+00:21:17,610 --> 00:21:20,488
+Une chance
+qu'on se soit rencontrés, alors.
+
+230
+00:21:23,491 --> 00:21:24,617
+Voilà votre part.
+
+231
+00:21:26,411 --> 00:21:28,246
+Vous pourriez gagner bien plus…
+
+232
+00:21:29,080 --> 00:21:30,790
+si vous cherchez du travail.
+
+233
+00:21:32,083 --> 00:21:33,626
+Je vais y réfléchir.
+
+234
+00:21:35,211 --> 00:21:36,546
+C'est intéressant
+
+235
+00:21:36,629 --> 00:21:39,674
+que quelqu'un comme Fennec
+soit à vos trousses.
+
+236
+00:21:40,508 --> 00:21:42,677
+Vous devez valoir cher.
+
+237
+00:21:45,388 --> 00:21:47,098
+Ne vous en faites pas.
+
+238
+00:21:47,182 --> 00:21:49,100
+Je sais garder un secret.
+
+239
+00:22:06,326 --> 00:22:07,702
+MISSION SAUVETAGE
+
+240
+00:22:29,724 --> 00:22:31,726
+Sous-titres : Cynthia Kirbach
+
