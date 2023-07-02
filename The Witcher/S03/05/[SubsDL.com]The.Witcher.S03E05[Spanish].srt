@@ -1,0 +1,3326 @@
+﻿1
+00:00:10,916 --> 00:00:12,458
+[música melódica suave]
+
+2
+00:00:21,958 --> 00:00:23,458
+[crepitar del fuego]
+
+3
+00:00:32,541 --> 00:00:34,000
+[puerta se abre]
+
+4
+00:00:36,333 --> 00:00:37,583
+[puerta se cierra]
+
+5
+00:00:37,666 --> 00:00:38,958
+[pasos se acercan]
+
+6
+00:00:44,333 --> 00:00:45,625
+[Geralt] Al fin solos.
+
+7
+00:00:50,041 --> 00:00:51,083
+Vaya noche.
+
+8
+00:00:52,666 --> 00:00:55,291
+He oído que le han echado
+un afrodisiaco al vino.
+
+9
+00:00:56,416 --> 00:00:57,541
+¿Y te sorprende?
+
+10
+00:01:09,291 --> 00:01:11,541
+¿Has visto lo que llevaba Sabrina?
+
+11
+00:01:12,958 --> 00:01:14,250
+Es mayor que yo unos…
+
+12
+00:01:14,333 --> 00:01:15,291
+Yen.
+
+13
+00:01:15,375 --> 00:01:16,375
+[Yennefer ríe]
+
+14
+00:01:17,208 --> 00:01:19,791
+Mmm. Me alegra que se haya acabado.
+
+15
+00:01:35,958 --> 00:01:37,708
+[Yennefer] ¿Estás seguro de esto?
+
+16
+00:01:38,458 --> 00:01:40,791
+- [Geralt] ¿Y tú?
+- [música animada]
+
+17
+00:01:42,375 --> 00:01:44,208
+[conversaciones distendidas y risas]
+
+18
+00:01:44,916 --> 00:01:46,083
+[Geralt suspira]
+
+19
+00:01:48,416 --> 00:01:49,666
+No sé qué me apetece más,
+
+20
+00:01:49,750 --> 00:01:52,208
+si arrancarme este disfraz
+o atravesar a Stregobor
+
+21
+00:01:52,291 --> 00:01:54,250
+con la escultura de hielo más cercana.
+
+22
+00:01:54,333 --> 00:01:56,125
+Mira cómo le agarra.
+
+23
+00:01:58,375 --> 00:02:00,250
+Ah… El Lobo Blanco.
+
+24
+00:02:00,333 --> 00:02:04,583
+- [mujer] ¡Gelda, rápido, ven!
+- [hombre ríe] ¡Maravilloso!
+
+25
+00:02:04,666 --> 00:02:06,583
+[música animada se intensifica]
+
+26
+00:02:17,000 --> 00:02:19,000
+[rugido del fuego]
+
+27
+00:02:20,916 --> 00:02:22,333
+Gracias por venir.
+
+28
+00:02:26,208 --> 00:02:28,666
+- ¿Siempre suelen mirar tanto?
+- No.
+
+29
+00:02:29,458 --> 00:02:30,625
+Es por nosotros.
+
+30
+00:02:31,125 --> 00:02:34,208
+Acostúmbrate. Lo harán toda la noche.
+
+31
+00:02:34,291 --> 00:02:35,791
+Ah, bien.
+
+32
+00:02:35,875 --> 00:02:38,500
+Deberías conocer
+el territorio antes de entrar.
+
+33
+00:02:39,291 --> 00:02:43,416
+Ahí están Sabrina Glevissig
+y Marti Sodergren.
+
+34
+00:02:43,500 --> 00:02:45,291
+- Son… apasionadas.
+- [cuchicheos]
+
+35
+00:02:48,041 --> 00:02:53,166
+Junto a la fuente, están
+Margarita Laux-Antille, directora actual,
+
+36
+00:02:53,250 --> 00:02:56,458
+y Keira Metz. Una polvorilla.
+
+37
+00:02:56,541 --> 00:02:59,541
+Ahí tenemos a Carduin, Bianca, Marquard,
+
+38
+00:02:59,625 --> 00:03:01,458
+Detmold y a su hermano Drithelm,
+
+39
+00:03:01,541 --> 00:03:03,458
+Radcliffe el Odioso,
+
+40
+00:03:03,958 --> 00:03:07,291
+Artaud Terranova,
+buen mago y mejor borracho,
+
+41
+00:03:07,375 --> 00:03:10,583
+Vilgefortz, que me ha cogido cariño
+a pesar de mis esfuerzos,
+
+42
+00:03:10,666 --> 00:03:12,791
+Tissaia de Vries, a la que ya conoces,
+
+43
+00:03:12,875 --> 00:03:14,333
+y Gerhart de Aelle…
+
+44
+00:03:14,416 --> 00:03:17,083
+- [Gerhart] Iba diciendo…
+- …el hechicero más anciano.
+
+45
+00:03:17,708 --> 00:03:19,958
+¿Esperas que me acuerde de todos?
+
+46
+00:03:20,625 --> 00:03:22,208
+Creía que fuiste a Oxenfurt.
+
+47
+00:03:22,291 --> 00:03:23,333
+Mmm…
+
+48
+00:03:26,208 --> 00:03:27,500
+[acorde tenso]
+
+49
+00:03:30,708 --> 00:03:32,125
+Ni se te ocurra.
+
+50
+00:03:34,625 --> 00:03:35,875
+[Geralt suspira]
+
+51
+00:03:37,000 --> 00:03:38,375
+[Geralt] Te di mi palabra.
+
+52
+00:03:39,416 --> 00:03:41,541
+Estará a salvo en Loxia hasta el amanecer.
+
+53
+00:03:42,458 --> 00:03:45,250
+Cuando acabe el baile
+y comience el verdadero cónclave…
+
+54
+00:03:45,333 --> 00:03:47,708
+- [Geralt suspira]
+- …moveremos ficha.
+
+55
+00:03:48,458 --> 00:03:51,291
+Esta noche, el objetivo es relajarse
+
+56
+00:03:51,375 --> 00:03:54,666
+e inspirar la cordialidad
+durante una velada perfecta.
+
+57
+00:03:55,333 --> 00:03:57,791
+- Así que compórtate.
+- Yo siempre me comporto.
+
+58
+00:03:57,875 --> 00:03:59,916
+¿Has olvidado mi fiesta en Rinde?
+
+59
+00:04:00,583 --> 00:04:03,583
+¿La de los erizos encantados
+y el Derecho de la Sorpresa?
+
+60
+00:04:04,666 --> 00:04:05,916
+Aquello se complicó.
+
+61
+00:04:06,000 --> 00:04:07,500
+Pero esto es sencillo.
+
+62
+00:04:08,083 --> 00:04:11,500
+Necesitamos que no haya
+incidentes en este baile, así que,
+
+63
+00:04:12,166 --> 00:04:15,041
+querido, deja de comer
+como un demonio desnutrido.
+
+64
+00:04:16,416 --> 00:04:20,416
+Y si alguien solicita
+hablar contigo, acepta y rápido.
+
+65
+00:04:22,208 --> 00:04:26,625
+Da igual lo ridículo
+que vaya vestido alguien. No lo mires.
+
+66
+00:04:27,291 --> 00:04:28,416
+Yennefer.
+
+67
+00:04:28,500 --> 00:04:29,458
+[Yennefer chista]
+
+68
+00:04:32,583 --> 00:04:34,083
+[sensual] Y su brujo.
+
+69
+00:04:35,083 --> 00:04:36,875
+Aún no hemos tenido el placer.
+
+70
+00:04:39,708 --> 00:04:42,583
+Geralt, esta es
+Sabrina Glevissig de Ard Carraigh.
+
+71
+00:04:42,666 --> 00:04:44,291
+Una amiga de la escuela.
+
+72
+00:04:44,375 --> 00:04:48,166
+Hemos tenido en Aretusa
+a espías, ladrones y asesinos,
+
+73
+00:04:48,791 --> 00:04:51,375
+pero nunca había venido un brujo.
+
+74
+00:04:52,041 --> 00:04:55,708
+- Ja.
+- Yen te ha ocultado demasiado tiempo.
+
+75
+00:04:58,791 --> 00:04:59,875
+[Geralt suspira]
+
+76
+00:05:01,625 --> 00:05:03,375
+[audio amortiguado]
+
+77
+00:05:03,958 --> 00:05:08,000
+[Sabrina de fondo con eco]
+Pareces hambriento. ¿Quieres probar algo?
+
+78
+00:05:09,250 --> 00:05:10,583
+¿Qué opinas,
+
+79
+00:05:10,666 --> 00:05:11,566
+brujo?
+
+80
+00:05:13,333 --> 00:05:14,708
+[audio normal]
+
+81
+00:05:14,791 --> 00:05:16,875
+Que hoy Yen está especialmente bella.
+
+82
+00:05:18,291 --> 00:05:19,500
+¿Tú no?
+
+83
+00:05:22,666 --> 00:05:25,375
+Y ni siquiera miente. Qué soso.
+
+84
+00:05:25,458 --> 00:05:27,750
+Sabrina, trata bien a nuestro invitado.
+
+85
+00:05:27,833 --> 00:05:29,958
+Tiene poquita experiencia
+con la telepatía.
+
+86
+00:05:30,041 --> 00:05:33,833
+¿Por qué has traído a tu mascota
+si no es para que juguemos…
+
+87
+00:05:33,916 --> 00:05:34,958
+[chasquido de botón]
+
+88
+00:05:35,041 --> 00:05:36,291
+…con ella?
+
+89
+00:05:36,791 --> 00:05:38,833
+Querido, ¿y si vas a por algo de beber?
+
+90
+00:05:38,916 --> 00:05:40,166
+Buena idea.
+
+91
+00:05:42,500 --> 00:05:44,500
+¿A qué demonios estás jugando?
+
+92
+00:05:45,000 --> 00:05:48,083
+- Yen, ¿sabes qué es mejor que el sexo?
+- ¿Qué?
+
+93
+00:05:48,166 --> 00:05:50,708
+Provocar a la Salvadora de Sodden.
+
+94
+00:05:52,958 --> 00:05:57,041
+- [música y zapateos rítmicos]
+- [troupe] ♪ Nada es como crees. ♪
+
+95
+00:05:57,750 --> 00:06:01,750
+♪ Doncella al alba dulce es. ♪
+
+96
+00:06:01,833 --> 00:06:05,500
+♪ Su troba muy gentil. ♪
+
+97
+00:06:05,583 --> 00:06:09,375
+- ♪ De noche una bestia es… ♪
+- [resopla]
+
+98
+00:06:09,458 --> 00:06:12,625
+♪ …canalla estirpe vil. ♪
+
+99
+00:06:12,708 --> 00:06:17,750
+- ♪ Sus besos queman con pasión… ♪
+- Filippa, qué sorpresa.
+
+100
+00:06:19,791 --> 00:06:21,791
+- ¿Has atrapado ya a algún ratón?
+- [ríe]
+
+101
+00:06:22,416 --> 00:06:24,750
+Vilgefortz. Tissaia.
+
+102
+00:06:24,833 --> 00:06:27,833
+Aquí estás. Menos mal.
+
+103
+00:06:27,916 --> 00:06:30,833
+- No podía perdérmelo.
+- [Vilgefortz] Bienvenida de nuevo.
+
+104
+00:06:30,916 --> 00:06:35,583
+Has de construir puentes con Artorius
+esta noche también. No solo con Stregobor.
+
+105
+00:06:36,250 --> 00:06:39,958
+Ya que estamos con analogías pastorales,
+¿estáis arreglando alguna valla?
+
+106
+00:06:41,958 --> 00:06:44,791
+…como el resto
+de esta guarida de snobs y farsantes.
+
+107
+00:06:44,875 --> 00:06:48,458
+Asegúrate de que se comporte.
+No quiero errores esta noche.
+
+108
+00:06:48,541 --> 00:06:50,083
+- [Vilgefortz] Tissaia…
+- ¿Qué?
+
+109
+00:06:50,166 --> 00:06:52,958
+[Vilgefortz] Confía en lo que ves. ¿Mmm?
+
+110
+00:06:53,041 --> 00:06:56,375
+Dale a Yen, al menos,
+un par de horas para cabrear a todos.
+
+111
+00:06:56,458 --> 00:06:57,666
+Disculpad.
+
+112
+00:06:57,750 --> 00:06:59,458
+- Dijkstra…
+- Aparta, mago.
+
+113
+00:07:00,375 --> 00:07:03,000
+- [Geralt] Habrá alguna razón.
+- [Dijkstra carraspea]
+
+114
+00:07:03,083 --> 00:07:05,333
+[ríe] ¿Sabes, Filippa?
+
+115
+00:07:05,416 --> 00:07:08,541
+Debería regañarte
+por acaparar el tiempo del brujo.
+
+116
+00:07:10,208 --> 00:07:13,708
+Geralt de Rivia, es agradable tener
+a otro hermano no mágico aquí,
+
+117
+00:07:13,791 --> 00:07:16,750
+y a un… plebeyo más.
+
+118
+00:07:17,916 --> 00:07:19,041
+[suspira]
+
+119
+00:07:20,333 --> 00:07:23,500
+Filippa, necesito hablar con el brujo.
+
+120
+00:07:24,333 --> 00:07:25,291
+De hombre a hombre.
+
+121
+00:07:26,250 --> 00:07:27,291
+[Filippa suspira]
+
+122
+00:07:29,916 --> 00:07:31,041
+[música se desvanece]
+
+123
+00:07:32,583 --> 00:07:35,958
+[Yennefer] "De hombre a hombre".
+Típico de Dijkstra.
+
+124
+00:07:36,625 --> 00:07:39,333
+Esos dos supondrán un problema mañana.
+
+125
+00:07:39,416 --> 00:07:43,083
+Lo sé. Solo un idiota
+confiaría en un espía y en su maga.
+
+126
+00:07:43,833 --> 00:07:45,625
+Aportan más problemas que valor.
+
+127
+00:07:46,166 --> 00:07:48,375
+Y está claro que traman algo.
+
+128
+00:07:48,458 --> 00:07:50,875
+Como esperábamos,
+aunque no nos han proporcionado
+
+129
+00:07:50,958 --> 00:07:53,416
+ningún cotilleo para pagar su invitación.
+
+130
+00:07:56,833 --> 00:07:57,791
+¿Mmm?
+
+131
+00:07:59,500 --> 00:08:01,416
+Me encanta verte pensar.
+
+132
+00:08:02,125 --> 00:08:03,708
+Pero tenía mucho más que decir.
+
+133
+00:08:06,500 --> 00:08:08,791
+- [Geralt] Después me sigues contando.
+- [ríe]
+
+134
+00:08:08,875 --> 00:08:11,791
+♪ Nada es como crees. ♪
+
+135
+00:08:15,291 --> 00:08:18,083
+…no solo a través del Continente,
+sino aquí, en Aretusa.
+
+136
+00:08:18,791 --> 00:08:22,916
+Quizá este cónclave reúna a los magos,
+pero no cambiará lo inevitable.
+
+137
+00:08:23,000 --> 00:08:26,500
+Lo más inteligente será abandonar
+la neutralidad y elegir un bando.
+
+138
+00:08:26,583 --> 00:08:31,083
+Redania es tu única opción
+de mantener a salvo a la Leoncilla.
+
+139
+00:08:31,166 --> 00:08:33,375
+Usa términos más llanos, Dijkstra.
+
+140
+00:08:34,541 --> 00:08:36,375
+Estás hablando con un plebeyo.
+
+141
+00:08:36,458 --> 00:08:37,625
+Mmm.
+
+142
+00:08:38,208 --> 00:08:41,708
+Iré al grano:
+danos a la chica antes de que sea tarde.
+
+143
+00:08:41,791 --> 00:08:43,125
+No. Disculpa.
+
+144
+00:08:43,875 --> 00:08:47,083
+- ♪ Nada es como crees. ♪
+- [refunfuña] Será cabrón.
+
+145
+00:08:47,166 --> 00:08:50,791
+♪ Nada es como crees. ♪
+
+146
+00:08:50,875 --> 00:08:52,791
+Gracias por venir esta noche.
+
+147
+00:08:54,041 --> 00:08:55,000
+Significa mucho.
+
+148
+00:08:59,958 --> 00:09:01,416
+Cómo me alegro de verte.
+
+149
+00:09:02,083 --> 00:09:03,291
+Hablemos, por favor.
+
+150
+00:09:04,041 --> 00:09:06,041
+[continúa ininteligible]
+
+151
+00:09:14,916 --> 00:09:17,833
+Tissaia mencionó que estuvieron juntos
+cuando eran jóvenes.
+
+152
+00:09:19,791 --> 00:09:21,375
+El primer amor.
+
+153
+00:09:22,041 --> 00:09:23,416
+Nunca desaparece, ¿eh?
+
+154
+00:09:27,208 --> 00:09:28,375
+Si no te importa…
+
+155
+00:09:29,375 --> 00:09:30,500
+No, en absoluto.
+
+156
+00:09:31,875 --> 00:09:34,541
+Suerte mañana en el cónclave, brujo.
+
+157
+00:09:35,208 --> 00:09:36,250
+[puerta se abre]
+
+158
+00:09:40,333 --> 00:09:42,000
+[música folk]
+
+159
+00:09:47,833 --> 00:09:50,041
+- ¿Dónde estabas?
+- ¿Qué te ha dicho Istredd?
+
+160
+00:09:50,958 --> 00:09:55,166
+- No hay tiempo para eso.
+- ¡El Melange está a punto de comenzar!
+
+161
+00:09:55,250 --> 00:09:57,208
+[vítores y aplausos]
+
+162
+00:09:57,291 --> 00:09:58,541
+Sí, llegó el momento.
+
+163
+00:10:01,125 --> 00:10:02,500
+[mujer 1] Intentémoslo.
+
+164
+00:10:03,541 --> 00:10:04,958
+- [Keira] Artaud.
+- Keira.
+
+165
+00:10:05,791 --> 00:10:06,691
+[Keira] Yennefer.
+
+166
+00:10:08,791 --> 00:10:10,583
+[hombre] Sí, acompáñame.
+
+167
+00:10:11,500 --> 00:10:13,750
+- [Geralt] ¿Qué es el Melange?
+- Un baile.
+
+168
+00:10:14,791 --> 00:10:17,041
+- No es opcional.
+- [redoble de tambores]
+
+169
+00:10:18,208 --> 00:10:19,750
+[zumbido ondulante]
+
+170
+00:10:21,750 --> 00:10:23,291
+[música seductora]
+
+171
+00:10:24,708 --> 00:10:25,625
+Geralt.
+
+172
+00:10:46,041 --> 00:10:47,541
+¿Disfrutas de la velada?
+
+173
+00:10:50,291 --> 00:10:51,191
+Bien.
+
+174
+00:10:54,875 --> 00:10:56,291
+[ardiente] Oh, brujo.
+
+175
+00:10:57,166 --> 00:10:59,583
+Llevo toda la noche
+queriendo acercarme a ti.
+
+176
+00:11:01,375 --> 00:11:03,708
+Estudié contorsionismo, ¿sabes?
+
+177
+00:11:03,791 --> 00:11:05,125
+Soy muy flexible.
+
+178
+00:11:05,208 --> 00:11:07,750
+Espero que mañana
+contemos con tu apoyo, Artorius.
+
+179
+00:11:07,833 --> 00:11:11,000
+Es posible, Yennefer,
+aunque no he olvidado tu pasado.
+
+180
+00:11:11,083 --> 00:11:14,250
+Tampoco los reyes, que aún esperan
+a una princesa en particular.
+
+181
+00:11:14,333 --> 00:11:18,041
+Claro, pero mis prioridades
+han cambiado. Quiero ayudar.
+
+182
+00:11:18,125 --> 00:11:21,416
+Ya veremos. Intentar predecir
+tus intenciones es tan inútil
+
+183
+00:11:21,500 --> 00:11:24,166
+como buscar a un gato negro
+en un sótano de carbón.
+
+184
+00:11:25,916 --> 00:11:27,333
+Son preocupantes.
+
+185
+00:11:38,250 --> 00:11:41,416
+- ¿Has probado ya el vino?
+- No tengo sed.
+
+186
+00:11:41,500 --> 00:11:42,458
+Oh…
+
+187
+00:12:06,041 --> 00:12:06,941
+Geralt.
+
+188
+00:12:08,416 --> 00:12:09,316
+Istredd.
+
+189
+00:12:11,083 --> 00:12:14,458
+Vaya, vaya, vaya.
+Si es la acompañante rompecuellos.
+
+190
+00:12:14,541 --> 00:12:17,333
+- Lo sé. Te debo una disculpa.
+- [ríe irónica]
+
+191
+00:12:17,416 --> 00:12:20,041
+- ¿Una copa luego?
+- Mmm. No puedo.
+
+192
+00:12:20,916 --> 00:12:23,041
+Planeo quedarme embarazada esta noche.
+
+193
+00:12:24,541 --> 00:12:27,041
+Nos aguardan buenos tiempos. ¿No crees?
+
+194
+00:12:43,583 --> 00:12:44,483
+[Triss suspira]
+
+195
+00:12:45,000 --> 00:12:46,875
+Me alegro de verte, Triss.
+
+196
+00:12:48,416 --> 00:12:49,500
+Y yo.
+
+197
+00:12:59,375 --> 00:13:00,275
+¿Qué tal Ciri?
+
+198
+00:13:01,500 --> 00:13:03,416
+A salvo. Por ahora.
+
+199
+00:13:51,000 --> 00:13:52,541
+[música llega a su fin]
+
+200
+00:13:52,625 --> 00:13:53,916
+[aplausos]
+
+201
+00:13:54,000 --> 00:13:55,000
+[vítores]
+
+202
+00:13:58,625 --> 00:13:59,666
+Gracias.
+
+203
+00:13:59,750 --> 00:14:01,375
+[vítores indistintos]
+
+204
+00:14:05,958 --> 00:14:08,083
+- [Sabrina] Maravilloso.
+- [Valdo] Gracias.
+
+205
+00:14:08,166 --> 00:14:09,250
+Geralt.
+
+206
+00:14:10,291 --> 00:14:11,500
+Sígueme la corriente.
+
+207
+00:14:13,500 --> 00:14:16,083
+Artaud, ¿has probado el vino esta noche?
+
+208
+00:14:16,166 --> 00:14:19,000
+- Ah, qué bien me conoces.
+- Creo que te apetece otra.
+
+209
+00:14:19,083 --> 00:14:22,166
+[Geralt] Estás intentando recuperar a Yen.
+¿Vas a negarlo?
+
+210
+00:14:22,250 --> 00:14:24,083
+¿Por qué iba a negarlo?
+
+211
+00:14:24,583 --> 00:14:26,458
+- Sabe que soy el mejor.
+- Uh…
+
+212
+00:14:26,541 --> 00:14:27,833
+Demuéstralo.
+
+213
+00:14:29,250 --> 00:14:30,708
+[música tensa]
+
+214
+00:14:31,875 --> 00:14:32,875
+[zumbido]
+
+215
+00:14:33,583 --> 00:14:34,708
+[invitados gimen]
+
+216
+00:14:34,791 --> 00:14:36,000
+Increíble.
+
+217
+00:14:36,083 --> 00:14:37,458
+[música dramática]
+
+218
+00:14:40,125 --> 00:14:41,025
+Cobarde.
+
+219
+00:14:49,083 --> 00:14:50,375
+[Istredd tose dolorido]
+
+220
+00:14:54,875 --> 00:14:56,750
+- [exclamaciones]
+- [Geralt gime]
+
+221
+00:14:59,166 --> 00:15:00,083
+¡Guau!
+
+222
+00:15:03,083 --> 00:15:05,791
+- [mujer] Algo de entretenimiento.
+- [hombre] El brujo…
+
+223
+00:15:05,875 --> 00:15:08,500
+Le prometí a Yen no estropear esta velada.
+
+224
+00:15:08,583 --> 00:15:09,958
+[hombre] ¡Dale su merecido!
+
+225
+00:15:10,041 --> 00:15:11,583
+[Geralt] Y no lo haré.
+
+226
+00:15:13,166 --> 00:15:14,066
+¿Tregua?
+
+227
+00:15:14,625 --> 00:15:15,541
+¡Oh, mierda!
+
+228
+00:15:16,208 --> 00:15:19,000
+- [invitados ríen]
+- Istredd, ¿estás bien?
+
+229
+00:15:20,333 --> 00:15:21,416
+[Artaud gime]
+
+230
+00:15:23,083 --> 00:15:24,583
+[Sabrina] Está borracho.
+
+231
+00:15:24,666 --> 00:15:25,791
+[música tensa]
+
+232
+00:15:27,458 --> 00:15:28,583
+[música cesa]
+
+233
+00:15:29,750 --> 00:15:33,416
+[ríe] Una pelea… Una creativa elección.
+
+234
+00:15:33,500 --> 00:15:35,416
+Admite que te ha encantado.
+
+235
+00:15:36,541 --> 00:15:40,041
+Este duelo en mi honor
+sin duda está entre mis tres mejores.
+
+236
+00:15:40,125 --> 00:15:41,541
+Oh, ha sido un honor luchar
+
+237
+00:15:41,625 --> 00:15:44,666
+por el caprichoso corazón
+de Yennefer de Vengerberg.
+
+238
+00:15:45,875 --> 00:15:49,000
+Y espero librar
+muchas más batallas contigo, querido.
+
+239
+00:15:50,375 --> 00:15:52,625
+¿Conmigo o contra mí?
+
+240
+00:15:53,416 --> 00:15:54,583
+Depende de esta velada.
+
+241
+00:15:58,041 --> 00:15:59,750
+No quiero perderte, Yen.
+
+242
+00:16:00,500 --> 00:16:01,708
+[música tierna]
+
+243
+00:16:02,750 --> 00:16:04,041
+Si ya me tienes.
+
+244
+00:16:06,375 --> 00:16:07,791
+Esta noche acabará.
+
+245
+00:16:12,041 --> 00:16:13,208
+Todo acabará.
+
+246
+00:16:13,291 --> 00:16:16,833
+[Tissaia] Y ahora, para cerrar
+esta maravillosa velada,
+
+247
+00:16:16,916 --> 00:16:18,583
+¡un brindis!
+
+248
+00:16:22,166 --> 00:16:25,625
+¡Por la paz entre los magos del norte!
+
+249
+00:16:26,375 --> 00:16:29,000
+[todos] ¡Por la paz!
+
+250
+00:16:31,500 --> 00:16:33,958
+Mañana habrá mucho trabajo que hacer.
+
+251
+00:16:34,041 --> 00:16:37,791
+Pero Tissaia y yo somos optimistas
+sobre el futuro del Continente,
+
+252
+00:16:37,875 --> 00:16:40,208
+a juzgar por lo visto aquí esta noche.
+
+253
+00:16:41,000 --> 00:16:42,000
+Por la paz.
+
+254
+00:16:42,083 --> 00:16:43,958
+[todos] ¡Por la paz!
+
+255
+00:16:46,708 --> 00:16:50,708
+Y démosle las gracias
+a Yennefer de Vengerberg, por favor.
+
+256
+00:16:51,291 --> 00:16:53,125
+- [hombre] ¡Yennefer!
+- [vítores]
+
+257
+00:16:57,916 --> 00:16:59,083
+[música emotiva]
+
+258
+00:17:00,833 --> 00:17:02,000
+Por nosotros.
+
+259
+00:17:04,250 --> 00:17:06,416
+Y por una velada casi perfecta.
+
+260
+00:17:06,500 --> 00:17:08,083
+- …todos.
+- Ha ido bien.
+
+261
+00:17:08,958 --> 00:17:10,125
+Y…
+
+262
+00:17:10,208 --> 00:17:11,125
+¿ahora qué?
+
+263
+00:17:11,208 --> 00:17:12,291
+[Artorius] Mmm.
+
+264
+00:17:12,791 --> 00:17:15,583
+- Menuda noche.
+- [ríe]
+
+265
+00:17:17,375 --> 00:17:19,375
+No me creo que se lo hayan tragado.
+
+266
+00:17:19,458 --> 00:17:21,833
+Por nuestra convincente actuación.
+
+267
+00:17:21,916 --> 00:17:23,083
+Y algo bueno también.
+
+268
+00:17:23,625 --> 00:17:26,083
+Filippa ha estado
+observándolo todo cual halcón.
+
+269
+00:17:26,666 --> 00:17:28,125
+Algo innato en ella.
+
+270
+00:17:28,208 --> 00:17:32,625
+No hemos confabulado solo nosotros.
+Lo he notado desde que hemos entrado.
+
+271
+00:17:33,208 --> 00:17:34,208
+[Geralt] Mmm.
+
+272
+00:17:34,291 --> 00:17:35,375
+[música tensa]
+
+273
+00:17:37,208 --> 00:17:38,708
+Lilas y grosellas.
+
+274
+00:17:38,791 --> 00:17:40,500
+Eso puedo tolerarlo.
+
+275
+00:17:41,583 --> 00:17:43,083
+¿Estás seguro de esto?
+
+276
+00:17:44,458 --> 00:17:45,500
+¿Y tú?
+
+277
+00:17:51,916 --> 00:17:53,583
+Mejor así.
+
+278
+00:17:53,666 --> 00:17:55,083
+- Pura cortesía.
+- Mmm.
+
+279
+00:17:56,083 --> 00:17:57,833
+Oh, sí, ahí están.
+
+280
+00:18:01,208 --> 00:18:03,958
+No sé qué me apetece más,
+si arrancarme este disfraz
+
+281
+00:18:04,041 --> 00:18:07,125
+o atravesar a Stregobor
+con la escultura de hielo más cercana.
+
+282
+00:18:07,208 --> 00:18:09,708
+Lo sé. Odio a ese cabrón igual que tú,
+
+283
+00:18:09,791 --> 00:18:11,958
+pero hay que hacer
+las cosas de otra forma.
+
+284
+00:18:12,041 --> 00:18:14,041
+Pues con el tenedor más cercano.
+
+285
+00:18:14,666 --> 00:18:18,541
+O en vez de asesinar
+a un estimado miembro de la Hermandad
+
+286
+00:18:18,625 --> 00:18:20,291
+delante de todo el norte,
+
+287
+00:18:21,416 --> 00:18:22,333
+esperaremos.
+
+288
+00:18:22,958 --> 00:18:24,291
+Buscaremos pruebas.
+
+289
+00:18:25,083 --> 00:18:27,625
+Expondremos a Stregobor
+mañana en el cónclave.
+
+290
+00:18:28,791 --> 00:18:29,958
+Así lo juzgarán.
+
+291
+00:18:30,541 --> 00:18:33,041
+Hasta entonces, tomémonoslo con calma.
+
+292
+00:18:33,125 --> 00:18:35,833
+Para que ya sabes quién
+tenga un mínimo futuro aquí.
+
+293
+00:18:36,541 --> 00:18:38,458
+Vi lo que les hizo a esas chicas.
+
+294
+00:18:39,291 --> 00:18:41,666
+He de asegurarme de que ella está a salvo.
+
+295
+00:18:42,583 --> 00:18:44,458
+Te entiendo, pero, Geralt,
+
+296
+00:18:45,791 --> 00:18:46,750
+confía en mí.
+
+297
+00:18:48,083 --> 00:18:50,375
+- [zapateo de los músicos]
+- [Geralt] Mmm.
+
+298
+00:18:53,458 --> 00:18:55,083
+[música animada sugerente]
+
+299
+00:19:06,666 --> 00:19:07,916
+El brujo.
+
+300
+00:19:10,333 --> 00:19:12,041
+¿Siempre suelen mirar tanto?
+
+301
+00:19:12,750 --> 00:19:13,650
+No.
+
+302
+00:19:14,375 --> 00:19:15,791
+Es por nosotros.
+
+303
+00:19:15,875 --> 00:19:17,916
+Acostúmbrate. Lo harán toda la noche.
+
+304
+00:19:18,833 --> 00:19:20,166
+Mmm. Bien.
+
+305
+00:19:23,291 --> 00:19:26,750
+♪ Nada es como crees. ♪
+
+306
+00:19:27,500 --> 00:19:31,375
+- ♪ Doncella al alba dulce es. ♪
+- [hombre] ¡Qué maravilla!
+
+307
+00:19:31,458 --> 00:19:34,708
+♪ Su troba muy gentil. ♪
+
+308
+00:19:34,791 --> 00:19:38,791
+♪ De noche una bestia es, ♪
+
+309
+00:19:38,875 --> 00:19:42,500
+♪ canalla estirpe vil. ♪
+
+310
+00:19:42,583 --> 00:19:47,291
+- ♪ Sus besos queman con pasión… ♪
+- Filippa, qué sorpresa.
+
+311
+00:19:47,375 --> 00:19:49,291
+♪ …el temor. ♪
+
+312
+00:19:49,375 --> 00:19:51,583
+- ¿Has atrapado ya a algún ratón?
+- [ríe]
+
+313
+00:19:52,333 --> 00:19:56,750
+Sabes bien que me gano
+la vida atrapando secretos.
+
+314
+00:19:56,833 --> 00:19:59,583
+Eso me dijo Jaskier.
+Buen intento, por cierto.
+
+315
+00:19:59,666 --> 00:20:00,625
+♪ …como crees. ♪
+
+316
+00:20:00,708 --> 00:20:03,208
+Ya deberías saber
+que no es fácil engañarme.
+
+317
+00:20:03,291 --> 00:20:04,291
+Oh, claro.
+
+318
+00:20:05,958 --> 00:20:10,083
+Por cierto, Marti Sodergren le ha echado
+un afrodisiaco al vino hace horas.
+
+319
+00:20:11,833 --> 00:20:12,791
+[suspira]
+
+320
+00:20:13,541 --> 00:20:15,125
+[mujer] ¿Desean caviar?
+
+321
+00:20:15,208 --> 00:20:18,041
+Sin mencionar que el caviar
+de la bandeja es una ilusión.
+
+322
+00:20:19,333 --> 00:20:22,291
+Como el resto
+de esta guarida de snobs y farsantes.
+
+323
+00:20:22,375 --> 00:20:25,041
+Guarida de ninfómanos, más bien.
+
+324
+00:20:25,125 --> 00:20:28,583
+He sufrido el saludo
+de Sabrina Glevissig antes.
+
+325
+00:20:28,666 --> 00:20:29,625
+Mmm.
+
+326
+00:20:30,958 --> 00:20:34,375
+Lo que te ha mostrado Sabrina
+ha sido un juego de críos.
+
+327
+00:20:34,458 --> 00:20:35,358
+Ven.
+
+328
+00:20:36,000 --> 00:20:39,000
+¿Te gustaría experimentar
+un orgasmo o más?
+
+329
+00:20:40,125 --> 00:20:42,750
+♪ Nada es como crees. ♪
+
+330
+00:20:42,833 --> 00:20:43,733
+Oh.
+
+331
+00:20:45,458 --> 00:20:47,916
+- No pierdes de ojo al brujo.
+- [asiente]
+
+332
+00:20:48,500 --> 00:20:51,208
+¿Sabes? Sentí mucho
+
+333
+00:20:51,291 --> 00:20:54,125
+lo de la abrasadora muerte
+de Codringher y Fenn.
+
+334
+00:20:56,541 --> 00:20:57,458
+Oh.
+
+335
+00:20:57,541 --> 00:21:00,583
+Me sorprende que no lo sepas tras haber…
+
+336
+00:21:01,250 --> 00:21:04,541
+rastreado a ese mago tan diligentemente.
+
+337
+00:21:04,625 --> 00:21:05,875
+Te refieres a Rience.
+
+338
+00:21:06,750 --> 00:21:08,375
+¿Crees que su maestro está aquí?
+
+339
+00:21:10,083 --> 00:21:11,583
+Buen intento, Geralt.
+
+340
+00:21:12,416 --> 00:21:14,625
+Pero no soy tan indiscreta como otros.
+
+341
+00:21:14,708 --> 00:21:16,916
+- ♪ Nada es… ♪
+- Y, aun así, aquí estás.
+
+342
+00:21:17,000 --> 00:21:18,833
+Habrá alguna razón.
+
+343
+00:21:18,916 --> 00:21:21,250
+- ♪ Nada es… ♪
+- Podría decir lo mismo de ti.
+
+344
+00:21:21,333 --> 00:21:22,375
+[Dijkstra carraspea]
+
+345
+00:21:22,458 --> 00:21:25,166
+[ríe] ¿Sabes, Filippa?
+
+346
+00:21:25,250 --> 00:21:28,416
+Debería regañarte
+por acaparar el tiempo del brujo.
+
+347
+00:21:28,500 --> 00:21:33,208
+[ríe] Geralt de Rivia, es agradable
+tener otro hermano no mágico aquí.
+
+348
+00:21:33,291 --> 00:21:35,916
+- No habrá margen de error esta noche.
+- Tissaia…
+
+349
+00:21:37,708 --> 00:21:38,916
+♪ Nada es… ♪
+
+350
+00:21:39,583 --> 00:21:41,541
+- Confía en lo que ves.
+- [ríe]
+
+351
+00:21:41,625 --> 00:21:44,916
+Dale a Yen al menos
+un par de horas para cabrear a todos.
+
+352
+00:21:45,000 --> 00:21:46,750
+No prometo nada.
+
+353
+00:21:48,416 --> 00:21:49,708
+Hablando del demonio…
+
+354
+00:21:50,708 --> 00:21:51,750
+Aquí aparece.
+
+355
+00:21:51,833 --> 00:21:53,000
+[música tensa]
+
+356
+00:21:55,833 --> 00:21:56,733
+Filippa.
+
+357
+00:21:57,708 --> 00:21:58,608
+Tissaia.
+
+358
+00:21:59,875 --> 00:22:00,958
+Vilgefortz.
+
+359
+00:22:02,666 --> 00:22:04,541
+Y Yennefer de Vengerberg.
+
+360
+00:22:05,333 --> 00:22:07,291
+Qué placer veros de nuevo.
+
+361
+00:22:08,208 --> 00:22:10,291
+¿Damos un paseo a solas?
+
+362
+00:22:12,875 --> 00:22:15,458
+Quizá este cónclave reúna a los magos,
+
+363
+00:22:15,541 --> 00:22:17,333
+pero no cambiará lo inevitable.
+
+364
+00:22:17,416 --> 00:22:19,750
+Se está fraguando
+una guerra en el Continente,
+
+365
+00:22:19,833 --> 00:22:21,833
+pero también aquí, en Aretusa.
+
+366
+00:22:22,916 --> 00:22:26,333
+Hay traidores que pronto
+le entregarán su lealtad a Nilfgaard
+
+367
+00:22:26,416 --> 00:22:27,416
+y no al norte.
+
+368
+00:22:27,500 --> 00:22:30,958
+Lo más inteligente será abandonar
+la neutralidad y elegir un bando
+
+369
+00:22:31,041 --> 00:22:33,166
+o arriesgarte a perderlo todo.
+
+370
+00:22:33,250 --> 00:22:37,208
+Redania es tu única opción
+para mantener a salvo a la Leoncilla.
+
+371
+00:22:37,833 --> 00:22:42,166
+Usa términos más llanos, Dijkstra.
+Estás hablando con un plebeyo.
+
+372
+00:22:42,250 --> 00:22:46,375
+Mmm. Iré al grano:
+danos a la chica antes de que sea tarde.
+
+373
+00:22:46,458 --> 00:22:48,791
+No. Disculpa.
+
+374
+00:22:49,666 --> 00:22:51,083
+[refunfuña] Será cabrón.
+
+375
+00:22:51,166 --> 00:22:54,750
+Eres del personal
+y te comportarás como tal.
+
+376
+00:22:54,833 --> 00:22:56,208
+♪ …como crees. ♪
+
+377
+00:22:56,833 --> 00:22:58,166
+- ♪ Nada es… ♪
+- Carnicero.
+
+378
+00:22:58,708 --> 00:22:59,875
+♪ …como crees. ♪
+
+379
+00:23:00,583 --> 00:23:01,541
+[música tensa]
+
+380
+00:23:02,125 --> 00:23:04,125
+Me preguntaba si volvería a verte.
+
+381
+00:23:04,833 --> 00:23:07,375
+Y yo si vería tu cabeza en una pica.
+
+382
+00:23:07,875 --> 00:23:09,291
+Que cruel, Geralt.
+
+383
+00:23:09,833 --> 00:23:11,166
+Después de todo, no fui yo
+
+384
+00:23:11,250 --> 00:23:13,750
+el que le clavó
+aquella daga a la pobre Renfri.
+
+385
+00:23:14,708 --> 00:23:16,750
+Pagarás por todo lo que has hecho.
+
+386
+00:23:17,666 --> 00:23:19,666
+Estoy salvando el Continente.
+
+387
+00:23:20,416 --> 00:23:25,000
+Erradicando a todas las criaturas
+que nos amenazan, al contrario que tú.
+
+388
+00:23:26,666 --> 00:23:28,041
+Yo no soy
+
+389
+00:23:28,666 --> 00:23:29,708
+como tú.
+
+390
+00:23:30,833 --> 00:23:32,583
+Demuéstramelo, brujo.
+
+391
+00:23:34,041 --> 00:23:36,833
+Quiero ver lo diferentes que somos.
+
+392
+00:23:37,833 --> 00:23:38,958
+[Geralt] Mmm.
+
+393
+00:23:48,000 --> 00:23:51,208
+♪ Nada es como crees. ♪
+
+394
+00:23:51,875 --> 00:23:54,375
+Gracias por venir esta noche.
+Significa mucho.
+
+395
+00:23:54,458 --> 00:23:56,166
+[aplausos y vítores de fondo]
+
+396
+00:23:57,791 --> 00:24:00,250
+Cómo me alegro de verte.
+Hablemos, por favor.
+
+397
+00:24:00,333 --> 00:24:03,250
+- ¿Qué ocurre?
+- Hay un artefacto.
+
+398
+00:24:03,333 --> 00:24:06,083
+El libro de los monolitos.
+Un texto élfico antiguo.
+
+399
+00:24:07,000 --> 00:24:07,916
+No lo conozco.
+
+400
+00:24:08,000 --> 00:24:10,166
+No me sorprende.
+No lo enseñaban en Aretusa,
+
+401
+00:24:10,250 --> 00:24:13,625
+pero da el poder de viajar
+a través del tiempo y del espacio.
+
+402
+00:24:13,708 --> 00:24:16,375
+- ¿Cómo es posible?
+- No lo sé. Debería ser imposible,
+
+403
+00:24:16,458 --> 00:24:19,666
+pero Triss y yo
+rastreamos el libro hasta aquí y…
+
+404
+00:24:19,750 --> 00:24:21,375
+Stregobor lo tiene.
+
+405
+00:24:21,458 --> 00:24:23,000
+Y sabemos dónde lo esconde.
+
+406
+00:24:23,625 --> 00:24:26,500
+Le conté a Istredd
+que te atrajeron hasta una ilusión.
+
+407
+00:24:27,333 --> 00:24:30,583
+Es nuestra oportunidad
+de pillarle por todo lo que ha hecho.
+
+408
+00:24:30,666 --> 00:24:32,875
+Alguien ha de ir
+a su despacho sin ser visto…
+
+409
+00:24:32,958 --> 00:24:33,858
+Si no te importa…
+
+410
+00:24:33,916 --> 00:24:36,291
+[Triss] …y coger el libro
+antes de que lo use.
+
+411
+00:24:36,375 --> 00:24:38,083
+Suerte mañana en el cónclave.
+
+412
+00:24:38,791 --> 00:24:39,691
+[exhala]
+
+413
+00:24:45,291 --> 00:24:47,125
+- ¿Dónde estabas?
+- ¿Qué te ha dicho?
+
+414
+00:24:47,208 --> 00:24:49,125
+- No hay tiempo para eso.
+- [murmullan]
+
+415
+00:24:50,208 --> 00:24:51,875
+Oye, olvida lo que te dije antes.
+
+416
+00:24:51,958 --> 00:24:54,125
+Stregobor ha robado un libro muy peligroso
+
+417
+00:24:54,208 --> 00:24:55,666
+y tiene planes para él.
+
+418
+00:24:55,750 --> 00:24:56,750
+Y para Ciri.
+
+419
+00:24:56,833 --> 00:25:00,125
+¡El Melange está a punto de comenzar!
+
+420
+00:25:00,833 --> 00:25:03,500
+Debemos descifrarlo y pillarlo esta noche.
+
+421
+00:25:06,666 --> 00:25:08,208
+[Geralt] ¿Qué es el Melange?
+
+422
+00:25:08,291 --> 00:25:09,191
+Un baile.
+
+423
+00:25:09,708 --> 00:25:10,833
+No es opcional.
+
+424
+00:25:12,000 --> 00:25:14,791
+- [hombre] ¿Me concede el honor?
+- [mujer] Oh, claro.
+
+425
+00:25:15,541 --> 00:25:16,625
+[redoble de tambores]
+
+426
+00:25:17,291 --> 00:25:18,375
+¿Ni para mí?
+
+427
+00:25:19,541 --> 00:25:21,083
+Mucho menos para ti.
+
+428
+00:25:23,083 --> 00:25:24,708
+[música seductora]
+
+429
+00:25:26,250 --> 00:25:27,150
+Geralt.
+
+430
+00:25:46,000 --> 00:25:48,958
+- [Triss] ¿Qué tal Ciri?
+- A salvo, por ahora.
+
+431
+00:25:49,583 --> 00:25:52,500
+¿Y si le arrebataran
+lo que la hace especial?
+
+432
+00:25:52,583 --> 00:25:56,041
+Sus poderes son innatos.
+Lo sabes mejor que muchos.
+
+433
+00:25:56,125 --> 00:25:58,125
+¿Y si pudiera tener una vida normal?
+
+434
+00:25:58,666 --> 00:26:01,250
+No sé qué consideraría Ciri "normal".
+
+435
+00:26:02,250 --> 00:26:04,125
+Solo necesito que sobreviva a esto.
+
+436
+00:26:11,833 --> 00:26:13,958
+Debemos inmovilizar a Stregobor.
+
+437
+00:26:16,666 --> 00:26:19,291
+Crearé una distracción
+para que te escabullas.
+
+438
+00:26:31,583 --> 00:26:33,583
+La señal será "tregua".
+
+439
+00:26:36,833 --> 00:26:37,733
+[música cesa]
+
+440
+00:26:37,791 --> 00:26:40,458
+- [aplausos]
+- Tiraremos de Artaud.
+
+441
+00:26:41,458 --> 00:26:43,708
+Podemos hacerlo. Suerte.
+
+442
+00:26:56,250 --> 00:26:59,125
+Geralt, quería disculparme.
+Yen y yo teníamos asuntos…
+
+443
+00:26:59,208 --> 00:27:00,541
+Sígueme la corriente.
+
+444
+00:27:03,250 --> 00:27:05,708
+Llevas toda la noche
+intentando recuperar a Yen.
+
+445
+00:27:05,791 --> 00:27:06,916
+¿Vas a negarlo?
+
+446
+00:27:08,083 --> 00:27:09,875
+¿Por qué cojones iba a negarlo?
+
+447
+00:27:10,833 --> 00:27:12,416
+Sabe que soy el mejor.
+
+448
+00:27:12,958 --> 00:27:14,291
+Demuéstralo.
+
+449
+00:27:15,041 --> 00:27:15,941
+Increíble.
+
+450
+00:27:17,041 --> 00:27:18,458
+- [Istredd gruñe]
+- [zumbido]
+
+451
+00:27:18,541 --> 00:27:19,666
+[exclamaciones]
+
+452
+00:27:22,833 --> 00:27:23,958
+[puerta se abre]
+
+453
+00:27:30,583 --> 00:27:31,958
+[invitados gritan de fondo]
+
+454
+00:27:36,708 --> 00:27:38,083
+[exclamaciones de fondo]
+
+455
+00:27:52,291 --> 00:27:53,541
+[tintineo de alas]
+
+456
+00:27:55,750 --> 00:27:57,208
+[cerradura gira]
+
+457
+00:27:59,875 --> 00:28:01,250
+[exclamaciones de fondo]
+
+458
+00:28:04,458 --> 00:28:05,458
+[Istredd gime]
+
+459
+00:28:05,541 --> 00:28:07,708
+Oh… dioses.
+
+460
+00:28:08,708 --> 00:28:09,958
+[tintineo de alas]
+
+461
+00:28:11,541 --> 00:28:12,958
+Ahora pégame.
+
+462
+00:28:17,083 --> 00:28:19,000
+[invitados gritan]
+
+463
+00:28:19,750 --> 00:28:21,000
+[Istredd] ¡Guau!
+
+464
+00:28:21,083 --> 00:28:22,458
+[mujer] Vaya velada.
+
+465
+00:28:25,291 --> 00:28:26,375
+[exhala]
+
+466
+00:28:26,458 --> 00:28:27,358
+¿Tregua?
+
+467
+00:28:27,875 --> 00:28:30,333
+- [Artaud] ¡Oh, mierda!
+- [tintineo de cristales]
+
+468
+00:28:30,416 --> 00:28:31,833
+[invitados ríen]
+
+469
+00:28:33,541 --> 00:28:34,666
+[Sabrina ríe]
+
+470
+00:28:34,750 --> 00:28:37,125
+Artaud está borracho otra vez.
+
+471
+00:28:47,875 --> 00:28:48,958
+[distorsión de audio]
+
+472
+00:28:49,041 --> 00:28:51,416
+[Stregobor] ¡Esto me lo quedo yo!
+
+473
+00:28:57,083 --> 00:28:58,375
+[música se intensifica]
+
+474
+00:28:58,958 --> 00:29:01,666
+[Stregobor distorsionado]
+¡Este no es tu sitio!
+
+475
+00:29:01,750 --> 00:29:02,916
+Odio interrumpir.
+
+476
+00:29:04,458 --> 00:29:06,208
+Stregobor, vil desgraciado.
+
+477
+00:29:06,791 --> 00:29:09,458
+La unidad nunca te ha importado, ¿verdad?
+
+478
+00:29:09,541 --> 00:29:13,125
+Una cortina de humo
+para ocultar tu verdadero propósito:
+
+479
+00:29:13,208 --> 00:29:15,541
+reducir Aretusa a cenizas.
+
+480
+00:29:16,125 --> 00:29:18,166
+Tu especie nunca cambiará.
+
+481
+00:29:18,250 --> 00:29:21,041
+Y, aun así,
+nuestros inútiles líderes perdonan.
+
+482
+00:29:21,125 --> 00:29:23,375
+Pero la piedad no es lo mío.
+
+483
+00:29:23,458 --> 00:29:24,708
+[Geralt] Ni lo mío.
+
+484
+00:29:25,750 --> 00:29:27,625
+Has estado trabajando duro, ¿eh?
+
+485
+00:29:27,708 --> 00:29:30,750
+Corrompiendo portales,
+secuestrando a novatas…
+
+486
+00:29:30,833 --> 00:29:32,875
+Y torturando para llegar a Ciri.
+
+487
+00:29:32,958 --> 00:29:35,208
+Esto no te concierne, brujo.
+
+488
+00:29:35,291 --> 00:29:37,916
+Y esa mocosa de Cintra
+no me importa lo más mínimo.
+
+489
+00:29:38,000 --> 00:29:40,958
+Con suerte, a estas horas,
+ya estará muerta en una zanja.
+
+490
+00:29:41,041 --> 00:29:43,875
+Pues esa mocosa
+tiene más poder del que podrías soñar.
+
+491
+00:29:43,958 --> 00:29:46,083
+O del que podrías soñar tú.
+
+492
+00:29:46,166 --> 00:29:48,666
+No tienes ni idea
+de a qué te enfrentas aquí.
+
+493
+00:29:49,416 --> 00:29:51,833
+Tu única amenaza
+se encuentra en tu sucia sangre.
+
+494
+00:29:51,916 --> 00:29:55,958
+Eres un monstruo
+que pronto será juzgado. Pero la chica…
+
+495
+00:29:56,833 --> 00:30:00,541
+La chica es muy probable
+que abandone este mundo
+
+496
+00:30:00,625 --> 00:30:03,333
+en tus manos de mutante, carnicero.
+
+497
+00:30:03,416 --> 00:30:05,916
+- Yo misma te mataré.
+- [Tissaia] ¡Alto!
+
+498
+00:30:08,125 --> 00:30:10,541
+[Triss] Hemos venido
+al ver que no estabais.
+
+499
+00:30:12,041 --> 00:30:16,916
+- Es un buen momento para explicaros.
+- Sí. Por favor, hacedlo.
+
+500
+00:30:17,000 --> 00:30:21,250
+Stregobor ha hecho
+una lista de estudiantes elfas
+
+501
+00:30:21,333 --> 00:30:22,833
+y de sus pertenencias.
+
+502
+00:30:22,916 --> 00:30:25,916
+Las desaparecidas este mes. Nissa.
+
+503
+00:30:27,208 --> 00:30:28,583
+- Elisabet.
+- Teryn.
+
+504
+00:30:29,291 --> 00:30:31,583
+Ha estado llevando a cabo experimentos.
+
+505
+00:30:31,666 --> 00:30:33,166
+Practicando el control mental.
+
+506
+00:30:33,250 --> 00:30:35,333
+¿Qué? ¡Eso es absurdo!
+
+507
+00:30:35,416 --> 00:30:37,875
+Intentó matarme con un portal manipulado.
+
+508
+00:30:37,958 --> 00:30:39,083
+[chista]
+
+509
+00:30:40,833 --> 00:30:43,083
+Eh… ¿Vais a creeros lo que están diciendo?
+
+510
+00:30:43,166 --> 00:30:46,583
+Creemos que su objetivo final
+es Cirilla de Cintra.
+
+511
+00:30:48,291 --> 00:30:50,958
+- ¿Tenéis pruebas?
+- [Triss] Así es.
+
+512
+00:30:55,583 --> 00:30:58,083
+[Stregobor] ¿Qué esperas encontrar ahí?
+
+513
+00:30:59,208 --> 00:31:01,208
+[zumbido y chasquido]
+
+514
+00:31:11,750 --> 00:31:14,666
+[Istredd] El libro de los monolitos.
+Un tomo élfico antiguo
+
+515
+00:31:14,750 --> 00:31:18,458
+que contiene conocimientos previos
+a la Conjunción. Y alberga la llave
+
+516
+00:31:18,541 --> 00:31:21,791
+sobre cómo la esfera de los humanos
+colisionó con la de los elfos.
+
+517
+00:31:21,875 --> 00:31:24,833
+Y cómo los humanos
+podrían deshacerse de los elfos de nuevo.
+
+518
+00:31:25,541 --> 00:31:27,250
+Y lo robaste, ¿verdad?
+
+519
+00:31:27,333 --> 00:31:30,916
+¿Quiero vaciar estos pasillos
+de seres como tú? Sí.
+
+520
+00:31:31,000 --> 00:31:33,375
+- Pero especular que he…
+- Pero nada.
+
+521
+00:31:34,125 --> 00:31:36,416
+Son unas acusaciones muy graves.
+
+522
+00:31:38,416 --> 00:31:39,916
+Propongo encerrar a Stregobor
+
+523
+00:31:40,000 --> 00:31:42,875
+hasta que acabe el cónclave
+y le juzguemos en condiciones.
+
+524
+00:31:42,958 --> 00:31:45,833
+- Coincido.
+- [resopla irónico] Sí, cómo no.
+
+525
+00:31:45,916 --> 00:31:47,125
+¿Artorius?
+
+526
+00:31:51,666 --> 00:31:55,250
+Nos has enfrentado a todos
+en un momento de unidad, Stregobor.
+
+527
+00:31:56,291 --> 00:31:57,500
+Hoy no puedo defenderte.
+
+528
+00:31:58,208 --> 00:32:01,125
+¡No me toques! Perturbados…
+
+529
+00:32:01,791 --> 00:32:03,083
+¡Todos!
+
+530
+00:32:03,166 --> 00:32:05,125
+Sarta de mentiras…
+
+531
+00:32:05,208 --> 00:32:07,083
+Esconderé esto para asegurarnos
+
+532
+00:32:08,083 --> 00:32:10,708
+de que no vuelva a caer
+en las manos equivocadas.
+
+533
+00:32:17,916 --> 00:32:19,333
+Has salvado la noche.
+
+534
+00:32:21,458 --> 00:32:22,625
+Y tú también.
+
+535
+00:32:23,208 --> 00:32:25,041
+Disfrutemos de nuestra fiesta.
+
+536
+00:32:34,541 --> 00:32:36,000
+La echará de menos.
+
+537
+00:32:40,208 --> 00:32:41,666
+Necesito una copa.
+
+538
+00:32:42,625 --> 00:32:44,125
+O doce.
+
+539
+00:32:46,375 --> 00:32:47,275
+¡Un brindis!
+
+540
+00:32:48,291 --> 00:32:51,541
+Por la paz entre los magos del norte.
+
+541
+00:32:52,125 --> 00:32:54,291
+[todos] ¡Por la paz!
+
+542
+00:32:55,333 --> 00:32:57,666
+Mañana habrá mucho trabajo que hacer.
+
+543
+00:32:57,750 --> 00:33:01,541
+Pero Tissaia y yo somos optimistas
+sobre el futuro del Continente,
+
+544
+00:33:01,625 --> 00:33:04,000
+a juzgar por lo visto aquí esta noche.
+
+545
+00:33:04,833 --> 00:33:05,791
+¡Por la paz!
+
+546
+00:33:05,875 --> 00:33:08,041
+[todos] ¡Por la paz!
+
+547
+00:33:11,000 --> 00:33:14,291
+Y démosle gracias
+a Yennefer de Vengerberg, por favor.
+
+548
+00:33:14,375 --> 00:33:15,750
+[vítores]
+
+549
+00:33:17,958 --> 00:33:19,666
+[Sabrina y Dijkstra irónicos] Mmm.
+
+550
+00:33:26,958 --> 00:33:27,875
+Por nosotros.
+
+551
+00:33:29,250 --> 00:33:31,458
+Y por una velada casi perfecta.
+
+552
+00:33:32,125 --> 00:33:33,416
+[música emotiva tenue]
+
+553
+00:33:35,083 --> 00:33:36,166
+Te quiero.
+
+554
+00:33:41,250 --> 00:33:43,250
+Es la primera vez que me lo dices.
+
+555
+00:33:45,541 --> 00:33:46,708
+No puede ser.
+
+556
+00:33:47,250 --> 00:33:48,500
+Solías pensarlo.
+
+557
+00:33:49,583 --> 00:33:51,416
+Pero hoy lo has dicho.
+
+558
+00:33:56,333 --> 00:33:57,791
+Ya puedes besarme.
+
+559
+00:33:59,666 --> 00:34:01,291
+Delante de todos.
+
+560
+00:34:12,791 --> 00:34:13,958
+[Yennefer exhala]
+
+561
+00:34:15,041 --> 00:34:17,500
+[susurra] La primera noche
+en público como pareja,
+
+562
+00:34:18,291 --> 00:34:20,875
+y solo pienso en tenerte a solas.
+
+563
+00:34:27,916 --> 00:34:28,958
+[chapoteo de agua]
+
+564
+00:34:29,666 --> 00:34:31,833
+[Geralt] Esto también puedo tolerarlo.
+
+565
+00:34:31,916 --> 00:34:33,333
+[Yennefer ríe]
+
+566
+00:34:33,416 --> 00:34:36,041
+Me ha costado
+volver a meterte en una bañera.
+
+567
+00:34:36,125 --> 00:34:37,458
+[ambos ríen tenue]
+
+568
+00:34:40,500 --> 00:34:41,625
+¿Lo hemos logrado?
+
+569
+00:34:42,291 --> 00:34:44,375
+Mmm… no sabría decirte.
+
+570
+00:34:46,500 --> 00:34:48,166
+No dejo de pensar en Filippa.
+
+571
+00:34:49,083 --> 00:34:50,125
+¿A qué te refieres?
+
+572
+00:34:51,583 --> 00:34:53,416
+Cuando la vi en Redania me dijo
+
+573
+00:34:54,000 --> 00:34:55,291
+que yo era uno de ellos.
+
+574
+00:34:55,916 --> 00:34:58,916
+Pero hoy ha parecido
+que quisiera reclutarme.
+
+575
+00:34:59,958 --> 00:35:02,458
+- ¿En qué sentido?
+- No me lo ha dicho.
+
+576
+00:35:05,166 --> 00:35:06,333
+Cuéntamelo.
+
+577
+00:35:06,416 --> 00:35:09,000
+¿Damos un paseo a solas?
+
+578
+00:35:14,166 --> 00:35:15,125
+- Ah…
+- Tissaia.
+
+579
+00:35:15,208 --> 00:35:16,041
+Margarita.
+
+580
+00:35:16,125 --> 00:35:19,083
+♪ Nada es como crees. ♪
+
+581
+00:35:19,791 --> 00:35:23,333
+Vivo para noches como esta, ¿tú no?
+
+582
+00:35:25,708 --> 00:35:28,500
+Si es por Ciri,
+no le pondrás las manos encima.
+
+583
+00:35:28,583 --> 00:35:29,625
+[Filippa] Mmm…
+
+584
+00:35:30,416 --> 00:35:32,250
+Todo a su tiempo, Yen.
+
+585
+00:35:33,375 --> 00:35:36,833
+Pero no te he buscado por eso.
+
+586
+00:35:39,916 --> 00:35:41,833
+Mmm. Pobrecita.
+
+587
+00:35:42,541 --> 00:35:43,916
+¿Lydia van Bredevoort?
+
+588
+00:35:44,000 --> 00:35:45,041
+[Filippa asiente]
+
+589
+00:35:45,750 --> 00:35:47,791
+Rota de amor, según he oído.
+
+590
+00:35:48,875 --> 00:35:52,958
+Seguiría a su amante a cualquier parte,
+incluso hasta la muerte, si se lo pidiera.
+
+591
+00:35:54,791 --> 00:35:56,916
+Me preguntaba si sabrías la verdad…
+
+592
+00:35:58,791 --> 00:36:00,666
+de lo que pasó entre Tissaia y yo.
+
+593
+00:36:00,750 --> 00:36:02,125
+[música tensa tenue]
+
+594
+00:36:02,208 --> 00:36:04,541
+Tissaia me dijo
+que vuestra amistad se enfrió.
+
+595
+00:36:04,625 --> 00:36:05,958
+No entró en detalles.
+
+596
+00:36:07,416 --> 00:36:08,333
+Oh.
+
+597
+00:36:08,416 --> 00:36:10,291
+Cuesta ganarse su lealtad.
+
+598
+00:36:10,375 --> 00:36:13,166
+- ♪ Nada es como crees. ♪
+- Y perderla.
+
+599
+00:36:14,041 --> 00:36:16,458
+Fuimos estrechando lazos con los años
+
+600
+00:36:16,541 --> 00:36:19,541
+hasta que estalló
+la primera guerra del norte.
+
+601
+00:36:19,625 --> 00:36:20,525
+¿Sodden?
+
+602
+00:36:22,166 --> 00:36:25,125
+Intenté convencer a Tissaia de no luchar.
+
+603
+00:36:26,041 --> 00:36:28,000
+De no aliarnos con Vilgefortz.
+
+604
+00:36:28,583 --> 00:36:32,166
+Dejar que el Continente
+librara su propia batalla, pero se negó.
+
+605
+00:36:32,250 --> 00:36:34,291
+- Y ganamos.
+- ¿A qué coste?
+
+606
+00:36:35,958 --> 00:36:40,333
+Pendieron de un hilo
+hasta que recurriste a la magia del fuego.
+
+607
+00:36:40,416 --> 00:36:43,416
+Ya habían muerto
+demasiados magos cuando empezaste.
+
+608
+00:36:44,416 --> 00:36:46,250
+Y tú también perdiste, ¿verdad?
+
+609
+00:36:46,333 --> 00:36:50,041
+Tissaia no solo
+estaba siguiendo a Vilgefortz.
+
+610
+00:36:50,125 --> 00:36:51,791
+Luchaba por la Hermandad.
+
+611
+00:36:52,291 --> 00:36:54,333
+Por el norte, como hacemos ahora.
+
+612
+00:36:54,416 --> 00:36:56,583
+Estáis luchando en un barco que se hunde.
+
+613
+00:36:57,916 --> 00:37:01,208
+La Hermandad no tiene cabida
+en el futuro del Continente.
+
+614
+00:37:02,375 --> 00:37:04,375
+Tissaia tiene buenas intenciones,
+
+615
+00:37:04,458 --> 00:37:07,833
+pero su lealtad con este supuesto hogar
+supondrá su ruina.
+
+616
+00:37:08,458 --> 00:37:09,358
+¿La mía también?
+
+617
+00:37:10,416 --> 00:37:14,541
+Dime, ¿por qué viniste
+si piensas que Aretusa está condenada?
+
+618
+00:37:15,250 --> 00:37:19,375
+Porque tú y yo no somos como Tissaia.
+
+619
+00:37:20,916 --> 00:37:23,666
+Violamos las normas
+y no nos asusta el poder.
+
+620
+00:37:24,708 --> 00:37:26,208
+Hay esperanza para ti.
+
+621
+00:37:27,250 --> 00:37:29,458
+Ya hay traidores
+trabajando para Nilfgaard.
+
+622
+00:37:29,541 --> 00:37:32,500
+- Los ha habido siempre.
+- Ve lo que quieras ver.
+
+623
+00:37:33,666 --> 00:37:36,458
+Pero si Tissaia y tú os ceñís a este plan,
+
+624
+00:37:36,541 --> 00:37:39,375
+ninguna de las dos
+acabará mejor que la pobre Lydia.
+
+625
+00:37:40,166 --> 00:37:42,958
+Enamoradas de un veneno
+que te mata lentamente.
+
+626
+00:37:44,250 --> 00:37:45,500
+Te entiendo.
+
+627
+00:37:46,541 --> 00:37:47,500
+De veras.
+
+628
+00:37:47,583 --> 00:37:51,166
+Pero Tissaia y yo hemos capeado
+muchas luchas internas de la Hermandad.
+
+629
+00:37:52,875 --> 00:37:56,250
+Mañana triunfaremos,
+como ya hicimos en Sodden.
+
+630
+00:37:56,333 --> 00:37:59,791
+Y aunque ojalá te hubieras unido
+a nosotros en la batalla aquel día…
+
+631
+00:38:01,125 --> 00:38:02,791
+volveremos a luchar sin ti.
+
+632
+00:38:04,750 --> 00:38:06,833
+Cuando la reunión de mañana una al norte,
+
+633
+00:38:06,916 --> 00:38:10,416
+espero que veas que hay cosas
+que aún vale la pena proteger.
+
+634
+00:38:10,500 --> 00:38:11,625
+[Filippa ríe irónica]
+
+635
+00:38:12,916 --> 00:38:14,500
+Gracias por venir esta noche.
+
+636
+00:38:16,041 --> 00:38:17,125
+Significa mucho.
+
+637
+00:38:21,083 --> 00:38:23,833
+También significa mucho para nosotros.
+
+638
+00:38:27,250 --> 00:38:29,666
+[Yennefer] Tal vez solo quisiera
+suscitar dramas.
+
+639
+00:38:30,333 --> 00:38:31,541
+No sería la primera vez.
+
+640
+00:38:32,458 --> 00:38:34,916
+Eso explicaría la advertencia de Dijkstra.
+
+641
+00:38:35,000 --> 00:38:36,791
+Saben algo que nosotros no.
+
+642
+00:38:38,666 --> 00:38:40,250
+Pero ¿por qué no ha sido clara?
+
+643
+00:38:40,333 --> 00:38:43,500
+Ninguna acusación contra Stregobor
+tenía que ver con Nilfgaard.
+
+644
+00:38:43,583 --> 00:38:46,208
+¿Y ese interés en una maga que no habla?
+
+645
+00:38:46,291 --> 00:38:47,250
+No lo sé.
+
+646
+00:38:48,750 --> 00:38:50,125
+¿Por qué Lydia no habla?
+
+647
+00:38:50,666 --> 00:38:52,791
+Su mandíbula inferior es una ilusión.
+
+648
+00:38:52,875 --> 00:38:53,833
+Una magistral.
+
+649
+00:38:54,375 --> 00:38:56,166
+Sufrió una lesión terrible.
+
+650
+00:38:56,875 --> 00:38:58,125
+Y ya no puede hablar.
+
+651
+00:38:58,833 --> 00:39:00,708
+Solo comunicarse telepáticamente.
+
+652
+00:39:01,458 --> 00:39:02,916
+"La mujer de voz extraña".
+
+653
+00:39:03,625 --> 00:39:05,958
+- ¿Mmm?
+- Algo que dijo Teryn.
+
+654
+00:39:06,041 --> 00:39:08,916
+- ¿Y la pulsera de Tissaia?
+- Está aquí.
+
+655
+00:39:09,833 --> 00:39:11,166
+[tintineo metálico]
+
+656
+00:39:13,500 --> 00:39:16,416
+Iba a la Galería de la Gloria
+y me crucé con Lydia.
+
+657
+00:39:17,083 --> 00:39:19,458
+Sus pendientes estaban hechos de lo mismo.
+
+658
+00:39:19,541 --> 00:39:20,750
+¿Qué hacías ahí arriba?
+
+659
+00:39:20,833 --> 00:39:23,458
+Subí tras haber estado a punto
+de matar a Stregobor.
+
+660
+00:39:23,541 --> 00:39:25,625
+- ¿Tras qué?
+- "A punto".
+
+661
+00:39:28,041 --> 00:39:29,958
+Me fui para calmarme.
+
+662
+00:39:31,333 --> 00:39:34,416
+♪ Nada es como crees. ♪
+
+663
+00:39:35,083 --> 00:39:38,333
+♪ Nada es como crees. ♪
+
+664
+00:39:47,416 --> 00:39:48,666
+El primer desembarco.
+
+665
+00:39:49,541 --> 00:39:51,833
+Jan Bekker manejó el poder a su voluntad.
+
+666
+00:39:53,250 --> 00:39:54,083
+Calmó las olas,
+
+667
+00:39:54,166 --> 00:39:57,625
+demostrando que la magia no tenía
+por qué ser maligna ni destructiva.
+
+668
+00:39:57,708 --> 00:40:01,583
+Aquel día, Bekker formó
+lo que se conocería como "la Hermandad".
+
+669
+00:40:02,750 --> 00:40:04,625
+Mi obra favorita de aquí.
+
+670
+00:40:05,333 --> 00:40:07,875
+Marginados unidos bajo una bandera común.
+
+671
+00:40:09,833 --> 00:40:10,916
+Una buena historia.
+
+672
+00:40:12,291 --> 00:40:16,208
+Lo único bueno es el desfile de hechos
+que he presenciado esta noche.
+
+673
+00:40:17,500 --> 00:40:20,125
+Sin duda, digno de un cuadro.
+
+674
+00:40:21,250 --> 00:40:22,416
+Se titularía…
+
+675
+00:40:23,375 --> 00:40:27,333
+"Geralt abandona
+la isla de Thanedd partido de risa".
+
+676
+00:40:28,958 --> 00:40:30,291
+En ese caso,
+
+677
+00:40:31,250 --> 00:40:34,083
+me gustaría
+hablar contigo esta noche, Geralt.
+
+678
+00:40:34,875 --> 00:40:37,541
+Tenemos más en común de lo que crees.
+
+679
+00:40:38,666 --> 00:40:42,083
+Dudo que los paralelismos
+entre nosotros sean totalmente paralelos.
+
+680
+00:40:42,166 --> 00:40:43,708
+♪ …como crees. ♪
+
+681
+00:40:46,000 --> 00:40:47,541
+Ambos somos marginados.
+
+682
+00:40:48,500 --> 00:40:50,375
+[Filippa] El camino no ha sido fácil.
+
+683
+00:40:51,458 --> 00:40:53,041
+[aplausos de fondo]
+
+684
+00:40:55,541 --> 00:41:00,333
+Como tú, no puedo definirme
+como un mero hombre, mago o druida.
+
+685
+00:41:02,583 --> 00:41:04,000
+Principalmente, soy
+
+686
+00:41:04,583 --> 00:41:05,625
+un huérfano
+
+687
+00:41:06,208 --> 00:41:08,833
+dado por muerto
+en una alcantarilla de Lan Exeter.
+
+688
+00:41:09,916 --> 00:41:11,583
+Fui recorriendo este cruel mundo,
+
+689
+00:41:11,666 --> 00:41:14,416
+pasando por todas
+las monstruosas criaturas imaginables.
+
+690
+00:41:15,000 --> 00:41:16,208
+Hombres, sobre todo.
+
+691
+00:41:16,791 --> 00:41:18,541
+Hasta que yo mismo me volví cruel.
+
+692
+00:41:19,875 --> 00:41:22,416
+Y en vez de seguir siendo
+un mutante indeseado,
+
+693
+00:41:23,375 --> 00:41:25,375
+elegí convertirme en hechicero
+
+694
+00:41:26,583 --> 00:41:27,625
+por rencor.
+
+695
+00:41:28,125 --> 00:41:29,625
+Cuidado, Vilgefortz.
+
+696
+00:41:30,166 --> 00:41:33,250
+Por si las similitudes
+que tan desesperadamente estás buscando
+
+697
+00:41:33,333 --> 00:41:34,791
+no te llevan muy lejos.
+
+698
+00:41:34,875 --> 00:41:39,208
+Oh, no te preocupes, brujo.
+Hay una semejanza que permanece.
+
+699
+00:41:39,291 --> 00:41:43,666
+Dejé a ese obstinado joven atrás
+el día que me enamoré de Tissaia.
+
+700
+00:41:43,750 --> 00:41:47,375
+Ese vínculo,
+ese… sentido de familia me cambió.
+
+701
+00:41:47,458 --> 00:41:51,166
+Y a ti te ha pasado lo mismo
+con Yennefer de Vengerberg.
+
+702
+00:41:54,000 --> 00:41:56,708
+Tengo la impresión
+de que sabes muchas cosas.
+
+703
+00:41:56,791 --> 00:41:59,833
+[ríe] Dime entonces que no es cierto.
+
+704
+00:42:00,708 --> 00:42:05,166
+Cuanto más tiempo esté Yennefer
+en Aretusa, más fuerte será la Hermandad.
+
+705
+00:42:05,916 --> 00:42:09,416
+Y más probable será contener
+los poderes que amenazan el Continente.
+
+706
+00:42:10,958 --> 00:42:15,291
+¿Alguna vez te ha atraído
+el arte de la hechicería, Geralt?
+
+707
+00:42:15,833 --> 00:42:18,416
+- [carraspea]
+- ¿Por qué no te quedas aquí con ella?
+
+708
+00:42:19,291 --> 00:42:21,625
+Si quieres proteger lo que amas,
+
+709
+00:42:21,708 --> 00:42:24,250
+únete a nosotros
+en la batalla que está por llegar.
+
+710
+00:42:27,500 --> 00:42:31,291
+La chica no estará a salvo mucho tiempo
+con tu pasividad.
+
+711
+00:42:31,875 --> 00:42:33,750
+No habrá armas para salvarla.
+
+712
+00:42:34,708 --> 00:42:38,541
+Es increíble cómo mi neutralidad
+enfurece a todo el mundo.
+
+713
+00:42:40,083 --> 00:42:42,625
+Cómo me somete
+a ofertas de pactos y acuerdos
+
+714
+00:42:42,708 --> 00:42:47,916
+y a sermones sobre la necesidad
+de decidir unirme al bando correcto.
+
+715
+00:42:49,750 --> 00:42:52,083
+No soy tu igual en este juego.
+
+716
+00:42:52,166 --> 00:42:54,708
+Así que, no. Prefiero seguir mi camino.
+
+717
+00:42:55,875 --> 00:42:57,583
+Responderé a los hechos.
+
+718
+00:42:57,666 --> 00:42:59,916
+Me adaptaré al mundo a medida que cambie.
+
+719
+00:43:00,708 --> 00:43:04,375
+Lo entiendo, brujo.
+Pero adaptarse quizá no baste.
+
+720
+00:43:05,458 --> 00:43:08,166
+Recuerda que solo hay
+una forma de no perderla.
+
+721
+00:43:10,625 --> 00:43:13,000
+¿Y si me niego a unirme a vuestro bando?
+
+722
+00:43:15,625 --> 00:43:17,916
+Da igual donde vayas o lo que hagas.
+
+723
+00:43:19,041 --> 00:43:21,458
+Siempre habrá enemigos esperándote.
+
+724
+00:43:27,166 --> 00:43:28,291
+[ríe]
+
+725
+00:43:28,375 --> 00:43:31,416
+Tissaia mencionó
+que estuvieron juntos cuando eran jóvenes.
+
+726
+00:43:31,500 --> 00:43:33,000
+[Yennefer habla ininteligible]
+
+727
+00:43:33,083 --> 00:43:34,791
+[suspira] El primer amor.
+
+728
+00:43:36,375 --> 00:43:37,791
+Nunca desaparece, ¿eh?
+
+729
+00:43:43,000 --> 00:43:44,166
+Si no te importa…
+
+730
+00:43:45,083 --> 00:43:46,208
+No, en absoluto.
+
+731
+00:43:47,583 --> 00:43:51,125
+Suerte mañana en el cónclave, brujo.
+
+732
+00:43:51,208 --> 00:43:52,500
+[puerta se abre]
+
+733
+00:43:53,500 --> 00:43:55,791
+[Yennefer] ¿"La batalla
+que está por llegar"?
+
+734
+00:43:55,875 --> 00:43:58,833
+Vilgefortz apoyó este cónclave
+para asegurar la paz.
+
+735
+00:44:00,708 --> 00:44:02,375
+Quizá crea que no es posible.
+
+736
+00:44:02,458 --> 00:44:03,666
+[tintineo metálico]
+
+737
+00:44:05,291 --> 00:44:06,791
+Amonita escarlata.
+
+738
+00:44:07,458 --> 00:44:11,041
+Dicen que protege a los amados
+y las propiedades valiosas.
+
+739
+00:44:11,125 --> 00:44:14,458
+Y solo se encuentra
+en las minas de Redania Occidental.
+
+740
+00:44:16,333 --> 00:44:18,625
+Ahí encontré a esas chicas,
+en el castillo.
+
+741
+00:44:18,708 --> 00:44:21,625
+Geralt, el cuadro. El primer desembarco.
+
+742
+00:44:21,708 --> 00:44:23,958
+Allí me llevó el portal
+cuando me atacaron.
+
+743
+00:44:24,041 --> 00:44:26,125
+Vi una montaña negra con agua debajo.
+
+744
+00:44:26,208 --> 00:44:27,875
+El cuadro favorito de Vilgefortz.
+
+745
+00:44:27,958 --> 00:44:31,583
+Él le regaló esa pulsera a Tissaia,
+y me da que los pendientes a Lydia.
+
+746
+00:44:34,541 --> 00:44:35,666
+Está enamorada de él.
+
+747
+00:44:36,458 --> 00:44:38,291
+"Un veneno que te mata lentamente".
+
+748
+00:44:39,541 --> 00:44:41,166
+Stregobor no era nuestro hombre.
+
+749
+00:44:41,250 --> 00:44:43,125
+- Es Vilgefortz.
+- [tintineo metálico]
+
+750
+00:44:44,791 --> 00:44:46,666
+- [Lengua Antigua]
+- Yen, ¿qué haces?
+
+751
+00:44:46,750 --> 00:44:49,416
+Localizar a Tissaia.
+Ver si está en peligro.
+
+752
+00:44:49,500 --> 00:44:50,541
+No hay tiempo.
+
+753
+00:44:50,625 --> 00:44:53,833
+No pienso dejarla. Mira si está despejado.
+
+754
+00:44:54,708 --> 00:44:56,041
+[Lengua Antigua]
+
+755
+00:44:56,125 --> 00:44:57,500
+[repite el hechizo]
+
+756
+00:45:01,833 --> 00:45:03,083
+[gritos de fondo]
+
+757
+00:45:03,166 --> 00:45:04,791
+[hombre 1] ¡Vamos, moveos!
+
+758
+00:45:05,500 --> 00:45:07,916
+- [hombre 2] ¡Rápido, rápido!
+- [mujer grita]
+
+759
+00:45:08,791 --> 00:45:10,416
+[música dramática tensa]
+
+760
+00:45:15,208 --> 00:45:17,083
+[mujer] ¡No nos amedrentaréis!
+
+761
+00:45:17,166 --> 00:45:19,208
+¡Fuera de nuestra casa!
+
+762
+00:45:19,291 --> 00:45:21,291
+[gritos indistintos continúan]
+
+763
+00:45:22,500 --> 00:45:24,333
+[mujer] ¡Rápido, tengo una idea!
+
+764
+00:45:24,416 --> 00:45:25,416
+[chasquido metálico]
+
+765
+00:45:29,833 --> 00:45:31,833
+Haber elegido bando, brujo.
+
+766
+00:45:32,875 --> 00:45:34,333
+[música tensa se desvanece]
+
+767
+00:45:35,333 --> 00:45:37,250
+[música melódica intrigante]
+
+768
+00:48:00,375 --> 00:48:02,250
+[música llega a su fin]
+

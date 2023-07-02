@@ -1,0 +1,3689 @@
+﻿1
+00:00:12,000 --> 00:00:14,000
+[mysteriöse Musik]
+
+2
+00:00:26,375 --> 00:00:30,166
+- Wie kann ich Euch helfen?
+- Wir suchen einen Hexer und ein Mädchen.
+
+3
+00:00:30,250 --> 00:00:32,791
+Sie mit aschblondem Haar
+und noblem Antlitz,
+
+4
+00:00:32,875 --> 00:00:35,375
+er ein bleicher Wüstling ohne Manieren.
+
+5
+00:00:35,458 --> 00:00:37,666
+Meister Rience
+wird Euch fürstlich entlohnen,
+
+6
+00:00:37,750 --> 00:00:39,666
+wenn Ihr den Aufenthaltsort preisgebt.
+
+7
+00:00:39,750 --> 00:00:41,083
+Hm?
+
+8
+00:00:42,916 --> 00:00:44,625
+Wir bezahlen Euch, wenn Ihr was wisst.
+
+9
+00:00:44,708 --> 00:00:46,666
+[Tür wird geöffnet]
+
+10
+00:00:46,750 --> 00:00:48,750
+[Knarzen]
+
+11
+00:00:50,833 --> 00:00:52,833
+[spannungsvolle Musik]
+
+12
+00:00:55,375 --> 00:00:57,708
+[Musik steigert sich]
+
+13
+00:01:00,333 --> 00:01:02,333
+[Metall klimpert]
+
+14
+00:01:04,666 --> 00:01:07,041
+[dramatische Musik]
+
+15
+00:01:09,791 --> 00:01:11,750
+[Scherge] Tretet zurück, Professor.
+
+16
+00:01:15,208 --> 00:01:17,208
+[Ächzen, Kampflaute]
+
+17
+00:01:39,625 --> 00:01:41,625
+[dramatische Musik verklingt abrupt]
+
+18
+00:01:44,000 --> 00:01:47,375
+Ich beschwöre Euch, mein guter Herr…
+
+19
+00:01:48,250 --> 00:01:49,250
+Hm…
+
+20
+00:01:50,333 --> 00:01:52,333
+[dramatische Musik]
+
+21
+00:01:58,291 --> 00:02:00,291
+[spannungsvolle Titelmusik]
+
+22
+00:02:10,291 --> 00:02:12,291
+[abenteuerliche Musik]
+
+23
+00:02:17,375 --> 00:02:18,833
+[Yennefer] Lieber Freund,
+
+24
+00:02:18,916 --> 00:02:21,541
+wenn unsere Zeit in Kaer Morhen
+eines bewiesen hat,
+
+25
+00:02:21,625 --> 00:02:24,791
+dann ist es,
+dass sich die Welt unaufhörlich verändert.
+
+26
+00:02:24,875 --> 00:02:27,791
+Die Tage vergehen,
+doch die Bedrohungen reißen nicht ab.
+
+27
+00:02:27,875 --> 00:02:29,708
+Schnell und unerbittlich.
+
+28
+00:02:30,625 --> 00:02:34,000
+Manchmal frage ich mich,
+ob wir je aufhören werden, wegzurennen.
+
+29
+00:02:35,250 --> 00:02:37,333
+[abenteuerliche Musik ebbt ab]
+
+30
+00:02:37,416 --> 00:02:38,791
+Für Eure Diskretion.
+
+31
+00:02:38,875 --> 00:02:39,775
+[Mann] Danke.
+
+32
+00:02:49,416 --> 00:02:51,416
+[Geralt seufzt leise]
+
+33
+00:02:55,125 --> 00:02:57,916
+[Yennefer] Es gibt noch einen Geist,
+der uns heimsucht.
+
+34
+00:02:58,000 --> 00:02:59,958
+Was ich dir angetan habe…
+
+35
+00:03:00,666 --> 00:03:03,958
+Ich kann die Vergangenheit nicht ändern,
+doch ich werde alles tun,
+
+36
+00:03:04,041 --> 00:03:07,291
+um Ciri bei der Entwicklung
+ihrer magischen Fähigkeiten zu helfen.
+
+37
+00:03:08,000 --> 00:03:09,541
+Und sie zu beschützen.
+
+38
+00:03:10,750 --> 00:03:12,583
+[seufzt leise]
+
+39
+00:03:14,458 --> 00:03:16,208
+[Yennefer] Indem ich dir das beweise,
+
+40
+00:03:16,291 --> 00:03:19,416
+wird vielleicht auch
+das Vertrauen zu uns zurückfinden.
+
+41
+00:03:20,375 --> 00:03:23,166
+In der Zwischenzeit wünsche Ciri Glück.
+
+42
+00:03:23,916 --> 00:03:26,791
+Denn uns allen
+steht noch ein langer Weg bevor.
+
+43
+00:03:27,458 --> 00:03:29,500
+Deine Freundin, Yennefer.
+
+44
+00:03:32,958 --> 00:03:35,500
+[Yennefer]
+Das war meine erste Lektion von Tissaia.
+
+45
+00:03:35,583 --> 00:03:37,583
+[sanftes Rumpeln und Zischen]
+
+46
+00:03:41,458 --> 00:03:43,583
+[Stein fällt zu Boden]
+
+47
+00:03:43,666 --> 00:03:44,875
+[Yennefer] Versuche es.
+
+48
+00:03:46,000 --> 00:03:47,166
+[Yennefer] Lieber Freund,
+
+49
+00:03:47,250 --> 00:03:49,916
+auch wenn du schweigst,
+weiß ich, dass du dich fragst,
+
+50
+00:03:50,000 --> 00:03:52,625
+wie Ciris Ausbildung voranschreitet.
+
+51
+00:03:52,708 --> 00:03:55,750
+Sie hat viel Potenzial, doch wenig Talent.
+
+52
+00:03:55,833 --> 00:03:57,958
+- [leises Rieseln]
+- [Ciri seufzt]
+
+53
+00:04:01,416 --> 00:04:03,625
+[Yennefer]
+Das wird sich mit der Zeit ändern.
+
+54
+00:04:03,708 --> 00:04:06,666
+Eines Tages wird sie
+etwas Schmackhafteres heraufbeschwören
+
+55
+00:04:06,750 --> 00:04:09,166
+als den Tintenfisch,
+den du gerade mitbringst.
+
+56
+00:04:09,250 --> 00:04:12,458
+- [Geralt] Hm.
+- [Yennefer] Deine Freundin, Yennefer.
+
+57
+00:04:13,166 --> 00:04:15,375
+Konzentriere dich auf deinen Atem.
+
+58
+00:04:16,708 --> 00:04:18,333
+Von hier. Ok?
+
+59
+00:04:19,666 --> 00:04:21,083
+[seufzt leise]
+
+60
+00:04:23,125 --> 00:04:25,125
+[Möwen rufen]
+
+61
+00:04:26,708 --> 00:04:28,375
+[Geralt] Nicht schon wieder.
+
+62
+00:04:29,250 --> 00:04:31,250
+[spannungsvolle Musik]
+
+63
+00:04:32,666 --> 00:04:34,375
+Ciri, Yennefer, wir gehen!
+
+64
+00:04:37,166 --> 00:04:38,066
+[Mann 1] Schnell!
+
+65
+00:04:38,125 --> 00:04:39,583
+[Mann 2] Da vorne!
+
+66
+00:04:40,250 --> 00:04:41,458
+[Mann 3] Los, tu es!
+
+67
+00:04:41,541 --> 00:04:43,083
+[Mann 4] Hier ist nichts!
+
+68
+00:04:43,166 --> 00:04:44,583
+[brüllt]
+
+69
+00:04:44,666 --> 00:04:48,375
+Wir sind wieder zu spät.
+Wo zum Teufel sind sie?
+
+70
+00:04:48,958 --> 00:04:50,875
+Brennt alles nieder!
+
+71
+00:04:50,958 --> 00:04:52,833
+[Musik wird dramatisch]
+
+72
+00:05:04,166 --> 00:05:06,166
+[Musik steigt an]
+
+73
+00:05:12,958 --> 00:05:14,958
+[sanfte Musik]
+
+74
+00:05:23,125 --> 00:05:24,583
+[Geralt] Für Eure Diskretion.
+
+75
+00:05:40,625 --> 00:05:42,083
+[seufzt leise]
+
+76
+00:05:47,708 --> 00:05:49,708
+[leichte, schwungvolle Musik]
+
+77
+00:05:51,458 --> 00:05:52,958
+[Ciri ächzt] Das war brillant.
+
+78
+00:05:53,458 --> 00:05:55,041
+[er ächzt, sie lacht]
+
+79
+00:05:55,125 --> 00:05:58,041
+[Yennefer] Lieber Freund,
+du und Ciri scheinen unser viertes Haus
+
+80
+00:05:58,125 --> 00:06:00,500
+in ebenso vielen Monaten sehr zu genießen.
+
+81
+00:06:00,583 --> 00:06:03,208
+Ihr könnt eure Bindung
+so wunderbar vertiefen.
+
+82
+00:06:05,083 --> 00:06:07,541
+Doch ich möchte dich erinnern,
+dass du mich gebeten,
+
+83
+00:06:07,625 --> 00:06:10,541
+nein, angefleht hast,
+ihr die Magie beizubringen.
+
+84
+00:06:10,625 --> 00:06:14,458
+Bitte schone ihre Kräfte,
+damit ich dies auch angemessen tun kann.
+
+85
+00:06:14,541 --> 00:06:18,708
+Außerdem: weniger Fleisch, mehr Wein.
+Yennefer.
+
+86
+00:06:18,791 --> 00:06:19,875
+Hm.
+
+87
+00:06:20,958 --> 00:06:23,125
+[Yennefer]
+Erfolg kommt nur durch Wiederholung.
+
+88
+00:06:23,208 --> 00:06:25,208
+[spricht Alte Sprache]
+
+89
+00:06:25,291 --> 00:06:27,666
+[sanftes Knarzen und Rasseln]
+
+90
+00:06:36,666 --> 00:06:38,166
+[spricht Alte Sprache]
+
+91
+00:06:38,791 --> 00:06:40,791
+[Knarzen und Rasseln]
+
+92
+00:06:45,208 --> 00:06:47,208
+[melancholische Musik]
+
+93
+00:06:50,250 --> 00:06:52,458
+Du kannst das. Gib nicht auf.
+
+94
+00:06:52,541 --> 00:06:54,541
+[Knarzen und Rasseln]
+
+95
+00:06:57,375 --> 00:06:59,375
+[mysteriöse Musik]
+
+96
+00:07:10,750 --> 00:07:12,750
+[Pferd schnaubt]
+
+97
+00:07:16,791 --> 00:07:18,125
+[Frau] Bleibt zusammen!
+
+98
+00:07:18,208 --> 00:07:20,125
+[Yennefer] Es sind nur Dorfbewohner.
+
+99
+00:07:20,208 --> 00:07:21,541
+Los, wir gehen.
+
+100
+00:07:25,958 --> 00:07:27,958
+[Musik wird abenteuerlich]
+
+101
+00:07:41,333 --> 00:07:43,958
+[Pferde wiehern]
+
+102
+00:07:44,041 --> 00:07:45,791
+[Wind pfeift]
+
+103
+00:07:45,875 --> 00:07:47,416
+[Musik ebbt ab]
+
+104
+00:08:08,458 --> 00:08:09,291
+[Ciri] Yarpen!
+
+105
+00:08:09,375 --> 00:08:12,291
+Wenn Ihr Euch verstecken wollt,
+solltet Ihr Euren Mopp färben!
+
+106
+00:08:12,375 --> 00:08:15,416
+- Niemand sucht nach dem schwarzen Wolf.
+- Hallo, alter Freund.
+
+107
+00:08:15,500 --> 00:08:18,208
+Lasst meine Scheißhütte stehen. [lacht]
+
+108
+00:08:18,291 --> 00:08:21,166
+Und ich erwarte eine Bezahlung
+für meine Diskretion.
+
+109
+00:08:26,208 --> 00:08:28,208
+[Tür wird geschlossen]
+
+110
+00:08:44,416 --> 00:08:47,625
+[Yennefer] Lieber Freund,
+wir sind hier so weit von allem entfernt,
+
+111
+00:08:47,708 --> 00:08:49,875
+dass wir vielleicht
+nie wieder gehen müssen.
+
+112
+00:08:50,000 --> 00:08:50,958
+[vergnügtes Lachen]
+
+113
+00:08:51,041 --> 00:08:54,916
+[Yennefer] Wenn ich es mir überlege,
+wäre das überhaupt so schlimm?
+
+114
+00:08:55,750 --> 00:08:59,083
+Wir werden den Unterricht fortsetzen,
+bevor das Eis schmilzt, versprochen.
+
+115
+00:08:59,166 --> 00:09:01,458
+Doch jetzt hat sie sich
+eine Pause verdient.
+
+116
+00:09:02,625 --> 00:09:04,666
+Und wir haben uns das vielleicht auch.
+
+117
+00:09:07,708 --> 00:09:09,041
+Deine Freundin, Yennefer.
+
+118
+00:09:09,125 --> 00:09:12,250
+- [Ciri] Noch einmal. Bereit? Ein…
+- [Yennefer] Ok.
+
+119
+00:09:12,333 --> 00:09:14,541
+[sie lachen vergnügt]
+
+120
+00:09:24,625 --> 00:09:27,458
+Ich kann auf magische Weise
+deine Gedanken erahnen.
+
+121
+00:09:27,541 --> 00:09:31,291
+Du wolltest mich seit unserer Ankunft
+zum Abendessen einladen.
+
+122
+00:09:31,375 --> 00:09:32,208
+Ist das so?
+
+123
+00:09:32,291 --> 00:09:36,666
+[lacht] Nein. Doch ich sah durchs Fenster,
+und ihr habt noch Wein.
+
+124
+00:09:36,750 --> 00:09:38,500
+Und meiner ist ausgegangen.
+
+125
+00:09:42,458 --> 00:09:44,458
+[sanfte Musik]
+
+126
+00:10:02,625 --> 00:10:03,525
+[Ciri] Danke.
+
+127
+00:10:07,750 --> 00:10:09,791
+[unverständliche Unterhaltung]
+
+128
+00:10:10,833 --> 00:10:12,666
+- [Yennefer] Perfekt.
+- [Ciri lacht]
+
+129
+00:10:15,500 --> 00:10:18,375
+- [Ciri] Etwas Abwechslung wäre schön.
+- [Yennefer] Und wie.
+
+130
+00:10:22,375 --> 00:10:24,750
+- Von Chefköchin Ciri.
+- Öffne schön deinen Mund.
+
+131
+00:10:26,208 --> 00:10:28,250
+[Yennefer lacht schallend]
+
+132
+00:10:29,375 --> 00:10:31,500
+Geralts Lieblingsessen ist ein Rettich.
+
+133
+00:10:33,666 --> 00:10:34,566
+Oh!
+
+134
+00:10:34,625 --> 00:10:37,333
+Wir haben es immer so gemacht.
+Es ist sehr lecker.
+
+135
+00:10:37,416 --> 00:10:39,291
+[Ciri lacht]
+
+136
+00:10:39,375 --> 00:10:40,333
+Nicht.
+
+137
+00:10:41,000 --> 00:10:41,958
+Danke.
+
+138
+00:10:45,000 --> 00:10:46,250
+Ich werde ins Bett gehen.
+
+139
+00:10:46,791 --> 00:10:48,375
+Ok. Gute Nacht.
+
+140
+00:10:48,458 --> 00:10:49,500
+Gute Nacht.
+
+141
+00:10:49,583 --> 00:10:51,583
+[sanfte Musik]
+
+142
+00:11:03,166 --> 00:11:04,875
+[er räuspert sich]
+
+143
+00:11:09,750 --> 00:11:10,833
+Gute Nacht.
+
+144
+00:11:14,541 --> 00:11:16,083
+[er räuspert sich]
+
+145
+00:11:18,625 --> 00:11:19,583
+Gute Nacht.
+
+146
+00:11:28,041 --> 00:11:30,041
+[Eis kracht sanft]
+
+147
+00:11:30,833 --> 00:11:32,875
+[Ciri spricht Alte Sprache]
+
+148
+00:11:32,958 --> 00:11:34,958
+[Plätschern]
+
+149
+00:11:45,458 --> 00:11:46,358
+[seufzt]
+
+150
+00:11:48,166 --> 00:11:49,375
+Wassermagie ist heikel.
+
+151
+00:11:49,458 --> 00:11:52,125
+Das sagtest du auch
+über Erdmagie und Luftmagie.
+
+152
+00:11:52,208 --> 00:11:54,291
+Du hast Kräfte wie noch keiner zuvor.
+
+153
+00:11:55,250 --> 00:11:57,166
+Das macht es für uns beide schwierig.
+
+154
+00:11:58,500 --> 00:12:00,041
+Das reicht für heute.
+
+155
+00:12:03,666 --> 00:12:07,041
+In Anbetracht dessen,
+was ich mit jeder Art von Magie anrichte,
+
+156
+00:12:07,125 --> 00:12:09,666
+wie kann Feuermagie
+da noch schlimmer sein?
+
+157
+00:12:11,791 --> 00:12:13,166
+Denk mal an Rience.
+
+158
+00:12:14,625 --> 00:12:16,166
+Wie sein Auge aussah.
+
+159
+00:12:16,250 --> 00:12:17,750
+Es gibt immer eine Quelle.
+
+160
+00:12:18,375 --> 00:12:20,375
+Bei Feuermagie bist du die Quelle.
+
+161
+00:12:20,958 --> 00:12:23,083
+Was sie dir nimmt, erhältst du nie wieder.
+
+162
+00:12:23,916 --> 00:12:25,125
+Deine Magie?
+
+163
+00:12:26,208 --> 00:12:27,108
+Ja.
+
+164
+00:12:28,166 --> 00:12:29,833
+Doch Magie ist nicht alles.
+
+165
+00:12:32,458 --> 00:12:34,291
+Du sagst, Magie sei nicht alles,
+
+166
+00:12:34,916 --> 00:12:36,958
+und doch wolltest du mich dafür opfern.
+
+167
+00:12:37,750 --> 00:12:40,833
+Du hättest mich fast
+an Voleth Meir verloren, und Geralt.
+
+168
+00:12:40,916 --> 00:12:42,041
+- Ich weiß.
+- Wie, ähm…
+
+169
+00:12:43,125 --> 00:12:45,500
+Wenn du es wusstest,
+wieso hast du's getan?
+
+170
+00:12:46,791 --> 00:12:48,625
+Weil ich aufgegeben hatte.
+
+171
+00:12:51,750 --> 00:12:54,000
+Aber diesen Fehler
+werde ich nie wieder tun.
+
+172
+00:12:55,541 --> 00:12:57,833
+- [Räder rumpeln]
+- [Pferd wiehert]
+
+173
+00:13:02,750 --> 00:13:04,458
+[Yarpen] Ich wünschte, es wäre mehr.
+
+174
+00:13:04,541 --> 00:13:07,000
+Aber die Eichhörnchen
+haben den Konvoi überfallen.
+
+175
+00:13:07,625 --> 00:13:10,500
+Guck dir die an.
+Kartoffeln so groß wie Gnomeneier.
+
+176
+00:13:10,583 --> 00:13:13,250
+Wurde euer Konvoi auch angegriffen?
+
+177
+00:13:13,333 --> 00:13:15,583
+Sollen sie ruhig kommen und es versuchen.
+
+178
+00:13:15,666 --> 00:13:18,500
+Die Elfen sind wütend auf die Könige,
+nicht auf uns.
+
+179
+00:13:18,583 --> 00:13:22,166
+Sie wollen den Norden weichklopfen
+für den großen Schwanz von Nilfgaard.
+
+180
+00:13:22,250 --> 00:13:25,958
+Nilfgaard hat den Elfen Zuflucht gewährt.
+Jetzt kämpfen sie in deren Namen.
+
+181
+00:13:26,041 --> 00:13:29,500
+Erstaunlich, was passiert,
+wenn man eine zweite Chance erhält.
+
+182
+00:13:34,750 --> 00:13:35,650
+Wie jetzt?
+
+183
+00:13:36,458 --> 00:13:37,375
+Wie jetzt?
+
+184
+00:13:37,958 --> 00:13:39,250
+Treibt ihr zwei es wieder?
+
+185
+00:13:40,000 --> 00:13:41,666
+Subtil, Yarpen.
+
+186
+00:13:41,750 --> 00:13:43,916
+[Yarpen lacht laut] War doch klar.
+
+187
+00:13:44,000 --> 00:13:45,750
+Der Frühling steht vor der Tür.
+
+188
+00:13:45,833 --> 00:13:48,500
+Ah, die ganze Welt wacht auf.
+
+189
+00:13:48,583 --> 00:13:51,541
+Unser Belleteyn-Fest findet im Tal statt.
+Ihr solltet kommen.
+
+190
+00:13:51,625 --> 00:13:52,583
+Das würd ich gerne.
+
+191
+00:13:52,666 --> 00:13:54,541
+- Es ist nicht sicher.
+- Schlechte Idee.
+
+192
+00:13:55,125 --> 00:13:59,125
+[Ciri] Monate hat keiner nach mir gefragt.
+Außerdem tragen alle ein Kostüm.
+
+193
+00:14:00,583 --> 00:14:03,541
+Und… ich kam am Belleteyn zur Welt.
+
+194
+00:14:03,625 --> 00:14:06,416
+[Yarpen] Ah!
+Du hättest die Maikönigin werden können.
+
+195
+00:14:06,500 --> 00:14:09,500
+Nur ist der Bartwuchs meiner Nichte
+dieses Jahr richtig voll und dicht.
+
+196
+00:14:09,583 --> 00:14:11,375
+[Yarpen und Ciri lachen]
+
+197
+00:14:12,500 --> 00:14:14,458
+Jetzt sagt doch schon Ja.
+
+198
+00:14:14,541 --> 00:14:17,291
+Es wird langsam Zeit,
+dass hier endlich was auftaut.
+
+199
+00:14:19,041 --> 00:14:20,541
+Ich werde vorsichtig sein.
+
+200
+00:14:21,541 --> 00:14:22,500
+[er seufzt]
+
+201
+00:14:22,583 --> 00:14:24,583
+[spannungsvolle Musik]
+
+202
+00:14:24,666 --> 00:14:26,625
+[Knurren und Grunzen]
+
+203
+00:14:42,166 --> 00:14:43,625
+- [Brüllen]
+- [Mann 1 schreit]
+
+204
+00:14:43,708 --> 00:14:45,708
+[Mann 2 lacht schallend]
+
+205
+00:14:54,375 --> 00:14:57,000
+Mal sehen,
+wie dir mein neues Haustier gefällt.
+
+206
+00:14:58,500 --> 00:15:00,500
+[lautes Kreischen und Rumpeln]
+
+207
+00:15:00,583 --> 00:15:02,583
+[Mann 2 lacht schallend]
+
+208
+00:15:07,458 --> 00:15:08,833
+Was ist das für ein Ding?
+
+209
+00:15:08,916 --> 00:15:10,708
+[lacht vergnügt]
+
+210
+00:15:10,791 --> 00:15:14,166
+Ich hätte dich vorher warnen sollen,
+du Elfenköter.
+
+211
+00:15:14,250 --> 00:15:16,000
+Dieser Jackapace wurde trainiert,
+
+212
+00:15:16,083 --> 00:15:19,041
+damit er solche wie dich
+aus der Entfernung riechen kann.
+
+213
+00:15:19,625 --> 00:15:21,875
+[Rience]
+Dann bin ich hier ja genau richtig.
+
+214
+00:15:21,958 --> 00:15:24,041
+- [Jackapace kreischt]
+- [Mann 2] Zeigt Euch!
+
+215
+00:15:24,625 --> 00:15:28,291
+Oder ich öffne das Tor,
+und Ihr werdet sein Nachtisch.
+
+216
+00:15:29,750 --> 00:15:31,375
+[Rience schnippt mit dem Finger]
+
+217
+00:15:31,458 --> 00:15:34,000
+Ich suche eine junge Frau mit Elfenblut.
+
+218
+00:15:36,083 --> 00:15:38,416
+Alles, was mein Jacky braucht,
+ist ein Duft,
+
+219
+00:15:38,500 --> 00:15:40,625
+etwas Haar, ein Fetzen Kleidung.
+
+220
+00:15:40,708 --> 00:15:42,333
+Wie wär's damit?
+
+221
+00:15:45,708 --> 00:15:47,750
+- [Rauschen]
+- [Jackapace kreischt]
+
+222
+00:15:47,833 --> 00:15:50,083
+Steckt doch das verschissene Ding weg!
+
+223
+00:15:50,166 --> 00:15:52,583
+[Rumpeln, Krachen]
+
+224
+00:15:55,750 --> 00:15:57,041
+Wie viel?
+
+225
+00:16:04,708 --> 00:16:06,708
+[sanftes Stimmengewirr]
+
+226
+00:16:10,958 --> 00:16:14,166
+Gage, nimm deine besten Krieger
+und geh nach Westen nach Maribor.
+
+227
+00:16:14,250 --> 00:16:17,375
+Filavandrel,
+geht mit den Euren nach Caed Dhu.
+
+228
+00:16:18,333 --> 00:16:19,833
+Sie ist dort draußen.
+
+229
+00:16:19,916 --> 00:16:22,958
+Wurde sie gesehen
+oder waren es wieder einmal nur Gerüchte?
+
+230
+00:16:23,041 --> 00:16:26,958
+Wir wissen nicht,
+ob Cirilla Älteren-Blut hat.
+
+231
+00:16:27,041 --> 00:16:30,833
+Wir verlassen uns auf die Worte
+eines… eines Magiers,
+
+232
+00:16:31,458 --> 00:16:33,416
+der kam und genauso schnell verschwand.
+
+233
+00:16:34,208 --> 00:16:35,875
+Ihr kennt Eure Befehle.
+
+234
+00:16:41,416 --> 00:16:45,000
+Ich will sie umbringen für das,
+was sie deinem Kind angetan haben.
+
+235
+00:16:45,750 --> 00:16:46,833
+Unserer Hoffnung.
+
+236
+00:16:47,333 --> 00:16:50,750
+Aber, Schwester, das ist nicht genug.
+
+237
+00:16:51,500 --> 00:16:54,041
+Mein Vorhaben hat sich nicht geändert.
+
+238
+00:16:54,125 --> 00:16:55,791
+Ich finde unser Dol Blathanna.
+
+239
+00:16:55,875 --> 00:16:57,583
+Aber wie? Und wo?
+
+240
+00:16:57,666 --> 00:16:59,916
+Es gibt hier
+nicht länger eine Zuflucht für Elfen.
+
+241
+00:17:00,000 --> 00:17:03,958
+Sobald wir Ciri haben, klärt sich alles.
+Sie ist unsere neue Hoffnung.
+
+242
+00:17:05,000 --> 00:17:06,375
+Zweifelst du an mir?
+
+243
+00:17:06,458 --> 00:17:08,458
+[Elfin] Wacht auf! Schnell!
+
+244
+00:17:09,208 --> 00:17:10,750
+Die anderen fangen auch an.
+
+245
+00:17:10,833 --> 00:17:14,375
+[keucht] Gallatin und die Scoia'tael,
+sie sind wieder da.
+
+246
+00:17:14,458 --> 00:17:15,625
+Es sieht schlecht aus.
+
+247
+00:17:15,708 --> 00:17:18,666
+[Elf] Holt Hilfe! Holt den Heiler!
+
+248
+00:17:18,750 --> 00:17:21,208
+- [Elf] Hilfe!
+- [Elfin] Hilfe.
+
+249
+00:17:21,291 --> 00:17:24,041
+[unverständliche Schreie, Ächzen]
+
+250
+00:17:27,166 --> 00:17:29,875
+Er braucht Euch nicht,
+um Kindermädchen zu spielen.
+
+251
+00:17:29,958 --> 00:17:32,291
+Das, was er braucht, ist ein Soldat.
+
+252
+00:17:32,958 --> 00:17:34,958
+[Elfen weinen]
+
+253
+00:17:35,916 --> 00:17:36,816
+[Gallatin] Fuck.
+
+254
+00:17:38,583 --> 00:17:39,625
+Oder auch nicht.
+
+255
+00:17:40,250 --> 00:17:41,750
+[Elf] Da rüber! Da rüber!
+
+256
+00:17:44,416 --> 00:17:47,375
+Lasst es mich wissen,
+wenn Ihr wieder Waffen zurückhalten wollt
+
+257
+00:17:47,458 --> 00:17:50,083
+und unbewaffnete Eichhörnchen
+für unsere Freiheit kämpfen sollen.
+
+258
+00:17:50,166 --> 00:17:53,500
+Wie gesagt, ich gab Euch jeden Krieger,
+den ich entbehren kann.
+
+259
+00:17:53,583 --> 00:17:55,125
+Das ist Blödsinn.
+
+260
+00:17:55,208 --> 00:17:58,000
+Die sind auf geheimer Mission,
+und niemand weiß, wo.
+
+261
+00:17:58,083 --> 00:18:02,416
+Während der Rest von uns da draußen ist,
+Befehlen folgt und Konvois angreift,
+
+262
+00:18:02,500 --> 00:18:04,625
+und alles, um unser Land zurückzubekommen.
+
+263
+00:18:04,708 --> 00:18:07,875
+Und das nur auf Geheiß
+eines weiteren selbstgefälligen Menschen.
+
+264
+00:18:07,958 --> 00:18:10,750
+Denkt Ihr, ich geb einen Scheiß
+auf den Weiße-Flamme-Schwachsinn?
+
+265
+00:18:10,833 --> 00:18:15,125
+Ich gebe einen Scheiß auf Essen in meinem
+Magen oder etwas, das sich Heimat nennt.
+
+266
+00:18:15,208 --> 00:18:17,625
+Ich habe Pläne und werde nicht
+in den Wäldern sterben,
+
+267
+00:18:17,708 --> 00:18:19,000
+weil Ihr egoistisch seid.
+
+268
+00:18:19,083 --> 00:18:20,416
+Pläne mit Nilfgaard?
+
+269
+00:18:20,500 --> 00:18:22,541
+Was versteht Ihr daran nicht?
+
+270
+00:18:22,625 --> 00:18:26,791
+Wenn Nilfgaard den Norden einnimmt,
+können alle Elfen überall frei sein.
+
+271
+00:18:26,875 --> 00:18:29,583
+Der ganze Kontinent
+ist unser Dol Blathanna.
+
+272
+00:18:29,666 --> 00:18:32,625
+Wir haben jahrhundertelang versucht,
+den Kontinent zu teilen.
+
+273
+00:18:33,125 --> 00:18:35,000
+Wenn sie wieder einen Genozid wollen,
+
+274
+00:18:35,083 --> 00:18:37,500
+dann werden es
+dieses Mal die Menschen sein.
+
+275
+00:18:41,125 --> 00:18:45,125
+Ständig sprecht Ihr über alte Zeiten,
+die nicht mehr sind, Prophezeiungen.
+
+276
+00:18:46,333 --> 00:18:48,500
+Ich weiß nicht, wonach Ihr da sucht,
+
+277
+00:18:48,583 --> 00:18:51,750
+aber wenn Ihr das Leben
+der Elfen retten wollt…
+
+278
+00:18:51,833 --> 00:18:52,875
+Hier sind wir.
+
+279
+00:18:52,958 --> 00:18:55,375
+[unverständliche Rufe, Weinen]
+
+280
+00:18:59,750 --> 00:19:02,458
+- [leichte, schwungvolle Musik]
+- [Stimmengewirr, Lachen]
+
+281
+00:19:03,958 --> 00:19:06,458
+[Vizimir]
+Ihr habt mir eine Prinzessin versprochen.
+
+282
+00:19:06,541 --> 00:19:10,083
+Jetzt weiß jeder König von ihr,
+dank Tissaia de Vries.
+
+283
+00:19:10,166 --> 00:19:13,625
+Das ist nicht gut, Dijkstra.
+Ihr habt geschworen, Cirilla wäre mein.
+
+284
+00:19:13,708 --> 00:19:16,166
+Vielleicht ein wenig leiser, Eure Hoheit.
+
+285
+00:19:16,250 --> 00:19:19,208
+Ihr wollt doch nicht,
+dass Eure Liebste etwas erfährt.
+
+286
+00:19:24,208 --> 00:19:27,083
+Ich bin der König,
+und das hat mal was bedeutet.
+
+287
+00:19:27,166 --> 00:19:29,500
+Sechs Monate sind vergangen,
+und was habt Ihr?
+
+288
+00:19:29,583 --> 00:19:32,541
+Ausreden, Ausgaben,
+aber keine neue Prinzessin,
+
+289
+00:19:32,625 --> 00:19:34,541
+die ich unbedingt heiraten sollte.
+
+290
+00:19:34,625 --> 00:19:37,708
+Unsere Anstrengungen haben sich
+aufgrund der Eichhörnchen verzögert.
+
+291
+00:19:37,791 --> 00:19:39,166
+Oh, noch mehr Ausreden.
+
+292
+00:19:39,250 --> 00:19:41,458
+Ich fang erst gar nicht an
+mit den Bastarden.
+
+293
+00:19:41,541 --> 00:19:44,583
+Beschuldigen uns des Mordes
+an diesem Elfenbaby. [lacht kurz]
+
+294
+00:19:46,125 --> 00:19:47,666
+Das waren doch nicht wir?
+
+295
+00:19:50,916 --> 00:19:53,875
+Ihr habt im Norden die größte Armee
+und die meisten Spione.
+
+296
+00:19:53,958 --> 00:19:56,625
+Wir sind immer noch
+das gefährlichste Reich im Norden.
+
+297
+00:19:56,708 --> 00:19:58,875
+Und was habe ich genau vorzuweisen?
+
+298
+00:19:58,958 --> 00:20:01,833
+[lacht] Ein Spionagemeister,
+der ein Mädchen nicht findet.
+
+299
+00:20:01,916 --> 00:20:04,583
+Nein. Es muss sich was ändern.
+
+300
+00:20:04,666 --> 00:20:06,625
+Ich setze meinen besten Mann darauf an.
+
+301
+00:20:06,708 --> 00:20:08,750
+Jemanden, dem ich vertraue.
+
+302
+00:20:08,833 --> 00:20:09,750
+Radovid!
+
+303
+00:20:11,458 --> 00:20:12,291
+Was ist?
+
+304
+00:20:12,375 --> 00:20:13,791
+- [Korken knallt]
+- [Jubel]
+
+305
+00:20:13,875 --> 00:20:14,775
+[jubelt]
+
+306
+00:20:17,958 --> 00:20:18,858
+Oh.
+
+307
+00:20:22,375 --> 00:20:24,708
+[Philippa] Der kleine Bruder des Königs?
+
+308
+00:20:25,833 --> 00:20:29,291
+Jetzt müssen wir uns auch noch
+um das königliche Missgeschick kümmern.
+
+309
+00:20:30,000 --> 00:20:32,125
+[Dijkstra] Nein, das ist nur Theater.
+
+310
+00:20:32,208 --> 00:20:35,125
+Vizimir will nur alle daran erinnern,
+wer die Krone trägt.
+
+311
+00:20:36,083 --> 00:20:38,458
+Aber er trägt sie nur dank uns.
+
+312
+00:20:39,625 --> 00:20:42,625
+Ach, bei den Göttern.
+Wir machen das schon zu lang, Dijkstra.
+
+313
+00:20:42,708 --> 00:20:44,791
+[kichert] So etwas gibt es nicht.
+
+314
+00:20:44,875 --> 00:20:47,000
+Unsere Allianz, wie alt sie auch sein mag,
+
+315
+00:20:48,041 --> 00:20:48,958
+hält uns jung.
+
+316
+00:20:50,541 --> 00:20:54,333
+Nun, bezüglich des Prinz-Missgeschicks…
+
+317
+00:20:54,416 --> 00:20:56,250
+Findling, Pergament, Dolch.
+
+318
+00:20:57,208 --> 00:20:58,458
+Auf gar keinen Fall.
+
+319
+00:20:58,541 --> 00:21:01,666
+Ich war derjenige,
+der die lyrische Baronin verführen musste.
+
+320
+00:21:01,750 --> 00:21:04,500
+Das einzige Geheimnis,
+das sie verriet, war die Syphilis.
+
+321
+00:21:04,583 --> 00:21:06,041
+Das ist schlimmer als die Woche,
+
+322
+00:21:06,125 --> 00:21:08,916
+die ich über einem mit Scheiße gefüllten
+Burggraben hockte,
+
+323
+00:21:09,000 --> 00:21:11,041
+während sie über die Holzpreise redeten.
+
+324
+00:21:13,500 --> 00:21:14,400
+Gut.
+
+325
+00:21:15,375 --> 00:21:18,125
+Vielleicht finde ich jemanden,
+der auf den Prinzen aufpasst,
+
+326
+00:21:18,208 --> 00:21:19,791
+während er nach dem Mädchen sucht.
+
+327
+00:21:19,875 --> 00:21:22,166
+Mhm. Doch wir trauen sonst niemandem.
+
+328
+00:21:27,875 --> 00:21:28,775
+Hm…
+
+329
+00:21:30,583 --> 00:21:32,625
+Wenn ich das tue…
+
+330
+00:21:34,333 --> 00:21:38,041
+…dann werde ich nach meiner Rückkehr
+die Einzige sein, die Befehle erteilt.
+
+331
+00:21:52,208 --> 00:21:55,958
+[Ciri] Ich war noch nie auf
+einem Belleteyn-Fest außerhalb von Cintra.
+
+332
+00:21:56,500 --> 00:21:58,375
+Das eine Mal hat Herr Lazlo versucht,
+
+333
+00:21:58,458 --> 00:22:00,916
+in voller Rüstung
+über das Lagerfeuer zu springen.
+
+334
+00:22:04,458 --> 00:22:05,541
+Was denkst du?
+
+335
+00:22:08,333 --> 00:22:11,083
+Du solltest dein Haar verstecken,
+genau wie deine Augen.
+
+336
+00:22:13,708 --> 00:22:16,416
+Ist es so schwer zu sagen:
+"Du siehst wundervoll aus"?
+
+337
+00:22:17,166 --> 00:22:18,250
+Ciri.
+
+338
+00:22:20,416 --> 00:22:23,125
+[seufzt] Ich wusste,
+das war eine schlechte Idee.
+
+339
+00:22:23,208 --> 00:22:25,208
+[sanfte Musik]
+
+340
+00:22:37,583 --> 00:22:38,916
+Du siehst wundervoll aus.
+
+341
+00:22:43,625 --> 00:22:45,625
+[rhythmische Musik]
+
+342
+00:22:55,541 --> 00:22:57,833
+[Jubel, Stimmengewirr]
+
+343
+00:23:09,291 --> 00:23:11,958
+- Nicht weggehen.
+- Sollen wir, äh, das Bierzelt suchen?
+
+344
+00:23:14,875 --> 00:23:16,458
+Du kannst Gedanken lesen.
+
+345
+00:23:17,041 --> 00:23:20,000
+[Ciri] Gott, das habe ich vermisst.
+Ich will tanzen gehen.
+
+346
+00:23:20,083 --> 00:23:21,083
+[Yennefer] Pass auf.
+
+347
+00:23:21,875 --> 00:23:23,500
+[altertümliche Volksmusik]
+
+348
+00:23:23,583 --> 00:23:25,500
+[vergnügtes Lachen]
+
+349
+00:23:26,791 --> 00:23:30,166
+[Yennefer] Siehst du, was passiert,
+wenn wir ihr eine schöne Nacht gönnen?
+
+350
+00:23:30,250 --> 00:23:31,150
+Tun wir nicht so,
+
+351
+00:23:31,208 --> 00:23:34,375
+als wären deine Beweggründe
+nicht uneigennützig, Yennefer.
+
+352
+00:23:35,875 --> 00:23:37,208
+[unverständliche Rufe]
+
+353
+00:23:38,250 --> 00:23:40,166
+Zum Geburtstag alles Gute.
+
+354
+00:23:43,625 --> 00:23:46,416
+- Du weißt es noch.
+- Ich vergesse nicht viel.
+
+355
+00:23:48,750 --> 00:23:53,083
+Dann bestimmt auch nicht
+unsere schönen Nächte nach dem Dschinn.
+
+356
+00:23:54,291 --> 00:23:56,708
+[unverständliche Rufe]
+
+357
+00:23:56,791 --> 00:23:58,291
+Die Bibliothek in Kovir.
+
+358
+00:23:59,000 --> 00:24:00,208
+[sie lacht]
+
+359
+00:24:00,791 --> 00:24:02,791
+Da waren wir nicht gerade leise.
+
+360
+00:24:04,791 --> 00:24:07,750
+Das Farmhaus in Murivel.
+
+361
+00:24:10,500 --> 00:24:13,958
+Die nächtliche Kutschfahrt
+von Ellander nach Moën.
+
+362
+00:24:15,000 --> 00:24:19,375
+Und die Rückfahrt.
+Vergiss nicht die Rückfahrt.
+
+363
+00:24:19,458 --> 00:24:23,125
+[Yennefer] Wie könnte ich?
+Genauso wie unsere Nacht in Caingorn.
+
+364
+00:24:23,208 --> 00:24:26,250
+[lacht kurz] Mhm… Diese Drachenjagd.
+
+365
+00:24:28,916 --> 00:24:30,791
+Diese Nächte waren wundervoll.
+
+366
+00:24:31,625 --> 00:24:33,833
+- Doch die Morgen…
+- Sie waren einsam.
+
+367
+00:24:35,875 --> 00:24:37,250
+Du warst oft einfach weg.
+
+368
+00:24:37,958 --> 00:24:39,125
+Genau wie du.
+
+369
+00:24:42,708 --> 00:24:44,708
+Ich weiß, wieso ich ging, doch wieso du?
+
+370
+00:24:47,208 --> 00:24:49,875
+Hattest du Angst, was passiert,
+wenn wir es versuchen?
+
+371
+00:24:57,083 --> 00:25:00,083
+Ich war nicht sicher,
+ob es wirklich das war, was ich wollte.
+
+372
+00:25:01,000 --> 00:25:03,708
+Oder es nur
+ein Trick des Dschinns gewesen ist.
+
+373
+00:25:06,833 --> 00:25:07,750
+Und jetzt?
+
+374
+00:25:09,875 --> 00:25:11,458
+[Ciri] Gehen wir ins Labyrinth!
+
+375
+00:25:12,833 --> 00:25:13,833
+Kommt schon.
+
+376
+00:25:21,625 --> 00:25:22,525
+Kommt schon!
+
+377
+00:25:26,958 --> 00:25:28,958
+[Volksmusik spielt in der Ferne weiter]
+
+378
+00:25:32,583 --> 00:25:34,458
+[Frau lacht vergnügt]
+
+379
+00:25:39,583 --> 00:25:40,958
+[Paar lacht vergnügt]
+
+380
+00:25:41,041 --> 00:25:42,666
+[Volksmusik verklingt]
+
+381
+00:25:42,750 --> 00:25:44,750
+[sanfte Musik]
+
+382
+00:25:52,333 --> 00:25:53,708
+[er räuspert sich]
+
+383
+00:26:13,666 --> 00:26:15,500
+[bedrohliche Klänge]
+
+384
+00:26:18,500 --> 00:26:20,125
+[Gelächter in der Ferne]
+
+385
+00:26:24,750 --> 00:26:26,833
+[sie kichert]
+
+386
+00:26:26,916 --> 00:26:28,166
+[Frau kreischt]
+
+387
+00:26:28,250 --> 00:26:29,750
+[panische Schreie]
+
+388
+00:26:29,833 --> 00:26:30,666
+Ciri.
+
+389
+00:26:30,750 --> 00:26:31,666
+[Frau] Lauft!
+
+390
+00:26:33,666 --> 00:26:34,625
+[Geralt] Ciri!
+
+391
+00:26:35,833 --> 00:26:36,733
+[Yennefer] Ciri!
+
+392
+00:26:37,583 --> 00:26:38,483
+[Geralt] Ciri!
+
+393
+00:26:39,375 --> 00:26:41,500
+- [bedrohliche Klänge]
+- [spannungsvolle Musik]
+
+394
+00:26:41,583 --> 00:26:42,500
+[Yennefer] Ciri!
+
+395
+00:26:43,875 --> 00:26:44,916
+[Ciri] Yennefer!
+
+396
+00:26:46,500 --> 00:26:47,333
+Geralt!
+
+397
+00:26:47,416 --> 00:26:49,416
+[dramatische Musik]
+
+398
+00:26:52,000 --> 00:26:53,250
+[Ciri] Geralt!
+
+399
+00:26:53,333 --> 00:26:54,333
+Yennefer!
+
+400
+00:26:55,791 --> 00:26:57,541
+[Poltern]
+
+401
+00:26:59,750 --> 00:27:01,500
+[grunzt]
+
+402
+00:27:18,375 --> 00:27:19,833
+[kreischt]
+
+403
+00:27:27,333 --> 00:27:28,791
+[spricht Alte Sprache]
+
+404
+00:27:30,583 --> 00:27:32,583
+[kreischt]
+
+405
+00:27:33,291 --> 00:27:34,833
+[spricht Alte Sprache]
+
+406
+00:27:34,916 --> 00:27:36,625
+[Jackapace schreit]
+
+407
+00:27:42,625 --> 00:27:44,250
+[Jackapace kreischt]
+
+408
+00:27:45,333 --> 00:27:47,166
+[Geralt ächzt]
+
+409
+00:27:48,291 --> 00:27:49,458
+[Ciri] Geralt!
+
+410
+00:27:57,583 --> 00:27:59,958
+[Jackapace schreit]
+
+411
+00:28:05,958 --> 00:28:07,833
+[dramatische Musik verklingt]
+
+412
+00:28:13,958 --> 00:28:16,583
+- Wir finden ein anderes Versteck.
+- Mir gefiel dieses.
+
+413
+00:28:17,458 --> 00:28:18,358
+Uns genauso.
+
+414
+00:28:19,375 --> 00:28:21,125
+Wie konnte uns dieses Ding finden?
+
+415
+00:28:21,208 --> 00:28:25,125
+Ein Jackapace jagt nach Geruch.
+Er hat Ciri gefunden, weil er sie kannte.
+
+416
+00:28:25,208 --> 00:28:26,750
+Ihren Geruch? Wie?
+
+417
+00:28:26,833 --> 00:28:30,666
+Vesemir sah in Kaer Morhen,
+wie Rience Ciris Blut gestohlen hat.
+
+418
+00:28:30,750 --> 00:28:32,875
+Er muss es
+als Geruchsmarker benutzt haben.
+
+419
+00:28:32,958 --> 00:28:37,458
+- [Yennefer] Dann findet er uns überall.
+- [Geralt] Außer, wir finden ihn zuerst.
+
+420
+00:28:37,541 --> 00:28:38,583
+Wir locken ihn raus.
+
+421
+00:28:41,333 --> 00:28:43,250
+Wir geben ihm, was er am meisten will.
+
+422
+00:28:45,083 --> 00:28:45,983
+Mich.
+
+423
+00:28:47,750 --> 00:28:52,083
+Tut mir leid. Ich dachte, es wär sicher,
+sonst hätte ich euch nie eingeladen.
+
+424
+00:28:52,166 --> 00:28:53,541
+Das wissen wir.
+
+425
+00:28:53,625 --> 00:28:55,541
+Und Ihr könnt es wiedergutmachen.
+
+426
+00:28:55,625 --> 00:28:57,791
+Ihr habt eine Karawane,
+die morgen loszieht?
+
+427
+00:28:57,875 --> 00:29:00,166
+- Aye. Nach Hagge.
+- Ich will mit Euch gehen.
+
+428
+00:29:00,250 --> 00:29:03,541
+- Etwa ganz allein?
+- Nicht ganz. Wir sind auch da.
+
+429
+00:29:04,333 --> 00:29:08,250
+[Ciri] Wichtig ist, dass es niemand weiß.
+Sonst wird der Plan nicht aufgehen.
+
+430
+00:29:08,333 --> 00:29:12,166
+[lacht] Ich bin dabei.
+Sagt mir, was ich tun soll.
+
+431
+00:29:12,250 --> 00:29:16,583
+[Geralt] Es gibt nur einen Monsterhüter,
+der einen Jackapace einsperrt.
+
+432
+00:29:16,666 --> 00:29:17,875
+[schreit]
+
+433
+00:29:17,958 --> 00:29:19,583
+[Geralt] Sein Name ist Veldhoek.
+
+434
+00:29:20,333 --> 00:29:22,541
+Übler Kerl mit üblen Angewohnheiten.
+
+435
+00:29:22,625 --> 00:29:24,750
+[Ciri] Rience heuerte ihn an,
+mich zu finden.
+
+436
+00:29:24,833 --> 00:29:27,791
+Jetzt wollen sie etwas
+über Euren Konvoi wissen.
+
+437
+00:29:27,875 --> 00:29:30,791
+[Yennefer] Beschwert Euch
+über die verzogene Göre,
+
+438
+00:29:30,875 --> 00:29:32,416
+die Belleteyn verdorben hat.
+
+439
+00:29:32,500 --> 00:29:33,666
+Was noch schlimmer ist:
+
+440
+00:29:33,750 --> 00:29:36,083
+Ich schlepp den Arsch,
+dieses efeuäugige Balg,
+
+441
+00:29:36,166 --> 00:29:38,541
+bis Aedirn in meiner Karawane mit.
+
+442
+00:29:38,625 --> 00:29:42,125
+Ich werde das Doppelte verlangen,
+weil ich ihr Geplapper ertragen muss.
+
+443
+00:29:45,375 --> 00:29:47,250
+[Veldhoek] Komm schon, du Elfenköter.
+
+444
+00:29:49,333 --> 00:29:51,666
+[Ciri] Sie werden wissen,
+von wem Ihr redet.
+
+445
+00:29:51,750 --> 00:29:53,250
+[Knurren]
+
+446
+00:29:53,333 --> 00:29:55,375
+Und wie viel diese Information wert ist.
+
+447
+00:29:55,458 --> 00:29:58,625
+- [Rience] Genießt die Belohnung.
+- [Yarpen] Moment, Gänseblümchen.
+
+448
+00:29:58,708 --> 00:30:01,875
+Denkt ihr, der Magier glaubt,
+dass ihr Ciri ohne Begleitung gehen lasst?
+
+449
+00:30:01,958 --> 00:30:04,250
+Sie wird mit jemandem reisen,
+dem wir vertrauen.
+
+450
+00:30:04,333 --> 00:30:08,291
+Jemandem, der scheinbar ungefährlich ist.
+
+451
+00:30:08,375 --> 00:30:10,166
+Ach, komm schon! Nein!
+
+452
+00:30:10,250 --> 00:30:11,166
+[er schreit]
+
+453
+00:30:11,250 --> 00:30:12,458
+Es war nur das eine Mal.
+
+454
+00:30:12,541 --> 00:30:15,041
+Ich gebe zu,
+es waren viele verschiedenen Personen,
+
+455
+00:30:15,125 --> 00:30:16,750
+doch es war bedeutungslos.
+
+456
+00:30:16,833 --> 00:30:19,708
+Ich meine, die gehören nicht mal mir!
+
+457
+00:30:19,791 --> 00:30:23,208
+Dachtest du, dass du der Einzige bist,
+der sich anderweitig vergnügt?
+
+458
+00:30:23,291 --> 00:30:26,750
+Du elender, verlogener Sohn des Teufels.
+
+459
+00:30:26,833 --> 00:30:30,375
+Nun… Ja, irgendwie schon.
+
+460
+00:30:31,083 --> 00:30:33,791
+Das ist, was wir tun, meine Süße.
+
+461
+00:30:33,875 --> 00:30:34,916
+Wir sind Kreative.
+
+462
+00:30:35,625 --> 00:30:36,916
+Freidenker.
+
+463
+00:30:37,000 --> 00:30:38,625
+Alles ist gestattet.
+
+464
+00:30:38,708 --> 00:30:40,875
+- Ist das so?
+- Oh Gott! Oh!
+
+465
+00:30:40,958 --> 00:30:45,375
+Wann werden magische, sexy Frauen
+endlich aufhören, mich zu erschrecken?
+
+466
+00:30:45,458 --> 00:30:47,416
+Sonst seid Ihr es, die mich überrascht.
+
+467
+00:30:47,500 --> 00:30:49,583
+- Sie hat doch keine Armbrust, oder?
+- Nein.
+
+468
+00:30:51,125 --> 00:30:53,208
+Möglich. Ich würde es nicht ausschließen.
+
+469
+00:30:53,291 --> 00:30:54,541
+Keine Armbrüste!
+
+470
+00:30:54,625 --> 00:30:58,708
+Und Ihr könnt ihn ruhig haben
+und seinen pockennarbigen Schwanz.
+
+471
+00:30:58,791 --> 00:31:00,375
+Und wer lügt jetzt, Vespula?
+
+472
+00:31:00,458 --> 00:31:02,958
+Wir haben die Geduld verloren,
+Strandläufer.
+
+473
+00:31:03,791 --> 00:31:07,333
+- Ich tue alles, was ich kann.
+- Ihr tut gar nichts.
+
+474
+00:31:07,416 --> 00:31:09,875
+Ihr bescheißt einfach nur ein paar Leute.
+
+475
+00:31:10,875 --> 00:31:13,375
+Es wurde schon viel
+in Eure Operation investiert,
+
+476
+00:31:13,458 --> 00:31:16,250
+doch es gab bisher keine Gegenleistung.
+
+477
+00:31:17,500 --> 00:31:20,125
+Dijkstra und ich würden dich
+ja sofort loswerden.
+
+478
+00:31:21,583 --> 00:31:23,750
+Aber König Vizimir ist nachsichtiger.
+
+479
+00:31:23,833 --> 00:31:27,208
+Er wird das Mädchen
+mit offenen Armen empfangen. Sollen wir?
+
+480
+00:31:27,291 --> 00:31:29,458
+Ja, und mit geöffneten Beinkleidern.
+
+481
+00:31:29,541 --> 00:31:33,125
+Ja, nein, Schätzchen.
+Nein. Sieh mich an. Sieh mir in die Augen.
+
+482
+00:31:33,208 --> 00:31:35,833
+Es gibt keinen Grund,
+Unschuldigen so etwas anzutun.
+
+483
+00:31:35,916 --> 00:31:37,875
+Nein, nein, nein. Nein! Nein!
+
+484
+00:31:40,916 --> 00:31:45,125
+Ich dachte, ich hätte Euch in einer Bar
+ein ganzes Stück entfernt zurückgelassen?
+
+485
+00:31:45,208 --> 00:31:47,458
+- Richtig. Es wurde langweilig.
+- Oh.
+
+486
+00:31:49,833 --> 00:31:53,625
+Was für eine glückliche Fügung.
+Ich wollte Euch schon lange kennenlernen.
+
+487
+00:31:55,166 --> 00:31:58,250
+- "Lied der Sieben" ist mein Lieblingslied.
+- Ja. Äh…
+
+488
+00:31:58,333 --> 00:32:01,666
+Etwas ironisch, aber danke. Seht Ihr?
+Die Menschen mögen mich.
+
+489
+00:32:01,750 --> 00:32:04,791
+Ich… Ich habe Fans.
+Entschuldigt, wie war noch Euer Name?
+
+490
+00:32:04,875 --> 00:32:06,333
+- Äh, Radovid.
+- Natürlich.
+
+491
+00:32:06,416 --> 00:32:08,916
+- Äh, Komma, Prinz.
+- Komma, wow.
+
+492
+00:32:09,000 --> 00:32:11,291
+Wow. Ihr seid… Oh…
+
+493
+00:32:11,375 --> 00:32:14,041
+Der Prinz von Redanien. Scheiße.
+
+494
+00:32:14,125 --> 00:32:17,250
+Ich weiß nicht, ob ich
+mich verbeugen oder höflich sein soll.
+
+495
+00:32:17,333 --> 00:32:19,708
+Ich habe Eure Hand zu lange gehalten.
+Tut mir leid.
+
+496
+00:32:19,791 --> 00:32:23,000
+Ich wünschte, ich könnte Euch helfen.
+Das tue ich. Aber…
+
+497
+00:32:23,083 --> 00:32:26,333
+- Aber gar nichts, Strandläufer.
+- Lasst mich einen Gedanken äußern.
+
+498
+00:32:26,416 --> 00:32:30,000
+Dieses arme Cirilla-Ding
+hat Feinde überall.
+
+499
+00:32:30,083 --> 00:32:33,833
+Und um ehrlich zu sein,
+ist Redanien kein schlimmer Ort.
+
+500
+00:32:33,916 --> 00:32:38,541
+Etwas kalt im Winter und feucht im Sommer,
+aber das Essen ist spektakulär.
+
+501
+00:32:38,625 --> 00:32:42,666
+Und mein Bruder ist nicht übel
+für einen Monarchen.
+
+502
+00:32:44,916 --> 00:32:46,916
+Redanien mag nicht perfekt sein,
+
+503
+00:32:47,000 --> 00:32:48,708
+doch es ist die beste Option.
+
+504
+00:32:49,666 --> 00:32:51,708
+Ihr könntet der königliche Barde sein.
+
+505
+00:32:51,791 --> 00:32:53,291
+[lacht] Äh…
+
+506
+00:32:53,375 --> 00:32:54,708
+Äh, nein. Äh, nein.
+
+507
+00:32:54,791 --> 00:32:57,333
+Ein ruhiges Dasein am Hof
+ist nichts für mich.
+
+508
+00:32:57,416 --> 00:33:00,541
+Wenn Eure Zeit am Hof zu ruhig war,
+lief etwas falsch.
+
+509
+00:33:04,000 --> 00:33:10,125
+Entweder Ihr bringt uns die Kleine,
+oder wir werden eigenhändig jede gute Tat,
+
+510
+00:33:10,208 --> 00:33:13,041
+die Ihr für die Elfen getan habt,
+zunichtemachen.
+
+511
+00:33:14,625 --> 00:33:15,750
+Wir werden alle töten.
+
+512
+00:33:15,833 --> 00:33:17,500
+Ja, ja. Schon verstanden.
+
+513
+00:33:18,375 --> 00:33:22,000
+Ich habe noch was zu erledigen,
+bevor ich ein Portal nach Dreiberg öffne.
+
+514
+00:33:22,083 --> 00:33:24,458
+Ihr habt fünf Tage.
+
+515
+00:33:31,958 --> 00:33:34,958
+[Yarpen]
+Oi, Ihr lautenspielender Schlappschwanz.
+
+516
+00:33:35,041 --> 00:33:40,166
+Und schon bin ich in der nächsten Hölle.
+Herr Zigrin!
+
+517
+00:33:43,000 --> 00:33:45,083
+- Julian Alfred Pankratz.
+- Ja, ich weiß.
+
+518
+00:33:45,166 --> 00:33:47,125
+Ich weiß. Ich weiß die Scheiße noch.
+
+519
+00:33:47,208 --> 00:33:49,541
+Ja. Es ist so 'ne Dreierregel.
+Das muss sein.
+
+520
+00:33:49,625 --> 00:33:51,208
+Was kann ich für Euch tun?
+
+521
+00:33:51,291 --> 00:33:54,375
+Ich habe noch Ohren und Zähne,
+also gar nichts.
+
+522
+00:33:55,291 --> 00:33:58,375
+Aber Eure Freunde brauchen Hilfe.
+
+523
+00:34:02,833 --> 00:34:04,583
+[seufzt] Natürlich tun sie das.
+
+524
+00:34:05,958 --> 00:34:07,166
+[Rittersporn] Köder!
+
+525
+00:34:07,250 --> 00:34:09,708
+Ich bin seit vier Tagen unterwegs,
+
+526
+00:34:09,791 --> 00:34:11,916
+mit Hunger
+und im Kampf gegen die Elemente.
+
+527
+00:34:12,000 --> 00:34:15,291
+Nur um bei Ankunft zu erfahren,
+dass ich als Köder benutzt werde.
+
+528
+00:34:15,375 --> 00:34:18,750
+Rittersporn, ich bin der Köder.
+Rience ist hinter mir her.
+
+529
+00:34:18,833 --> 00:34:22,666
+Ja, und er wird dich nicht töten,
+doch bei mir sieht das ganz anders aus.
+
+530
+00:34:22,750 --> 00:34:24,000
+Verstehst du meine Angst?
+
+531
+00:34:24,083 --> 00:34:26,666
+Wir lassen nicht zu,
+dass Euch etwas geschieht.
+
+532
+00:34:26,750 --> 00:34:30,125
+Ich habe Euch schon mal gerettet
+und tue es wieder, Pankratz.
+
+533
+00:34:30,208 --> 00:34:32,458
+Von wegen mich gerettet.
+
+534
+00:34:32,541 --> 00:34:35,583
+Sie hat mich nicht gerettet.
+Sie… Hat sie nicht.
+
+535
+00:34:36,583 --> 00:34:39,166
+Aber ganz ehrlich:
+Ihr werdet mich retten, oder?
+
+536
+00:34:39,250 --> 00:34:41,500
+Wir werden nicht
+vor Sonnenuntergang ankommen.
+
+537
+00:34:43,500 --> 00:34:45,083
+Bleiben wir erst mal hier.
+
+538
+00:34:45,166 --> 00:34:47,166
+[unverständliche Rufe]
+
+539
+00:34:47,250 --> 00:34:49,250
+[sanfte, epische Musik]
+
+540
+00:35:09,125 --> 00:35:11,041
+[Ciri] Was ist das für ein Ort?
+
+541
+00:35:11,125 --> 00:35:12,791
+[Geralt] Das ist Shaerrawedd.
+
+542
+00:35:12,875 --> 00:35:16,000
+[Yennefer] Seid vorsichtig.
+Dieses Land ist voller Geschichten.
+
+543
+00:35:17,208 --> 00:35:20,166
+Ich habe noch nie
+so viele wilde Rosen an einem Ort gesehen.
+
+544
+00:35:21,208 --> 00:35:22,458
+Sie sind wunderschön.
+
+545
+00:35:23,375 --> 00:35:25,625
+Ihre Geschichte ist es leider nicht.
+
+546
+00:35:27,666 --> 00:35:28,750
+Aelirenn.
+
+547
+00:35:29,500 --> 00:35:31,666
+Eine mutige und inspirierende Elfin,
+
+548
+00:35:31,750 --> 00:35:34,416
+die dachte,
+sie könne die Menschen besiegen.
+
+549
+00:35:35,625 --> 00:35:36,750
+Sie lag falsch.
+
+550
+00:35:37,958 --> 00:35:40,416
+Eine recht kurze Version der Geschichte.
+
+551
+00:35:42,166 --> 00:35:43,458
+[Ciri] Wie lautet deine?
+
+552
+00:35:44,708 --> 00:35:47,791
+Nach der Konjunktion
+trafen die Menschen ein.
+
+553
+00:35:48,750 --> 00:35:52,416
+Die Elfen dachten, die Menschen
+wären nichts weiter als ein Ärgernis,
+
+554
+00:35:52,500 --> 00:35:54,875
+wie eine Heuschreckenplage
+oder eine Dürre,
+
+555
+00:35:55,458 --> 00:35:58,041
+das kaum länger
+als einen Augenblick andauern würde.
+
+556
+00:35:58,791 --> 00:36:00,916
+Doch die Menschen vermehrten sich weiter.
+
+557
+00:36:02,041 --> 00:36:03,083
+Und töteten.
+
+558
+00:36:05,791 --> 00:36:08,875
+Aelirenn wusste,
+dass die Gefahr nicht verschwinden würde.
+
+559
+00:36:08,958 --> 00:36:12,916
+Also versammelte sie alle jungen Elfen
+für die Schlacht in Shaerrawedd.
+
+560
+00:36:16,583 --> 00:36:20,500
+Sie kämpfte für das, woran sie glaubte.
+Um ihr Volk zu beschützen.
+
+561
+00:36:21,125 --> 00:36:24,041
+[Geralt] Sie hat für das gekämpft,
+woran sie glaubte.
+
+562
+00:36:24,125 --> 00:36:27,375
+Sie führte diese jungen,
+leidenschaftlichen Elfen in den Krieg.
+
+563
+00:36:29,375 --> 00:36:31,250
+Dieser Ort war für sie heilig.
+
+564
+00:36:32,541 --> 00:36:34,250
+Sie haben hier gekämpft.
+
+565
+00:36:35,041 --> 00:36:36,750
+Sie kämpften für sie.
+
+566
+00:36:36,833 --> 00:36:39,791
+Und hier starben sie
+mit ihrem Namen auf den Lippen,
+
+567
+00:36:39,875 --> 00:36:42,333
+erfüllt von Ehre und Integrität.
+
+568
+00:36:43,000 --> 00:36:44,208
+Und indem sie das taten,
+
+569
+00:36:44,291 --> 00:36:46,916
+verdammten sie
+ihre Spezies zum Aussterben.
+
+570
+00:36:50,333 --> 00:36:52,666
+Sie hat sie alle in den Tod geführt.
+
+571
+00:36:54,458 --> 00:36:57,625
+Neutralität verschafft dir keine Statue.
+
+572
+00:36:58,666 --> 00:37:01,125
+Aber sie hilft dabei, am Leben zu bleiben.
+
+573
+00:37:10,458 --> 00:37:13,083
+- [Elf 1] Und kämpft!
+- [Elf 2] Schwache Menschen.
+
+574
+00:37:13,958 --> 00:37:15,875
+[Elfin] Das wird ihnen eine Lehre sein!
+
+575
+00:37:15,958 --> 00:37:16,791
+[Elfen] Ja!
+
+576
+00:37:16,875 --> 00:37:20,166
+[Gallatin] Wann lernen die Menschen,
+mit mehr Wachen zu reisen?
+
+577
+00:37:20,875 --> 00:37:21,958
+Esst.
+
+578
+00:37:22,708 --> 00:37:23,708
+Hier.
+
+579
+00:37:23,791 --> 00:37:26,416
+Ihr müsst etwas essen.
+Ich brauche Euch da draußen.
+
+580
+00:37:27,083 --> 00:37:28,041
+Hier.
+
+581
+00:37:29,666 --> 00:37:30,583
+Esst.
+
+582
+00:37:33,500 --> 00:37:37,000
+- Das Essen ist nur für die Krieger.
+- Wir haben auch gekämpft.
+
+583
+00:37:37,083 --> 00:37:41,208
+- Dann esst doch einfach Eure Beute.
+- Alle Elfen teilen alles gerecht auf.
+
+584
+00:37:41,791 --> 00:37:44,416
+Andernfalls sind wir
+nicht besser als die Menschen.
+
+585
+00:37:52,291 --> 00:37:54,875
+Alle Elfen
+müssen auch gleich viel riskieren.
+
+586
+00:37:57,000 --> 00:37:58,041
+Ihr hattet recht.
+
+587
+00:37:58,125 --> 00:38:01,125
+Unsere Scoia'tael-Streitkräfte
+sollten vereint sein.
+
+588
+00:38:01,875 --> 00:38:04,500
+Für unser Ziel und auch für die Schlacht.
+
+589
+00:38:05,291 --> 00:38:07,458
+Es war wohl ein ereignisreicher Morgen.
+
+590
+00:38:07,541 --> 00:38:09,750
+Was da draußen
+ließ Euch Eure Meinung ändern?
+
+591
+00:38:09,833 --> 00:38:10,958
+[Francesca] Nichts.
+
+592
+00:38:11,041 --> 00:38:13,750
+Ich hatte einfach Zeit,
+Euren Standpunkt zu überdenken.
+
+593
+00:38:15,041 --> 00:38:17,916
+Unsere Vorstellungen
+von Dol Blathanna unterscheiden sich.
+
+594
+00:38:18,625 --> 00:38:22,833
+Aber wir wollen beide ein Zuhause.
+Gemeinsam können wir es schneller finden.
+
+595
+00:38:31,291 --> 00:38:33,583
+Ihr solltet öfter
+aus diesem Zelt rauskommen.
+
+596
+00:38:33,666 --> 00:38:34,666
+[lacht leise]
+
+597
+00:38:36,250 --> 00:38:38,750
+Gleich morgen werden wir wieder angreifen.
+
+598
+00:38:39,916 --> 00:38:42,583
+Ich bleibe an Eurer Seite.
+So lange wie nötig.
+
+599
+00:38:52,958 --> 00:38:54,958
+[Vögel zwitschern]
+
+600
+00:39:03,333 --> 00:39:04,791
+[spannungsvolle Klänge]
+
+601
+00:39:06,250 --> 00:39:07,875
+- Ciri!
+- [Yennefer] Ciri.
+
+602
+00:39:07,958 --> 00:39:10,833
+Haltet ihr mich etwa
+für eine so beschissene Wache?
+
+603
+00:39:15,041 --> 00:39:16,500
+Ich hatte wieder einen Traum.
+
+604
+00:39:18,458 --> 00:39:19,791
+[Geralt] Einen Albtraum?
+
+605
+00:39:21,000 --> 00:39:22,541
+Nein, er war nicht so schlimm.
+
+606
+00:39:23,250 --> 00:39:27,375
+Ich konnte nicht schlafen und dachte
+an Aelirenn und meine Großmutter.
+
+607
+00:39:28,083 --> 00:39:31,791
+Zwischen ihnen liegen Jahrhunderte,
+doch sie brannten für dieselbe Mission.
+
+608
+00:39:34,541 --> 00:39:36,750
+Sie wollten die andere Spezies auslöschen.
+
+609
+00:39:38,083 --> 00:39:39,541
+[er seufzt leise]
+
+610
+00:39:46,166 --> 00:39:50,000
+Als ich endlich einschlief,
+fiel es mir auf.
+
+611
+00:39:53,625 --> 00:39:55,708
+Vielleicht kann ich etwas anderes bieten.
+
+612
+00:39:58,208 --> 00:40:01,500
+Einen Weg nach vorne,
+der uns nicht trennt, sondern vereint.
+
+613
+00:40:02,875 --> 00:40:05,250
+Ich bin genauso ein Elf,
+wie ich ein Mensch bin.
+
+614
+00:40:05,333 --> 00:40:07,625
+Ich verstehe beide,
+weil ich auch beides bin.
+
+615
+00:40:07,708 --> 00:40:09,166
+Und das ist meine Stärke.
+
+616
+00:40:09,250 --> 00:40:11,416
+Ich verstehe, was du sagst.
+
+617
+00:40:13,500 --> 00:40:17,708
+Geschichte hat die Angewohnheit,
+sich zu wiederholen.
+
+618
+00:40:18,541 --> 00:40:20,166
+Selbst für die Idealisten.
+
+619
+00:40:20,250 --> 00:40:21,150
+Du meinst,
+
+620
+00:40:21,208 --> 00:40:24,083
+Aelirenns Idealismus
+war der Grund für das Massaker.
+
+621
+00:40:24,166 --> 00:40:26,791
+Aber was wäre,
+wenn ihre Älteren ihr geholfen hätten,
+
+622
+00:40:26,875 --> 00:40:28,333
+statt sie im Stich zu lassen?
+
+623
+00:40:28,416 --> 00:40:30,125
+Dann hätten sie gewinnen können.
+
+624
+00:40:31,250 --> 00:40:34,375
+Yen, du hast etwas gehört,
+als du bei den Elfen gefangen warst.
+
+625
+00:40:34,458 --> 00:40:36,708
+Du sagtest, sie hatten eine Redensart.
+
+626
+00:40:38,166 --> 00:40:40,416
+[Yennefer spricht Alte Sprache]
+
+627
+00:40:42,250 --> 00:40:44,458
+"Was mal gewesen ist,
+muss nicht immer sein."
+
+628
+00:40:46,000 --> 00:40:51,000
+Francesca, die Elfenkönigin, sie glaubte,
+sie könne ihrem ganzen Volk mehr bieten.
+
+629
+00:40:51,083 --> 00:40:52,791
+Und das tue ich auch.
+
+630
+00:40:54,750 --> 00:40:58,291
+Geralt, du hast mich das Kämpfen gelehrt.
+Genau wie Calanthe.
+
+631
+00:40:58,375 --> 00:41:01,375
+Und Yen, du bringst mir bei,
+wie ich meine Kräfte nutzen kann.
+
+632
+00:41:01,458 --> 00:41:03,000
+Genau wie Mäussack.
+
+633
+00:41:03,083 --> 00:41:06,416
+Was, wenn das der Grund ist,
+weshalb wir uns begegnet sind?
+
+634
+00:41:08,208 --> 00:41:11,875
+Nenneke sagte, ich habe die Kraft,
+den Kreislauf des Hasses zu ändern.
+
+635
+00:41:12,791 --> 00:41:14,000
+Und das will ich auch.
+
+636
+00:41:15,583 --> 00:41:18,291
+Ich will das Gleichgewicht
+zwischen Königen und Magiern sein
+
+637
+00:41:18,375 --> 00:41:19,750
+und den Kontinent vereinen,
+
+638
+00:41:19,833 --> 00:41:22,916
+anstatt ständig nur seine Bewohner
+in den Krieg zu schicken.
+
+639
+00:41:23,000 --> 00:41:27,625
+Denn ich habe endgültig genug
+von Zerstörung und Verlust.
+
+640
+00:41:32,125 --> 00:41:33,833
+Ich zweifle nicht an dir, Ciri.
+
+641
+00:41:36,500 --> 00:41:38,875
+Doch an dieser Welt zweifle ich schon.
+
+642
+00:41:39,875 --> 00:41:40,708
+Es, äh…
+
+643
+00:41:40,791 --> 00:41:42,291
+[dumpfes Rumpeln]
+
+644
+00:41:42,375 --> 00:41:44,375
+[bedrohliche Musik]
+
+645
+00:41:46,291 --> 00:41:48,250
+Gehen wir. Sofort.
+
+646
+00:41:52,958 --> 00:41:54,708
+[Yennefer] Wir sind in deiner Nähe.
+
+647
+00:42:08,000 --> 00:42:09,166
+Bist du so weit?
+
+648
+00:42:10,625 --> 00:42:13,833
+- [Yennefer] Wie lange warten wir?
+- [Geralt] Bis zu ihrer Ankunft.
+
+649
+00:42:16,333 --> 00:42:17,250
+[sie seufzt]
+
+650
+00:42:17,333 --> 00:42:18,500
+Sie schafft das.
+
+651
+00:42:19,250 --> 00:42:21,250
+[spannungsvolle Musik]
+
+652
+00:42:27,833 --> 00:42:29,625
+[Rience] Cirilla von Cintra.
+
+653
+00:42:31,125 --> 00:42:32,500
+Endlich ganz allein.
+
+654
+00:42:33,458 --> 00:42:35,125
+Nun, nicht ganz.
+
+655
+00:42:35,208 --> 00:42:36,916
+Heute habe ich mehr Freunde dabei.
+
+656
+00:42:38,000 --> 00:42:40,250
+[Kampflaute, Ächzen]
+
+657
+00:42:52,250 --> 00:42:56,708
+Das letzte Mal hat mein Verstand gereicht.
+Zeit, dass Ihr meine Magie kennenlernt.
+
+658
+00:43:03,291 --> 00:43:05,291
+[Kampflaute, Ächzen]
+
+659
+00:43:12,541 --> 00:43:14,333
+- [Mann 1] Ihr nach!
+- [Mann 2] Holt sie!
+
+660
+00:43:14,416 --> 00:43:18,250
+- Sieht gut für mich aus.
+- [Yarpen] Für uns sieht's noch besser aus!
+
+661
+00:43:18,333 --> 00:43:19,666
+[Kampfschreie]
+
+662
+00:43:22,333 --> 00:43:24,291
+[Kampflaute, Ächzen]
+
+663
+00:43:28,833 --> 00:43:30,250
+[Yennefer] Geralt!
+
+664
+00:43:31,041 --> 00:43:31,941
+[Rience] Fuck.
+
+665
+00:43:33,208 --> 00:43:34,458
+Los!
+
+666
+00:43:53,833 --> 00:43:55,416
+[Ciri] Kannst du es offenhalten?
+
+667
+00:43:55,500 --> 00:43:59,541
+Eine neue Art des chaotischen Wahnsinns.
+Ich tue, was ich kann.
+
+668
+00:43:59,625 --> 00:44:01,958
+Wir müssen nur auf Geralt warten.
+
+669
+00:44:02,041 --> 00:44:04,291
+[Yarpen] In Deckung! Bogenschützen!
+
+670
+00:44:04,375 --> 00:44:07,041
+[weiter Schreie, Kampflaute]
+
+671
+00:44:14,041 --> 00:44:16,875
+- Wo zum Teufel ist die Karawane?
+- Nur sie ist wichtig.
+
+672
+00:44:23,750 --> 00:44:25,750
+Ihr habt Eure Befehle. Los.
+
+673
+00:44:26,375 --> 00:44:28,083
+Was? Scheiße!
+
+674
+00:44:35,500 --> 00:44:37,083
+[Ächzen]
+
+675
+00:44:37,666 --> 00:44:38,708
+[Ciri] Halt es offen.
+
+676
+00:44:39,291 --> 00:44:40,191
+[Elf] Los, kommt!
+
+677
+00:44:40,250 --> 00:44:42,250
+[weiter Kampflaute, Ächzen]
+
+678
+00:44:51,625 --> 00:44:53,291
+Ihr seht gar nicht besonders aus.
+
+679
+00:45:02,083 --> 00:45:03,041
+[Yarpen] Bewegung!
+
+680
+00:45:03,125 --> 00:45:05,833
+[Rittersporn] Kommt schon.
+Kommt, ich habe Euch.
+
+681
+00:45:09,666 --> 00:45:11,833
+Ihr nennt Euch selbst eine Elfin.
+
+682
+00:45:12,500 --> 00:45:13,708
+Sie ist Hen Ichaer.
+
+683
+00:45:14,291 --> 00:45:15,833
+- Und sie muss zu…
+- Mir!
+
+684
+00:45:15,916 --> 00:45:17,708
+[Francesca schreit]
+
+685
+00:45:19,500 --> 00:45:21,500
+[Filavandrel] Wir müssen sie wegbringen.
+
+686
+00:45:21,583 --> 00:45:23,083
+[Yennefer] Komm schon, Geralt.
+
+687
+00:45:25,708 --> 00:45:27,375
+[Flüsterstimmen in Alter Sprache]
+
+688
+00:45:28,708 --> 00:45:30,375
+Eure Magierin ist überfordert.
+
+689
+00:45:42,791 --> 00:45:45,416
+- [Knochen knacken]
+- [Rience schreit vor Schmerz]
+
+690
+00:45:54,125 --> 00:45:55,791
+[Yennefer] Die Elfen wollen Ciri.
+
+691
+00:45:58,958 --> 00:46:00,041
+[Yarpen] Hier lang!
+
+692
+00:46:01,916 --> 00:46:03,916
+[weiter Kampflaute und Ächzen]
+
+693
+00:46:33,291 --> 00:46:35,750
+[Elf] Ja! Da sind sie. Ihnen nach!
+
+694
+00:46:40,583 --> 00:46:43,875
+Ihr werdet sterben,
+ihr beschissenen Eichhörnchen!
+
+695
+00:46:43,958 --> 00:46:45,250
+Geh. Rückzug.
+
+696
+00:46:45,750 --> 00:46:47,416
+- Rückzug!
+- [Elf] Rückzug!
+
+697
+00:46:47,500 --> 00:46:49,333
+Rückzug! Folgt mir! Schnell!
+
+698
+00:46:49,416 --> 00:46:51,375
+Kommt schon. Ihr schafft das. Steht auf.
+
+699
+00:46:56,083 --> 00:46:58,250
+[schreit vor Schmerz]
+
+700
+00:46:58,333 --> 00:46:59,833
+[Elf] Zieht euch zurück!
+
+701
+00:47:00,833 --> 00:47:03,083
+Ich hab sie! Hier ist sie!
+
+702
+00:47:03,166 --> 00:47:04,666
+[er schreit]
+
+703
+00:47:05,416 --> 00:47:06,583
+[Francesca] Nein, nein!
+
+704
+00:47:08,291 --> 00:47:09,191
+Wir müssen gehen.
+
+705
+00:47:09,250 --> 00:47:10,875
+- [Elf] Rückzug!
+- [Ciri] Vorsicht.
+
+706
+00:47:10,958 --> 00:47:14,208
+[Rittersporn ächzt] Wenn das das Ende ist,
+versprich mir,
+
+707
+00:47:14,291 --> 00:47:16,958
+dass Valdo Marx
+nicht auf meiner Beerdigung singt.
+
+708
+00:47:17,041 --> 00:47:18,833
+[Geralt] Das wird wieder.
+
+709
+00:47:19,541 --> 00:47:23,625
+Eure Laute dagegen,
+sie hat schon bessere Tage gesehen.
+
+710
+00:47:23,708 --> 00:47:27,583
+Ihr habt meinen Männern geholfen.
+Ich habe Euch zu danken,
+
+711
+00:47:28,375 --> 00:47:29,625
+Rittersporn.
+
+712
+00:47:30,541 --> 00:47:33,708
+- Es gab nie einen mutigeren Köder.
+- [er lacht]
+
+713
+00:47:35,708 --> 00:47:36,666
+[Rittersporn ächzt]
+
+714
+00:47:37,250 --> 00:47:39,500
+Versprecht mir,
+dass wir das nie wieder tun.
+
+715
+00:47:41,958 --> 00:47:43,083
+Danke, Rittersporn.
+
+716
+00:47:51,083 --> 00:47:54,541
+[Geralt] Du sagtest, du hättest nie
+ein Portal wie dieses erlebt.
+
+717
+00:47:55,458 --> 00:47:56,875
+Wie hast du das gemeint?
+
+718
+00:47:57,500 --> 00:47:58,708
+Es war dunkel.
+
+719
+00:47:59,666 --> 00:48:01,083
+Es hat mich eingenommen.
+
+720
+00:48:02,833 --> 00:48:04,708
+Ich kann es noch immer spüren.
+
+721
+00:48:04,791 --> 00:48:08,250
+Rience ist nicht der einzige Magier,
+mit dem wir's zu tun haben.
+
+722
+00:48:09,375 --> 00:48:11,791
+Jemand sehr Mächtiges
+gibt ihm Anweisungen.
+
+723
+00:48:11,875 --> 00:48:14,208
+Ciris Ausbildung
+muss schneller voranschreiten.
+
+724
+00:48:14,291 --> 00:48:16,208
+Ich werde härter trainieren.
+
+725
+00:48:16,291 --> 00:48:20,208
+Es geht nicht darum, was du tun kannst,
+sondern was ich tun kann.
+
+726
+00:48:20,291 --> 00:48:21,625
+Doch nicht ohne Hilfe.
+
+727
+00:48:21,708 --> 00:48:23,750
+- Wenn ich nur mit Tissaia…
+- Nein.
+
+728
+00:48:25,666 --> 00:48:29,375
+Du weißt nicht, wie schwierig es ist,
+Macht zu verkörpern, ohne Zugang zu ihr.
+
+729
+00:48:29,458 --> 00:48:31,750
+Nach Aretuza zu gehen,
+ist nicht der einzige Weg.
+
+730
+00:48:31,833 --> 00:48:33,625
+Es ist das Beste für sie.
+
+731
+00:48:34,208 --> 00:48:35,500
+Ist es das?
+
+732
+00:48:37,041 --> 00:48:40,458
+Dann komm mit uns.
+Und pass dort auf sie auf.
+
+733
+00:48:41,791 --> 00:48:46,333
+[Ciri] Alles, was ich will, ist,
+dass sich unsere Wege nicht trennen.
+
+734
+00:48:50,791 --> 00:48:52,583
+[Yennefer] Ich kann das schaffen.
+
+735
+00:48:54,125 --> 00:48:56,125
+Doch dafür brauche ich dein Vertrauen.
+
+736
+00:49:03,416 --> 00:49:06,083
+Zunächst muss ich Rience finden
+und es beenden.
+
+737
+00:49:08,166 --> 00:49:09,666
+Ich kann nicht mit Euch gehen.
+
+738
+00:49:12,500 --> 00:49:14,250
+Und wir können nicht mit dir gehen.
+
+739
+00:49:16,916 --> 00:49:18,583
+Dann müssen wir uns aufteilen.
+
+740
+00:49:25,083 --> 00:49:30,291
+[Francesca]
+♪ Im Dreck nun liegt Baldrin hier ♪
+
+741
+00:49:31,041 --> 00:49:35,791
+♪ Schuld ist nur der Menschheit Gier ♪
+
+742
+00:49:36,458 --> 00:49:40,583
+♪ Tapferer Hogal musst gehen ♪
+
+743
+00:49:41,625 --> 00:49:45,541
+♪ Lasst das Menschenblut uns sehen ♪
+
+744
+00:49:46,291 --> 00:49:49,875
+♪ Doch Hogal träumt immerzu ♪
+
+745
+00:49:51,958 --> 00:49:54,291
+♪ Rache lässt ihm keine Ruh ♪
+
+746
+00:49:54,375 --> 00:49:57,375
+Sie hat gerade ihren Bruder verloren.
+
+747
+00:49:57,458 --> 00:49:59,625
+Und ich habe ein Dutzend weitere verloren.
+
+748
+00:49:59,708 --> 00:50:02,375
+Wir sollten zusammen
+diese Karawane angreifen.
+
+749
+00:50:02,458 --> 00:50:04,875
+Sie hat uns angelogen.
+
+750
+00:50:06,333 --> 00:50:07,708
+All dieser Verlust,
+
+751
+00:50:08,333 --> 00:50:09,791
+um ein Mädchen zu fangen.
+
+752
+00:50:25,833 --> 00:50:27,250
+Das Mädchen, du kennst sie.
+
+753
+00:50:27,333 --> 00:50:32,041
+[ächzt vor Schmerz]
+Prinzessin Cirilla von Cintra.
+
+754
+00:50:33,041 --> 00:50:34,250
+Ich hab sie gewarnt.
+
+755
+00:50:34,750 --> 00:50:36,250
+Sie bringt nichts als den Tod.
+
+756
+00:50:36,333 --> 00:50:38,000
+Das Problem ist nicht sie.
+
+757
+00:50:39,041 --> 00:50:40,666
+Sondern eine von uns.
+
+758
+00:50:41,291 --> 00:50:44,041
+Ich habe genug. Genug verloren.
+
+759
+00:50:44,125 --> 00:50:46,291
+[ächzt vor Schmerz]
+
+760
+00:50:47,583 --> 00:50:48,791
+Wo geht Ihr hin?
+
+761
+00:50:49,833 --> 00:50:51,625
+Ich hole Hilfe von einem Freund.
+
+762
+00:50:54,250 --> 00:50:55,250
+Hüa!
+
+763
+00:50:59,041 --> 00:51:01,041
+[Wasser plätschert]
+
+764
+00:51:11,791 --> 00:51:12,833
+Geralt.
+
+765
+00:51:17,416 --> 00:51:20,458
+Wo du auch hingehst, bitte komm zurück.
+
+766
+00:51:22,333 --> 00:51:23,583
+So schnell du kannst.
+
+767
+00:51:25,916 --> 00:51:28,083
+Rittersporn wartet in Ban Gleán.
+
+768
+00:51:29,208 --> 00:51:30,708
+Doch ich bin bald zurück.
+
+769
+00:51:34,875 --> 00:51:36,875
+[gefühlvolle Musik]
+
+770
+00:51:50,583 --> 00:51:51,916
+Ich passe auf sie auf.
+
+771
+00:51:52,583 --> 00:51:56,708
+Und egal, was du von mir denkst,
+das ist mein Versprechen an dich.
+
+772
+00:51:58,916 --> 00:52:00,416
+Ja, das weiß ich.
+
+773
+00:52:04,625 --> 00:52:07,208
+- Yen, ich…
+- Sag einfach, dass es kein Lebewohl ist.
+
+774
+00:52:11,791 --> 00:52:13,916
+Dass weitere schöne Nächte uns erwarten.
+
+775
+00:52:17,416 --> 00:52:18,625
+Dass du auch mal…
+
+776
+00:52:20,625 --> 00:52:22,000
+…wieso auch immer…
+
+777
+00:52:23,666 --> 00:52:24,916
+…an mich denkst.
+
+778
+00:52:32,333 --> 00:52:34,208
+Das ist mein Versprechen an dich.
+
+779
+00:52:35,958 --> 00:52:37,958
+[Musik steigert sich]
+
+780
+00:52:49,875 --> 00:52:52,000
+[Musik verklingt]
+
+781
+00:52:53,458 --> 00:52:57,416
+[Rittersporn] Es waren doch
+ein paar ereignisreiche Tage,
+
+782
+00:52:58,375 --> 00:53:01,583
+und ich habe auch
+über Euer Angebot nachgedacht.
+
+783
+00:53:01,666 --> 00:53:04,458
+- Wie lautet diesmal Eure Entschuldigung?
+- Ich tue es.
+
+784
+00:53:05,583 --> 00:53:07,291
+Ciri ist in Gefahr. Äh…
+
+785
+00:53:07,875 --> 00:53:11,333
+Genau wie die Menschen bei ihr.
+Menschen, die ich liebe.
+
+786
+00:53:12,416 --> 00:53:15,750
+Es wäre das Beste,
+wenn sie an einem Ort ist, der sicher ist.
+
+787
+00:53:15,833 --> 00:53:18,958
+Und Ihr habt gute Gründe
+für Redanien genannt,
+
+788
+00:53:19,041 --> 00:53:23,000
+um… sich niederzulassen.
+
+789
+00:53:23,083 --> 00:53:26,250
+Wundervoll. Wir könnten sie sofort holen.
+
+790
+00:53:26,333 --> 00:53:27,291
+[Rittersporn] Nein.
+
+791
+00:53:30,250 --> 00:53:31,250
+Noch nicht.
+
+792
+00:53:33,166 --> 00:53:37,416
+Da ist dieser Magier
+mit einer Vorliebe für Feuer.
+
+793
+00:53:38,541 --> 00:53:39,441
+Rience.
+
+794
+00:53:40,375 --> 00:53:43,458
+- Ich bin mit seiner Arbeit vertraut.
+- Er muss verschwinden.
+
+795
+00:53:45,500 --> 00:53:47,375
+Wenn Ihr das schafft, dann…
+
+796
+00:53:49,583 --> 00:53:51,458
+…werdet Ihr Ciris Vertrauen gewinnen.
+
+797
+00:53:52,125 --> 00:53:53,333
+Und Geralts.
+
+798
+00:53:55,791 --> 00:53:56,916
+Und meines.
+
+799
+00:53:57,000 --> 00:53:59,000
+[düstere Musik]
+
+800
+00:54:08,625 --> 00:54:10,166
+[Radovid seufzt]
+
+801
+00:54:12,375 --> 00:54:13,791
+Ihr könnt das wirklich gut.
+
+802
+00:54:16,458 --> 00:54:18,666
+[gähnt künstlich]
+
+803
+00:54:18,750 --> 00:54:20,500
+Wenn Ihr das sagt, Pip.
+
+804
+00:54:22,958 --> 00:54:23,875
+"Pip."
+
+805
+00:54:24,500 --> 00:54:26,500
+[Kirchenglocken, Stimmengewirr]
+
+806
+00:54:26,583 --> 00:54:28,583
+[Musik verklingt]
+
+807
+00:54:39,375 --> 00:54:41,458
+[sanfte Musik]
+
+808
+00:54:41,541 --> 00:54:42,791
+[Yennefer] Lieber Freund.
+
+809
+00:54:44,500 --> 00:54:46,250
+Ich vermisse dich jetzt schon.
+
+810
+00:54:46,750 --> 00:54:49,666
+Oder sollte ich sagen, wir vermissen dich?
+
+811
+00:54:51,041 --> 00:54:53,625
+Deine Freundin, Yennefer.
+
+812
+00:54:56,250 --> 00:54:59,541
+PS: Falls Ciri beschließt,
+dass Aretuza ihr nicht gefällt,
+
+813
+00:55:00,333 --> 00:55:03,333
+hätte ich schon eine Idee
+für unser nächstes Zuhause.
+
+814
+00:55:04,416 --> 00:55:06,625
+Ein Bordell auf einer Tintenfischfarm.
+
+815
+00:55:17,458 --> 00:55:18,833
+[Geralt] Liebe Freundin…
+
+816
+00:55:19,833 --> 00:55:21,708
+[Donnergrollen]
+
+817
+00:55:21,791 --> 00:55:23,791
+[Geralt] Du hast am Belleteyn gefragt,
+
+818
+00:55:23,875 --> 00:55:27,125
+ob ich nach
+all den schönen Nächten gegangen bin,
+
+819
+00:55:27,208 --> 00:55:28,541
+weil ich Angst hatte.
+
+820
+00:55:30,416 --> 00:55:31,958
+Vielleicht hatte ich das.
+
+821
+00:55:34,666 --> 00:55:36,333
+Vielleicht ist es das,
+
+822
+00:55:36,416 --> 00:55:38,791
+was mich genau
+zu diesem Moment geführt hat.
+
+823
+00:55:40,583 --> 00:55:44,958
+Jetzt, zum ersten Mal, verstehe ich,
+
+824
+00:55:45,041 --> 00:55:47,375
+was wahre Angst bedeutet.
+
+825
+00:55:47,458 --> 00:55:49,458
+[unheilvolle Musik]
+
+826
+00:55:50,416 --> 00:55:52,750
+[Geralt]
+Dich und Ciri niemals wiederzusehen.
+
+827
+00:55:55,083 --> 00:55:57,583
+Vieles ist ungewiss auf diesem Kontinent.
+
+828
+00:55:57,666 --> 00:55:59,125
+[Rience ächzt panisch]
+
+829
+00:55:59,208 --> 00:56:00,125
+[Knochen knacken]
+
+830
+00:56:00,208 --> 00:56:02,416
+[Geralt] Die Gefahren,
+die wir gesehen haben,
+
+831
+00:56:02,500 --> 00:56:05,250
+sind Anzeichen
+für eine noch bedrohlichere Zukunft.
+
+832
+00:56:06,625 --> 00:56:08,833
+- [Rience ächzt vor Schmerz]
+- [Knochen knacken]
+
+833
+00:56:08,916 --> 00:56:11,208
+[unheilvolle Musik wird rhythmischer]
+
+834
+00:56:16,125 --> 00:56:17,500
+[raunt erstaunt]
+
+835
+00:56:20,416 --> 00:56:22,875
+[Geralt] Doch, Yen, du sollst wissen,
+
+836
+00:56:23,541 --> 00:56:25,958
+dass ich lernen werde,
+dir wieder zu vertrauen.
+
+837
+00:56:28,333 --> 00:56:30,208
+Du, Ciri und ich,
+
+838
+00:56:30,958 --> 00:56:32,375
+wir gehören zusammen.
+
+839
+00:56:34,791 --> 00:56:35,875
+Dein Freund,
+
+840
+00:56:37,416 --> 00:56:38,333
+Geralt.
+
+841
+00:56:48,583 --> 00:56:50,583
+[weiter unheilvolle Musik]
+
+842
+00:57:09,583 --> 00:57:11,583
+[Musik wird dramatisch und episch]
+
+843
+00:57:49,083 --> 00:57:52,000
+[Musik ebbt ab]
+
+844
+00:57:52,083 --> 00:57:54,041
+[spannungsvolle, düstere Musik]
+
+845
+01:00:11,916 --> 01:00:13,833
+[Musik klingt aus]
+
